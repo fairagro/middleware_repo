@@ -5,6 +5,948 @@
       "@language": "en"
     },
     "@type": "Dataset",
+    "name": "Production of wheat and barley under reduced input in organic farming",
+    "description": "Production of wheat and barley under reduced input in organic farming.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "641d97ed-8c3b-4f55-9511-16e2bf2eaf9f",
+      "https://doi.org/10.20387/bonares-"
+    ],
+    "keywords": [
+      "winter",
+      "winter wheat",
+      "spring barley",
+      "organic fertilizers",
+      "ammonium",
+      "nitrates",
+      "protein quality",
+      "Boden",
+      "inspireidentifiziert",
+      "opendata",
+      "Wheat",
+      "barley",
+      "organic agriculture",
+      "rhizosphere soil",
+      "bulk soil",
+      "microbial biomass",
+      "microrespiration",
+      "meta-barcode sequencing of bacterial community",
+      "quantification of bacterial inoculant",
+      "gluten",
+      "HMW",
+      "hordein",
+      "ProteinZ",
+      "bread quality",
+      "grain storage protein"
+    ],
+    "datePublished": [
+      "2023-11-07"
+    ],
+    "dateCreated": [
+      "2023-11-07"
+    ],
+    "dateModified": [
+      "2023-11-07"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Santiago Quiroga",
+          "email": "Santiago.Quiroga@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Stefan Ratering",
+          "email": "Stefan.Ratering@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Hohenheim",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Azin Rekowski",
+          "email": "azin.ghabelrahmat@uni-hohenheim.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=641d97ed-8c3b-4f55-9511-16e2bf2eaf9f",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase",
+          "TXT"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "47.74 6.28 51.99 12.90"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \u201cData reused from the BonaRes Data Centre www.bonares.de.\u201d Although every care has been taken in preparing and testing the soil profile data, the author and BonaRes Data Centre cannot guarantee that the data are correct; neither does the author and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The author and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Production of wheat and barley under reduced input in organic farming - Dataset detail of qPCR for H. diazotrophicus",
+    "description": "Production of wheat and barley under reduced input in organic farming - Dataset detail of qPCR for H. diazotrophicus.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "a3d43613-7eed-4f8f-b27c-8e90d7d7cc85",
+      "Child table of dataset https://doi.org/10.20387/bonares-"
+    ],
+    "keywords": [
+      "winter",
+      "winter wheat",
+      "spring barley",
+      "organic fertilizers",
+      "ammonium",
+      "nitrates",
+      "protein quality",
+      "Boden",
+      "inspireidentifiziert",
+      "opendata",
+      "Wheat",
+      "barley",
+      "organic agriculture",
+      "rhizosphere soil",
+      "bulk soil",
+      "microbial biomass",
+      "microrespiration",
+      "meta-barcode sequencing of bacterial community",
+      "quantification of bacterial inoculant",
+      "gluten",
+      "HMW",
+      "hordein",
+      "ProteinZ",
+      "bread quality",
+      "grain storage protein"
+    ],
+    "datePublished": [
+      "2023-11-07"
+    ],
+    "dateCreated": [
+      "2023-11-07"
+    ],
+    "dateModified": [
+      "2023-11-07"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Santiago Quiroga",
+          "email": "Santiago.Quiroga@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Stefan Ratering",
+          "email": "Stefan.Ratering@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Hohenheim",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Azin Rekowski",
+          "email": "azin.ghabelrahmat@uni-hohenheim.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=a3d43613-7eed-4f8f-b27c-8e90d7d7cc85",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase",
+          "TXT"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "47.26 5.81 54.76 15.77"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \u201cData reused from the BonaRes Data Centre www.bonares.de.\u201d Although every care has been taken in preparing and testing the soil profile data, the author and BonaRes Data Centre cannot guarantee that the data are correct; neither does the author and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The author and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Production of wheat and barley under reduced input in organic farming - Dataset detail of winter wheat yield and seed quality for the I and II seasons",
+    "description": "Production of wheat and barley under reduced input in organic farming - Dataset detail of winter wheat yield and seed quality for the I and II seasons.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "cf6cab85-ab9f-47c5-90a5-8df06bdb81c9",
+      "Child table of dataset https://doi.org/10.20387/bonares-"
+    ],
+    "keywords": [
+      "winter",
+      "winter wheat",
+      "spring barley",
+      "organic fertilizers",
+      "ammonium",
+      "nitrates",
+      "protein quality",
+      "Boden",
+      "inspireidentifiziert",
+      "opendata",
+      "Wheat",
+      "barley",
+      "organic agriculture",
+      "rhizosphere soil",
+      "bulk soil",
+      "microbial biomass",
+      "microrespiration",
+      "meta-barcode sequencing of bacterial community",
+      "quantification of bacterial inoculant",
+      "gluten",
+      "HMW",
+      "hordein",
+      "ProteinZ",
+      "bread quality",
+      "grain storage protein"
+    ],
+    "datePublished": [
+      "2023-11-07"
+    ],
+    "dateCreated": [
+      "2023-11-07"
+    ],
+    "dateModified": [
+      "2023-11-07"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Santiago Quiroga",
+          "email": "Santiago.Quiroga@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Stefan Ratering",
+          "email": "Stefan.Ratering@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Hohenheim",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Azin Rekowski",
+          "email": "azin.ghabelrahmat@uni-hohenheim.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=cf6cab85-ab9f-47c5-90a5-8df06bdb81c9",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase",
+          "TXT"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "47.26 5.81 54.76 15.77"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \u201cData reused from the BonaRes Data Centre www.bonares.de.\u201d Although every care has been taken in preparing and testing the soil profile data, the author and BonaRes Data Centre cannot guarantee that the data are correct; neither does the author and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The author and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Production of wheat and barley under reduced input in organic farming - Dataset detail of spring barely yield and seed quality for the I and II seasons",
+    "description": "Production of wheat and barley under reduced input in organic farming - Dataset detail of spring barely yield and seed quality for the I and II seasons.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "836b5200-aa36-44c0-8f76-eecd5e487611",
+      "Child table of dataset https://doi.org/10.20387/bonares-"
+    ],
+    "keywords": [
+      "winter",
+      "winter wheat",
+      "spring barley",
+      "organic fertilizers",
+      "ammonium",
+      "nitrates",
+      "protein quality",
+      "Boden",
+      "inspireidentifiziert",
+      "opendata",
+      "Wheat",
+      "barley",
+      "organic agriculture",
+      "rhizosphere soil",
+      "bulk soil",
+      "microbial biomass",
+      "microrespiration",
+      "meta-barcode sequencing of bacterial community",
+      "quantification of bacterial inoculant",
+      "gluten",
+      "HMW",
+      "hordein",
+      "ProteinZ",
+      "bread quality",
+      "grain storage protein"
+    ],
+    "datePublished": [
+      "2023-11-07"
+    ],
+    "dateCreated": [
+      "2023-11-07"
+    ],
+    "dateModified": [
+      "2023-11-07"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Santiago Quiroga",
+          "email": "Santiago.Quiroga@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Stefan Ratering",
+          "email": "Stefan.Ratering@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Hohenheim",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Azin Rekowski",
+          "email": "azin.ghabelrahmat@uni-hohenheim.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=836b5200-aa36-44c0-8f76-eecd5e487611",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase",
+          "TXT"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "47.26 5.81 54.76 15.77"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \u201cData reused from the BonaRes Data Centre www.bonares.de.\u201d Although every care has been taken in preparing and testing the soil profile data, the author and BonaRes Data Centre cannot guarantee that the data are correct; neither does the author and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The author and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Production of wheat and barley under reduced input in organic farming - Metabarcoding details for the I and II seasons",
+    "description": "Production of wheat and barley under reduced input in organic farming - Metabarcoding details for the I and II seasons.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "8258fe33-8275-41e3-b742-1e49f3078ef2",
+      "Child table of dataset https://doi.org/10.20387/bonares-"
+    ],
+    "keywords": [
+      "winter",
+      "winter wheat",
+      "spring barley",
+      "organic fertilizers",
+      "ammonium",
+      "nitrates",
+      "protein quality",
+      "Boden",
+      "inspireidentifiziert",
+      "opendata",
+      "Wheat",
+      "barley",
+      "organic agriculture",
+      "rhizosphere soil",
+      "bulk soil",
+      "microbial biomass",
+      "microrespiration",
+      "meta-barcode sequencing of bacterial community",
+      "quantification of bacterial inoculant",
+      "gluten",
+      "HMW",
+      "hordein",
+      "ProteinZ",
+      "bread quality",
+      "grain storage protein"
+    ],
+    "datePublished": [
+      "2023-11-07"
+    ],
+    "dateCreated": [
+      "2023-11-07"
+    ],
+    "dateModified": [
+      "2023-11-07"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Santiago Quiroga",
+          "email": "Santiago.Quiroga@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Stefan Ratering",
+          "email": "Stefan.Ratering@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Hohenheim",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Azin Rekowski",
+          "email": "azin.ghabelrahmat@uni-hohenheim.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=8258fe33-8275-41e3-b742-1e49f3078ef2",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase",
+          "TXT"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "47.26 5.81 54.76 15.77"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \u201cData reused from the BonaRes Data Centre www.bonares.de.\u201d Although every care has been taken in preparing and testing the soil profile data, the author and BonaRes Data Centre cannot guarantee that the data are correct; neither does the author and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The author and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Production of wheat and barley under reduced input in organic farming - Data set of soil parameters for the I and II seasons",
+    "description": "Production of wheat and barley under reduced input in organic farming - Data set of soil parameters for the I and II seasons.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "aef3043a-57c9-49d9-bf37-62f9603f8ea5",
+      "Child table of dataset https://doi.org/10.20387/bonares-"
+    ],
+    "keywords": [
+      "winter",
+      "winter wheat",
+      "spring barley",
+      "organic fertilizers",
+      "ammonium",
+      "nitrates",
+      "protein quality",
+      "Boden",
+      "inspireidentifiziert",
+      "opendata",
+      "Wheat",
+      "barley",
+      "organic agriculture",
+      "rhizosphere soil",
+      "bulk soil",
+      "microbial biomass",
+      "microrespiration",
+      "meta-barcode sequencing of bacterial community",
+      "quantification of bacterial inoculant",
+      "gluten",
+      "HMW",
+      "hordein",
+      "ProteinZ",
+      "bread quality",
+      "grain storage protein"
+    ],
+    "datePublished": [
+      "2023-11-07"
+    ],
+    "dateCreated": [
+      "2023-11-07"
+    ],
+    "dateModified": [
+      "2023-11-07"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Santiago Quiroga",
+          "email": "Santiago.Quiroga@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Stefan Ratering",
+          "email": "Stefan.Ratering@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Hohenheim",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Azin Rekowski",
+          "email": "azin.ghabelrahmat@uni-hohenheim.de",
+          "url": "https://orcid.org"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Justus-Liebig University Giessen",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sylvia Schnell",
+          "email": "sylvia.schnell@umwelt.uni-giessen.de",
+          "url": "https://orcid.org"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=aef3043a-57c9-49d9-bf37-62f9603f8ea5",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase",
+          "TXT"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "47.26 5.81 54.76 15.77"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \u201cData reused from the BonaRes Data Centre www.bonares.de.\u201d Although every care has been taken in preparing and testing the soil profile data, the author and BonaRes Data Centre cannot guarantee that the data are correct; neither does the author and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The author and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
     "name": "Wind erosion after steppe conversion in Kazakhstan: Data from mobile wind tunnel experiments - Aeolian sediments",
     "description": "Wind erosion after steppe conversion in Kazakhstan: Data from mobile wind tunnel experiments - Aeolian sediments.",
     "about": [
@@ -767,7 +1709,7 @@
       "opendata",
       "inspireidentifiziert",
       "Bodenbedeckung",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "Germany",
       "Brandenburg",
       "Uckermark"
@@ -1654,7 +2596,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Robin K\u00fcmmerer",
+          "name": "Robin K\u00c3\u00bcmmerer",
           "email": "Robin.kuemmerer@hswt.de",
           "url": "https://orcid.org"
         }
@@ -1904,7 +2846,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "J\u00f6rg Steidl",
+          "name": "J\u00c3\u00b6rg Steidl",
           "email": "jsteidl@zalf.de",
           "url": ""
         }
@@ -2121,7 +3063,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Tina K\u00f6hler",
+          "name": "Tina K\u00c3\u00b6hler",
           "email": "tina.koehler@usys.ethz.ch",
           "url": ""
         }
@@ -2366,7 +3308,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Marina M\u00fcller",
+          "name": "Marina M\u00c3\u00bcller",
           "email": "mmueller@zalf.de"
         }
       },
@@ -2674,7 +3616,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2685,7 +3627,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2696,7 +3638,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2722,7 +3664,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2803,7 +3745,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2814,7 +3756,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2825,7 +3767,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2850,7 +3792,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2929,7 +3871,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2940,7 +3882,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2951,7 +3893,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -2977,7 +3919,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -3786,7 +4728,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "J\u00f6rg Rinklebe",
+          "name": "J\u00c3\u00b6rg Rinklebe",
           "email": "rinklebe@uni-wuppertal.de ",
           "url": ""
         }
@@ -6768,7 +7710,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u00dfbeeren",
+        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u221a\u00fcbeeren",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -6859,7 +7801,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u00dfbeeren",
+        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u221a\u00fcbeeren",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -6949,7 +7891,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u00dfbeeren",
+        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u221a\u00fcbeeren",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -7039,7 +7981,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u00dfbeeren",
+        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u221a\u00fcbeeren",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -7128,7 +8070,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u00dfbeeren",
+        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u221a\u00fcbeeren",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -7217,7 +8159,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u00dfbeeren",
+        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u221a\u00fcbeeren",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -7312,7 +8254,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u00dfbeeren",
+        "name": "Leibniz Institute of Vegetable and Ornamental Crops Gro\u221a\u00fcbeeren",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -9433,7 +10375,7 @@
       "opendata",
       "inspireidentifiziert",
       "Bodenbedeckung",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "Germany",
       "Brandenburg",
       "Uckermark"
@@ -9662,7 +10604,7 @@
       "opendata",
       "inspireidentifiziert",
       "Bodenbedeckung",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "Germany",
       "Brandenburg",
       "Uckermark"
@@ -9790,7 +10732,7 @@
       "opendata",
       "inspireidentifiziert",
       "Bodenbedeckung",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "Germany",
       "Brandenburg",
       "Uckermark"
@@ -9924,8 +10866,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -9981,7 +10923,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -10012,7 +10954,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Tillage operation types\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Tillage operation types\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -11968,7 +12910,7 @@
       "inspireidentifiziert",
       "Germany",
       "Brandenburg",
-      "M\u00e4rkisch-Oderland",
+      "M\u00c3\u00a4rkisch-Oderland",
       "Lietzen"
     ],
     "datePublished": [
@@ -12762,7 +13704,7 @@
       "inspireidentifiziert",
       "Germany",
       "Brandenburg",
-      "M\u00e4rkisch-Oderland",
+      "M\u00c3\u00a4rkisch-Oderland",
       "Lietzen"
     ],
     "datePublished": [
@@ -12902,7 +13844,7 @@
       "inspireidentifiziert",
       "Germany",
       "Brandenburg",
-      "M\u00e4rkisch-Oderland",
+      "M\u00c3\u00a4rkisch-Oderland",
       "Lietzen"
     ],
     "datePublished": [
@@ -14729,7 +15671,7 @@
       "opendata",
       "BIBS",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope"
+      "Lebensr\ucc44ume und Biotope"
     ],
     "datePublished": [
       "2023-08-18"
@@ -14743,7 +15685,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany",
+        "name": "Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -14753,7 +15695,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -14779,7 +15721,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -14839,7 +15781,7 @@
       "opendata",
       "BIBS",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope"
+      "Lebensr\ucc44ume und Biotope"
     ],
     "datePublished": [
       "2023-08-18"
@@ -14853,7 +15795,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany",
+        "name": "Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -14863,7 +15805,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -14889,7 +15831,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -14949,7 +15891,7 @@
       "opendata",
       "BIBS",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope"
+      "Lebensr\ucc44ume und Biotope"
     ],
     "datePublished": [
       "2023-08-18"
@@ -14963,7 +15905,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany",
+        "name": "Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -14973,7 +15915,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -14999,7 +15941,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15059,7 +16001,7 @@
       "opendata",
       "BIBS",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope"
+      "Lebensr\ucc44ume und Biotope"
     ],
     "datePublished": [
       "2023-08-18"
@@ -15073,7 +16015,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany",
+        "name": "Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15083,7 +16025,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15109,7 +16051,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15169,7 +16111,7 @@
       "opendata",
       "BIBS",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope"
+      "Lebensr\ucc44ume und Biotope"
     ],
     "datePublished": [
       "2023-08-18"
@@ -15183,7 +16125,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany",
+        "name": "Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15193,7 +16135,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15219,7 +16161,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15770,7 +16712,7 @@
       "BIBS",
       "field study",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\ucc44ume und Biotope",
       "Germany",
       "Berlin"
     ],
@@ -15786,7 +16728,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin",
+        "name": "Freie Universit\ucc44t Berlin",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15796,7 +16738,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15822,7 +16764,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15887,7 +16829,7 @@
       "BIBS",
       "field study",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\ucc44ume und Biotope",
       "Germany",
       "Berlin"
     ],
@@ -15903,7 +16845,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin",
+        "name": "Freie Universit\ucc44t Berlin",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15913,7 +16855,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -15939,7 +16881,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16004,7 +16946,7 @@
       "BIBS",
       "field study",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\ucc44ume und Biotope",
       "Germany",
       "Berlin"
     ],
@@ -16020,7 +16962,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin",
+        "name": "Freie Universit\ucc44t Berlin",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16030,7 +16972,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16056,7 +16998,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16121,7 +17063,7 @@
       "BIBS",
       "field study",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\ucc44ume und Biotope",
       "Germany",
       "Berlin"
     ],
@@ -16137,7 +17079,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin",
+        "name": "Freie Universit\ucc44t Berlin",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16147,7 +17089,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16173,7 +17115,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16238,7 +17180,7 @@
       "BIBS",
       "field study",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\ucc44ume und Biotope",
       "Germany",
       "Berlin"
     ],
@@ -16254,7 +17196,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Freie Universit\u00e4t Berlin",
+        "name": "Freie Universit\ucc44t Berlin",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16264,7 +17206,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16290,7 +17232,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\u00e4t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
+        "name": "Leibniz Institute of Freshwater Ecology and Inland Fisheries (IGB), Berlin, Germany; Freie Universit\ucc44t Berlin, Institute of Biology, Berlin, Germany; Berlin-Brandenburg Institute of Advanced Biodiversity Research (BBIB), Berlin, Germany",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -16869,7 +17811,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "J\u00fcrgen Augustin",
+          "name": "J\u00c3\u00bcrgen Augustin",
           "email": "jaug@zalf.de"
         }
       },
@@ -17063,7 +18005,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "J\u00fcrgen Augustin",
+          "name": "J\u00c3\u00bcrgen Augustin",
           "email": "jaug@zalf.de"
         }
       },
@@ -17257,7 +18199,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "J\u00fcrgen Augustin",
+          "name": "J\u00c3\u00bcrgen Augustin",
           "email": "jaug@zalf.de"
         }
       },
@@ -17451,7 +18393,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "J\u00fcrgen Augustin",
+          "name": "J\u00c3\u00bcrgen Augustin",
           "email": "jaug@zalf.de"
         }
       },
@@ -18005,7 +18947,7 @@
       "inspireidentifiziert",
       "biodiversity conservation",
       "bee conservation",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "Germany",
       "Brandenburg",
       "Uckermark",
@@ -25792,7 +26734,7 @@
       "Soil sampling",
       "Bodenfunktion",
       "Bodenstruktur",
-      "Physikalische Ver\u00e4nderung",
+      "Physikalische Ver\ucc44nderung",
       "Bodenwasser",
       "Bodenschutz",
       "Bodenuntersuchung",
@@ -25829,7 +26771,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -25839,7 +26781,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -25864,7 +26806,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -25947,7 +26889,7 @@
       "Soil sampling",
       "Bodenfunktion",
       "Bodenstruktur",
-      "Physikalische Ver\u00e4nderung",
+      "Physikalische Ver\ucc44nderung",
       "Bodenwasser",
       "Bodenschutz",
       "Bodenuntersuchung",
@@ -25984,7 +26926,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -25994,7 +26936,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -26019,7 +26961,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -26099,7 +27041,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "Intensive forest monitoring",
       "Intensive forest monitoring",
@@ -26597,7 +27539,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Wir\u00e9n, Nicolaus von",
+          "name": "Wir\u221a\u00a9n, Nicolaus von",
           "telephone": "0049 39482 5603",
           "email": "vonwiren@ipk-gatersleben.de"
         }
@@ -27491,7 +28433,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+        "name": "Brandenburgische Technische Universit\u221a\u00a7t Cottbus-Senftenberg",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -27697,7 +28639,7 @@
       "opendata",
       "Boden",
       "Apfelnachbaukrankheit",
-      "Bodenm\u00fcdigkeit",
+      "Bodenm\uccb4digkeit",
       "Lokalisierung",
       "Boden",
       "inspireidentifiziert"
@@ -27714,7 +28656,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Leibniz Universit\u00e4t Hannover",
+        "name": "Leibniz Universit\ucc44t Hannover",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -27735,7 +28677,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Leibniz Universit\u00e4t Hannover",
+        "name": "Leibniz Universit\ucc44t Hannover",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -27780,7 +28722,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Universit\u00e4t Hannover",
+        "name": "Leibniz Universit\ucc44t Hannover",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -28089,7 +29031,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+        "name": "Brandenburgische Technische Universit\u221a\u00a7t Cottbus-Senftenberg",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -29230,11 +30172,11 @@
       "Ploughing",
       "Nutrient availability",
       "soil fertility",
-      "Stickstoffd\u00fcnger",
+      "Stickstoffd\uccb4nger",
       "Tiermist",
       "Fruchtfolge",
       "Landwirtschaft",
-      "N\u00e4hrstoffgehalt",
+      "N\ucc44hrstoffgehalt",
       "Langzeitversuch",
       "Nutzpflanzenproduktion",
       "opendata",
@@ -29253,7 +30195,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "COMI, Helmholtz Zentrum M\u00fcnchen GmbH",
+        "name": "COMI, Helmholtz Zentrum M\uccb4nchen GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -29277,7 +30219,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "COMI, Helmholtz Zentrum M\u00fcnchen GmbH",
+        "name": "COMI, Helmholtz Zentrum M\uccb4nchen GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -29569,7 +30511,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+        "name": "Brandenburgische Technische Universit\u221a\u00a7t Cottbus-Senftenberg",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -29806,7 +30748,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Leonie G\u00f6bel",
+          "name": "Leonie G\u00c3\u00b6bel",
           "email": "lgoebel@gwdg.de"
         }
       },
@@ -29971,7 +30913,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Leonie G\u00f6bel",
+          "name": "Leonie G\u00c3\u00b6bel",
           "email": "leonie.goebel@forst.uni-goettingen.de"
         }
       },
@@ -31723,8 +32665,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -31780,7 +32722,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -31811,7 +32753,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Cultivation stages\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Cultivation stages\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -32703,7 +33645,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Helmholtz Zentrum M\u00fcnchen",
+        "name": "Helmholtz Zentrum M\u00c3\u00bcnchen",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -33521,8 +34463,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -33578,7 +34520,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -33609,7 +34551,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Remarks\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used.\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Remarks\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used.\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -34006,7 +34948,7 @@
       "Boden",
       "Bodenwasser",
       "Phosphor",
-      "Gel\u00f6ster organischer Kohlenstoff",
+      "Gel\u221a\u2202ster organischer Kohlenstoff",
       "Kohlenstoff",
       "Nitrat",
       "Nitrit",
@@ -37492,7 +38434,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "Intensive forest monitoring",
       "dendrometry",
@@ -38466,7 +39408,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "Intensive forest monitoring",
       "dendrometry",
@@ -39479,7 +40421,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "Intensive forest monitoring",
       "dendrometry",
@@ -39906,8 +40848,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -39963,7 +40905,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -39994,7 +40936,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Plant sampling\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Plant sampling\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -40293,7 +41235,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "Intensive forest monitoring",
       "dendrometry",
@@ -40917,8 +41859,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -40974,7 +41916,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -41005,7 +41947,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Growing stages\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Growing stages\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -41411,7 +42353,7 @@
       "tential nutrients",
       "tree biomass",
       "Boden",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "inspireidentifiziert",
       "Beerenbusch",
       "Rheinsberg",
@@ -42651,7 +43593,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Leibniz Universit\u00e4t Hannover",
+        "name": "Leibniz Universit\u221a\u00a7t Hannover",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -43950,7 +44892,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -43961,7 +44903,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -43972,7 +44914,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -43998,7 +44940,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Forschungszentrum J\u00fclich GmbH",
+        "name": "Forschungszentrum J\u7aeflich GmbH",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -44862,7 +45804,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Julius K\u00fchn-Institut, Institut f\u00fcr Pflanzenbau und Bodenkunde",
+        "name": "Julius K\u7aefhn-Institut, Institut f\u7aefr Pflanzenbau und Bodenkunde",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -44889,7 +45831,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Julius K\u00fchn-Institut, Institut f\u00fcr Pflanzenbau und Bodenkunde",
+        "name": "Julius K\u7aefhn-Institut, Institut f\u7aefr Pflanzenbau und Bodenkunde",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -48969,8 +49911,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -49026,7 +49968,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -49057,7 +49999,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Seed dressing\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Seed dressing\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -50519,8 +51461,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -50576,7 +51518,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -50607,7 +51549,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Soil sampling\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Soil sampling\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -50687,7 +51629,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -50797,7 +51739,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -51601,7 +52543,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -52039,7 +52981,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "intensive forest monitoring",
       "dendrometry",
@@ -52435,7 +53377,7 @@
       "inspireidentifiziert",
       "Bodenwasser",
       "Phosphor",
-      "Gel\u00f6ster organischer Kohlenstoff",
+      "Gel\u221a\u2202ster organischer Kohlenstoff",
       "Kohlenstoff",
       "Nitrat",
       "Nitrit",
@@ -52822,7 +53764,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u00fcr Technik Rapperswil (HSR), GRID: 507560.1",
+        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u221a\u00bar Technik Rapperswil (HSR), GRID: 507560.1",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -53993,8 +54935,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -54050,7 +54992,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -54081,7 +55023,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Persons\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Persons\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -55537,7 +56479,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Cenk D\u00f6nmez",
+          "name": "Cenk D\u00c3\u00b6nmez",
           "email": "Cenk.Doenmez@zalf.de"
         }
       }
@@ -55744,7 +56686,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Julius K\u00fchn-Institut, Institut f\u00fcr Pflanzenbau und Bodenkunde",
+        "name": "Julius K\uccb4hn-Institut, Institut f\uccb4r Pflanzenbau und Bodenkunde",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -55755,7 +56697,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Universit\u00e4t Rostock",
+        "name": "Universit\ucc44t Rostock",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -55780,7 +56722,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Universit\u00e4t Rostock",
+        "name": "Universit\ucc44t Rostock",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -55890,7 +56832,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Rheinische Friedrich-Wilhelms-Universit\u00e4t Bonn",
+        "name": "Rheinische Friedrich-Wilhelms-Universit\u221a\u00a7t Bonn",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -56153,7 +57095,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+        "name": "Brandenburgische Technische Universit\u221a\u00a7t Cottbus-Senftenberg",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -56407,6 +57349,106 @@
     ],
     "conditionsOfAccess": [
       "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the research activities of the DFG funded project 'Data-Meta Analysis to assess the productivity development of cultivated plants'\"(Grant number: Stu 127/19-3) at the Institute of Horticultural Production Systems of the Faculty of Natural Sciences at the Leibniz Universit\u00e4t Hanover (LUH).\nAlthough every care has been taken in preparing and testing the data, the above mentioned project and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the above mentioned project and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The above mentioned project and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Soil phosphorus contents in a loamy soil based on the distribution of flux fields",
+    "description": "Soil phosphorus contents in a loamy soil based on the distribution of flux fields.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "54ecbb64-7cc4-46d2-957d-d37e957daf98",
+      "54ecbb64-7cc4-46d2-957d-d37e957daf98"
+    ],
+    "keywords": [
+      "Soil",
+      "opendata",
+      "Boden",
+      "inspireidentifiziert"
+    ],
+    "datePublished": [
+      "2020-02-20"
+    ],
+    "dateCreated": [
+      "2020-02-20"
+    ],
+    "dateModified": [
+      "2020-02-20"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Universit\u00e4t Rostock",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Stefan Koch",
+          "telephone": "+493813193",
+          "email": "stefan.koch4@uni-rostock.de"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Universit\u00e4t Rostock",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Peter Leinweber"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=54ecbb64-7cc4-46d2-957d-d37e957daf98",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "52.25 10.52 54.83 14.08"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the BonaRes Module A-Project - InnoSoilPhos's research activities.\"\n\nAlthough every care has been taken in preparing and testing the data, the BonaRes Module A-Project - InnoSoilPhos and  the BonaRes Data Centre cannot guarantee that the data are correct; neither does the BonaRes Module A-Project - InnoSoilPhos and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project - InnoSoilPhos and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -56736,7 +57778,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Lidia V\u00f6lker",
+          "name": "Lidia V\u00c3\u00b6lker",
           "email": "lvoelker@zalf.de"
         }
       },
@@ -56982,7 +58024,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Technische Universit\u00e4t M\u00fcnchen",
+        "name": "Technische Universit\ucc44t M\uccb4nchen",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -57007,7 +58049,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Technische Universit\u00e4t M\u00fcnchen",
+        "name": "Technische Universit\ucc44t M\uccb4nchen",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -57084,8 +58126,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -57141,7 +58183,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -57172,7 +58214,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Plots\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Plots\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -57862,7 +58904,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Julius K\u00fchn-Institut",
+        "name": "Julius K\u00c3\u00bchn-Institut",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -58613,8 +59655,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -58670,7 +59712,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -58701,7 +59743,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Seed stock\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Seed stock\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -59201,7 +60243,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -60522,7 +61564,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Lie\u00df, Mareike",
+          "name": "Lie\u221a\u00fc, Mareike",
           "email": "mareike.liess@ufz.de",
           "url": "https://orcid.org/0000-0001-9325-199X"
         }
@@ -60658,7 +61700,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -61007,7 +62049,7 @@
       "Soil sampling",
       "Bodenfunktion",
       "Bodenstruktur",
-      "Physikalische Ver\u00e4nderung",
+      "Physikalische Ver\ucc44nderung",
       "Bodenwasser",
       "Bodenschutz",
       "Bodenuntersuchung",
@@ -61028,7 +62070,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -61038,7 +62080,7 @@
       },
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -61063,7 +62105,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Th\u00fcnen Institute of Agricultural Technology",
+        "name": "Th\uccb4nen Institute of Agricultural Technology",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -64040,7 +65082,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+        "name": "Brandenburgische Technische Universit\u221a\u00a7t Cottbus-Senftenberg",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -64878,7 +65920,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+        "name": "Brandenburgische Technische Universit\u221a\u00a7t Cottbus-Senftenberg",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -65478,7 +66520,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Wir\u00e9n, Nicolaus von",
+          "name": "Wir\u221a\u00a9n, Nicolaus von",
           "telephone": "0049 39482 5603",
           "email": "vonwiren@ipk-gatersleben.de"
         }
@@ -66324,8 +67366,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -66381,7 +67423,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -66412,7 +67454,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Indication\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Indication\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -66462,8 +67504,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -66519,7 +67561,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -66550,7 +67592,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Treatment\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Treatment\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -67640,7 +68682,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Lie\u00df, Mareike",
+          "name": "Lie\u221a\u00fc, Mareike",
           "email": "mareike.liess@ufz.de",
           "url": "https://orcid.org/0000-0001-9325-199X"
         }
@@ -68260,7 +69302,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Lie\u00df, Mareike",
+          "name": "Lie\u221a\u00fc, Mareike",
           "email": "mareike.liess@ufz.de",
           "url": "https://orcid.org/0000-0001-9325-199X"
         }
@@ -68394,7 +69436,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -69076,8 +70118,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -69133,7 +70175,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -69164,7 +70206,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Sowing\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Sowing\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -70425,8 +71467,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -70482,7 +71524,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -70513,7 +71555,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Yield\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Yield\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -70805,7 +71847,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+        "name": "Brandenburgische Technische Universit\u221a\u00a7t Cottbus-Senftenberg",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -72210,8 +73252,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -72267,7 +73309,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -72298,7 +73340,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Harvest\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Harvest\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -74181,7 +75223,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Humboldt-Universit\u00e4t zu Berlin",
+        "name": "Humboldt-Universit\u221a\u00a7t zu Berlin",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -76533,7 +77575,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Leonie G\u00f6bel",
+          "name": "Leonie G\u00c3\u00b6bel",
           "email": "lgoebel@gwdg.de"
         }
       },
@@ -78068,7 +79110,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Brandenburgische Technische Universit\u00e4t Cottbus-Senftenberg",
+        "name": "Brandenburgische Technische Universit\u221a\u00a7t Cottbus-Senftenberg",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -84965,7 +86007,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "Intensive forest monitoring",
       "dendrometry",
@@ -85087,7 +86129,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "Intensive forest monitoring",
       "dendrometry",
@@ -85209,7 +86251,7 @@
       "weather data",
       "Boden",
       "inspireidentifiziert",
-      "Lebensr\u00e4ume und Biotope",
+      "Lebensr\u221a\u00a7ume und Biotope",
       "opendata",
       "Intensive forest monitoring",
       "dendrometry",
@@ -90151,8 +91193,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -90208,7 +91250,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -90239,7 +91281,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Variety\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Variety\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -91074,7 +92116,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -93064,7 +94106,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "J\u00f6rg-Michael Greef",
+          "name": "J\u00c3\u00b6rg-Michael Greef",
           "telephone": "+49 531 5962301",
           "email": "joerg-michael.greef@julius-kuehn.de"
         }
@@ -94430,7 +95472,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "J\u00f6rg-Michael Greef",
+          "name": "J\u00c3\u00b6rg-Michael Greef",
           "email": "joerg-michael.greef@julius-kuehn.de"
         }
       }
@@ -97097,7 +98139,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u00fcr Technik Rapperswil (HSR), GRID: 507560.1",
+        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u221a\u00bar Technik Rapperswil (HSR), GRID: 507560.1",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -97204,7 +98246,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -97281,8 +98323,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -97338,7 +98380,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -97369,7 +98411,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Agricultural engineering\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Agricultural engineering\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -97927,7 +98969,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -97955,6 +98997,315 @@
     ],
     "conditionsOfAccess": [
       "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. (e.g. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre www.bonares.de. This data were created as part of BonaRes Module A-Project - ORDIAMUR's research activities.\" Although every care has been taken in preparing and testing the data, BonaRes Module A-Project-ORDIAMUR and BonaRes Data Centre cannot guarantee that the data are correct; neither does BonaRes Module A-Project and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project-ORDIAMUR and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner/author.)"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 2 of data collection, table data_hoverfly)",
+    "description": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 2 of data collection, table data_hoverfly).",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "6308c9ae-c623-4d7c-ae17-de82e84109e1",
+      "6308c9ae-c623-4d7c-ae17-de82e84109e1"
+    ],
+    "keywords": [
+      "pollinators",
+      "biodiversity",
+      "opendata",
+      "plant functional traits",
+      "landscape ecology",
+      "hoverfly",
+      "inspireidentifiziert",
+      "biodiversity conservation",
+      "bee conservation",
+      "Lebensr\u221a\u00a7ume und Biotope",
+      "Germany",
+      "Brandenburg",
+      "Uckermark",
+      "Quillow"
+    ],
+    "datePublished": [
+      "2022-02-25"
+    ],
+    "dateCreated": [
+      "2022-02-25"
+    ],
+    "dateModified": [
+      "2022-02-25"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Kolja Bergholz",
+          "email": "\tbergholz@uni-potsdam.de",
+          "url": ""
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Kolja Bergholz",
+          "email": "bergholz@uni-potsdam.de",
+          "url": ""
+        }
+      }
+    ],
+    "temporalCoverage": [
+      "2017-05-15/2017-08-18"
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "53.292105 13.469254 53.430918 13.856277"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the Other's research activities.\" Although every care has been taken in preparing and testing the data, the Other and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the Other and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Other and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 4 of data collection, table data_wild_bees)",
+    "description": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 4 of data collection, table data_wild_bees).",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "bb7d1181-ece8-44de-bfa2-1144aec9e5bf",
+      "bb7d1181-ece8-44de-bfa2-1144aec9e5bf"
+    ],
+    "keywords": [
+      "pollinators",
+      "biodiversity",
+      "opendata",
+      "plant functional traits",
+      "landscape ecology",
+      "hoverfly",
+      "inspireidentifiziert",
+      "biodiversity conservation",
+      "bee conservation",
+      "Lebensr\u221a\u00a7ume und Biotope",
+      "Germany",
+      "Brandenburg",
+      "Uckermark",
+      "Quillow"
+    ],
+    "datePublished": [
+      "2022-02-25"
+    ],
+    "dateCreated": [
+      "2022-02-25"
+    ],
+    "dateModified": [
+      "2022-02-25"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Kolja Bergholz",
+          "email": "bergholz@uni-potsdam.de",
+          "url": ""
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Kolja Bergholz",
+          "email": "bergholz@uni-potsdam.de",
+          "url": ""
+        }
+      }
+    ],
+    "temporalCoverage": [
+      "2017-05-15/2017-05-18"
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "53.292105 13.469254 53.430918 13.856277"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the Other's research activities.\" Although every care has been taken in preparing and testing the data, the Other and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the Other and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Other and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 3 of data collection, table data_vegetation)",
+    "description": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 3 of data collection, table data_vegetation).",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "c9680019-eb3e-4a45-b750-9a10ed2e65f0",
+      "c9680019-eb3e-4a45-b750-9a10ed2e65f0"
+    ],
+    "keywords": [
+      "pollinators",
+      "biodiversity",
+      "opendata",
+      "plant functional traits",
+      "landscape ecology",
+      "hoverfly",
+      "inspireidentifiziert",
+      "biodiversity conservation",
+      "bee conservation",
+      "Lebensr\u221a\u00a7ume und Biotope",
+      "Germany",
+      "Brandenburg",
+      "Uckermark",
+      "Quillow"
+    ],
+    "datePublished": [
+      "2022-02-25"
+    ],
+    "dateCreated": [
+      "2022-02-25"
+    ],
+    "dateModified": [
+      "2022-02-25"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Kolja Bergholz",
+          "email": "bergholz@uni-potsdam.de",
+          "url": ""
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Kolja Bergholz",
+          "email": "bergholz@uni-potsdam.de",
+          "url": ""
+        }
+      }
+    ],
+    "temporalCoverage": [
+      "2017-05-15/2017-08-18"
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "53.292105 13.469254 53.430918 13.856277"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the Other's research activities.\" Although every care has been taken in preparing and testing the data, the Other and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the Other and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Other and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -98602,315 +99953,6 @@
       "@language": "en"
     },
     "@type": "Dataset",
-    "name": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 2 of data collection, table data_hoverfly)",
-    "description": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 2 of data collection, table data_hoverfly).",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "6308c9ae-c623-4d7c-ae17-de82e84109e1",
-      "6308c9ae-c623-4d7c-ae17-de82e84109e1"
-    ],
-    "keywords": [
-      "pollinators",
-      "biodiversity",
-      "opendata",
-      "plant functional traits",
-      "landscape ecology",
-      "hoverfly",
-      "inspireidentifiziert",
-      "biodiversity conservation",
-      "bee conservation",
-      "Lebensr\u00e4ume und Biotope",
-      "Germany",
-      "Brandenburg",
-      "Uckermark",
-      "Quillow"
-    ],
-    "datePublished": [
-      "2022-02-25"
-    ],
-    "dateCreated": [
-      "2022-02-25"
-    ],
-    "dateModified": [
-      "2022-02-25"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Kolja Bergholz",
-          "email": "\tbergholz@uni-potsdam.de",
-          "url": ""
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Kolja Bergholz",
-          "email": "bergholz@uni-potsdam.de",
-          "url": ""
-        }
-      }
-    ],
-    "temporalCoverage": [
-      "2017-05-15/2017-08-18"
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "53.292105 13.469254 53.430918 13.856277"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the Other's research activities.\" Although every care has been taken in preparing and testing the data, the Other and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the Other and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Other and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 4 of data collection, table data_wild_bees)",
-    "description": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 4 of data collection, table data_wild_bees).",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "bb7d1181-ece8-44de-bfa2-1144aec9e5bf",
-      "bb7d1181-ece8-44de-bfa2-1144aec9e5bf"
-    ],
-    "keywords": [
-      "pollinators",
-      "biodiversity",
-      "opendata",
-      "plant functional traits",
-      "landscape ecology",
-      "hoverfly",
-      "inspireidentifiziert",
-      "biodiversity conservation",
-      "bee conservation",
-      "Lebensr\u00e4ume und Biotope",
-      "Germany",
-      "Brandenburg",
-      "Uckermark",
-      "Quillow"
-    ],
-    "datePublished": [
-      "2022-02-25"
-    ],
-    "dateCreated": [
-      "2022-02-25"
-    ],
-    "dateModified": [
-      "2022-02-25"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Kolja Bergholz",
-          "email": "bergholz@uni-potsdam.de",
-          "url": ""
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Kolja Bergholz",
-          "email": "bergholz@uni-potsdam.de",
-          "url": ""
-        }
-      }
-    ],
-    "temporalCoverage": [
-      "2017-05-15/2017-05-18"
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "53.292105 13.469254 53.430918 13.856277"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the Other's research activities.\" Although every care has been taken in preparing and testing the data, the Other and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the Other and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Other and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 3 of data collection, table data_vegetation)",
-    "description": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 3 of data collection, table data_vegetation).",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "c9680019-eb3e-4a45-b750-9a10ed2e65f0",
-      "c9680019-eb3e-4a45-b750-9a10ed2e65f0"
-    ],
-    "keywords": [
-      "pollinators",
-      "biodiversity",
-      "opendata",
-      "plant functional traits",
-      "landscape ecology",
-      "hoverfly",
-      "inspireidentifiziert",
-      "biodiversity conservation",
-      "bee conservation",
-      "Lebensr\u00e4ume und Biotope",
-      "Germany",
-      "Brandenburg",
-      "Uckermark",
-      "Quillow"
-    ],
-    "datePublished": [
-      "2022-02-25"
-    ],
-    "dateCreated": [
-      "2022-02-25"
-    ],
-    "dateModified": [
-      "2022-02-25"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Kolja Bergholz",
-          "email": "bergholz@uni-potsdam.de",
-          "url": ""
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "University of Potsdam, Plant Ecology & Nature Conservation",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Kolja Bergholz",
-          "email": "bergholz@uni-potsdam.de",
-          "url": ""
-        }
-      }
-    ],
-    "temporalCoverage": [
-      "2017-05-15/2017-08-18"
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "53.292105 13.469254 53.430918 13.856277"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the Other's research activities.\" Although every care has been taken in preparing and testing the data, the Other and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the Other and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Other and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
     "name": "Long-term fertilization field experiment Darmstadt (Feld E) from 1996 to 2009 - Harvest (Data collection)",
     "description": "Long-term fertilization field experiment Darmstadt (Feld E) from 1996 to 2009 - Harvest (Data collection).",
     "about": [
@@ -99214,8 +100256,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -99271,7 +100313,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -99302,7 +100344,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Crop sequence\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Crop sequence\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -101815,7 +102857,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Leonie G\u00f6bel",
+          "name": "Leonie G\u00c3\u00b6bel",
           "email": "leonie.goebel@ble.de",
           "url": ""
         }
@@ -101955,8 +102997,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -102013,7 +103055,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -102044,7 +103086,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Laboratory data (soil)\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Laboratory data (soil)\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -102247,21 +103289,21 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "FZ J\u00fclich",
+        "name": "FZ J\u7aeflich",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Nicolas Br\u00fcggemann",
+          "name": "Nicolas Br\u7aefggemann",
           "email": "n.brueggemann@fz-juelich.de"
         }
       },
       {
         "@type": "Organization",
-        "name": "FZ J\u00fclich",
+        "name": "FZ J\u7aeflich",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Nicolas Br\u00fcggemann",
+          "name": "Nicolas Br\u7aefggemann",
           "email": "n.brueggemann@fz-juelich.de"
         }
       }
@@ -103248,7 +104290,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -103453,8 +104495,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -103510,7 +104552,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -103541,7 +104583,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Soil tillage\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Soil tillage\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -103578,8 +104620,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\u7aefngungversuch",
+      "Langzeitd\u7aefngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -103635,7 +104677,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M\u00fcncheberg",
+          "name": "AG - Versuchswesen Service Experimental Station M\u7aefncheberg",
           "telephone": "+49 33432 82 171",
           "email": "bonares-datenzentrum@zalf.de"
         }
@@ -103666,7 +104708,7 @@
       }
     ],
     "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u00fcncheberg, Table \"Factor\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M\u7aefncheberg, Table \"Factor\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -103749,7 +104791,7 @@
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
-          "name": "Edgar Mai\u00df",
+          "name": "Edgar Mai\u221a\u00fc",
           "email": "maiss@ipp.uni-hannover.de"
         }
       }
@@ -103839,7 +104881,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u00fcr Technik Rapperswil (HSR), GRID: 507560.1",
+        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u221a\u00bar Technik Rapperswil (HSR), GRID: 507560.1",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -103864,106 +104906,6 @@
     ],
     "conditionsOfAccess": [
       "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "Soil phosphorus contents in a loamy soil based on the distribution of flux fields",
-    "description": "Soil phosphorus contents in a loamy soil based on the distribution of flux fields.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "54ecbb64-7cc4-46d2-957d-d37e957daf98",
-      "54ecbb64-7cc4-46d2-957d-d37e957daf98"
-    ],
-    "keywords": [
-      "Soil",
-      "opendata",
-      "Boden",
-      "inspireidentifiziert"
-    ],
-    "datePublished": [
-      "2020-02-20"
-    ],
-    "dateCreated": [
-      "2020-02-20"
-    ],
-    "dateModified": [
-      "2020-02-20"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "Universit\u00e4t Rostock",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Stefan Koch",
-          "telephone": "+493813193",
-          "email": "stefan.koch4@uni-rostock.de"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "Universit\u00e4t Rostock",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Peter Leinweber"
-        }
-      }
-    ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "description": "download",
-        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=54ecbb64-7cc4-46d2-957d-d37e957daf98",
-        "encodingFormat": [
-          "CSV",
-          "Microsoft Excel (xlsx)",
-          "File-Geodatabase"
-        ]
-      }
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "52.25 10.52 54.83 14.08"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the BonaRes Module A-Project - InnoSoilPhos's research activities.\"\n\nAlthough every care has been taken in preparing and testing the data, the BonaRes Module A-Project - InnoSoilPhos and  the BonaRes Data Centre cannot guarantee that the data are correct; neither does the BonaRes Module A-Project - InnoSoilPhos and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project - InnoSoilPhos and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -104037,7 +104979,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u00fcr Technik Rapperswil (HSR), GRID: 507560.1",
+        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u221a\u00bar Technik Rapperswil (HSR), GRID: 507560.1",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -104109,8 +105051,8 @@
       "Dauerversuch",
       "Langzeitfeldversuch",
       "Langzeitversuch",
-      "Dauerd\u00fcngungsversuch",
-      "Langzeitd\u00fcngungsversuch",
+      "Dauerd\uccb4ngungsversuch",
+      "Langzeitd\uccb4ngungsversuch",
       "DFV",
       "DDV",
       "DV",
@@ -104147,7 +105089,7 @@
     "author": [
       {
         "@type": "Organization",
-        "name": "Helmholtz Centre for Environmental Research (UFZ), Research Station Bad Lauchst\u00e4dt",
+        "name": "Helmholtz Centre for Environmental Research (UFZ), Research Station Bad Lauchst\ucc44dt",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -104173,7 +105115,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Helmholtz Centre for Environmental Research (UFZ), Research Station Bad Lauchst\u00e4dt",
+        "name": "Helmholtz Centre for Environmental Research (UFZ), Research Station Bad Lauchst\ucc44dt",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -104402,7 +105344,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u00fcr Technik Rapperswil (HSR), GRID: 507560.1",
+        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u221a\u00bar Technik Rapperswil (HSR), GRID: 507560.1",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",
@@ -104500,7 +105442,7 @@
     "sourceOrganization": [
       {
         "@type": "Organization",
-        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u00fcr Technik Rapperswil (HSR), GRID: 507560.1",
+        "name": "Landscape Architecture, Institute for Landscape and Open Space, Hochschule f\u221a\u00bar Technik Rapperswil (HSR), GRID: 507560.1",
         "contactPoint": {
           "@type": "ContactPoint",
           "contactType": "technical support",

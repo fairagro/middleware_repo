@@ -5,6 +5,120 @@
       "@language": "en"
     },
     "@type": "Dataset",
+    "name": "Soil hydraulic data from laboratory rainfall simulation experiments to induce subsurface lateral subsurface flow in 2D soil monoliths",
+    "description": "Soil hydraulic data from laboratory rainfall simulation experiments to induce subsurface lateral subsurface flow in 2D soil monoliths.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "8511083a-360c-422f-9eeb-85476919c592",
+      "https://doi.org/10.4228/zalf-x32q-sn54"
+    ],
+    "keywords": [
+      "Soil",
+      "laboratory experimentation",
+      "subsurface runoff",
+      "soil hydraulic properties",
+      "tensometers",
+      "soil water content",
+      "opendata",
+      "Lateral subsurface flow",
+      "Boden",
+      "inspireidentifiziert",
+      "Germany",
+      "Brandenburg",
+      "Uckermark",
+      "Quillow",
+      "Dedelow",
+      "Site CarboZALF"
+    ],
+    "datePublished": [
+      "2023-11-23"
+    ],
+    "dateCreated": [
+      "2023-11-23"
+    ],
+    "dateModified": [
+      "2023-11-23"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Annelie Ehrhardt",
+          "email": "annelie.ehrhardt@zalf.de",
+          "url": ""
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Horst H. Gerke",
+          "email": "gerke@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "ZALF",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Leibniz Centre for Agricultural Landscape Research",
+          "telephone": "+49 33432 82 300",
+          "email": "dataservice@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Horst H. Gerke",
+          "email": "gerke@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "53.379389 13.783827 53.380070 13.786385"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Datenerfassung's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Datenerfassung and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Datenerfassung and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Datenerfassung and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
     "name": "Test data FAIRagro Guest",
     "description": "Test data FAIRagro Guest                           .",
     "about": [
@@ -98852,255 +98966,6 @@
       "@language": "en"
     },
     "@type": "Dataset",
-    "name": "Mycorrhiza colonization of Bittenfelder apple roots bio test 2017 with Ruthe soil",
-    "description": "Mycorrhiza colonization of Bittenfelder apple roots bio test 2017 with Ruthe soil.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "b90a53c3-3fe6-4315-a6cf-2beb65c20329",
-      "b90a53c3-3fe6-4315-a6cf-2beb65c20329"
-    ],
-    "keywords": [
-      "Vesicular arbuscular mycorrhizae",
-      "Endomycorrhizae",
-      "Symbionts",
-      "plants",
-      "Root colonization",
-      "Apples",
-      "Soil",
-      "Boden",
-      "Mykorrhiza",
-      "Obstbaum",
-      "Wurzel",
-      "Besiedlung",
-      "Boden",
-      "inspireidentifiziert",
-      "opendata"
-    ],
-    "datePublished": [
-      "2020-07-16"
-    ],
-    "dateCreated": [
-      "2017-10-19"
-    ],
-    "dateModified": [
-      "2020-07-16"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz University Hannover",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Carolin Popp",
-          "email": "popp@ipp.uni-hannover.de"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz University Hannover",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Edgar Mai√ü",
-          "email": "maiss@ipp.uni-hannover.de"
-        }
-      }
-    ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "description": "download",
-        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&b90a53c3-3fe6-4315-a6cf-2beb65c20329",
-        "encodingFormat": [
-          "CSV",
-          "Microsoft Excel (xlsx)",
-          "File-Geodatabase"
-        ]
-      }
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "51.77 9.00 52.90 10.54"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. (e.g. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre www.bonares.de. This data were created as part of BonaRes Module A-Project - ORDIAMUR's research activities.\" Although every care has been taken in preparing and testing the data, BonaRes Module A-Project-ORDIAMUR and BonaRes Data Centre cannot guarantee that the data are correct; neither does BonaRes Module A-Project and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project-ORDIAMUR and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner/author.)"
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "Long-term field experiment V140 Muencheberg from 1963 to 2009 - Agricultural engineering",
-    "description": "Long-term field experiment V140 Muencheberg from 1963 to 2009 - Agricultural engineering.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "caaeb9b8-a464-441b-948e-a146b98b3625",
-      "Table 'Agricultural engineering' of dataset https://dx.doi.org/10.20387/bonares-bsvy-r418"
-    ],
-    "keywords": [
-      "Boden",
-      "Langzeitversuch",
-      "Landwirtschaft",
-      "Ertrag (landwirtschaftlich)",
-      "Ernte",
-      "Agrarproduktion",
-      "Getreide",
-      "agriculture",
-      "Field experimentation",
-      "Agricultural research",
-      "Research methods",
-      "Ears",
-      "Grain",
-      "Plant products",
-      "Agricultural products",
-      "Yields",
-      "Yield components",
-      "Crop yield",
-      "Quality",
-      "Dauerfeldversuch",
-      "Dauerversuch",
-      "Langzeitfeldversuch",
-      "Langzeitversuch",
-      "Dauerd端ngungversuch",
-      "Langzeitd端ngungsversuch",
-      "DFV",
-      "DDV",
-      "DV",
-      "Long-Term Field Experiment",
-      "Long-Term Experiment",
-      "Long-Term Trial",
-      "Long-Term Field Trial",
-      "Long-Term Fertilizer Experiment",
-      "Long-Term Soil Experiment",
-      "LTFE",
-      "LTE",
-      "LTSE"
-    ],
-    "datePublished": [
-      "2018-05-17"
-    ],
-    "dateCreated": [
-      "2018-05-17"
-    ],
-    "dateModified": [
-      "2018-05-17"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Dietmar Barkusky",
-          "telephone": "+49 33432 82 168",
-          "email": "dbarkusky@zalf.de"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "AG - Versuchswesen Service Experimental Station M端ncheberg",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "description": "download",
-        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=caaeb9b8-a464-441b-948e-a146b98b3625",
-        "encodingFormat": [
-          "CSV",
-          "Microsoft Excel (xlsx)",
-          "File-Geodatabase"
-        ]
-      }
-    ],
-    "temporalCoverage": [
-      "1963-01-01/2009-12-31"
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "52.513 14.107 52.520 14.126"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M端ncheberg, Table \"Agricultural engineering\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
     "name": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 2 of data collection, table data_hoverfly)",
     "description": "Pollinator guilds respond contrastingly at different scales to landscape parameters of land-use intensity (Part 2 of data collection, table data_hoverfly).",
     "about": [
@@ -99401,6 +99266,255 @@
     ],
     "conditionsOfAccess": [
       "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the Other's research activities.\" Although every care has been taken in preparing and testing the data, the Other and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the Other and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Other and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Mycorrhiza colonization of Bittenfelder apple roots bio test 2017 with Ruthe soil",
+    "description": "Mycorrhiza colonization of Bittenfelder apple roots bio test 2017 with Ruthe soil.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "b90a53c3-3fe6-4315-a6cf-2beb65c20329",
+      "b90a53c3-3fe6-4315-a6cf-2beb65c20329"
+    ],
+    "keywords": [
+      "Vesicular arbuscular mycorrhizae",
+      "Endomycorrhizae",
+      "Symbionts",
+      "plants",
+      "Root colonization",
+      "Apples",
+      "Soil",
+      "Boden",
+      "Mykorrhiza",
+      "Obstbaum",
+      "Wurzel",
+      "Besiedlung",
+      "Boden",
+      "inspireidentifiziert",
+      "opendata"
+    ],
+    "datePublished": [
+      "2020-07-16"
+    ],
+    "dateCreated": [
+      "2017-10-19"
+    ],
+    "dateModified": [
+      "2020-07-16"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz University Hannover",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Carolin Popp",
+          "email": "popp@ipp.uni-hannover.de"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz University Hannover",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Edgar Mai√ü",
+          "email": "maiss@ipp.uni-hannover.de"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&b90a53c3-3fe6-4315-a6cf-2beb65c20329",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "51.77 9.00 52.90 10.54"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. (e.g. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre www.bonares.de. This data were created as part of BonaRes Module A-Project - ORDIAMUR's research activities.\" Although every care has been taken in preparing and testing the data, BonaRes Module A-Project-ORDIAMUR and BonaRes Data Centre cannot guarantee that the data are correct; neither does BonaRes Module A-Project and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project-ORDIAMUR and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner/author.)"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Long-term field experiment V140 Muencheberg from 1963 to 2009 - Agricultural engineering",
+    "description": "Long-term field experiment V140 Muencheberg from 1963 to 2009 - Agricultural engineering.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "caaeb9b8-a464-441b-948e-a146b98b3625",
+      "Table 'Agricultural engineering' of dataset https://dx.doi.org/10.20387/bonares-bsvy-r418"
+    ],
+    "keywords": [
+      "Boden",
+      "Langzeitversuch",
+      "Landwirtschaft",
+      "Ertrag (landwirtschaftlich)",
+      "Ernte",
+      "Agrarproduktion",
+      "Getreide",
+      "agriculture",
+      "Field experimentation",
+      "Agricultural research",
+      "Research methods",
+      "Ears",
+      "Grain",
+      "Plant products",
+      "Agricultural products",
+      "Yields",
+      "Yield components",
+      "Crop yield",
+      "Quality",
+      "Dauerfeldversuch",
+      "Dauerversuch",
+      "Langzeitfeldversuch",
+      "Langzeitversuch",
+      "Dauerd端ngungversuch",
+      "Langzeitd端ngungsversuch",
+      "DFV",
+      "DDV",
+      "DV",
+      "Long-Term Field Experiment",
+      "Long-Term Experiment",
+      "Long-Term Trial",
+      "Long-Term Field Trial",
+      "Long-Term Fertilizer Experiment",
+      "Long-Term Soil Experiment",
+      "LTFE",
+      "LTE",
+      "LTSE"
+    ],
+    "datePublished": [
+      "2018-05-17"
+    ],
+    "dateCreated": [
+      "2018-05-17"
+    ],
+    "dateModified": [
+      "2018-05-17"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Dietmar Barkusky",
+          "telephone": "+49 33432 82 168",
+          "email": "dbarkusky@zalf.de"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "AG - Versuchswesen Service Experimental Station M端ncheberg",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=caaeb9b8-a464-441b-948e-a146b98b3625",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase"
+        ]
+      }
+    ],
+    "temporalCoverage": [
+      "1963-01-01/2009-12-31"
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "52.513 14.107 52.520 14.126"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre (www.bonares.de). These data were created as part of ZALF research activities\". Although every care has been taken in preparing and testing the data, ZALF and BonaRes Data Centre cannot guarantee that the data are correct; neither does ZALF and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and Data Centre will not be responsible for any direct or indirect use which might be made of the data. If access to actual data is requested, please contact the data owner/author because these underlay an embargo. Please cite as: Barkusky et al. 2018, LTFE V140, ZALF M端ncheberg, Table \"Agricultural engineering\". 10.20387/BonaRes-BSVY-R418\n\nThis data/file was excluded from further dissemination and should no longer be used."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -104621,281 +104735,6 @@
       "@language": "en"
     },
     "@type": "Dataset",
-    "name": "BonaRes SIGNAL: Soil Saturated Hydraulic Conductivity at Dornburg, Forst, and Wendhausen 2019",
-    "description": "BonaRes SIGNAL: Soil Saturated Hydraulic Conductivity at Dornburg, Forst, and Wendhausen 2019.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "c6e9a483-2f91-4e4d-851a-6a26e3f27de8",
-      "c6e9a483-2f91-4e4d-851a-6a26e3f27de8"
-    ],
-    "keywords": [
-      "Soil",
-      "hydraulic conductivity",
-      "soil hydraulic properties",
-      "opendata",
-      "Boden",
-      "inspireidentifiziert"
-    ],
-    "datePublished": [
-      "2020-12-23"
-    ],
-    "dateCreated": [
-      "2020-12-23"
-    ],
-    "dateModified": [
-      "2020-12-23"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "University of Florida",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Victor Guerra",
-          "telephone": "+1 813 601 4137",
-          "email": "v.guerra@ufl.edu"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "University of Goettingen, Soil Science of Tropical and Subtropical Ecosystems",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Edzo Veldkamp",
-          "email": "eveldka@gwdg.de"
-        }
-      }
-    ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "description": "download",
-        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=c6e9a483-2f91-4e4d-851a-6a26e3f27de8",
-        "encodingFormat": [
-          "CSV",
-          "Microsoft Excel (xlsx)",
-          "File-Geodatabase"
-        ]
-      }
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "47.26 5.81 54.76 15.77"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the BonaRes Module A-Project - SIGNAL's research activities.\" Although every care has been taken in preparing and testing the data, the BonaRes Module A-Project - SIGNAL and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the BonaRes Module A-Project - SIGNAL and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project - SIGNAL and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "Long-Term Fertilization Trial Dikopshof List of Harvesting Dates",
-    "description": "Long-Term Fertilization Trial Dikopshof List of Harvesting Dates.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "6171c625-898c-431b-9353-e22f8039781d",
-      "Table 'List of Harvesting Dates' of dataset https://doi.org/10.20387/bonares-Y8A0-2Z3F"
-    ],
-    "keywords": [
-      "Harvesting date",
-      "Field experimentation",
-      "Agricultural and aquaculture facilities",
-      "harvest",
-      "long-term experiment"
-    ],
-    "datePublished": [
-      "2018-04-12"
-    ],
-    "dateCreated": [
-      "2018-02-02"
-    ],
-    "dateModified": [
-      "2018-04-12"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "University of Bonn",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Sabine Seidel",
-          "telephone": "+49-(0)228-73-2871",
-          "email": "sabine.seidel@uni-bonn.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "University of Bonn",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Hella Ahrends",
-          "telephone": "+49-(0)228-73-2871",
-          "email": "hahrends@uni-bonn.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "University of Bonn",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Andreas Tewes",
-          "telephone": "+49-(0)228-73-2871",
-          "email": "atewes@uni-bonn.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "University of Bonn",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Thomas Gaiser",
-          "telephone": "+49-(0)228-73-2871",
-          "email": "tgaiser@uni-bonn.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "University of Bonn",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Hubert Hüging",
-          "telephone": "+49-(0)228-73-2871",
-          "email": "h.hueging@uni-bonn.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "University of Bonn",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Stefan Siebert",
-          "telephone": "+49-(0)228-73-2871",
-          "email": "s.siebert@uni-bonn.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "University of Bonn",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Frank Ewert",
-          "telephone": "+49-(0)228-73-2871",
-          "email": "frank.ewert@uni-bonn.de"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "University of Bonn",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Thomas Gaiser",
-          "telephone": "+49-(0)228-73-2871",
-          "email": "tgaiser@uni-bonn.de"
-        }
-      }
-    ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "description": "download",
-        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=Table%20%27List%20of%20Harvesting%20Dates%27%20of%20dataset%20https://doi.org/10.20387/bonares-Y8A0-2Z3F",
-        "encodingFormat": [
-          "CSV",
-          "Microsoft Excel (xlsx)",
-          "File-Geodatabase"
-        ]
-      }
-    ],
-    "temporalCoverage": [
-      "1906-01-01/2009-12-31"
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "50.80 6.95 50.81 6.96"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: “Data re-used from the BonaRes Data Centre (www.bonares.de). The Dauerdüngungsversuch Dikopshof (DDV) data were created by the Crop Science Research Group, INRES, University of Bonn, and partly by the BonaRes Soil3 research activities.” It is furthermore required to include a citation of the dataset, naming the authors, name of the dataset and the DOI.\nAlthough every care has been taken in preparing and testing the data, the Crop Science Research Group at University of Bonn, the BonaRes Module BonaRes Soil3, and BonaRes Data Centre cannot guarantee that the data are correct; neither does Crop Science Research Group at University of Bonn, BonaRes BonaRes Soil3 and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Crop Science Research Group at University of Bonn, BonaRes Module BonaRes Soil3 and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data.\nPlease cite the whole data collection of \"Long-Term Fertilization Trial Dikopshof\" (16 tables) as followed:\nSeidel et al. (2019) ”Long-Term Fertilization Trial Dikopshof“ BonaRes Data Centre. Doi: 10.20387/10.20387/BonaRes-Y8A0-2Z3F.\nPlease cite a single table (e.g. “Yield Data”):\nSeidel et al. (2019) ”Long-Term Fertilization Trial Dikopshof“ BonaRes Data Centre. Doi: 10.20387/10.20387/BonaRes-Y8A0-2Z3F, table: “Yield Data”.\n"
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
     "name": "Who is the culprit: Is pest infestation responsible for crop yield losses close to semi-natural habitats?",
     "description": "Who is the culprit: Is pest infestation responsible for crop yield losses close to semi-natural habitats?.",
     "about": [
@@ -105546,6 +105385,281 @@
     ],
     "conditionsOfAccess": [
       "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "BonaRes SIGNAL: Soil Saturated Hydraulic Conductivity at Dornburg, Forst, and Wendhausen 2019",
+    "description": "BonaRes SIGNAL: Soil Saturated Hydraulic Conductivity at Dornburg, Forst, and Wendhausen 2019.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "c6e9a483-2f91-4e4d-851a-6a26e3f27de8",
+      "c6e9a483-2f91-4e4d-851a-6a26e3f27de8"
+    ],
+    "keywords": [
+      "Soil",
+      "hydraulic conductivity",
+      "soil hydraulic properties",
+      "opendata",
+      "Boden",
+      "inspireidentifiziert"
+    ],
+    "datePublished": [
+      "2020-12-23"
+    ],
+    "dateCreated": [
+      "2020-12-23"
+    ],
+    "dateModified": [
+      "2020-12-23"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "University of Florida",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Victor Guerra",
+          "telephone": "+1 813 601 4137",
+          "email": "v.guerra@ufl.edu"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "University of Goettingen, Soil Science of Tropical and Subtropical Ecosystems",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Edzo Veldkamp",
+          "email": "eveldka@gwdg.de"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=c6e9a483-2f91-4e4d-851a-6a26e3f27de8",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "47.26 5.81 54.76 15.77"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the BonaRes Module A-Project - SIGNAL's research activities.\" Although every care has been taken in preparing and testing the data, the BonaRes Module A-Project - SIGNAL and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the BonaRes Module A-Project - SIGNAL and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project - SIGNAL and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Long-Term Fertilization Trial Dikopshof List of Harvesting Dates",
+    "description": "Long-Term Fertilization Trial Dikopshof List of Harvesting Dates.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "6171c625-898c-431b-9353-e22f8039781d",
+      "Table 'List of Harvesting Dates' of dataset https://doi.org/10.20387/bonares-Y8A0-2Z3F"
+    ],
+    "keywords": [
+      "Harvesting date",
+      "Field experimentation",
+      "Agricultural and aquaculture facilities",
+      "harvest",
+      "long-term experiment"
+    ],
+    "datePublished": [
+      "2018-04-12"
+    ],
+    "dateCreated": [
+      "2018-02-02"
+    ],
+    "dateModified": [
+      "2018-04-12"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "University of Bonn",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Sabine Seidel",
+          "telephone": "+49-(0)228-73-2871",
+          "email": "sabine.seidel@uni-bonn.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Bonn",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Hella Ahrends",
+          "telephone": "+49-(0)228-73-2871",
+          "email": "hahrends@uni-bonn.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Bonn",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Andreas Tewes",
+          "telephone": "+49-(0)228-73-2871",
+          "email": "atewes@uni-bonn.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Bonn",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Thomas Gaiser",
+          "telephone": "+49-(0)228-73-2871",
+          "email": "tgaiser@uni-bonn.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Bonn",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Hubert Hüging",
+          "telephone": "+49-(0)228-73-2871",
+          "email": "h.hueging@uni-bonn.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Bonn",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Stefan Siebert",
+          "telephone": "+49-(0)228-73-2871",
+          "email": "s.siebert@uni-bonn.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "University of Bonn",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Frank Ewert",
+          "telephone": "+49-(0)228-73-2871",
+          "email": "frank.ewert@uni-bonn.de"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "University of Bonn",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Thomas Gaiser",
+          "telephone": "+49-(0)228-73-2871",
+          "email": "tgaiser@uni-bonn.de"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=Table%20%27List%20of%20Harvesting%20Dates%27%20of%20dataset%20https://doi.org/10.20387/bonares-Y8A0-2Z3F",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase"
+        ]
+      }
+    ],
+    "temporalCoverage": [
+      "1906-01-01/2009-12-31"
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "50.80 6.95 50.81 6.96"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: “Data re-used from the BonaRes Data Centre (www.bonares.de). The Dauerdüngungsversuch Dikopshof (DDV) data were created by the Crop Science Research Group, INRES, University of Bonn, and partly by the BonaRes Soil3 research activities.” It is furthermore required to include a citation of the dataset, naming the authors, name of the dataset and the DOI.\nAlthough every care has been taken in preparing and testing the data, the Crop Science Research Group at University of Bonn, the BonaRes Module BonaRes Soil3, and BonaRes Data Centre cannot guarantee that the data are correct; neither does Crop Science Research Group at University of Bonn, BonaRes BonaRes Soil3 and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Crop Science Research Group at University of Bonn, BonaRes Module BonaRes Soil3 and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data.\nPlease cite the whole data collection of \"Long-Term Fertilization Trial Dikopshof\" (16 tables) as followed:\nSeidel et al. (2019) ”Long-Term Fertilization Trial Dikopshof“ BonaRes Data Centre. Doi: 10.20387/10.20387/BonaRes-Y8A0-2Z3F.\nPlease cite a single table (e.g. “Yield Data”):\nSeidel et al. (2019) ”Long-Term Fertilization Trial Dikopshof“ BonaRes Data Centre. Doi: 10.20387/10.20387/BonaRes-Y8A0-2Z3F, table: “Yield Data”.\n"
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },

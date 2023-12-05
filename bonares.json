@@ -6131,6 +6131,122 @@
       "@language": "en"
     },
     "@type": "Dataset",
+    "name": "Meteorological data, soil temperature and soil water content for Dornburg Conventional from 2016 to 2017",
+    "description": "Meteorological data, soil temperature and soil water content for Dornburg Conventional from 2016 to 2017.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "5e2780c4-4c84-4387-a09f-266cab2b7de8",
+      "5e2780c4-4c84-4387-a09f-266cab2b7de8"
+    ],
+    "keywords": [
+      "meteorological observations",
+      "conventional agriculture",
+      "microclimate",
+      "air temperature",
+      "relative humidity",
+      "wind speed",
+      "wind direction",
+      "global radiation",
+      "net radiation",
+      "ground heat flux",
+      "soil temperature",
+      "soil water content",
+      "crop land",
+      "Atmosphärische Bedingungen",
+      "Boden"
+    ],
+    "datePublished": [
+      "2018-09-17"
+    ],
+    "dateCreated": [
+      "2018-09-17"
+    ],
+    "dateModified": [
+      "2018-09-17"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "University of Göttingen, Bioclimatology",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Christian Markwitz",
+          "telephone": "+49 (0) 551-39 20597",
+          "email": "christian.markwitz@forst.uni-goettingen.de"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "University of Göttingen, Bioclimatology",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Alexander Knohl",
+          "telephone": "05513933682",
+          "email": "aknohl@uni-goettingen.de"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=5e2780c4-4c84-4387-a09f-266cab2b7de8",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase"
+        ]
+      }
+    ],
+    "temporalCoverage": [
+      "2016-04-21/2018-01-01"
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "50.33 10.84 51.60 12.36"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. (e.g. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre www.bonares.de. This data were created as part of BonaRes Module A-Project - SIGNAL's research activities.\" Although every care has been taken in preparing and testing the data, BonaRes Module A-Project-SIGNAL and BonaRes Data Centre cannot guarantee that the data are correct; neither does BonaRes Module A-Project and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project-SIGNAL and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner/author.)"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
     "name": "CATCHY long-term experiment plot boundaries",
     "description": "CATCHY long-term experiment plot boundaries        .",
     "about": [
@@ -55282,115 +55398,6 @@
       "@language": "en"
     },
     "@type": "Dataset",
-    "name": "INPLAMINT.Nutrient.Status.Field.Experiment.Chronosequence",
-    "description": "INPLAMINT.Nutrient.Status.Field.Experiment.Chronosequence.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "72ca6e98-5aab-4884-bf1b-56931482eb94",
-      "72ca6e98-5aab-4884-bf1b-56931482eb94"
-    ],
-    "keywords": [
-      "Soil",
-      "Mineral nutrients",
-      "Lignite",
-      "Land resources",
-      "time study",
-      "arable farming",
-      "Boden",
-      "Bodenuntersuchung",
-      "Rekultivierung",
-      "Braunkohlenbergbau",
-      "Tagebau"
-    ],
-    "datePublished": [
-      "2017-12-05"
-    ],
-    "dateCreated": [
-      "2017-09-19"
-    ],
-    "dateModified": [
-      "2017-12-05"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "IBG-3, Forschungszentrum Jülich GmbH",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Reichel, Rüdiger",
-          "email": "ru.reichel@fz-juelich.de",
-          "url": "https://orcid.org/"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "IBG-3, Forschungszentrum Jülich GmbH",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Brueggemann, Nicolas",
-          "email": "n.brueggemann@fz-juelich.de",
-          "url": "https://orcid.org/"
-        }
-      }
-    ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "description": "download",
-        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=72ca6e98-5aab-4884-bf1b-56931482eb94",
-        "encodingFormat": [
-          "CSV",
-          "Excel (xlsx)",
-          "File Geodatabase (gbd)"
-        ]
-      }
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "51.07 6.19 51.30 6.48"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: “Data re-used from the BonaRes Data Centre www.bonares.de. The “INPLAMINT.Nutrient.Status.Field.Experiment.Chronosequence” data were created as part of BonaRes Module A-Project INPLAMINT research activities.” Although every care has been taken in preparing and testing the data, BonaRes Module A-Project INPLAMINT and BonaRes Data Centre cannot guarantee that the data are correct; neither does BonaRes Module A-Project INPLAMINT and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project INPLAMINT and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner/author."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
     "name": "Who is the culprit: Is pest infestation responsible for crop yield losses close to semi-natural habitats? (data collection)",
     "description": "Who is the culprit: Is pest infestation responsible for crop yield losses close to semi-natural habitats? (data collection).",
     "about": [
@@ -56236,122 +56243,6 @@
     ],
     "conditionsOfAccess": [
       "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the BonaRes Centre's research activities.\" Although every care has been taken in preparing and testing the data, the BonaRes Centre and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the BonaRes Centre and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Centre and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "Meteorological data, soil temperature and soil water content for Dornburg Conventional from 2016 to 2017",
-    "description": "Meteorological data, soil temperature and soil water content for Dornburg Conventional from 2016 to 2017.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "5e2780c4-4c84-4387-a09f-266cab2b7de8",
-      "5e2780c4-4c84-4387-a09f-266cab2b7de8"
-    ],
-    "keywords": [
-      "meteorological observations",
-      "conventional agriculture",
-      "microclimate",
-      "air temperature",
-      "relative humidity",
-      "wind speed",
-      "wind direction",
-      "global radiation",
-      "net radiation",
-      "ground heat flux",
-      "soil temperature",
-      "soil water content",
-      "crop land",
-      "Atmosphärische Bedingungen",
-      "Boden"
-    ],
-    "datePublished": [
-      "2018-09-17"
-    ],
-    "dateCreated": [
-      "2018-09-17"
-    ],
-    "dateModified": [
-      "2018-09-17"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "University of Göttingen, Bioclimatology",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Christian Markwitz",
-          "telephone": "+49 (0) 551-39 20597",
-          "email": "christian.markwitz@forst.uni-goettingen.de"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "University of Göttingen, Bioclimatology",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Alexander Knohl",
-          "telephone": "05513933682",
-          "email": "aknohl@uni-goettingen.de"
-        }
-      }
-    ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "description": "download",
-        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=5e2780c4-4c84-4387-a09f-266cab2b7de8",
-        "encodingFormat": [
-          "CSV",
-          "Microsoft Excel (xlsx)",
-          "File-Geodatabase"
-        ]
-      }
-    ],
-    "temporalCoverage": [
-      "2016-04-21/2018-01-01"
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "50.33 10.84 51.60 12.36"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. (e.g. Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data re-used from the BonaRes Data Centre www.bonares.de. This data were created as part of BonaRes Module A-Project - SIGNAL's research activities.\" Although every care has been taken in preparing and testing the data, BonaRes Module A-Project-SIGNAL and BonaRes Data Centre cannot guarantee that the data are correct; neither does BonaRes Module A-Project and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project-SIGNAL and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner/author.)"
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -98805,6 +98696,115 @@
     ],
     "conditionsOfAccess": [
       "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: “Data re-used from the BonaRes Data Centre (www.bonares.de). The Dauerdüngungsversuch Dikopshof (DDV) data were created by the Crop Science Research Group, INRES, University of Bonn, and partly by the BonaRes Soil3 research activities.” It is furthermore required to include a citation of the dataset, naming the authors, name of the dataset and the DOI.\nAlthough every care has been taken in preparing and testing the data, the Crop Science Research Group at University of Bonn, the BonaRes Module BonaRes Soil3, and BonaRes Data Centre cannot guarantee that the data are correct; neither does Crop Science Research Group at University of Bonn, BonaRes BonaRes Soil3 and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Crop Science Research Group at University of Bonn, BonaRes Module BonaRes Soil3 and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data.\nPlease cite the whole data collection of \"Long-Term Fertilization Trial Dikopshof\" (16 tables) as followed:\nSeidel et al. (2019) ”Long-Term Fertilization Trial Dikopshof“ BonaRes Data Centre. Doi: 10.20387/10.20387/BonaRes-Y8A0-2Z3F.\nPlease cite a single table (e.g. “Yield Data”):\nSeidel et al. (2019) ”Long-Term Fertilization Trial Dikopshof“ BonaRes Data Centre. Doi: 10.20387/10.20387/BonaRes-Y8A0-2Z3F, table: “Yield Data”.\n"
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "INPLAMINT.Nutrient.Status.Field.Experiment.Chronosequence",
+    "description": "INPLAMINT.Nutrient.Status.Field.Experiment.Chronosequence.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "72ca6e98-5aab-4884-bf1b-56931482eb94",
+      "72ca6e98-5aab-4884-bf1b-56931482eb94"
+    ],
+    "keywords": [
+      "Soil",
+      "Mineral nutrients",
+      "Lignite",
+      "Land resources",
+      "time study",
+      "arable farming",
+      "Boden",
+      "Bodenuntersuchung",
+      "Rekultivierung",
+      "Braunkohlenbergbau",
+      "Tagebau"
+    ],
+    "datePublished": [
+      "2017-12-05"
+    ],
+    "dateCreated": [
+      "2017-09-19"
+    ],
+    "dateModified": [
+      "2017-12-05"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "IBG-3, Forschungszentrum Jülich GmbH",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Reichel, Rüdiger",
+          "email": "ru.reichel@fz-juelich.de",
+          "url": "https://orcid.org/"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "IBG-3, Forschungszentrum Jülich GmbH",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Brueggemann, Nicolas",
+          "email": "n.brueggemann@fz-juelich.de",
+          "url": "https://orcid.org/"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&doi=72ca6e98-5aab-4884-bf1b-56931482eb94",
+        "encodingFormat": [
+          "CSV",
+          "Excel (xlsx)",
+          "File Geodatabase (gbd)"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "51.07 6.19 51.30 6.48"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: “Data re-used from the BonaRes Data Centre www.bonares.de. The “INPLAMINT.Nutrient.Status.Field.Experiment.Chronosequence” data were created as part of BonaRes Module A-Project INPLAMINT research activities.” Although every care has been taken in preparing and testing the data, BonaRes Module A-Project INPLAMINT and BonaRes Data Centre cannot guarantee that the data are correct; neither does BonaRes Module A-Project INPLAMINT and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The BonaRes Module A-Project INPLAMINT and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner/author."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },

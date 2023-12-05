@@ -120,6 +120,116 @@
   {
     "@type": "Dataset",
     "@context": "http://schema.org/",
+    "name": "Dataset: Risk assessment requires several bee species to address species-specific sensitivity to insecticides at field-realistic concentrations",
+    "headline": "Dataset: Risk assessment requires several bee species to address species-specific sensitivity to insecticides at field-realistic concentrations",
+    "alternativeHeadline": [],
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.5073/20231124-160110-0"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "givenName": "Tobias",
+        "familyName": "Jütte",
+        "name": "Jütte, Tobias",
+        "identifier": [
+          "https://orcid.org/0000-0001-6890-5699",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-6890-5699"
+          },
+          "https://d-nb.info/gnd/1172321787",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1172321787"
+          }
+        ],
+        "affiliation": "Julius Kühn-Institute (JKI), Institute for Bee Protection, Germany"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Anna",
+        "familyName": "Wernecke",
+        "name": "Wernecke, Anna",
+        "identifier": [
+          "https://d-nb.info/gnd/1172321477",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1172321477"
+          }
+        ],
+        "affiliation": "Julius Kühn-Institute (JKI), Institute for Bee Protection, Germany"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Felix",
+        "familyName": "Klaus",
+        "name": "Klaus, Felix",
+        "identifier": [
+          "https://d-nb.info/gnd/1241683174",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1241683174"
+          }
+        ],
+        "affiliation": "Julius Kühn-Institute (JKI), Institute for Bee Protection, Germany"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Jens",
+        "familyName": "Pistorius",
+        "name": "Pistorius, Jens",
+        "identifier": [
+          "https://d-nb.info/gnd/105893063x",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "105893063x"
+          }
+        ],
+        "affiliation": "Julius Kühn-Institute (JKI), Institute for Bee Protection, Germany"
+      },
+      {
+        "@type": "Person",
+        "givenName": "Anke C.",
+        "familyName": "Dietzsch",
+        "name": "Dietzsch, Anke C.",
+        "identifier": [
+          "https://d-nb.info/gnd/1139861743",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1139861743"
+          }
+        ],
+        "affiliation": "Julius Kühn-Institute (JKI), Institute for Bee Protection, Germany"
+      }
+    ],
+    "datePublished": "2023-11-24",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar Repository"
+    },
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00092232",
+    "description": [
+      "",
+      "This dataset includes measurements of individual bee mortality, weight and behavior collected under laboratory conditions in six trials over two years. Individuals of seven different bee species were exposed to the plant protection product Karate® Zeon (containing the pyrethroid lambda-cyhalothrin) at a field-realistic application rate of 0.075 L product/ha in a professional spray chamber. In addition, we applied either water as a control or dimethoate as a toxic reference to bee individuals of all species. In total, we tested 409 Apis mellifera, 385 Bombus terrestris, 383 Osmia bicornis, 139 Osmia cornuta, 140 Megachile rotundata, 105 Andrena vaga, and 103 Colletes cunicularius individuals. Bee individuals were placed into cages of 10 or 5 individuals depending on the species, and the mean individual weight of all non-Apis bees was measured as the total bee weight per cage devided by the number of bees in this cage. Bees were exposed and afterwards monitored over a period of 96 hours at pre-defined time intervals (2, 4, 24, 48, 72 and 96 hours after application). At each time interval, we recorded their status (dead or alive) and behavioral abnormalities (moribund, cramps, apathy, affected [including restless, vertigo, uncoordinated and dorsal position]). Further methodological and analytical details are described in the associated paper by Jütte et al.: Risk assessment requires several bee species to address species-specific sensitivity to insecticides at field-realistic concentrations. Scientific Reports, 2023. The dataset comprises four tables. Table \"Mortality\" includes a row for each individual tested with lambda-cyhalothrin (716 individuals) or water (708 individuals) stating its species identity, the number of trial and cage it was placed in, the treatment it was exposed to, its status and at which time interval this status was observed. Table \"Dimethoate\" includes a row for each individual tested with the toxic reference dimethoate (240 individuals) stating its species identity, the number of trial and cage it was placed in, its status and at which time interval this status was observed. Table \"Behavior\" includes a row for each cage that contained bee individuals treated with lambda-cyhalothrin (126 cages) or water (125 cages) at each time interval. This table states the species identity, the number of trial and cage, the treatment, the time interval, and the number of bee individuals in this cage at this time, which were dead, were alive, showed moribund behavior, showed apathy, showed cramps or showed an affected behavior, which could be any of four abnormal behaviors (restlessness, vertigo, dorsal position, uncoordinated movement). Table \"Weight\" includes a row for each cage that contained bee individuals treated with lambda-cyhalothrin (126 cages) or water (125 cages) at each time interval. This table states the species identity, the number of trial and cage, the treatment, the number of bee individuals in this cage, and the mean weight of a bee individual in this cage."
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  {
+    "@type": "Dataset",
+    "@context": "http://schema.org/",
     "name": "Data set: blank values from heubach dustmeter-testing sugar beets, version 1 (correction)",
     "headline": "Data set: blank values from heubach dustmeter-testing sugar beets, version 1 (correction)",
     "alternativeHeadline": [],

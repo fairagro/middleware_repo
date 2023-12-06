@@ -5,6 +5,541 @@
       "@language": "en"
     },
     "@type": "Dataset",
+    "name": "Dataset of winter wheat yields in Germany between 1958 and 2015 from N-fertilization experiments - TRIAL_SITES",
+    "description": "Dataset of winter wheat yields in Germany between 1958 and 2015 from N-fertilization experiments - TRIAL_SITES.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "3b08f0fc-f209-425f-86e1-f106f29f4ee6",
+      "https://doi.org/10.20387/bonares-YG6F-K61B"
+    ],
+    "keywords": [
+      "climate",
+      "Winter wheat",
+      "yield development",
+      "nitrogen fertilization experiments",
+      "climate change",
+      "climate effects",
+      "phenology",
+      "meta-analysis",
+      "mixed-effect analysis",
+      "soil types",
+      "soil quality rating",
+      "opendata",
+      "Climate change impact",
+      "climatic change",
+      "environmental impact",
+      "environmental statistics",
+      "data analysis",
+      "statistical analysis",
+      "field experiment",
+      "soil",
+      "heat stress",
+      "water stress",
+      "Land use",
+      "Boden",
+      "inspireidentifiziert"
+    ],
+    "datePublished": [
+      "2020-01-28"
+    ],
+    "dateCreated": [
+      "2020-01-28"
+    ],
+    "dateModified": [
+      "2020-01-28"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz University Hanover",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Eric Bönecke",
+          "telephone": "+49 511 762-19269",
+          "email": "boenecke@igzev.de, boenecke@gem.uni-hannover.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Leibniz University Hanover",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Laura Breitsameter",
+          "telephone": "+49 511 762-19269",
+          "email": "breitsameter@igzev.de, boenecke@gem.uni-hannover.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Research Centre Julich",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Nicolas Brüggeman",
+          "telephone": "+49 246 161 8643",
+          "email": "n.brueggemann@fz-juelich.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Julius Kuehn-Institute",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Till Feike",
+          "telephone": "+49 332 034 8312",
+          "email": "til.feike@julius-kuehn.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Christian-Albrechts-University Kiel",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Henning Kage",
+          "telephone": "+49 431 880 3472",
+          "email": "kage@pflanzenbau.uni-kiel.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Kurt-Christian Kersebaum",
+          "telephone": "+49 334 328 2394",
+          "email": "ckersebaum@zalf.de"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Leibniz University Hanover",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Hartmut Stützel",
+          "telephone": "+49 511 762 2635",
+          "email": "stützel@gem.uni-hannover.de"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "BonaRes Data Centre",
+          "telephone": "+49 33432 82 171",
+          "email": "bonares-datenzentrum@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz University Hanover",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Hartmut Stützel",
+          "telephone": "+49 511 762 2635",
+          "email": "stützel@gem.uni-hannover.de"
+        }
+      }
+    ],
+    "distribution": [
+      {
+        "@type": "DataDownload",
+        "description": "download",
+        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3b08f0fc-f209-425f-86e1-f106f29f4ee6",
+        "encodingFormat": [
+          "CSV",
+          "Microsoft Excel (xlsx)",
+          "File-Geodatabase"
+        ]
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "47.26 5.81 54.76 15.77"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the research activities of the DFG funded project 'Data-Meta Analysis to assess the productivity development of cultivated plants'\"(Grant number: Stu 127/19-3) at the Institute of Horticultural Production Systems of the Faculty of Natural Sciences at the Leibniz Universität Hanover (LUH). Although every care has been taken in preparing and testing the data, the above mentioned project and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the above mentioned project and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The above mentioned project and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Fusarium abundance and diversity and Alternaria abundance on grasses and wheat ears after the infection with Fusarium graminearum, Fusarium culmorum and Fusarium sporotrichioides with and without irrigation       - Mycotoxin content of the harvest samples",
+    "description": "Fusarium abundance and diversity and Alternaria abundance on grasses and wheat ears after the infection with Fusarium graminearum, Fusarium culmorum and Fusarium sporotrichioides with and without irrigation       - Mycotoxin content of the harvest samples.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "4bf5ad40-2b1e-47c2-85b5-da2e42335532",
+      "Child table of dataset https://doi.org/10.4228/zalf-58e8-wm91"
+    ],
+    "keywords": [
+      "Soil",
+      "Fusarium sporotrichioides",
+      "Fusarium",
+      "Fusarium culmorum",
+      "Fusarium equiseti",
+      "winter wheat",
+      "grass weeds",
+      "Lolium hybridum",
+      "Lolium multiflorum",
+      "pathogenic fungi",
+      "mycotoxins",
+      "trichothecenes",
+      "zearalenone",
+      "irrigation",
+      "microclimate",
+      "agricultural sciences",
+      "opendata",
+      "Boden",
+      "inspireidentifiziert",
+      "Lebensr채ume und Biotope",
+      "Verteilung der Arten",
+      "Bodenbedeckung",
+      "Landwirtschaft",
+      "Wissenschaftliche Forschung",
+      "Germany",
+      "Brandenburg",
+      "M채rkisch Oderland",
+      "M체ncheberg"
+    ],
+    "datePublished": [
+      "2023-07-20"
+    ],
+    "dateCreated": [
+      "2023-07-20"
+    ],
+    "dateModified": [
+      "2023-07-20"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Marina Gerling",
+          "email": "Marina.Gerling@zalf.de",
+          "url": ""
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Marina M체ller",
+          "email": "mmueller@zalf.de"
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "ZALF",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Leibniz Centre for Agricultural Landscape Research",
+          "telephone": "+49 33432 82 300",
+          "email": "dataservice@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Michael Glemnitz",
+          "email": "mglemnitz@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "temporalCoverage": [
+      "2021-05-01/2021-07-31"
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "52.511595 14.118015 52.525851 14.137477"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Datenerfassung's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Datenerfassung and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Datenerfassung and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Datenerfassung and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "ZALF Focus Area - Quillow ",
+    "description": "ZALF Focus Area - Quillow                          .",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "a0c66340-1f61-47b9-80c9-faa3ab871690",
+      "https://doi.org/10.4228/zalf.7161-ft27"
+    ],
+    "keywords": [
+      "location",
+      "geographical regions",
+      "site",
+      "research facilities",
+      "groundwater",
+      "groundwater table",
+      "watersheds",
+      "opendata",
+      "Grundwasser",
+      "Wassereinzugsgebiet",
+      "Grundwasserspiegel",
+      "Ressourcenbewirtschaftung",
+      "ZALF Focus Area - Quillow",
+      "inspireidentifiziert",
+      "Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten",
+      "Germany",
+      "Brandenburg",
+      "Uckermark",
+      "Quillow"
+    ],
+    "datePublished": [
+      "2021-09-30"
+    ],
+    "dateCreated": [
+      "1998-01-01"
+    ],
+    "dateModified": [
+      "2021-09-30"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "JÃ¶rg Steidl",
+          "email": "jsteidl@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "ZALF",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Leibniz Centre for Agricultural Landscape Research",
+          "telephone": "+49 33432 82 300",
+          "email": "dataservice@zalf.de"
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Gunnar Lischeid",
+          "email": "lischeid@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "53.290627 13.459477 53.430360 13.877137"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Forschungsdatenmanagement's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Forschungsdatenmanagement and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Forschungsdatenmanagement and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Forschungsdatenmanagement and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
+    "name": "Soil hydraulic data from laboratory rainfall simulation experiments to induce subsurface lateral subsurface flow in 2D soil monoliths",
+    "description": "Soil hydraulic data from laboratory rainfall simulation experiments to induce subsurface lateral subsurface flow in 2D soil monoliths.",
+    "about": [
+      {
+        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+        "@type": "Class"
+      }
+    ],
+    "includedInDataCatalog": {
+      "@type": "DataCatalog",
+      "name": "BonaRes Repository"
+    },
+    "identifier": [
+      "8511083a-360c-422f-9eeb-85476919c592",
+      "https://doi.org/10.4228/zalf-x32q-sn54"
+    ],
+    "keywords": [
+      "Soil",
+      "laboratory experimentation",
+      "subsurface runoff",
+      "soil hydraulic properties",
+      "tensometers",
+      "soil water content",
+      "opendata",
+      "Lateral subsurface flow",
+      "Boden",
+      "inspireidentifiziert",
+      "Germany",
+      "Brandenburg",
+      "Uckermark",
+      "Quillow",
+      "Dedelow",
+      "Site CarboZALF"
+    ],
+    "datePublished": [
+      "2023-11-23"
+    ],
+    "dateCreated": [
+      "2023-11-23"
+    ],
+    "dateModified": [
+      "2023-11-23"
+    ],
+    "author": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Annelie Ehrhardt",
+          "email": "annelie.ehrhardt@zalf.de",
+          "url": ""
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Horst H. Gerke",
+          "email": "gerke@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "publisher": [
+      {
+        "@type": "Organization",
+        "name": "ZALF",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Leibniz Centre for Agricultural Landscape Research",
+          "telephone": "+49 33432 82 300",
+          "email": "dataservice@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "sourceOrganization": [
+      {
+        "@type": "Organization",
+        "name": "Leibniz Centre for Agricultural Landscape Research",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "technical support",
+          "name": "Horst H. Gerke",
+          "email": "gerke@zalf.de",
+          "url": ""
+        }
+      }
+    ],
+    "spatialCoverage": [
+      {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoShape",
+          "box": "53.379389 13.783827 53.380070 13.786385"
+        }
+      }
+    ],
+    "conditionsOfAccess": [
+      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Datenerfassung's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Datenerfassung and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Datenerfassung and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Datenerfassung and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
+    ],
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "@context": {
+      "@vocab": "https://schema.org/",
+      "@language": "en"
+    },
+    "@type": "Dataset",
     "name": "Agroclimatic indicators data of Long-Term Field Experiments in Germany - BIOCLIMATIC INDICATORS",
     "description": "Agroclimatic indicators data of Long-Term Field Experiments in Germany - BIOCLIMATIC INDICATORS.",
     "about": [
@@ -3161,120 +3696,6 @@
       "@language": "en"
     },
     "@type": "Dataset",
-    "name": "Soil hydraulic data from laboratory rainfall simulation experiments to induce subsurface lateral subsurface flow in 2D soil monoliths",
-    "description": "Soil hydraulic data from laboratory rainfall simulation experiments to induce subsurface lateral subsurface flow in 2D soil monoliths.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "8511083a-360c-422f-9eeb-85476919c592",
-      "https://doi.org/10.4228/zalf-x32q-sn54"
-    ],
-    "keywords": [
-      "Soil",
-      "laboratory experimentation",
-      "subsurface runoff",
-      "soil hydraulic properties",
-      "tensometers",
-      "soil water content",
-      "opendata",
-      "Lateral subsurface flow",
-      "Boden",
-      "inspireidentifiziert",
-      "Germany",
-      "Brandenburg",
-      "Uckermark",
-      "Quillow",
-      "Dedelow",
-      "Site CarboZALF"
-    ],
-    "datePublished": [
-      "2023-11-23"
-    ],
-    "dateCreated": [
-      "2023-11-23"
-    ],
-    "dateModified": [
-      "2023-11-23"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Annelie Ehrhardt",
-          "email": "annelie.ehrhardt@zalf.de",
-          "url": ""
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Horst H. Gerke",
-          "email": "gerke@zalf.de",
-          "url": ""
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "ZALF",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Leibniz Centre for Agricultural Landscape Research",
-          "telephone": "+49 33432 82 300",
-          "email": "dataservice@zalf.de",
-          "url": ""
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Horst H. Gerke",
-          "email": "gerke@zalf.de",
-          "url": ""
-        }
-      }
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "53.379389 13.783827 53.380070 13.786385"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Datenerfassung's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Datenerfassung and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Datenerfassung and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Datenerfassung and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
     "name": "Test data FAIRagro Guest",
     "description": "Test data FAIRagro Guest                           .",
     "about": [
@@ -3649,133 +4070,6 @@
     },
     "identifier": [
       "090f32da-b607-4be8-ab01-37553962104d",
-      "Child table of dataset https://doi.org/10.4228/zalf-58e8-wm91"
-    ],
-    "keywords": [
-      "Soil",
-      "Fusarium sporotrichioides",
-      "Fusarium",
-      "Fusarium culmorum",
-      "Fusarium equiseti",
-      "winter wheat",
-      "grass weeds",
-      "Lolium hybridum",
-      "Lolium multiflorum",
-      "pathogenic fungi",
-      "mycotoxins",
-      "trichothecenes",
-      "zearalenone",
-      "irrigation",
-      "microclimate",
-      "agricultural sciences",
-      "opendata",
-      "Boden",
-      "inspireidentifiziert",
-      "Lebensr채ume und Biotope",
-      "Verteilung der Arten",
-      "Bodenbedeckung",
-      "Landwirtschaft",
-      "Wissenschaftliche Forschung",
-      "Germany",
-      "Brandenburg",
-      "M채rkisch Oderland",
-      "M체ncheberg"
-    ],
-    "datePublished": [
-      "2023-07-20"
-    ],
-    "dateCreated": [
-      "2023-07-20"
-    ],
-    "dateModified": [
-      "2023-07-20"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Marina Gerling",
-          "email": "Marina.Gerling@zalf.de",
-          "url": ""
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Marina M체ller",
-          "email": "mmueller@zalf.de"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "ZALF",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Leibniz Centre for Agricultural Landscape Research",
-          "telephone": "+49 33432 82 300",
-          "email": "dataservice@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Michael Glemnitz",
-          "email": "mglemnitz@zalf.de",
-          "url": ""
-        }
-      }
-    ],
-    "temporalCoverage": [
-      "2021-05-01/2021-07-31"
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "52.511595 14.118015 52.525851 14.137477"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Datenerfassung's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Datenerfassung and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Datenerfassung and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Datenerfassung and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "Fusarium abundance and diversity and Alternaria abundance on grasses and wheat ears after the infection with Fusarium graminearum, Fusarium culmorum and Fusarium sporotrichioides with and without irrigation       - Mycotoxin content of the harvest samples",
-    "description": "Fusarium abundance and diversity and Alternaria abundance on grasses and wheat ears after the infection with Fusarium graminearum, Fusarium culmorum and Fusarium sporotrichioides with and without irrigation       - Mycotoxin content of the harvest samples.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "4bf5ad40-2b1e-47c2-85b5-da2e42335532",
       "Child table of dataset https://doi.org/10.4228/zalf-58e8-wm91"
     ],
     "keywords": [
@@ -6473,111 +6767,6 @@
     ],
     "conditionsOfAccess": [
       "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Datenerfassung's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Datenerfassung and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Datenerfassung and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Datenerfassung and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data."
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "ZALF Focus Area - Quillow ",
-    "description": "ZALF Focus Area - Quillow                          .",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "a0c66340-1f61-47b9-80c9-faa3ab871690",
-      "https://doi.org/10.4228/zalf.7161-ft27"
-    ],
-    "keywords": [
-      "location",
-      "geographical regions",
-      "site",
-      "research facilities",
-      "groundwater",
-      "groundwater table",
-      "watersheds",
-      "opendata",
-      "Grundwasser",
-      "Wassereinzugsgebiet",
-      "Grundwasserspiegel",
-      "Ressourcenbewirtschaftung",
-      "ZALF Focus Area - Quillow",
-      "inspireidentifiziert",
-      "Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten",
-      "Germany",
-      "Brandenburg",
-      "Uckermark",
-      "Quillow"
-    ],
-    "datePublished": [
-      "2021-09-30"
-    ],
-    "dateCreated": [
-      "1998-01-01"
-    ],
-    "dateModified": [
-      "2021-09-30"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "JÃ¶rg Steidl",
-          "email": "jsteidl@zalf.de",
-          "url": ""
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "ZALF",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Leibniz Centre for Agricultural Landscape Research",
-          "telephone": "+49 33432 82 300",
-          "email": "dataservice@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Gunnar Lischeid",
-          "email": "lischeid@zalf.de",
-          "url": ""
-        }
-      }
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "53.290627 13.459477 53.430360 13.877137"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the ZALF Forschungsdatenmanagement's research activities.\" Although every care has been taken in preparing and testing the data, the ZALF Forschungsdatenmanagement and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the ZALF Forschungsdatenmanagement and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The ZALF Forschungsdatenmanagement and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. The access to this data is restricted during embargo time. If prior access is requested, contact the data owner / author."
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -89584,195 +89773,6 @@
     ],
     "conditionsOfAccess": [
       "Reports, articles, papers, scientific and non-scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: “Data re-used from the BonaRes Data Centre (www.bonares.de). The Dauerdüngungsversuch Dikopshof (DDV) data were created by the Crop Science Research Group, INRES, University of Bonn, and partly by the BonaRes Soil3 research activities.” It is furthermore required to include a citation of the dataset, naming the authors, name of the dataset and the DOI.\nAlthough every care has been taken in preparing and testing the data, the Crop Science Research Group at University of Bonn, the BonaRes Module BonaRes Soil3, and BonaRes Data Centre cannot guarantee that the data are correct; neither does Crop Science Research Group at University of Bonn, BonaRes BonaRes Soil3 and BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The Crop Science Research Group at University of Bonn, BonaRes Module BonaRes Soil3 and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data.\nPlease cite the whole data collection of \"Long-Term Fertilization Trial Dikopshof\" (16 tables) as followed:\nSeidel et al. (2019) ”Long-Term Fertilization Trial Dikopshof“ BonaRes Data Centre. Doi: 10.20387/10.20387/BonaRes-Y8A0-2Z3F.\nPlease cite a single table (e.g. “Yield Data”):\nSeidel et al. (2019) ”Long-Term Fertilization Trial Dikopshof“ BonaRes Data Centre. Doi: 10.20387/10.20387/BonaRes-Y8A0-2Z3F, table: “Yield Data”.\n\n"
-    ],
-    "license": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  {
-    "@context": {
-      "@vocab": "https://schema.org/",
-      "@language": "en"
-    },
-    "@type": "Dataset",
-    "name": "Dataset of winter wheat yields in Germany between 1958 and 2015 from N-fertilization experiments - TRIAL_SITES",
-    "description": "Dataset of winter wheat yields in Germany between 1958 and 2015 from N-fertilization experiments - TRIAL_SITES.",
-    "about": [
-      {
-        "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
-        "@type": "Class"
-      }
-    ],
-    "includedInDataCatalog": {
-      "@type": "DataCatalog",
-      "name": "BonaRes Repository"
-    },
-    "identifier": [
-      "3b08f0fc-f209-425f-86e1-f106f29f4ee6",
-      "https://doi.org/10.20387/bonares-YG6F-K61B"
-    ],
-    "keywords": [
-      "climate",
-      "Winter wheat",
-      "yield development",
-      "nitrogen fertilization experiments",
-      "climate change",
-      "climate effects",
-      "phenology",
-      "meta-analysis",
-      "mixed-effect analysis",
-      "soil types",
-      "soil quality rating",
-      "opendata",
-      "Climate change impact",
-      "climatic change",
-      "environmental impact",
-      "environmental statistics",
-      "data analysis",
-      "statistical analysis",
-      "field experiment",
-      "soil",
-      "heat stress",
-      "water stress",
-      "Land use",
-      "Boden",
-      "inspireidentifiziert"
-    ],
-    "datePublished": [
-      "2020-01-28"
-    ],
-    "dateCreated": [
-      "2020-01-28"
-    ],
-    "dateModified": [
-      "2020-01-28"
-    ],
-    "author": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz University Hanover",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Eric Bönecke",
-          "telephone": "+49 511 762-19269",
-          "email": "boenecke@igzev.de, boenecke@gem.uni-hannover.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "Leibniz University Hanover",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Laura Breitsameter",
-          "telephone": "+49 511 762-19269",
-          "email": "breitsameter@igzev.de, boenecke@gem.uni-hannover.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "Research Centre Julich",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Nicolas Brüggeman",
-          "telephone": "+49 246 161 8643",
-          "email": "n.brueggemann@fz-juelich.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "Julius Kuehn-Institute",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Till Feike",
-          "telephone": "+49 332 034 8312",
-          "email": "til.feike@julius-kuehn.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "Christian-Albrechts-University Kiel",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Henning Kage",
-          "telephone": "+49 431 880 3472",
-          "email": "kage@pflanzenbau.uni-kiel.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Kurt-Christian Kersebaum",
-          "telephone": "+49 334 328 2394",
-          "email": "ckersebaum@zalf.de"
-        }
-      },
-      {
-        "@type": "Organization",
-        "name": "Leibniz University Hanover",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Hartmut Stützel",
-          "telephone": "+49 511 762 2635",
-          "email": "stützel@gem.uni-hannover.de"
-        }
-      }
-    ],
-    "publisher": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz Centre for Agricultural Landscape Research (ZALF)",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "BonaRes Data Centre",
-          "telephone": "+49 33432 82 171",
-          "email": "bonares-datenzentrum@zalf.de"
-        }
-      }
-    ],
-    "sourceOrganization": [
-      {
-        "@type": "Organization",
-        "name": "Leibniz University Hanover",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "technical support",
-          "name": "Hartmut Stützel",
-          "telephone": "+49 511 762 2635",
-          "email": "stützel@gem.uni-hannover.de"
-        }
-      }
-    ],
-    "distribution": [
-      {
-        "@type": "DataDownload",
-        "description": "download",
-        "contentUrl": "https://maps.bonares.de/mapapps/resources/apps/bonares/index.html?lang=en&mid=3b08f0fc-f209-425f-86e1-f106f29f4ee6",
-        "encodingFormat": [
-          "CSV",
-          "Microsoft Excel (xlsx)",
-          "File-Geodatabase"
-        ]
-      }
-    ],
-    "spatialCoverage": [
-      {
-        "@type": "Place",
-        "geo": {
-          "@type": "GeoShape",
-          "box": "47.26 5.81 54.76 15.77"
-        }
-      }
-    ],
-    "conditionsOfAccess": [
-      "Restrictions applied to assure the protection of privacy or intellectual property, and any special restrictions or limitations or warnings on using the resource or metadata. Reports, articles, papers, scientific and non - scientific works of any form, including tables, maps, or any other kind of output, in printed or electronic form, based in whole or in part on the data supplied, must contain an acknowledgement of the form: \"Data reused from the BonaRes Data Centre www.bonares.de. This data were created as part of the research activities of the DFG funded project 'Data-Meta Analysis to assess the productivity development of cultivated plants'\"(Grant number: Stu 127/19-3) at the Institute of Horticultural Production Systems of the Faculty of Natural Sciences at the Leibniz Universität Hanover (LUH).\nAlthough every care has been taken in preparing and testing the data, the above mentioned project and the BonaRes Data Centre cannot guarantee that the data are correct; neither does the above mentioned project and the BonaRes Data Centre accept any liability whatsoever for any error, missing data or omission in the data, or for any loss or damage arising from its use. The above mentioned project and BonaRes Data Centre will not be responsible for any direct or indirect use which might be made of the data. \n"
     ],
     "license": "https://creativecommons.org/licenses/by/4.0/"
   },

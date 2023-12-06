@@ -31382,5 +31382,281 @@
       }
     ],
     "contributor": []
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@type": "CreativeWork",
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE"
+    },
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/7a935ce3-6597-427f-9948-1f2338dc2417/eb207248-c406-4021-9506-9b677f3de272/2",
+    "datePublished": "Tue Dec 05 15:46:19 CET 2023",
+    "name": "Influences of macrocyclic lactones on germination of temperate grassland species.",
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    },
+    "description": "In this experiment, the effects of four macrocyclic lactones on the germination characteristics of 17 temperate grassland species were studied. In the file “germination data” the numbers of germinated seeds per petri dish are listed. In the file “legends” abbreviations used in the file “germination data” are explained. In the file “methods” the methods for this experiment are explained in detail; for details, please refer to the publication: https://doi.org/10.1111/plb.13577",
+    "keywords": "Seed germination, grassland species, Macrocyclic lactones, abamectin, doramectin, ivermectin, moxidectin",
+    "inLanguage": "de_DE",
+    "author": [
+      {
+        "@type": "Person",
+        "name": "Lars Laber",
+        "givenName": "Lars",
+        "familyName": "Laber",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "24118",
+          "streetAddress": ", Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Carsten Eichberg",
+        "givenName": "Carsten",
+        "familyName": "Eichberg",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "54296",
+          "streetAddress": "Spatial and Environmental Sciences, Trier University, Behringstraße 21, Trier",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Anne Zimmerbeutel",
+        "givenName": "Anne",
+        "familyName": "Zimmerbeutel",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "24118",
+          "streetAddress": ", Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Rolf-Alexander Düring",
+        "givenName": "Rolf-Alexander",
+        "familyName": "Düring",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "35392",
+          "streetAddress": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Tobias Donath",
+        "givenName": "Tobias",
+        "familyName": "Donath",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "24118",
+          "streetAddress": ", Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel",
+          "addressCountry": "Germany"
+        }
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "name": "Lars Laber",
+        "givenName": "Lars",
+        "familyName": "Laber",
+        "address": ", Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel, 24118, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Carsten Eichberg",
+        "givenName": "Carsten",
+        "familyName": "Eichberg",
+        "address": "Spatial and Environmental Sciences, Trier University, Behringstraße 21, Trier, 54296, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Anne Zimmerbeutel",
+        "givenName": "Anne",
+        "familyName": "Zimmerbeutel",
+        "address": ", Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel, 24118, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Rolf-Alexander Düring",
+        "givenName": "Rolf-Alexander",
+        "familyName": "Düring",
+        "address": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen, 35392, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Tobias Donath",
+        "givenName": "Tobias",
+        "familyName": "Donath",
+        "address": ", Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel, 24118, Germany"
+      }
+    ],
+    "contributor": []
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@type": "CreativeWork",
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE"
+    },
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/9086610e-b3d0-40a4-b29d-61acef3b782f/1645cd72-652e-400d-92af-e791b693b2a2/2",
+    "datePublished": "Tue Dec 05 15:46:23 CET 2023",
+    "name": "Effects of moxidectin treatment on seedlings emerging from sheep faeces.",
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    },
+    "description": "In this experiment, the effects of the treatment of sheep with formulated moxidectin on seedling emergence was observed. Sheep were treated with formulated moxidectin and then fed with a mixture of four different temperate grassland species seeds. For two days, faeces were extracted and later exposed to outside conditions, where emergence of seedlings was noted. For the next two weeks, this procedure (without adding more formulated moxidectin) was repeated. In addition, moxidectin residues in faeces were measured via HPLC. In the folder “samples_08.06.21” you can find the emergence numbers from the samples collected in the first week after moxidectin application and additional information about those samples. In the folder “samples_14.06.21” you can find the emergence numbers from the samples collected in the second week after moxidectin application and additional information regarding those samples. In the folder “samples_21.06.21” you can find the emergence numbers from the samples collected in the third week after moxidectin application and additional information regarding those samples. In the file “Legend”, you can find the explanation for the individual terms of the sample data folders. The Folder “HPLC_analysis” contains the results of the HPLC analysis for moxidectin residues in the faeces and the explanations for the terms used. The File “Methods” contains the methods used in this study. For details, please refer to the publication: https://doi.org/10.1016/j.scitotenv.2023.167152",
+    "keywords": "Seedling emergence, faeces, sheep, moxidectin, Achillea ptarmica, Agrostis capillaris, Dianthus deltoides, Plantago lanceolata",
+    "inLanguage": "de_DE",
+    "author": [
+      {
+        "@type": "Person",
+        "name": "Lars Laber",
+        "givenName": "Lars",
+        "familyName": "Laber",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "24118",
+          "streetAddress": "Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Anabell Jandowsky",
+        "givenName": "Anabell",
+        "familyName": "Jandowsky",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "24646",
+          "streetAddress": "Arche Warder Center for Old and Rare Breeds, Langwedeler Weg 11, Warder",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Kai Frölich",
+        "givenName": "Kai",
+        "familyName": "Frölich",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "24646",
+          "streetAddress": "Arche Warder Center for Old and Rare Breeds, Langwedeler Weg 11, Warder",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Andre P. Heinrich",
+        "givenName": "Andre P.",
+        "familyName": "Heinrich",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "35392",
+          "streetAddress": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Rolf-Alexander Düring",
+        "givenName": "Rolf-Alexander",
+        "familyName": "Düring",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "35392",
+          "streetAddress": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Tobias W. Donath",
+        "givenName": "Tobias W.",
+        "familyName": "Donath",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "24118",
+          "streetAddress": "Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel",
+          "addressCountry": "Germany"
+        }
+      },
+      {
+        "@type": "Person",
+        "name": "Carsten Eichberg",
+        "givenName": "Carsten",
+        "familyName": "Eichberg",
+        "address": {
+          "@type": "PostalAddress",
+          "postalCode": "54296",
+          "streetAddress": "Spatial and Environmental Sciences, Trier University, Behringstraße 21, Trier",
+          "addressCountry": "Germany"
+        }
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "name": "Lars Laber",
+        "givenName": "Lars",
+        "familyName": "Laber",
+        "address": "Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel, 24118, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Anabell Jandowsky",
+        "givenName": "Anabell",
+        "familyName": "Jandowsky",
+        "address": "Arche Warder Center for Old and Rare Breeds, Langwedeler Weg 11, Warder, 24646, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Kai Frölich",
+        "givenName": "Kai",
+        "familyName": "Frölich",
+        "address": "Arche Warder Center for Old and Rare Breeds, Langwedeler Weg 11, Warder, 24646, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Andre P. Heinrich",
+        "givenName": "Andre P.",
+        "familyName": "Heinrich",
+        "address": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen, 35392, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Rolf-Alexander Düring",
+        "givenName": "Rolf-Alexander",
+        "familyName": "Düring",
+        "address": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen, 35392, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Tobias W. Donath",
+        "givenName": "Tobias W.",
+        "familyName": "Donath",
+        "address": "Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel, 24118, Germany"
+      },
+      {
+        "@type": "Person",
+        "name": "Carsten Eichberg",
+        "givenName": "Carsten",
+        "familyName": "Eichberg",
+        "address": "Spatial and Environmental Sciences, Trier University, Behringstraße 21, Trier, 54296, Germany"
+      }
+    ],
+    "contributor": []
   }
 ]

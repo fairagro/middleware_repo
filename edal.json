@@ -12077,6 +12077,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/920e2c01-e18d-468a-94bc-05439d155bd5/c86645e3-cc7c-4819-974e-626ce0b1303c/2",
     "@type": "Dataset",
     "author": [
@@ -13839,6 +13849,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -15868,6 +15888,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/43e62feb-1fd8-42a0-af62-f5e1a872b61c/4c61bc40-da8f-4fd5-9486-dd0ce183c205/2",
     "@type": "Dataset",
     "author": [
@@ -16005,6 +16035,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/4f1af1da-e8b4-4e45-a924-2d509e8def73/5bae5807-5121-4d73-99df-7ca2337d079a/2",
     "@type": "Dataset",
     "author": [
@@ -16072,6 +16112,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -18332,6 +18382,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -21314,6 +21374,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/8d3ae3ea-d9e2-48d2-8a13-8e6acfa25a40/e50487ea-16fe-4004-9b75-c939e8ccd20f/2",
     "@type": "Dataset",
     "author": [
@@ -23171,6 +23241,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/bfd1aba2-86e2-4b64-9825-fa795178080a/7e2741cd-5d8a-49ab-8f11-646cc6a4d36f/2",
     "@type": "Dataset",
     "author": [
@@ -23494,6 +23574,16 @@
       "@type": "Organization",
       "name": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -24289,6 +24379,49 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/c6ec7aed-fed6-416f-99e5-4d6d93cbf7a5/3c1f416a-893f-4814-bd02-fbd8a9cf9f1d/2",
+    "@type": "Dataset",
+    "author": [
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": " 85764",
+          "streetAddress": "Helmholtz Zentrum München, Ingolstädter Landstrasse 1, 85764 Neuherberg"
+        },
+        "familyName": "Gundlach",
+        "givenName": "Heidrun",
+        "name": "Heidrun Gundlach"
+      }
+    ],
+    "contributor": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "address": "Helmholtz Zentrum München, Ingolstädter Landstrasse 1, 85764 Neuherberg,  85764, Germany",
+        "familyName": "Gundlach",
+        "givenName": "Heidrun",
+        "name": "Heidrun Gundlach"
+      }
+    ],
+    "datePublished": "Mon Dec 11 09:39:37 CET 2023",
+    "description": "Annotation files in GFF format for transposons identified by homology to a repeat library (REdat_9.8_Eudicot) and de novo detected full length LTR-retrotransposons. A ReadMe file describes the used methods and the structure of the data. The annotation and data management was supported by the de.NBI grant (www.denbi.de) from the German Ministry of Education and Research (031A536B).",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE",
+      "@type": "CreativeWork"
+    },
+    "inLanguage": "en",
+    "keywords": "Cuscuta campestris, parasitic plant, genome annotation, transposons",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Transposon annotation for Cuscuta campestris.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    }
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/7f2a1a12-a15d-403e-abef-9a720819b04a/9b2b499b-9a6b-48d6-aba5-302ffe23913e/2",
     "@type": "Dataset",
     "author": [
@@ -24828,6 +24961,16 @@
       "@type": "Organization",
       "name": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -26103,6 +26246,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -29067,6 +29220,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",

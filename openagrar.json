@@ -7323,73 +7323,6 @@
   {
     "@context": "http://schema.org/",
     "@type": "Dataset",
-    "alternativeHeadline": [
-      "Data set on \"Right-wing extremist concerts and Völkisch Settlers: What opportunities do rural areas offer?\""
-    ],
-    "creator": [
-      {
-        "@type": "Person",
-        "familyName": "Deppisch",
-        "givenName": "Larissa",
-        "identifier": [
-          "https://d-nb.info/gnd/1181731615",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1181731615"
-          },
-          "https://orcid.org/0000-0001-6088-6761",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0001-6088-6761"
-          }
-        ],
-        "name": "Deppisch, Larissa"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Augstein",
-        "givenName": "Anna",
-        "identifier": [
-          "https://d-nb.info/gnd/1308892993",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1308892993"
-          }
-        ],
-        "name": "Augstein, Anna"
-      }
-    ],
-    "datePublished": "2023",
-    "description": [
-      "",
-      "Der Datensatz stellt eine Tabelle dar, welche durch den Verfassungsschutz dokumentierte und über Antworten auf kleine Anfragen an die Bundesregierung veröffentlichte Informationen zu Konzerten mit rechtsextremen musikalischen Darbietungen, die von 01/2014 bis 06/2023 stattfanden, beinhaltet. Neben Datum und Ort der Veranstaltung ist auch das Line-Up angeführt sowie die Drucksache des Deutschen Bundestags, aus welcher die Information je Fall entnommen wurde. Zusätzlich enthält der Datensatz die Kennziffer des Kreises und die Angabe zum Thünen-Typ.",
-      "",
-      "The dataset is a table containing information documented by the German Federal Office for the Protection of the Constitution and published via answers to small questions to the German Federal Government on concerts with right-wing extremist musical performances that took place from 01/2014 to 06/2023. In addition to the date and location of the event, the line-up is also listed as well as the reference number of the printed matter of the German Bundestag from which the information was taken for each case. In addition, the data set contains the district code and the information on the Thünen type."
-    ],
-    "headline": "Datensatz zu \"Rechtsextreme Konzerte und Völkische Siedler: Welche Möglichkeiten bieten ländliche Räume?\"",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/DATA20230928113909-0"
-      }
-    ],
-    "license": [
-      "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00090310",
-    "name": "Datensatz zu \"Rechtsextreme Konzerte und Völkische Siedler: Welche Möglichkeiten bieten ländliche Räume?\"",
-    "publisher": {
-      "@type": "Person",
-      "name": "OpenAgrar-Repository"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
     "alternativeHeadline": [],
     "creator": [
       {
@@ -7575,6 +7508,73 @@
     ],
     "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00091364",
     "name": "[Dataset] Scoping review of carbon pricing systems in forest sector models",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar-Repository"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [
+      "Data set on \"Right-wing extremist concerts and Völkisch Settlers: What opportunities do rural areas offer?\""
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "familyName": "Deppisch",
+        "givenName": "Larissa",
+        "identifier": [
+          "https://d-nb.info/gnd/1181731615",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1181731615"
+          },
+          "https://orcid.org/0000-0001-6088-6761",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-6088-6761"
+          }
+        ],
+        "name": "Deppisch, Larissa"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Augstein",
+        "givenName": "Anna",
+        "identifier": [
+          "https://d-nb.info/gnd/1308892993",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1308892993"
+          }
+        ],
+        "name": "Augstein, Anna"
+      }
+    ],
+    "datePublished": "2023",
+    "description": [
+      "",
+      "Der Datensatz stellt eine Tabelle dar, welche durch den Verfassungsschutz dokumentierte und über Antworten auf kleine Anfragen an die Bundesregierung veröffentlichte Informationen zu Konzerten mit rechtsextremen musikalischen Darbietungen, die von 01/2014 bis 06/2023 stattfanden, beinhaltet. Neben Datum und Ort der Veranstaltung ist auch das Line-Up angeführt sowie die Drucksache des Deutschen Bundestags, aus welcher die Information je Fall entnommen wurde. Zusätzlich enthält der Datensatz die Kennziffer des Kreises und die Angabe zum Thünen-Typ.",
+      "",
+      "The dataset is a table containing information documented by the German Federal Office for the Protection of the Constitution and published via answers to small questions to the German Federal Government on concerts with right-wing extremist musical performances that took place from 01/2014 to 06/2023. In addition to the date and location of the event, the line-up is also listed as well as the reference number of the printed matter of the German Bundestag from which the information was taken for each case. In addition, the data set contains the district code and the information on the Thünen type."
+    ],
+    "headline": "Datensatz zu \"Rechtsextreme Konzerte und Völkische Siedler: Welche Möglichkeiten bieten ländliche Räume?\"",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/DATA20230928113909-0"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00090310",
+    "name": "Datensatz zu \"Rechtsextreme Konzerte und Völkische Siedler: Welche Möglichkeiten bieten ländliche Räume?\"",
     "publisher": {
       "@type": "Person",
       "name": "OpenAgrar-Repository"

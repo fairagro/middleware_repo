@@ -1,5 +1,282 @@
 [
   {
+    "abstract": "<p>Als Grundlage f&uuml;r das fernerkundungsbasierte Monitoring von Wald&ouml;kosystemen muss die zu betrachtende Waldfl&auml;che eingegrenzt werden. Zu diesem Zweck wird in der Regel eine Wald- oder Holzbodenkarte hergestellt, welche auf einer Walddefinition basiert.</p>\r\n<p>Die hier vorgestellte bestockte Holzbodenkarte wurde auf Basis der Walddefinition der Bundeswaldinventur produziert (<a href=\"https://www.bundeswaldinventur.de/service/fachbegriffe-und-abkuerzungen\">https://www.bundeswaldinventur.de/service/fachbegriffe-und-abkuerzungen</a>). Ziel der Karte ist die Erfassung der mit Forstpflanzen bestocken Waldfl&auml;che. Dabei werden Landnutzungs- und Landbedeckungseigenschaften ber&uuml;cksichtigt, zum Beispiel geh&ouml;ren Weihnachtsbaumkulturen, Stadtparks oder Geh&ouml;lzstreifen nach dem Bundeswaldgesetzt nicht zur Waldfl&auml;che und werden nicht erfasst.</p>\r\n<p>Die Karte basiert auf den Klassen AX_Wald, AX_Sumpf, AX_Moor des Basis-DLM 2018 (<a href=\"https://gdz.bkg.bund.de/index.php/default/digitales-basis-landschaftsmodell-ebenen-basis-dlm-ebenen.html\">https://gdz.bkg.bund.de/index.php/default/digitales-basis-landschaftsmodell-ebenen-basis-dlm-ebenen.html</a>), sowie den Produkten High Resolution Layer Tree Cover Density 2015/2018 (<a href=\"https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/tree-cover-density-2018?tab=metadata\">https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/tree-cover-density-2018?tab=metadata</a>) und Feature Aditional Support Layer 2018 (<a href=\"https://land.copernicus.eu/user-corner/technical-library/forest-2018-user-manual.pdf\">https://land.copernicus.eu/user-corner/technical-library/forest-2018-user-manual.pdf</a>).</p>\r\n<p>Fl&auml;chen mit einem &Uuml;berschirmungsgrad &le; 50% und Gebiete mit einer Minimalen Fl&auml;cheneinheit (MMU) &le; 0,25 Hektar werden von der Holzbodenkarte nicht ber&uuml;cksichtigt.</p>\r\n<p>Die Genauigkeit der Karte wurde nach Stehman (2014, <a href=\"https://www.tandfonline.com/doi/full/10.1080/01431161.2014.930207\">doi.org/10.1080/01431161.2014.930207</a>) basierend auf den Waldentscheiden der Kohlenstoffinventur 2017/2018 gesch&auml;tzt. Dabei erreicht die Karte eine Gesamtgenauigkeit von 96,49 &plusmn; 0,05%, ein Produzentengenauigkeit f&uuml;r Wald von 94,06 &plusmn; 0,12%&nbsp; und eine Nutzergenauigkeit f&uuml;r Wald von 94,56 &plusmn; 0,11%. Die deutschlandweite bestockte Holzbodenfl&auml;che umfasst 10.962.639 Hektar. Damit liegt die kartierte Fl&auml;che 0,45% (49.782 Hektar) unter der bestockten Holbodenfl&auml;che nach BWI3 (<a href=\"https://bwi.info/\">https://bwi.info/</a>).</p>\r\n<p><strong>F&uuml;r Datenzugang und weitere Informationen wenden Sie sich bitte an <a href=\"fnews@thuenen.de\">fnews@thuenen.de</a>.</strong></p>",
+    "alternate": "geonode:fnews_holzbodenmaske_2018_32632",
+    "attribution": "Langner, N., Oehmichen, K., Henning, L., Blickensdörfer, L., Riedel, T.,",
+    "bbox_polygon": {
+      "coordinates": [
+        [
+          [
+            280460.0,
+            5236910.0
+          ],
+          [
+            280460.0,
+            6098380.0
+          ],
+          [
+            921220.0,
+            6098380.0
+          ],
+          [
+            921220.0,
+            5236910.0
+          ],
+          [
+            280460.0,
+            5236910.0
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "category": {
+      "identifier": "environment"
+    },
+    "constraints_other": "",
+    "created": "2022-12-02T13:19:39.850589Z",
+    "data_quality_statement": "",
+    "date": "2022-11-28T11:21:00Z",
+    "date_type": "publication",
+    "detail_url": "https://atlas.thuenen.de/layers/fnews_holzbodenmaske_2018_32632:geonode:fnews_holzbodenmaske_2018_32632",
+    "doi": "https://doi.org/10.3220/DATA20221205151218",
+    "edition": null,
+    "embed_url": "https://atlas.thuenen.de/layers/geonode:fnews_holzbodenmaske_2018_32632/embed",
+    "featured": false,
+    "group": {
+      "name": "waldatlas",
+      "pk": 5
+    },
+    "is_approved": true,
+    "is_published": true,
+    "keywords": [
+      {
+        "name": "2018",
+        "slug": "2018"
+      },
+      {
+        "name": "Holzboden",
+        "slug": "holzboden"
+      },
+      {
+        "name": "Wald",
+        "slug": "wald"
+      }
+    ],
+    "language": "ger",
+    "last_updated": "2023-12-12T14:53:47.607862Z",
+    "license": {
+      "identifier": ""
+    },
+    "link": "https://atlas.thuenen.de/api/v2/resources/99",
+    "links": [
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "Atom",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fwww.w3.org%2F2005%2FAtom&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "DIF",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "Dublin Core",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2F2.0.2&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ebRIM",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "FGDC",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ISO",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ISO with XSL",
+        "url": "https://atlas.thuenen.de/showmetadata/xsl/99"
+      },
+      {
+        "extension": "pdf",
+        "link_type": "image",
+        "mime": "application/pdf",
+        "name": "PDF",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Afnews_holzbodenmaske_2018_32632&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A32632&bbox=280460.0000000%2C5236910.0000000%2C921220.0000000%2C6098380.0000000"
+      },
+      {
+        "extension": "html",
+        "link_type": "OGC:WMS",
+        "mime": "text/html",
+        "name": "OGC WMS: geonode Service",
+        "url": "https://atlas.thuenen.de/geoserver/ows"
+      },
+      {
+        "extension": "html",
+        "link_type": "OGC:WCS",
+        "mime": "text/html",
+        "name": "OGC WCS: geonode Service",
+        "url": "https://atlas.thuenen.de/geoserver/ows"
+      },
+      {
+        "extension": "jpg",
+        "link_type": "image",
+        "mime": "image/jpeg",
+        "name": "JPEG",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Afnews_holzbodenmaske_2018_32632&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A32632&bbox=280460.0000000%2C5236910.0000000%2C921220.0000000%2C6098380.0000000"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-792b588a-5acf-11ed-862a-0242ac130006-thumb-651853ae-c88d-4553-a873-96f4a2be52fa.png"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "PNG",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Afnews_holzbodenmaske_2018_32632&format=image%2Fpng&height=550&width=550&srs=EPSG%3A32632&bbox=280460.0000000%2C5236910.0000000%2C921220.0000000%2C6098380.0000000"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Legend",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:fnews_holzbodenmaske_2018_32632&STYLE=fnews_holzbodenmaske_2018_32632&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
+      }
+    ],
+    "ll_bbox_polygon": {
+      "coordinates": [
+        [
+          [
+            5.568678471893082,
+            47.15070926692558
+          ],
+          [
+            5.568678471893082,
+            55.03221276288581
+          ],
+          [
+            15.56595534155325,
+            55.03221276288581
+          ],
+          [
+            15.56595534155325,
+            47.15070926692558
+          ],
+          [
+            5.568678471893082,
+            47.15070926692558
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "maintenance_frequency": "unknown",
+    "metadata_author": {
+      "avatar": "https://www.gravatar.com/avatar/eb8237fc547c85c92b1bd52f322091b3/?s=240",
+      "first_name": "Katja",
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "Oehmichen",
+      "link": "https://atlas.thuenen.de/api/v2/users/1032",
+      "perms": [
+        "add_resource"
+      ],
+      "pk": 1032,
+      "username": "oehmichen"
+    },
+    "metadata_only": false,
+    "owner": {
+      "avatar": "https://www.gravatar.com/avatar/152f817397c0d91a20020d79da96ce93/?s=240",
+      "first_name": "Niklas",
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "Langner",
+      "link": "https://atlas.thuenen.de/api/v2/users/1008",
+      "perms": [
+        "add_resource"
+      ],
+      "pk": 1008,
+      "username": "langner"
+    },
+    "perms": [
+      "view_resourcebase"
+    ],
+    "pk": "99",
+    "poc": {
+      "avatar": "https://www.gravatar.com/avatar/152f817397c0d91a20020d79da96ce93/?s=240",
+      "first_name": "Niklas",
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "Langner",
+      "link": "https://atlas.thuenen.de/api/v2/users/1008",
+      "perms": [
+        "add_resource"
+      ],
+      "pk": 1008,
+      "username": "langner"
+    },
+    "polymorphic_ctype_id": "70",
+    "popular_count": "6123",
+    "processed": true,
+    "purpose": "",
+    "rating": "0",
+    "raw_abstract": "Als Grundlage für das fernerkundungsbasierte Monitoring von Waldökosystemen muss die zu betrachtende Waldfläche eingegrenzt werden. Zu diesem Zweck wird in der Regel eine Wald- oder Holzbodenkarte hergestellt, welche auf einer Walddefinition basiert. Die hier vorgestellte bestockte Holzbodenkarte wurde auf Basis der Walddefinition der Bundeswaldinventur produziert (https://www.bundeswaldinventur.de/service/fachbegriffe-und-abkuerzungen). Ziel der Karte ist die Erfassung der mit Forstpflanzen bestocken Waldfläche. Dabei werden Landnutzungs- und Landbedeckungseigenschaften berücksichtigt, zum Beispiel gehören Weihnachtsbaumkulturen, Stadtparks oder Gehölzstreifen nach dem Bundeswaldgesetzt nicht zur Waldfläche und werden nicht erfasst. Die Karte basiert auf den Klassen AX_Wald, AX_Sumpf, AX_Moor des Basis-DLM 2018 (https://gdz.bkg.bund.de/index.php/default/digitales-basis-landschaftsmodell-ebenen-basis-dlm-ebenen.html), sowie den Produkten High Resolution Layer Tree Cover Density 2015/2018 (https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/tree-cover-density-2018?tab=metadata) und Feature Aditional Support Layer 2018 (https://land.copernicus.eu/user-corner/technical-library/forest-2018-user-manual.pdf). Flächen mit einem Überschirmungsgrad ≤ 50% und Gebiete mit einer Minimalen Flächeneinheit (MMU) ≤ 0,25 Hektar werden von der Holzbodenkarte nicht berücksichtigt. Die Genauigkeit der Karte wurde nach Stehman (2014, doi.org/10.1080/01431161.2014.930207) basierend auf den Waldentscheiden der Kohlenstoffinventur 2017/2018 geschätzt. Dabei erreicht die Karte eine Gesamtgenauigkeit von 96,49 ± 0,05%, ein Produzentengenauigkeit für Wald von 94,06 ± 0,12%  und eine Nutzergenauigkeit für Wald von 94,56 ± 0,11%. Die deutschlandweite bestockte Holzbodenfläche umfasst 10.962.639 Hektar. Damit liegt die kartierte Fläche 0,45% (49.782 Hektar) unter der bestockten Holbodenfläche nach BWI3 (https://bwi.info/). Für Datenzugang und weitere Informationen wenden Sie sich bitte an fnews@thuenen.de.",
+    "raw_constraints_other": "",
+    "raw_data_quality_statement": "",
+    "raw_purpose": "",
+    "raw_supplemental_information": "Die Daten können bei Niklas Langner (niklas.langner@thuenen.de) angefragt werden.",
+    "regions": [
+      {
+        "code": "GLO",
+        "name": "Global"
+      },
+      {
+        "code": "DEU",
+        "name": "Germany"
+      }
+    ],
+    "resource_type": "layer",
+    "restriction_code_type": null,
+    "share_count": "0",
+    "spatial_representation_type": {
+      "identifier": "grid"
+    },
+    "srid": "EPSG:32632",
+    "supplemental_information": "<p>Die Daten k&ouml;nnen bei <a href=\"https://www.thuenen.de/de/fachinstitute/waldoekosysteme/personal/wissenschaftliches-personal/niklas-langner\">Niklas Langner</a> (<a href=\"mailto:niklas.langner@thuenen.de\">niklas.langner@thuenen.de</a>) angefragt werden.</p>",
+    "temporal_extent_end": "2018-12-31T08:23:00Z",
+    "temporal_extent_start": "2022-11-03T08:22:00Z",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/CACHE/images/curated_thumbs/2023-03-08-272-PCIT40051-BS/fd963b8aeee719f2fe650aa82ca0f0bd.png",
+    "title": "Bestockte Holzbodenkarte 2018",
+    "tkeywords": [],
+    "uuid": "792b588a-5acf-11ed-862a-0242ac130006"
+  },
+  {
     "abstract": "<p>Der Datensatz wurde im Projekt &bdquo;Fernerkundungsbasiertes Nationales Erfassungssystem Waldsch&auml;den (FNEWS)&ldquo; zum Training und zur Optimierung eines Verfahrens zur automatisierten Erfassung von Waldsch&auml;den hergestellt und verwendet. Die Ver&ouml;ffentlichung des umfangreichen Referenzdatensatzes leistet damit einen Beitrag zur Unterst&uuml;tzung der Wissenschaft und Forschung im Bereich des fernerkundungsbasierten Waldmonitorings.</p>\r\n<p>Der bereitgestellte Geodatensatz &bdquo;referenzdaten_fnews_3_0.gpkg&ldquo; besteht aus georeferenzierten Polygonen von Waldsch&auml;den (und ungesch&auml;digten Referenzfl&auml;chen) aus den Untersuchungsgebieten des Projektes FNEWS (<a href=\"https://www.fnews-wald.de/\">fnews-wald.de</a>). Der Datensatz umfasst detaillierte Zusatzinformationen &uuml;ber Sch&auml;digung und Waldstruktur. Die erfassten Waldsch&auml;den liegen im Zeitraum von 2018 bis 2021. Der Datensatz wurde im Projekt FNEWS in Zusammenarbeit der Partner Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA), Forstliche Versuchs- und Forschungsanstalt Baden-W&uuml;rttemberg (FVA-BW), Bayerische Landesanstalt f&uuml;r Wald und Forstwirtschaft (LWF), Staatsbetrieb Sachsenforst (SBS) und dem Th&uuml;nen-Institut f&uuml;r Wald&ouml;kosysteme (TI-WO) produziert.</p>\r\n<p>Der Geodatensatz wird &uuml;ber die Plattform des Th&uuml;nen-Waldatlasses und OpenAgrar im Rahmen einer CC-BY 4.0 Lizenz publiziert. Die Bereitstellung erfolgt per OGC Compliance Dienst (WMS) und als lokaler <a href=\"https://doi.org/10.3220/DATA20231025183526-0\">Download</a>. Der lokale <a href=\"https://doi.org/10.3220/DATA20231025183526-0\">Download</a> wird &uuml;ber die Plattform&nbsp;&nbsp;<a href=\"https://doi.org/10.3220/DATA20231025183526-0\">OpenAgrar</a> angeboten. Download der Geodaten <a href=\"https://doi.org/10.3220/DATA20231025183526-0\">hier</a>.</p>\r\n<p>Der Geodatensatz liegt im Koordinatensystem WGS 84 / UTM Zone 32N (EPSG: 32632) vor und umfasst 16.300 Polygone aus den Untersuchungsgebieten der Bundeslandpartner. Als Zusatzinformationen werden neun Attribute pro Polygon bereitgestellt. Die Attribute wurden von forstlichen Experten aus den Bundesl&auml;ndern auf Basis unterschiedlicher Sachdaten definiert. Attribute, die nicht eindeutig bestimmt werden konnten, tragen einen Leerwert.</p>\r\n<p><strong>F&uuml;r weitere Informationen wenden Sie sich bitte an</strong> <a href=\"fnews@thuenen.de\">fnews@thuenen.de</a>.</p>",
     "alternate": "geonode:referenzdaten_fnews_3_0",
     "attribution": "Langner N., Oehmichen K., Backa J., Eisenecker P., Reinosch E., Wiesehahn J., Hoffmann K., Adler P., Beckschäfer P.",
@@ -257,7 +534,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "169",
+    "popular_count": "254",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -286,283 +563,6 @@
     "title": "Referenzdaten aus dem Projekt FNEWs",
     "tkeywords": [],
     "uuid": "d4c93e51-bb5a-43b5-8f23-1b92c68a707d"
-  },
-  {
-    "abstract": "<p>Als Grundlage f&uuml;r das fernerkundungsbasierte Monitoring von Wald&ouml;kosystemen muss die zu betrachtende Waldfl&auml;che eingegrenzt werden. Zu diesem Zweck wird in der Regel eine Wald- oder Holzbodenkarte hergestellt, welche auf einer Walddefinition basiert.</p>\r\n<p>Die hier vorgestellte bestockte Holzbodenkarte wurde auf Basis der Walddefinition der Bundeswaldinventur produziert (<a href=\"https://www.bundeswaldinventur.de/service/fachbegriffe-und-abkuerzungen\">https://www.bundeswaldinventur.de/service/fachbegriffe-und-abkuerzungen</a>). Ziel der Karte ist die Erfassung der mit Forstpflanzen bestocken Waldfl&auml;che. Dabei werden Landnutzungs- und Landbedeckungseigenschaften ber&uuml;cksichtigt, zum Beispiel geh&ouml;ren Weihnachtsbaumkulturen, Stadtparks oder Geh&ouml;lzstreifen nach dem Bundeswaldgesetzt nicht zur Waldfl&auml;che und werden nicht erfasst.</p>\r\n<p>Die Karte basiert auf den Klassen AX_Wald, AX_Sumpf, AX_Moor des Basis-DLM 2018 (<a href=\"https://gdz.bkg.bund.de/index.php/default/digitales-basis-landschaftsmodell-ebenen-basis-dlm-ebenen.html\">https://gdz.bkg.bund.de/index.php/default/digitales-basis-landschaftsmodell-ebenen-basis-dlm-ebenen.html</a>), sowie den Produkten High Resolution Layer Tree Cover Density 2015/2018 (<a href=\"https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/tree-cover-density-2018?tab=metadata\">https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/tree-cover-density-2018?tab=metadata</a>) und Feature Aditional Support Layer 2018 (<a href=\"https://land.copernicus.eu/user-corner/technical-library/forest-2018-user-manual.pdf\">https://land.copernicus.eu/user-corner/technical-library/forest-2018-user-manual.pdf</a>).</p>\r\n<p>Fl&auml;chen mit einem &Uuml;berschirmungsgrad &le; 50% und Gebiete mit einer Minimalen Fl&auml;cheneinheit (MMU) &le; 0,25 Hektar werden von der Holzbodenkarte nicht ber&uuml;cksichtigt.</p>\r\n<p>Die Genauigkeit der Karte wurde nach Stehman (2014, <a href=\"https://www.tandfonline.com/doi/full/10.1080/01431161.2014.930207\">doi.org/10.1080/01431161.2014.930207</a>) basierend auf den Waldentscheiden der Kohlenstoffinventur 2017/2018 gesch&auml;tzt. Dabei erreicht die Karte eine Gesamtgenauigkeit von 96,49 &plusmn; 0,05%, ein Produzentengenauigkeit f&uuml;r Wald von 94,06 &plusmn; 0,12%&nbsp; und eine Nutzergenauigkeit f&uuml;r Wald von 94,56 &plusmn; 0,11%. Die deutschlandweite bestockte Holzbodenfl&auml;che umfasst 10.962.638,95 Hektar. Damit liegt die kartierte Fl&auml;che 0,45% (97.80,91 Hektar) unter der bestockten Holbodenfl&auml;che nach BWI3 (<a href=\"https://bwi.info/\">https://bwi.info/</a>).</p>\r\n<p><strong>F&uuml;r Datenzugang und weitere Informationen wenden Sie sich bitte an <a href=\"fnews@thuenen.de\">fnews@thuenen.de</a>.</strong></p>",
-    "alternate": "geonode:fnews_holzbodenmaske_2018_32632",
-    "attribution": "Langner, N., Oehmichen, K., Henning, L., Blickensdörfer, L., Riedel, T.,",
-    "bbox_polygon": {
-      "coordinates": [
-        [
-          [
-            280460.0,
-            5236910.0
-          ],
-          [
-            280460.0,
-            6098380.0
-          ],
-          [
-            921220.0,
-            6098380.0
-          ],
-          [
-            921220.0,
-            5236910.0
-          ],
-          [
-            280460.0,
-            5236910.0
-          ]
-        ]
-      ],
-      "type": "Polygon"
-    },
-    "category": {
-      "identifier": "environment"
-    },
-    "constraints_other": "",
-    "created": "2022-12-02T13:19:39.850589Z",
-    "data_quality_statement": "",
-    "date": "2022-11-28T11:21:00Z",
-    "date_type": "publication",
-    "detail_url": "https://atlas.thuenen.de/layers/fnews_holzbodenmaske_2018_32632:geonode:fnews_holzbodenmaske_2018_32632",
-    "doi": "https://doi.org/10.3220/DATA20221205151218",
-    "edition": null,
-    "embed_url": "https://atlas.thuenen.de/layers/geonode:fnews_holzbodenmaske_2018_32632/embed",
-    "featured": false,
-    "group": {
-      "name": "waldatlas",
-      "pk": 5
-    },
-    "is_approved": true,
-    "is_published": true,
-    "keywords": [
-      {
-        "name": "2018",
-        "slug": "2018"
-      },
-      {
-        "name": "Holzboden",
-        "slug": "holzboden"
-      },
-      {
-        "name": "Wald",
-        "slug": "wald"
-      }
-    ],
-    "language": "ger",
-    "last_updated": "2023-11-02T12:56:17.520333Z",
-    "license": {
-      "identifier": ""
-    },
-    "link": "https://atlas.thuenen.de/api/v2/resources/99",
-    "links": [
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "Atom",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fwww.w3.org%2F2005%2FAtom&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "DIF",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "Dublin Core",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2F2.0.2&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "ebRIM",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "FGDC",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "ISO",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=792b588a-5acf-11ed-862a-0242ac130006&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "ISO with XSL",
-        "url": "https://atlas.thuenen.de/showmetadata/xsl/99"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Legend",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:fnews_holzbodenmaske_2018_32632&STYLE=fnews_holzbodenmaske_2018_32632&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "PNG",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Afnews_holzbodenmaske_2018_32632&format=image%2Fpng&height=550&width=550&srs=EPSG%3A32632&bbox=280460.0000000%2C5236910.0000000%2C921220.0000000%2C6098380.0000000"
-      },
-      {
-        "extension": "pdf",
-        "link_type": "image",
-        "mime": "application/pdf",
-        "name": "PDF",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Afnews_holzbodenmaske_2018_32632&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A32632&bbox=280460.0000000%2C5236910.0000000%2C921220.0000000%2C6098380.0000000"
-      },
-      {
-        "extension": "html",
-        "link_type": "OGC:WMS",
-        "mime": "text/html",
-        "name": "OGC WMS: geonode Service",
-        "url": "https://atlas.thuenen.de/geoserver/ows"
-      },
-      {
-        "extension": "html",
-        "link_type": "OGC:WCS",
-        "mime": "text/html",
-        "name": "OGC WCS: geonode Service",
-        "url": "https://atlas.thuenen.de/geoserver/ows"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-792b588a-5acf-11ed-862a-0242ac130006-thumb-a4b193cb-dd14-40fb-861b-e6713e908f82.png"
-      },
-      {
-        "extension": "jpg",
-        "link_type": "image",
-        "mime": "image/jpeg",
-        "name": "JPEG",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Afnews_holzbodenmaske_2018_32632&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A32632&bbox=280460.0000000%2C5236910.0000000%2C921220.0000000%2C6098380.0000000"
-      }
-    ],
-    "ll_bbox_polygon": {
-      "coordinates": [
-        [
-          [
-            5.568678471893082,
-            47.15070926692558
-          ],
-          [
-            5.568678471893082,
-            55.03221276288581
-          ],
-          [
-            15.56595534155325,
-            55.03221276288581
-          ],
-          [
-            15.56595534155325,
-            47.15070926692558
-          ],
-          [
-            5.568678471893082,
-            47.15070926692558
-          ]
-        ]
-      ],
-      "type": "Polygon"
-    },
-    "maintenance_frequency": "unknown",
-    "metadata_author": {
-      "avatar": "https://www.gravatar.com/avatar/eb8237fc547c85c92b1bd52f322091b3/?s=240",
-      "first_name": "Katja",
-      "is_staff": false,
-      "is_superuser": false,
-      "last_name": "Oehmichen",
-      "link": "https://atlas.thuenen.de/api/v2/users/1032",
-      "perms": [
-        "add_resource"
-      ],
-      "pk": 1032,
-      "username": "oehmichen"
-    },
-    "metadata_only": false,
-    "owner": {
-      "avatar": "https://www.gravatar.com/avatar/152f817397c0d91a20020d79da96ce93/?s=240",
-      "first_name": "Niklas",
-      "is_staff": false,
-      "is_superuser": false,
-      "last_name": "Langner",
-      "link": "https://atlas.thuenen.de/api/v2/users/1008",
-      "perms": [
-        "add_resource"
-      ],
-      "pk": 1008,
-      "username": "langner"
-    },
-    "perms": [
-      "view_resourcebase"
-    ],
-    "pk": "99",
-    "poc": {
-      "avatar": "https://www.gravatar.com/avatar/152f817397c0d91a20020d79da96ce93/?s=240",
-      "first_name": "Niklas",
-      "is_staff": false,
-      "is_superuser": false,
-      "last_name": "Langner",
-      "link": "https://atlas.thuenen.de/api/v2/users/1008",
-      "perms": [
-        "add_resource"
-      ],
-      "pk": 1008,
-      "username": "langner"
-    },
-    "polymorphic_ctype_id": "70",
-    "popular_count": "5936",
-    "processed": true,
-    "purpose": "",
-    "rating": "0",
-    "raw_abstract": "Als Grundlage für das fernerkundungsbasierte Monitoring von Waldökosystemen muss die zu betrachtende Waldfläche eingegrenzt werden. Zu diesem Zweck wird in der Regel eine Wald- oder Holzbodenkarte hergestellt, welche auf einer Walddefinition basiert. Die hier vorgestellte bestockte Holzbodenkarte wurde auf Basis der Walddefinition der Bundeswaldinventur produziert (https://www.bundeswaldinventur.de/service/fachbegriffe-und-abkuerzungen). Ziel der Karte ist die Erfassung der mit Forstpflanzen bestocken Waldfläche. Dabei werden Landnutzungs- und Landbedeckungseigenschaften berücksichtigt, zum Beispiel gehören Weihnachtsbaumkulturen, Stadtparks oder Gehölzstreifen nach dem Bundeswaldgesetzt nicht zur Waldfläche und werden nicht erfasst. Die Karte basiert auf den Klassen AX_Wald, AX_Sumpf, AX_Moor des Basis-DLM 2018 (https://gdz.bkg.bund.de/index.php/default/digitales-basis-landschaftsmodell-ebenen-basis-dlm-ebenen.html), sowie den Produkten High Resolution Layer Tree Cover Density 2015/2018 (https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/tree-cover-density-2018?tab=metadata) und Feature Aditional Support Layer 2018 (https://land.copernicus.eu/user-corner/technical-library/forest-2018-user-manual.pdf). Flächen mit einem Überschirmungsgrad ≤ 50% und Gebiete mit einer Minimalen Flächeneinheit (MMU) ≤ 0,25 Hektar werden von der Holzbodenkarte nicht berücksichtigt. Die Genauigkeit der Karte wurde nach Stehman (2014, doi.org/10.1080/01431161.2014.930207) basierend auf den Waldentscheiden der Kohlenstoffinventur 2017/2018 geschätzt. Dabei erreicht die Karte eine Gesamtgenauigkeit von 96,49 ± 0,05%, ein Produzentengenauigkeit für Wald von 94,06 ± 0,12%  und eine Nutzergenauigkeit für Wald von 94,56 ± 0,11%. Die deutschlandweite bestockte Holzbodenfläche umfasst 10.962.638,95 Hektar. Damit liegt die kartierte Fläche 0,45% (97.80,91 Hektar) unter der bestockten Holbodenfläche nach BWI3 (https://bwi.info/). Für Datenzugang und weitere Informationen wenden Sie sich bitte an fnews@thuenen.de.",
-    "raw_constraints_other": "",
-    "raw_data_quality_statement": "",
-    "raw_purpose": "",
-    "raw_supplemental_information": "Die Daten können bei Niklas Langner (niklas.langner@thuenen.de) angefragt werden.",
-    "regions": [
-      {
-        "code": "GLO",
-        "name": "Global"
-      },
-      {
-        "code": "DEU",
-        "name": "Germany"
-      }
-    ],
-    "resource_type": "layer",
-    "restriction_code_type": null,
-    "share_count": "0",
-    "spatial_representation_type": {
-      "identifier": "grid"
-    },
-    "srid": "EPSG:32632",
-    "supplemental_information": "<p>Die Daten k&ouml;nnen bei <a href=\"https://www.thuenen.de/de/fachinstitute/waldoekosysteme/personal/wissenschaftliches-personal/niklas-langner\">Niklas Langner</a> (<a href=\"mailto:niklas.langner@thuenen.de\">niklas.langner@thuenen.de</a>) angefragt werden.</p>",
-    "temporal_extent_end": "2018-12-31T08:23:00Z",
-    "temporal_extent_start": "2022-11-03T08:22:00Z",
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/CACHE/images/curated_thumbs/2023-03-08-272-PCIT40051-BS/fd963b8aeee719f2fe650aa82ca0f0bd.png",
-    "title": "Bestockte Holzbodenkarte 2018",
-    "tkeywords": [],
-    "uuid": "792b588a-5acf-11ed-862a-0242ac130006"
   },
   {
     "abstract": "<p>Im Projekt Fernerkundungsbasiertes Nationales Erfassungssystem f&uuml;r Waldsch&auml;den (FNEWS) werden Waldsch&auml;den auf Grundlage eines strukturellen Zeitreihenmodells in Kombination mit dem Kalman-Filter erfasst. Das auf Sentinel-2-Satellitendaten basierende Waldschadenerfassungssystem erm&ouml;glicht differenzierte Ver&auml;nderungs- und Schadanalysen f&uuml;r die vier Untersuchungsgebiete des Projektes, die in Sachsen, Niedersachsen, Bayern und Baden-W&uuml;rttemberg liegen. In dem vorliegenden Datensatz sind die j&auml;hrlichen Waldsch&auml;den, die jeweils im Zeitraum vom 01.09. bis 31.08. erkannt wurden, als Jahresprodukte von 2018 bis 2022 zusammengestellt. Der Stichtag der Produkte ist jeweils der 31.08.. Die Genauigkeit der Jahresprodukte wurde nach Stehman (2014, doi.org/10.1080/01431161.2014.930207) auf Basis stichprobenbasierter Validierungen berechnet. Dabei erreichen die Produkte eine Gesamtgenauigkeit im Bereich von &ge; 95%.</p>\r\n<p>Die Jahresprodukte wurden nur f&uuml;r bestockte Waldfl&auml;chen, d.h. innerhalb der bestockten Holzbodenfl&auml;che (2023, doi.org/10.3220/DATA20221205151218) berechnet. Im Anschluss wurden die Ergebnisse mit der deutschlandweiten Baumartenkarte (2023, doi.org/10.3220/DATA20221214084846) verschnitten. F&uuml;r jede Schadfl&auml;che wird der Stichtag, die Fl&auml;che in Hektar und die dominierende Baumart nach Blickensd&ouml;rfer (2023) angegeben.</p>\r\n<p>Die Jahresprodukte als Ergebnisse des Projektes FNEWs bieten umfassende Anwendungsm&ouml;glichkeiten f&uuml;r Forstwirtschaft, Wissenschaft und Politik. Die Einordnung der Sch&auml;den wird als Basis f&uuml;r die forstliche Planung, politische Ma&szlig;nahmen und die Modellierung weiterer Faktoren genutzt. Auf Basis der Jahresprodukte wurde dar&uuml;ber hinaus eine &ouml;konomische Bewertung der Waldsch&auml;den im Projekt durchgef&uuml;hrt.</p>\r\n<p><strong>F&uuml;r den Datenzugang und weitere Informationen wenden Sie sich bitte an </strong><a href=\"mailto:fnews@thuenen.de\">fnews@thuenen.de</a>.</p>",
@@ -831,7 +831,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "754",
+    "popular_count": "845",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1176,7 +1176,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "949",
+    "popular_count": "991",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1463,7 +1463,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "219",
+    "popular_count": "240",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1743,7 +1743,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "756",
+    "popular_count": "801",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -2030,7 +2030,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "42",
+    "popular_count": "46",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -2326,7 +2326,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "154",
+    "popular_count": "170",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -2615,7 +2615,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "293",
+    "popular_count": "321",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -2846,7 +2846,7 @@
       "username": "arbeitsgruppe-moore"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "662",
+    "popular_count": "810",
     "processed": true,
     "purpose": "<p>Kartendarstellung der im Datensatz \"Aktualisierte Kulisse organischer B&ouml;den in Deutschland\" enthaltenen Merkmale:</p>\r\n<ul>\r\n<li>Genese</li>\r\n<li>Mineralische &Uuml;berdeckung (M&auml;chtigkeit)</li>\r\n<li>Mineralische &Uuml;berdeckung (Substrat)</li>\r\n<li>Torfm&auml;chtigkeit</li>\r\n<li>Abmoorigkeit</li>\r\n<li>Tiefumbruch</li>\r\n<li>Unterlagernde Mudden</li>\r\n<li>Unterlagerndes mineralisches Substrat</li>\r\n</ul>\r\n<p>Eine &Uuml;bersicht aller verwendeten Merkmale sowie deren Auspr&auml;gungen und Klassifikationen findet sich im Th&uuml;nen Working Paper 212, Tabelle 4, S. 33.<br />DOI: <a href=\"https://doi.org/10.3220/WP1683180852000\">10.3220/WP1683180852000 </a></p>",
     "rating": "0",
@@ -3291,7 +3291,7 @@
       "username": "arbeitsgruppe-moore"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "23533",
+    "popular_count": "25034",
     "processed": true,
     "purpose": "<p>Verwendung in der Emissionsberichterstattung und Grundlage f&uuml;r deutschlandweite Fragestellungen zu organischen B&ouml;den.</p>",
     "rating": "0",
@@ -3558,7 +3558,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1869",
+    "popular_count": "1883",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -3816,7 +3816,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "934",
+    "popular_count": "940",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4074,7 +4074,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1013",
+    "popular_count": "1022",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4332,7 +4332,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "973",
+    "popular_count": "982",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4599,7 +4599,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1057",
+    "popular_count": "1072",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4870,7 +4870,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "750",
+    "popular_count": "787",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5141,7 +5141,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "3524",
+    "popular_count": "3687",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5412,7 +5412,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "860",
+    "popular_count": "888",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5683,7 +5683,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "794",
+    "popular_count": "817",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5954,7 +5954,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "737",
+    "popular_count": "760",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -6225,7 +6225,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1117",
+    "popular_count": "1138",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -6440,7 +6440,7 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "217",
+    "popular_count": "232",
     "processed": true,
     "purpose": "<p>Untersuchungsfl&auml;chen im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
     "rating": "0",
@@ -6698,7 +6698,7 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "168",
+    "popular_count": "180",
     "processed": true,
     "purpose": "<p>Untersuchungsfl&auml;chen f&uuml;r das Nisthilfe-Monitoring im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
     "rating": "0",
@@ -6954,7 +6954,7 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "151",
+    "popular_count": "157",
     "processed": true,
     "purpose": "<p>Untersuchungsfl&auml;chen im Hummel-Monitoring im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
     "rating": "0",
@@ -7260,7 +7260,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1275",
+    "popular_count": "1301",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -7577,7 +7577,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "3661",
+    "popular_count": "3726",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -7892,7 +7892,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1579",
+    "popular_count": "1616",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8209,7 +8209,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2129",
+    "popular_count": "2211",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8526,7 +8526,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1955",
+    "popular_count": "1982",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8848,7 +8848,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1364",
+    "popular_count": "1404",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9172,7 +9172,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1425",
+    "popular_count": "1459",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9496,7 +9496,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1253",
+    "popular_count": "1275",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9850,7 +9850,7 @@
       "username": "dehler"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "233",
+    "popular_count": "248",
     "processed": true,
     "purpose": "<p>Die Ernteertr&auml;ge innerhalb einer Fl&auml;che sind keineswegs konstant. Einflussfaktoren wie die Bodeng&uuml;te haben einen hohen Einfluss auf den Ertrag und auf die damit notwendige Intensit&auml;t von Inputs wie Saatst&auml;rke, D&uuml;nger und Pflanzenschutzmittel.</p>",
     "rating": "0",
@@ -10116,7 +10116,7 @@
       "username": "dehler"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "462",
+    "popular_count": "487",
     "processed": true,
     "purpose": "<p>Die Ernteertr&auml;ge innerhalb einer Fl&auml;che sind keineswegs konstant. Einflussfaktoren wie die Bodeng&uuml;te haben einen hohen Einfluss auf den Ertrag und auf die damit notwendige Intensit&auml;t von Inputs wie Saatst&auml;rke, D&uuml;nger und Pflanzenschutzmittel.</p>",
     "rating": "0",
@@ -10393,7 +10393,7 @@
       "username": "saggau"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "581",
+    "popular_count": "624",
     "processed": true,
     "purpose": "<p>Die Daten sind Bestandteil des Projekts \"<a href=\"https://www.thuenen.de/de/institutsuebergreifende-projekte/hotspots-erosion\">Hotspots der Bodenerosionsgef&auml;hrdung in Deutschland</a>\".</p>",
     "rating": "0",
@@ -10675,7 +10675,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "202",
+    "popular_count": "227",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -10957,7 +10957,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "207",
+    "popular_count": "217",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -11239,7 +11239,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "171",
+    "popular_count": "187",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -11521,7 +11521,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "243",
+    "popular_count": "254",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -11803,7 +11803,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "608",
+    "popular_count": "638",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -12085,7 +12085,7 @@
       "username": "broeg"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "651",
+    "popular_count": "717",
     "processed": true,
     "purpose": "<p>The bare soil information contributes to a set of geospatial co-variates for the estimation of status and trends in soil parameters for Germany at high spatial resolution. The work is part of the project&nbsp;<a href=\"https://www.thuenen.de/de/fachinstitute/betriebswirtschaft/projekte/fernerkundung-fuer-eine-verbesserung-der-klimaberichterstattung-klimafern-1\"> KlimaFern </a>at Th&uuml;nen Institute.</p>",
     "rating": "0",
@@ -12409,7 +12409,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "142",
+    "popular_count": "151",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -12712,7 +12712,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "166",
+    "popular_count": "172",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -13029,7 +13029,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "157",
+    "popular_count": "165",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -13371,7 +13371,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "312",
+    "popular_count": "330",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -13660,7 +13660,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "995",
+    "popular_count": "1070",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14009,7 +14009,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1159",
+    "popular_count": "1241",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14298,7 +14298,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "108",
+    "popular_count": "123",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14615,7 +14615,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "211",
+    "popular_count": "237",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14932,7 +14932,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "125",
+    "popular_count": "131",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -15222,7 +15222,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "335",
+    "popular_count": "371",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -15508,7 +15508,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "363",
+    "popular_count": "395",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -15794,7 +15794,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "228",
+    "popular_count": "239",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16080,7 +16080,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "269",
+    "popular_count": "288",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16366,7 +16366,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "257",
+    "popular_count": "279",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16652,7 +16652,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "347",
+    "popular_count": "374",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16955,7 +16955,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "123",
+    "popular_count": "134",
     "processed": true,
     "purpose": "<p>Flederm&auml;use besiedeln in Deutschland s&auml;mtliche Naturr&auml;ume und hier sowohl nat&uuml;rliche bzw. naturnahe Biotope, als auch intensiv anthropogen &uuml;berpr&auml;gte. Mit einem Anteil von 50 % nehmen landwirtschaftliche Nutzfl&auml;chen den mit Abstand bedeutendsten Anteil an der Gesamtfl&auml;che von Deutschland ein. Es ist also nicht verwunderlich, dass f&uuml;r Flederm&auml;use, einer Artengruppe mit oft gro&szlig;em Aktionsraum, die Agrarlandschaft einen essentiellen Teil ihres Lebensraumes darstellt. Selbst eng an W&auml;lder gebundene Fledermausarten nutzen zumindest partiell die Agrarlandschaft, sei es zu lokalen Ortswechseln, zur Migration zwischen Sommer- und Winterlebensr&auml;umen oder etwa zur Jagd z. B. im &Ouml;kotonbereich von Waldrandstrukturen. Als zumeist opportunistisch agierende J&auml;ger, die sich mit wenigen Ausnahmen von Fluginsekten ern&auml;hren, nutzen Flederm&auml;use ihren Lebensraum oft sehr variabel, abh&auml;ngig vom verf&uuml;gbaren Beutespektrum und -angebot. Durch die enge Korrelation des Insektenvorkommens mit der landschaftlichen Ausstattung und der Bewirtschaftungsform sind Flederm&auml;use und hier insbesondere die Offenlandarten gute Indikatoren zur Ermittlung des Naturwertes von Landwirtschaftsfl&auml;chen. Es kann prognostiziert werden, dass eine naturnahe Auspr&auml;gung der Landschaft bzw. das Vorkommen von Strukturelementen, wie z. B. Hecken, Kleingew&auml;ssern oder Bl&uuml;hstreifen einen positiven Effekt auf die Vitalit&auml;t von Fledermausgemeinschaften hat. Demgegen&uuml;ber kann eine intensiv genutzte, strukturell verarmte Agrarlandschaft genauso negative Effekte f&uuml;r die Fledermausbesiedlung haben. So kann das Fehlen von Leitstrukturen f&uuml;r strukturgebundene Fledermausarten Zerschneidungseffekte bewirken, da von vielen Arten weitr&auml;umige Offenfl&auml;chen nicht oder nur in geringem Umfang &uuml;berflogen werden. Direkt auf die individuelle Fitness des Einzelindividuums wirkt sich ggf. ein verringertes Nahrungsangebot oder die Pestizidbelastung von Beutensekten aus. Zielstellung der Untersuchung ist es, die Bedeutung von Strukturelementen in landwirtschaftlichen Nutzfl&auml;chen f&uuml;r das Auftreten von Flederm&auml;usen und deren Raumnutzungsverhalten herauszustellen. Prognostiziert wird, dass die Aktivit&auml;t von Flederm&auml;usen abh&auml;ngig von dem untersuchten Landschaftselement ist und diese mit besserer Habitatausstattung steigt bzw. im Gegenzug die Aktivit&auml;tsdichte in prognostiziert weniger attraktiven Bereichen geringer ausf&auml;llt.</p>",
     "rating": "0",
@@ -17252,7 +17252,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2690",
+    "popular_count": "2769",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -17551,7 +17551,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "5454",
+    "popular_count": "5649",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -17798,7 +17798,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "412",
+    "popular_count": "453",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18004,7 +18004,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "495",
+    "popular_count": "512",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18215,7 +18215,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "1032",
+    "popular_count": "1042",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18426,7 +18426,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "2252",
+    "popular_count": "2285",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18658,7 +18658,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "711",
+    "popular_count": "723",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -19018,7 +19018,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "240",
+    "popular_count": "266",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -19376,7 +19376,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "638",
+    "popular_count": "678",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -19734,7 +19734,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "423",
+    "popular_count": "450",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20092,7 +20092,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "142",
+    "popular_count": "153",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20450,7 +20450,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "247",
+    "popular_count": "273",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20808,7 +20808,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "136",
+    "popular_count": "150",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -21166,7 +21166,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "227",
+    "popular_count": "246",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -21524,7 +21524,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "435",
+    "popular_count": "467",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -21882,7 +21882,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "441",
+    "popular_count": "463",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -22240,7 +22240,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "453",
+    "popular_count": "474",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -22598,7 +22598,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "394",
+    "popular_count": "423",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -22956,7 +22956,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "435",
+    "popular_count": "468",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -23248,7 +23248,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "185",
+    "popular_count": "203",
     "processed": true,
     "purpose": "<p>Flederm&auml;use besiedeln in Deutschland s&auml;mtliche Naturr&auml;ume und hier sowohl nat&uuml;rliche bzw. naturnahe Biotope, als auch intensiv anthropogen &uuml;berpr&auml;gte. Mit einem Anteil von 50 % nehmen landwirtschaftliche Nutzfl&auml;chen den mit Abstand bedeutendsten Anteil an der Gesamtfl&auml;che von Deutschland ein. Es ist also nicht verwunderlich, dass f&uuml;r Flederm&auml;use, einer Artengruppe mit oft gro&szlig;em Aktionsraum, die Agrarlandschaft einen essentiellen Teil ihres Lebensraumes darstellt. Selbst eng an W&auml;lder gebundene Fledermausarten nutzen zumindest partiell die Agrarlandschaft, sei es zu lokalen Ortswechseln, zur Migration zwischen Sommer- und Winterlebensr&auml;umen oder etwa zur Jagd z. B. im &Ouml;kotonbereich von Waldrandstrukturen. Als zumeist opportunistisch agierende J&auml;ger, die sich mit wenigen Ausnahmen von Fluginsekten ern&auml;hren, nutzen Flederm&auml;use ihren Lebensraum oft sehr variabel, abh&auml;ngig vom verf&uuml;gbaren Beutespektrum und -angebot. Durch die enge Korrelation des Insektenvorkommens mit der landschaftlichen Ausstattung und der Bewirtschaftungsform sind Flederm&auml;use und hier insbesondere die Offenlandarten gute Indikatoren zur Ermittlung des Naturwertes von Landwirtschaftsfl&auml;chen. Es kann prognostiziert werden, dass eine naturnahe Auspr&auml;gung der Landschaft bzw. das Vorkommen von Strukturelementen, wie z. B. Hecken, Kleingew&auml;ssern oder Bl&uuml;hstreifen einen positiven Effekt auf die Vitalit&auml;t von Fledermausgemeinschaften hat. Demgegen&uuml;ber kann eine intensiv genutzte, strukturell verarmte Agrarlandschaft genauso negative Effekte f&uuml;r die Fledermausbesiedlung haben. So kann das Fehlen von Leitstrukturen f&uuml;r strukturgebundene Fledermausarten Zerschneidungseffekte bewirken, da von vielen Arten weitr&auml;umige Offenfl&auml;chen nicht oder nur in geringem Umfang &uuml;berflogen werden. Direkt auf die individuelle Fitness des Einzelindividuums wirkt sich ggf. ein verringertes Nahrungsangebot oder die Pestizidbelastung von Beutensekten aus. Zielstellung der Untersuchung ist es, die Bedeutung von Strukturelementen in landwirtschaftlichen Nutzfl&auml;chen f&uuml;r das Auftreten von Flederm&auml;usen und deren Raumnutzungsverhalten herauszustellen. Prognostiziert wird, dass die Aktivit&auml;t von Flederm&auml;usen abh&auml;ngig von dem untersuchten Landschaftselement ist und diese mit besserer Habitatausstattung steigt bzw. im Gegenzug die Aktivit&auml;tsdichte in prognostiziert weniger attraktiven Bereichen geringer ausf&auml;llt.</p>",
     "rating": "0",
@@ -23535,7 +23535,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "153",
+    "popular_count": "164",
     "processed": true,
     "purpose": "<p>Die Carabiden sind gute Bioindikatoren f&uuml;r den Zustand der &Ouml;kosysteme. Ihr Vorkommen bzw. Fehlen weist bestimmte Erhaltungszust&auml;nde aus. Carabiden sind wesentliche Bestandteile von Agrar&ouml;kosystemen und sollten in diesen nach M&ouml;glichkeit Habitatbedingungen vorfinden, in denen sie sich in standorttypischer Artenzusammensetzung ansiedeln k&ouml;nnen.</p>",
     "rating": "0",
@@ -23748,7 +23748,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "93",
+    "popular_count": "99",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -24379,7 +24379,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "149",
+    "popular_count": "159",
     "processed": true,
     "purpose": "<p>Ermittlung von Qualit&auml;t und Quantit&auml; der Fruchtfolgenwechsel zur Beurteilung der nachhaltigen Sicherung heimischer Flora und Fauna.</p>",
     "rating": "0",
@@ -24743,7 +24743,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "20",
+    "popular_count": "26",
     "processed": true,
     "purpose": "<p>Amphibien ben&ouml;tigen f&uuml;r ihre Vermehrung Laichgew&auml;sser in artspezifischen Auspr&auml;gungen. Grundvoraussetzung f&uuml;r das langfristige &Uuml;berleben ist daher in der Ackerlandschaft der Erhalt von geeigneten Kleingew&auml;ssern, wie S&ouml;llen und Ackernassstellen. Die meisten Arten verlassen nach dem Laichen das Gew&auml;sser und suchen geeignete Sommerlebensr&auml;ume auf, h&auml;ufig in unmittelbarer N&auml;he zu ihrem Laichgew&auml;sser. Beeintr&auml;chtigungen oder Zerst&ouml;rungen der Laichgew&auml;sser sowie eine intensive Landwirtschaft in deren Umgebung sind Hauptursachen f&uuml;r den R&uuml;ckgang von Amphibienpopulationen. Ziel der Untersuchungen ist in erster Linie das Finden von vorhandenen Amphibienpopulationen in den Standgew&auml;ssern des Untersuchungsgebietes. Diese bed&uuml;rfen einem besonderen Schutz gegen&uuml;ber Gew&auml;sserbeeintr&auml;chtigungen, insbesondere gegen&uuml;ber eingeschwemmten Bioziden. Entscheidend f&uuml;r eine erfolgreiche Vermehrung sind zudem auch Ausstattung und Struktur der Gew&auml;sser (Besonnung, flache/tiefe Wasserzonen, Makrophytenbewuchs, Uferstruktur). Die untersuchten Kleingew&auml;sser sind diesbez&uuml;glich zu bewerten. Weiterhin sind nach M&ouml;glichkeit Landhabitate (Sommer- und Winterlebensraum) der Amphibien zu lokalisieren.</p>",
     "rating": "0",
@@ -25042,7 +25042,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "24",
+    "popular_count": "32",
     "processed": true,
     "purpose": "<p>Das Untersuchungsgebiet (Analyseraum) liegt in zwei gro&szlig;en Flussgebieten in Mecklenburg-Vorpommern, so dass eine hydrologisch und wasserwirtschaftlich bedeutsame oberirdische Wasserscheide besteht. Insofern sind auch zwei ma&szlig;gebliche oberirdische Teileinzugsgebiete von Bedeutung, die nachfolgend f&uuml;r systembezogene Analysen betrachtet werden (Hydrologie, Bodenerosion etc.), h&auml;ufig als &bdquo;Analyseraum&ldquo; bezeichnet.</p>\r\n<p>Desgleichen widerspiegelt sich die gro&szlig;r&auml;umige hydrologische Situation bzw. Entw&auml;sserungsrichtung bei den Grundwasserverh&auml;ltnissen.</p>\r\n<p>Die hydrologische Situation f&uuml;hrt auch in wasserwirtschaftlicher Hinsicht zur Notwendigkeit entsprechend differenzierter Betrachtung, vor allem im Hinblick auf die WRRL-Vorgaben und das entsprechende Monitoring.</p>",
     "rating": "0",
@@ -25360,7 +25360,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "14",
+    "popular_count": "17",
     "processed": true,
     "purpose": "<p>Ziel von Untersuchungen zum wassergebundenen Stoffaustrag ist es, den Beitrag des Analyseraumes im Hinblick auf die Wasserg&uuml;te der wichtigsten Gew&auml;sser bzw. Vorfluter zu analysieren. Zun&auml;chst werden die Betrachtungen auf die Zufl&uuml;sse des Th&uuml;rkower M&uuml;hlbachs und damit auf Oberfl&auml;chengew&auml;sser beschr&auml;nkt. Rechtlicher Ma&szlig;stab im Hinblick auf Zustandseinstufung und Grenzwerte bilden die WRRL und die darauf fu&szlig;ende OGewV.</p>",
     "rating": "0",
@@ -25690,7 +25690,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "19",
+    "popular_count": "31",
     "processed": true,
     "purpose": "<p>&bdquo;Landschaftsstrukturma&szlig;e&ldquo; zur Analyse von Landschaften, sind ein gerne praktizierter Ansatz in der Landschaftsforschung bzw. in der Landschafts&ouml;kologie, gerade bei Analysen zum Landschaftswandel, zumal der Einsatz Geographischer Informationssysteme hier gro&szlig;e Vorteile bietet.</p>\r\n<p>Zwischen der Landschaftsstruktur und landschafts&ouml;kologischen Funktionen besteht im Allgemeinen ein enger und auch quantitativ nachweisbarer Zusammenhang.</p>",
     "rating": "0",
@@ -25992,7 +25992,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "17",
+    "popular_count": "23",
     "processed": true,
     "purpose": "<ul>\r\n<li>Erarbeitung eines Konzeptes f&uuml;r eine integrative Bestandanalyse, die f&uuml;r Ackerbaubetriebe alle relevanten Leistungsindikatoren (v.&nbsp;a. &ouml;kologische und sozio&ouml;konomische Aspekte) und auch umgebenden Natur- und Landschaftsr&auml;ume auf lokaler und regionaler Ebene erfassen.</li>\r\n<li>Komplexanalyse bzw. integrative Bestandsanalyse der Fl&auml;chen des Mustergut Tellow und der umliegenden Landschaft vor dem Hintergrund<br />- unterschiedlicher Vorbewirtschaftung (konventionell &ndash; &ouml;kologisch) und<br />- unterschiedlicher Schutzgebietskulissen (Naturschutzrecht, Wasserschutzgebiet etc.)</li>\r\n</ul>",
     "rating": "0",
@@ -26306,7 +26306,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "154",
+    "popular_count": "166",
     "processed": true,
     "purpose": "<p>Viele Nachtfalter spielen als Best&auml;uber eine wichtige Rolle. Das Spektrum an diesen Arten soll deshalb in repr&auml;sentativen Bereichen des Gebietes m&ouml;glichst vollst&auml;ndig erfasst werden. Dabei stehen Reststrukturen in der Agrarlandschaft im Blickpunkt des Interesses. Diese k&ouml;nnen &uuml;ber Biotopverbundsysteme der Wiederbesiedlung des agrarisch genutzten Raumes durch Nachtfalter dienen und somit die Biodiversit&auml;t erh&ouml;hen. Zudem sollte durch geschickte Anlage von Verbundachsen nach Renaturierungen die Wiederbesiedlung naturn&auml;herer Bereiche m&ouml;glich sein.</p>",
     "rating": "0",
@@ -26609,7 +26609,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "163",
+    "popular_count": "173",
     "processed": true,
     "purpose": "<p>Ziel der Untersuchungen ist es, Schwerpunkte des Rastgeschehens zu identifizieren und, darauf aufbauend, eine naturvertr&auml;gliche landwirtschaftliche Bewirtschaftung zu empfehlen.</p>",
     "rating": "0",
@@ -26904,7 +26904,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "13",
+    "popular_count": "22",
     "processed": true,
     "purpose": "<p>Zu den potentiell im Analyseraum&nbsp; vorkommenden Reptilien geh&ouml;ren Zauneidechse (<em>Lacerta agilis</em>), Waldeidechse (<em>Zootoca vivipara</em>), Ringelnatter (<em>Natrix natrix</em>) und Blindschleiche (<em>Anguis fragilis</em>). Alle vier Arten haben gemeinsam, dass sie v.a. strukturreiche Lebensr&auml;ume besiedeln. Optimale Lebensbedingungen finden sie in einer vielf&auml;ltigen Landschaft mit strukturreichen Waldrandbereichen im Wechsel mit Feuchtbiotopen, deckungsreichem Offenland und Magerrasen mit m&ouml;glichst hohem Anteil an Rohb&ouml;den. Auf den zu beprobenden, landwirtschaftlichen Fl&auml;chen nehmen solche Bereiche aber nur kleine Areale ein. Trotzdem ist ein Vorkommen von Reptilien, inklusive der streng gesch&uuml;tzten FFH-Art Zauneidechse, nicht ausgeschlossen. Ziel der Untersuchungen ist es Vorschl&auml;ge zu entwickeln, die zur Optimierung der Habitatverh&auml;ltnisse in der N&auml;he des nat&uuml;rlichen Lebensraumes der potentiell vorkommenden Arten f&uuml;hren (z. B. Anlage von Eidechsenh&uuml;geln, Vernetzung der Habitate etc.).</p>",
     "rating": "0",
@@ -27214,7 +27214,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "158",
+    "popular_count": "169",
     "processed": true,
     "purpose": "<p>Bez&uuml;glich der Brutv&ouml;gel sind die naturnahen Reststrukturen im Gebiet von gro&szlig;er Bedeutung. So stellen beispielsweise Feldgeh&ouml;lze und Hecken wichtige Lebensr&auml;ume f&uuml;r V&ouml;gel der Agrarlandschaft dar (insbesondere f&uuml;r H&ouml;hlen-, Horst- und Heckenbr&uuml;ter) und sollten ebenfalls gef&ouml;rdert werden. Zudem br&uuml;ten zahlreiche Vogelarten in den naturn&auml;heren Randbereichen und suchen auf den landwirtschaftlichen Fl&auml;chen nur nach Nahrung. Einige Arten nutzen die Felder aber auch zur Brut. Der immer seltener werdende Kiebitz geh&ouml;rt dazu. Viele andere Bodenbr&uuml;ter, wie Lerchen, ziehen auf landwirtschaftlichen Nutzfl&auml;chen (Offenfl&auml;chen) ihre Jungen auf. Ziel der Untersuchungen ist es, Schwerpunkte des Rast- und Brutgeschehens zu identifizieren und, darauf aufbauend, eine naturvertr&auml;gliche landwirtschaftliche Bewirtschaftung zu empfehlen und die Wiederanlage von Strukturen, vor allem von Geh&ouml;lzgruppen, f&uuml;r die Arten des Agrarlandes fundiert zu begr&uuml;nden.</p>",
     "rating": "0",
@@ -27528,7 +27528,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "14",
+    "popular_count": "20",
     "processed": true,
     "purpose": "<p>Brutnachweis</p>",
     "rating": "0",
@@ -27837,7 +27837,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "10",
+    "popular_count": "13",
     "processed": true,
     "purpose": "<p>Erfassung der Brutv&ouml;gel entlang eines festgelegten Transektes (Linienkartierung):<br /><br />- Methode erlaubt hohes Ma&szlig; an Standardisierung und Nachvollziehbarkeit<br />- Wahlmethode f&uuml;rs Langzeit-Monitoring<br />- Erm&ouml;glichung einer biotopbezogenen Auswertung.</p>",
     "rating": "0",
@@ -28128,7 +28128,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "134",
+    "popular_count": "144",
     "processed": true,
     "purpose": "<p>&Uuml;ber den Vergleich der vorgefundenen Vogelgemeinschaften mit der potentiell im Leitbildlebensraumtyp vorkommenden, k&ouml;nnen Schl&uuml;sse dar&uuml;ber gezogen werden, wie &bdquo;leitbildgerecht&ldquo; die Aviz&ouml;nose ist.</p>\r\n<p>Die Vogelgemeinschaften nach Flade (1994) sind folgenderma&szlig;en aufgebaut:</p>\r\n<ul>\r\n<li><strong>Leitarten</strong> weisen in dem betreffenden Lebensraumtyp signifikant h&ouml;here Stetigkeiten auf als in allen anderen Lebensraumtypen</li>\r\n<li><strong>lebensraumholde Arten</strong> erreichen in dem Lebensraumtyp h&ouml;chste Siedlungsdichten bei hohen Stetigkeiten, d.h. maximale Individuendichten (in max. 2 Landschaftstypen)</li>\r\n<li><strong>stete Begleiter </strong>sind Arten mit hoher Stetigkeit (&gt;80 %)</li>\r\n</ul>",
     "rating": "0",
@@ -28430,7 +28430,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "11",
+    "popular_count": "14",
     "processed": true,
     "purpose": "<p>- Aufnahme von &uuml;berwiegend Schr&auml;gluftbildern der landwirtschaftlich genutzten Schl&auml;ge des Mustergutes Tellow zur repr&auml;sentative Darstellung des Ausgangszustandes des Landschaftsraum.<br />- Vertiefte Analysen zum Landschaftsbild sollten dann erfolgen, wenn konkrete Ma&szlig;nahmen ver&auml;nderter betrieblicher und ggf. auch regionaler Ackerbaustrategie umgesetzt werden (sollen).<br />- Gewinnung von &Uuml;berblicksfotos zum Landschaftsbild.<br />- Aufnahme von naturnahen Biotopen (z. B. S&ouml;lle) innerhalb und im Randbereich (z. B. Feldraine, Alleen und Waldr&auml;nder) der betrachteten Anbaufl&auml;chen.<br />- Fotographische Erfassung abflussloser Senken, die nur tempor&auml;r vern&auml;sst sind (Brach- und Biotopfl&auml;chen).</p>",
     "rating": "0",
@@ -28743,7 +28743,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "174",
+    "popular_count": "182",
     "processed": true,
     "purpose": "<p>Bei der Einrichtung des Reallabors wurde zun&auml;chst &uuml;berblickshaft verfahren, indem Schr&auml;gluftbilder per Drohne f&uuml;r den Ausgangszustand aufgenommen wurden. Ziel war mithin, den Landschaftsraum insgesamt m&ouml;glichst repr&auml;sentativ im Bild festzuhalten. Vertiefte Analysen zum Landschaftsbild sollten dann erfolgen, wenn konkrete Ma&szlig;nahmen ver&auml;nderter betrieblicher und ggf. auch regionaler Ackerbaustrategie umgesetzt werden (sollen).</p>",
     "rating": "0",
@@ -29090,7 +29090,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "25",
+    "popular_count": "41",
     "processed": true,
     "purpose": "<p>Auf Grund der Fragestellungen sollte bez&uuml;glich des Reliefs zun&auml;chst nur eine dahingehende Analyse erfolgen, wie die Reliefverh&auml;ltnisse zur Ausbildung eines tempor&auml;ren Flie&szlig;gew&auml;ssernetzes in Form von oberirdischen Abflussbahnen beitragen. Solch ein tempor&auml;res Gew&auml;ssernetz bildet sich im Fall des Auftretens von Landoberfl&auml;chenabfluss aus. Dieser tritt auf, wenn die Niederschlagsintensit&auml;t die Versickerungsleistung des Bodens &uuml;bersteigt und Flie&szlig;prozesse durch die Gef&auml;lleverh&auml;ltnisse erm&ouml;glicht werden.</p>\r\n<p>Die Thematik ist daher aus Bodenschutzsicht (vor allem Bodenverlust, Ausbildung von Kolluvisolen) sowie aus Gew&auml;sserschutzsicht von gro&szlig;em Belang.</p>",
     "rating": "0",
@@ -29389,7 +29389,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "90",
+    "popular_count": "101",
     "processed": true,
     "purpose": "<p>Bestimmung des C-Faktors</p>",
     "rating": "0",
@@ -29688,7 +29688,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "11",
+    "popular_count": "24",
     "processed": true,
     "purpose": "<p>F&uuml;r die Bestimmung des langj&auml;hrigen mittleren Bodenabtrags wurde in Anlehnung an DIN 19708:2017-08 ein C-Faktor f&uuml;r verschiedene Nutzungen vergeben (DIN19708).</p>",
     "rating": "0",
@@ -30060,7 +30060,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "43",
+    "popular_count": "50",
     "processed": true,
     "purpose": "<p>Kontrolle von k&uuml;nstlichen Verstecken (KV) zum Nachweis von Reptilien</p>",
     "rating": "0",
@@ -30358,7 +30358,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "6",
+    "popular_count": "9",
     "processed": true,
     "purpose": "<p>Festlegung von konstanten Begehungsstrecken zur Reptilienerfassung.</p>",
     "rating": "0",
@@ -30672,7 +30672,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "36",
+    "popular_count": "40",
     "processed": true,
     "purpose": "<p>Innerhalb der Heuschreckenz&ouml;nose gibt es Arten unterschiedlicher Anspruchstypen. So sind darunter Bewohner der Baum- und Strauchschicht, der Hochstaudenfluren, der Trocken-, Frisch-, und Feuchtgr&uuml;nl&auml;nder sowie der Rohb&ouml;den zu finden.</p>\r\n<p>Heuschrecken sind gute Indikatoren vor allem f&uuml;r Offenlandbiotope. Sie sind relativ sicher zu erfassen und &uuml;ber ihre Stridulation leicht nachzuweisen. Viele Arten besitzen spezifische Habitatanspr&uuml;che, was sich beispielsweise durch die Bindung an Faktoren, wie Mikroklima, Bodenbeschaffenheit, Struktur oder Raumaufbau zeigt.</p>\r\n<p>Im Wesentlichen wird die Nutzung ihres Lebensraumes durch die Vegetationsh&ouml;he, die Exposition, den Feuchtegrad und den Nutzungsgrad bestimmt. Die Eiablage kann in den Boden, bodennahen Wurzelfilz oder in Pflanzen erfolgen. Das Vorhandensein oder Fehlen bestimmter Arten kann zur Charakterisierung und Bewertung des Lebensraumes herangezogen werden.</p>\r\n<p>Ziel der Erfassungen ist es daher in erster Linie, geeignete Habitate f&uuml;r diese Artengruppe &uuml;ber ihre Erfassung zu identifizieren. Zudem k&ouml;nnen durch verschiedene f&ouml;rdernde Ma&szlig;nahmen die Vorkommen stabilisiert werden.</p>",
     "rating": "0",
@@ -30979,7 +30979,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "139",
+    "popular_count": "148",
     "processed": true,
     "purpose": "<p>Die Biotopkartierung beinhaltet eine methodisch einheitliche Erfassung der Lebensr&auml;ume in einem definierten Gebiet, um diese hinsichtlich ihrer naturschutzfachlichen Wertigkeit zu beurteilen und r&auml;umlich abzugrenzen. Generelles Ziel der Biotopkartierung ist die Inventarisierung der Landschaft nach naturschutzfachlichen Gesichtspunkten. Damit kommt der Biotopkartierung eine besondere Bedeutung zu. Sie dient als Ausgangspunkt f&uuml;r jegliche naturschutzfachlichen Planungen, zur Potenzialabsch&auml;tzung der Ausstattung der Fauna im Gebiet und wird als Grundlage zur Bewertung von Eingriffen in den Naturhaushalt herangezogen. Besonderes Ziel ist es, die Strukturen im Analyseraum&nbsp;zu kennzeichnen und ihre Funktion f&uuml;r den Biotopverbund zu bestimmen. Diese haben eine enorme Lebensraumfunktion als Fortpflanzungs- und Nahrungsraum f&uuml;r Flora und Fauna.</p>",
     "rating": "0",
@@ -31275,7 +31275,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "181",
+    "popular_count": "195",
     "processed": true,
     "purpose": "<p>Im Bereich des stark agrarisch gepr&auml;gten Kartiergebiet sollen vornehmlich gesch&uuml;tzte und gef&auml;hrdete Pflanzenarten aufgefunden und in ihren Bestandsgr&ouml;&szlig;en abgesch&auml;tzt werden. Bei diesen Arten muss bzw. sollte ein Schutz auch unter dem Gesichtspunkt der Bewirtschaftung aufrechterhalten werden. Zudem k&ouml;nnen die Erkenntnisse genutzt werden, um diese Arten durch &ouml;kologische Sanierungen zu f&ouml;rdern.</p>\r\n<p>Weiterhin geht es darum, als Status Quo zu erfassen, welche gef&auml;hrdeten und gesch&uuml;tzten Arten wo vorkommen. Dadurch kann man Besiedlungspotenziale absch&auml;tzen und Entwicklungen im Zuge des Monitorings beobachten.</p>",
     "rating": "0",
@@ -31575,7 +31575,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "10",
+    "popular_count": "13",
     "processed": true,
     "purpose": "<p>Auf den Betriebsfl&auml;chen werden die Biotope fl&auml;chendeckend kartiert. Den Feldgeh&ouml;lzen und Heckenstrukturen gilt dabei als komplexer Lebensraum f&uuml;r zahlreiche Tierarten besondere Aufmerksamkeit. Ziel ist es, insbesondere die Reststrukturen im Untersuchungsgebiet n&auml;her zu kennzeichnen und ihre Funktion f&uuml;r den Biotopverbund zu bestimmen. Zudem haben diese eine enorme Lebensraumfunktion als Vermehrungs- und Nahrungsraum.</p>",
     "rating": "0",
@@ -31902,7 +31902,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "8",
+    "popular_count": "11",
     "processed": true,
     "purpose": "<p>Im Analyseraum&nbsp;gibt es eine Reihe von Kleingew&auml;ssern/S&ouml;llen sowie kleine Flie&szlig;gew&auml;sser, welche teilweise verrohrt oder andere Degradationen aufweisen. Ziel der hier vorliegenden Untersuchungen ist es, das derzeitig vorherrschende Arteninventar dieser Gew&auml;sser zu erfassen und zu bewerten. Weiterhin sollen Ideen entwickelt werden, wie eine Erh&ouml;hung der &ouml;kologischen Wertigkeit erreicht werden kann und welche Methoden und Forschungsziele in einem Reallabor untersucht und entwickelt werden k&ouml;nnen, um den landwirtschaftlichen Kulturraum im Hinblick auf eine &ouml;kologische Qualit&auml;t zu entwickeln.</p>",
     "rating": "0",
@@ -32205,7 +32205,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "166",
+    "popular_count": "179",
     "processed": true,
     "purpose": "<p>Viele Tagfalter und tagfliegende Nachtfalter spielen als Best&auml;uber eine wichtige Rolle. Das Spektrum an diesen Arten soll deshalb in repr&auml;sentativen Bereichen des Gebietes m&ouml;glichst vollst&auml;ndig erfasst werden. Dabei stehen Reststrukturen in der Agrarlandschaft im Blickpunkt des Interesses. Diese k&ouml;nnen &uuml;ber Biotopverbundsysteme der Wiederbesiedlung des agrarisch genutzten Raumes durch Tagfalter und tagfliegende Nachtfalter dienen und somit die Biodiversit&auml;t erh&ouml;hen. Zudem sollte durch geschickte Anlage von Verbundachsen nach Renaturierungen die Wiederbesiedlung naturn&auml;herer Bereiche m&ouml;glich sein.</p>",
     "rating": "0",
@@ -32444,7 +32444,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "148",
+    "popular_count": "152",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -32679,7 +32679,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "339",
+    "popular_count": "350",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33139,7 +33139,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1746",
+    "popular_count": "1827",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33424,7 +33424,7 @@
       "username": "blickensdoerfer"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "27495",
+    "popular_count": "28665",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33634,7 +33634,7 @@
       "username": "gocht"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "589",
+    "popular_count": "595",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33848,7 +33848,7 @@
       "username": "blickensdoerfer"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "662",
+    "popular_count": "699",
     "processed": true,
     "purpose": null,
     "rating": "0",
@@ -34279,7 +34279,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1650",
+    "popular_count": "1733",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -34501,7 +34501,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "109",
+    "popular_count": "114",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -34715,7 +34715,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "102",
+    "popular_count": "106",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -34929,7 +34929,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "105",
+    "popular_count": "110",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35143,7 +35143,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "106",
+    "popular_count": "109",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35370,7 +35370,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "483",
+    "popular_count": "486",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35584,7 +35584,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "375",
+    "popular_count": "389",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35960,7 +35960,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1186",
+    "popular_count": "1199",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -36364,7 +36364,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1211",
+    "popular_count": "1244",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -36739,7 +36739,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1769",
+    "popular_count": "1813",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37050,7 +37050,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1038",
+    "popular_count": "1068",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37413,7 +37413,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1859",
+    "popular_count": "1899",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37712,7 +37712,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1094",
+    "popular_count": "1129",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38019,7 +38019,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1120",
+    "popular_count": "1135",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38330,7 +38330,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2364",
+    "popular_count": "2399",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38541,7 +38541,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "401",
+    "popular_count": "413",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38757,7 +38757,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "498",
+    "popular_count": "504",
     "processed": true,
     "purpose": "",
     "rating": "0",

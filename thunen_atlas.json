@@ -242,7 +242,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "6123",
+    "popular_count": "6227",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -534,7 +534,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "254",
+    "popular_count": "281",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -831,7 +831,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "845",
+    "popular_count": "873",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1158,8 +1158,8 @@
       "username": "emissionsinventare"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "180",
     "poc": {
@@ -1176,7 +1176,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "991",
+    "popular_count": "1017",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1463,7 +1463,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "240",
+    "popular_count": "245",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1743,7 +1743,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "801",
+    "popular_count": "818",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -2326,7 +2326,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "170",
+    "popular_count": "175",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -2615,7 +2615,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "321",
+    "popular_count": "329",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -2846,7 +2846,7 @@
       "username": "arbeitsgruppe-moore"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "810",
+    "popular_count": "844",
     "processed": true,
     "purpose": "<p>Kartendarstellung der im Datensatz \"Aktualisierte Kulisse organischer B&ouml;den in Deutschland\" enthaltenen Merkmale:</p>\r\n<ul>\r\n<li>Genese</li>\r\n<li>Mineralische &Uuml;berdeckung (M&auml;chtigkeit)</li>\r\n<li>Mineralische &Uuml;berdeckung (Substrat)</li>\r\n<li>Torfm&auml;chtigkeit</li>\r\n<li>Abmoorigkeit</li>\r\n<li>Tiefumbruch</li>\r\n<li>Unterlagernde Mudden</li>\r\n<li>Unterlagerndes mineralisches Substrat</li>\r\n</ul>\r\n<p>Eine &Uuml;bersicht aller verwendeten Merkmale sowie deren Auspr&auml;gungen und Klassifikationen findet sich im Th&uuml;nen Working Paper 212, Tabelle 4, S. 33.<br />DOI: <a href=\"https://doi.org/10.3220/WP1683180852000\">10.3220/WP1683180852000 </a></p>",
     "rating": "0",
@@ -3273,8 +3273,8 @@
       "username": "arbeitsgruppe-moore"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "200",
     "poc": {
@@ -3291,7 +3291,7 @@
       "username": "arbeitsgruppe-moore"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "25034",
+    "popular_count": "25468",
     "processed": true,
     "purpose": "<p>Verwendung in der Emissionsberichterstattung und Grundlage f&uuml;r deutschlandweite Fragestellungen zu organischen B&ouml;den.</p>",
     "rating": "0",
@@ -3558,7 +3558,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1883",
+    "popular_count": "1890",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -3816,7 +3816,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "940",
+    "popular_count": "949",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4074,7 +4074,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1022",
+    "popular_count": "1025",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4332,7 +4332,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "982",
+    "popular_count": "988",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4599,7 +4599,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1072",
+    "popular_count": "1079",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4870,7 +4870,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "787",
+    "popular_count": "803",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5141,7 +5141,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "3687",
+    "popular_count": "3762",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5412,7 +5412,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "888",
+    "popular_count": "910",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5683,7 +5683,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "817",
+    "popular_count": "835",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5954,7 +5954,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "760",
+    "popular_count": "777",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -6225,7 +6225,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1138",
+    "popular_count": "1156",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -6440,7 +6440,7 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "232",
+    "popular_count": "234",
     "processed": true,
     "purpose": "<p>Untersuchungsfl&auml;chen im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
     "rating": "0",
@@ -6680,8 +6680,8 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "179",
     "poc": {
@@ -6698,7 +6698,7 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "180",
+    "popular_count": "183",
     "processed": true,
     "purpose": "<p>Untersuchungsfl&auml;chen f&uuml;r das Nisthilfe-Monitoring im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
     "rating": "0",
@@ -6936,8 +6936,8 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "178",
     "poc": {
@@ -7242,8 +7242,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "63",
     "poc": {
@@ -7260,7 +7260,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1301",
+    "popular_count": "1320",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -7559,8 +7559,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "62",
     "poc": {
@@ -7577,7 +7577,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "3726",
+    "popular_count": "3789",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -7874,8 +7874,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "67",
     "poc": {
@@ -7892,7 +7892,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1616",
+    "popular_count": "1641",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8191,8 +8191,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "66",
     "poc": {
@@ -8209,7 +8209,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2211",
+    "popular_count": "2261",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8508,8 +8508,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "61",
     "poc": {
@@ -8526,7 +8526,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1982",
+    "popular_count": "2001",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8830,8 +8830,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "60",
     "poc": {
@@ -8848,7 +8848,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1404",
+    "popular_count": "1428",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9154,8 +9154,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "59",
     "poc": {
@@ -9172,7 +9172,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1459",
+    "popular_count": "1479",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9478,8 +9478,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "64",
     "poc": {
@@ -9496,7 +9496,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1275",
+    "popular_count": "1294",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9832,8 +9832,8 @@
       "username": "dehler"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "233",
     "poc": {
@@ -9850,7 +9850,7 @@
       "username": "dehler"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "248",
+    "popular_count": "254",
     "processed": true,
     "purpose": "<p>Die Ernteertr&auml;ge innerhalb einer Fl&auml;che sind keineswegs konstant. Einflussfaktoren wie die Bodeng&uuml;te haben einen hohen Einfluss auf den Ertrag und auf die damit notwendige Intensit&auml;t von Inputs wie Saatst&auml;rke, D&uuml;nger und Pflanzenschutzmittel.</p>",
     "rating": "0",
@@ -10098,8 +10098,8 @@
       "username": "dehler"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "235",
     "poc": {
@@ -10116,7 +10116,7 @@
       "username": "dehler"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "487",
+    "popular_count": "490",
     "processed": true,
     "purpose": "<p>Die Ernteertr&auml;ge innerhalb einer Fl&auml;che sind keineswegs konstant. Einflussfaktoren wie die Bodeng&uuml;te haben einen hohen Einfluss auf den Ertrag und auf die damit notwendige Intensit&auml;t von Inputs wie Saatst&auml;rke, D&uuml;nger und Pflanzenschutzmittel.</p>",
     "rating": "0",
@@ -10393,7 +10393,7 @@
       "username": "saggau"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "624",
+    "popular_count": "637",
     "processed": true,
     "purpose": "<p>Die Daten sind Bestandteil des Projekts \"<a href=\"https://www.thuenen.de/de/institutsuebergreifende-projekte/hotspots-erosion\">Hotspots der Bodenerosionsgef&auml;hrdung in Deutschland</a>\".</p>",
     "rating": "0",
@@ -10675,7 +10675,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "227",
+    "popular_count": "238",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -10957,7 +10957,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "217",
+    "popular_count": "222",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -11239,7 +11239,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "187",
+    "popular_count": "192",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -11521,7 +11521,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "254",
+    "popular_count": "258",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -11803,7 +11803,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "638",
+    "popular_count": "647",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -12085,7 +12085,7 @@
       "username": "broeg"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "717",
+    "popular_count": "740",
     "processed": true,
     "purpose": "<p>The bare soil information contributes to a set of geospatial co-variates for the estimation of status and trends in soil parameters for Germany at high spatial resolution. The work is part of the project&nbsp;<a href=\"https://www.thuenen.de/de/fachinstitute/betriebswirtschaft/projekte/fernerkundung-fuer-eine-verbesserung-der-klimaberichterstattung-klimafern-1\"> KlimaFern </a>at Th&uuml;nen Institute.</p>",
     "rating": "0",
@@ -12409,7 +12409,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "151",
+    "popular_count": "155",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -12712,7 +12712,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "172",
+    "popular_count": "177",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -13029,7 +13029,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "165",
+    "popular_count": "170",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -13371,7 +13371,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "330",
+    "popular_count": "337",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -13660,7 +13660,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1070",
+    "popular_count": "1116",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14009,7 +14009,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1241",
+    "popular_count": "1277",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14298,7 +14298,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "123",
+    "popular_count": "127",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14615,7 +14615,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "237",
+    "popular_count": "244",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14932,7 +14932,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "131",
+    "popular_count": "132",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -15204,8 +15204,8 @@
       "username": "erasmi"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "209",
     "poc": {
@@ -15222,7 +15222,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "371",
+    "popular_count": "398",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -15508,7 +15508,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "395",
+    "popular_count": "406",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -15794,7 +15794,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "239",
+    "popular_count": "244",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16080,7 +16080,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "288",
+    "popular_count": "297",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16366,7 +16366,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "279",
+    "popular_count": "286",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16652,7 +16652,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "374",
+    "popular_count": "380",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16937,8 +16937,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "159",
     "poc": {
@@ -16955,7 +16955,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "134",
+    "popular_count": "142",
     "processed": true,
     "purpose": "<p>Flederm&auml;use besiedeln in Deutschland s&auml;mtliche Naturr&auml;ume und hier sowohl nat&uuml;rliche bzw. naturnahe Biotope, als auch intensiv anthropogen &uuml;berpr&auml;gte. Mit einem Anteil von 50 % nehmen landwirtschaftliche Nutzfl&auml;chen den mit Abstand bedeutendsten Anteil an der Gesamtfl&auml;che von Deutschland ein. Es ist also nicht verwunderlich, dass f&uuml;r Flederm&auml;use, einer Artengruppe mit oft gro&szlig;em Aktionsraum, die Agrarlandschaft einen essentiellen Teil ihres Lebensraumes darstellt. Selbst eng an W&auml;lder gebundene Fledermausarten nutzen zumindest partiell die Agrarlandschaft, sei es zu lokalen Ortswechseln, zur Migration zwischen Sommer- und Winterlebensr&auml;umen oder etwa zur Jagd z. B. im &Ouml;kotonbereich von Waldrandstrukturen. Als zumeist opportunistisch agierende J&auml;ger, die sich mit wenigen Ausnahmen von Fluginsekten ern&auml;hren, nutzen Flederm&auml;use ihren Lebensraum oft sehr variabel, abh&auml;ngig vom verf&uuml;gbaren Beutespektrum und -angebot. Durch die enge Korrelation des Insektenvorkommens mit der landschaftlichen Ausstattung und der Bewirtschaftungsform sind Flederm&auml;use und hier insbesondere die Offenlandarten gute Indikatoren zur Ermittlung des Naturwertes von Landwirtschaftsfl&auml;chen. Es kann prognostiziert werden, dass eine naturnahe Auspr&auml;gung der Landschaft bzw. das Vorkommen von Strukturelementen, wie z. B. Hecken, Kleingew&auml;ssern oder Bl&uuml;hstreifen einen positiven Effekt auf die Vitalit&auml;t von Fledermausgemeinschaften hat. Demgegen&uuml;ber kann eine intensiv genutzte, strukturell verarmte Agrarlandschaft genauso negative Effekte f&uuml;r die Fledermausbesiedlung haben. So kann das Fehlen von Leitstrukturen f&uuml;r strukturgebundene Fledermausarten Zerschneidungseffekte bewirken, da von vielen Arten weitr&auml;umige Offenfl&auml;chen nicht oder nur in geringem Umfang &uuml;berflogen werden. Direkt auf die individuelle Fitness des Einzelindividuums wirkt sich ggf. ein verringertes Nahrungsangebot oder die Pestizidbelastung von Beutensekten aus. Zielstellung der Untersuchung ist es, die Bedeutung von Strukturelementen in landwirtschaftlichen Nutzfl&auml;chen f&uuml;r das Auftreten von Flederm&auml;usen und deren Raumnutzungsverhalten herauszustellen. Prognostiziert wird, dass die Aktivit&auml;t von Flederm&auml;usen abh&auml;ngig von dem untersuchten Landschaftselement ist und diese mit besserer Habitatausstattung steigt bzw. im Gegenzug die Aktivit&auml;tsdichte in prognostiziert weniger attraktiven Bereichen geringer ausf&auml;llt.</p>",
     "rating": "0",
@@ -17234,8 +17234,8 @@
       "username": "scherstjanoi"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "19",
     "poc": {
@@ -17252,7 +17252,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2769",
+    "popular_count": "2805",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -17533,8 +17533,8 @@
       "username": "scherstjanoi"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "30",
     "poc": {
@@ -17551,7 +17551,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "5649",
+    "popular_count": "5825",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -17798,7 +17798,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "453",
+    "popular_count": "463",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18004,7 +18004,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "512",
+    "popular_count": "514",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18215,7 +18215,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "1042",
+    "popular_count": "1057",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18426,7 +18426,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "2285",
+    "popular_count": "2313",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18658,7 +18658,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "723",
+    "popular_count": "736",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -19000,8 +19000,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "185",
     "poc": {
@@ -19018,7 +19018,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "266",
+    "popular_count": "277",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -19358,8 +19358,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "191",
     "poc": {
@@ -19376,7 +19376,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "678",
+    "popular_count": "691",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -19716,8 +19716,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "192",
     "poc": {
@@ -19734,7 +19734,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "450",
+    "popular_count": "468",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20074,8 +20074,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "184",
     "poc": {
@@ -20092,7 +20092,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "153",
+    "popular_count": "161",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20432,8 +20432,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "183",
     "poc": {
@@ -20450,7 +20450,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "273",
+    "popular_count": "282",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20790,8 +20790,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "190",
     "poc": {
@@ -20808,7 +20808,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "150",
+    "popular_count": "154",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -21148,8 +21148,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "189",
     "poc": {
@@ -21166,7 +21166,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "246",
+    "popular_count": "261",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -21506,8 +21506,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "188",
     "poc": {
@@ -21524,7 +21524,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "467",
+    "popular_count": "499",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -21864,8 +21864,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "187",
     "poc": {
@@ -21882,7 +21882,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "463",
+    "popular_count": "489",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -22222,8 +22222,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "186",
     "poc": {
@@ -22240,7 +22240,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "474",
+    "popular_count": "499",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -22580,8 +22580,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "194",
     "poc": {
@@ -22598,7 +22598,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "423",
+    "popular_count": "440",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -22938,8 +22938,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "193",
     "poc": {
@@ -22956,7 +22956,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "468",
+    "popular_count": "488",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -23230,8 +23230,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "160",
     "poc": {
@@ -23248,7 +23248,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "203",
+    "popular_count": "210",
     "processed": true,
     "purpose": "<p>Flederm&auml;use besiedeln in Deutschland s&auml;mtliche Naturr&auml;ume und hier sowohl nat&uuml;rliche bzw. naturnahe Biotope, als auch intensiv anthropogen &uuml;berpr&auml;gte. Mit einem Anteil von 50 % nehmen landwirtschaftliche Nutzfl&auml;chen den mit Abstand bedeutendsten Anteil an der Gesamtfl&auml;che von Deutschland ein. Es ist also nicht verwunderlich, dass f&uuml;r Flederm&auml;use, einer Artengruppe mit oft gro&szlig;em Aktionsraum, die Agrarlandschaft einen essentiellen Teil ihres Lebensraumes darstellt. Selbst eng an W&auml;lder gebundene Fledermausarten nutzen zumindest partiell die Agrarlandschaft, sei es zu lokalen Ortswechseln, zur Migration zwischen Sommer- und Winterlebensr&auml;umen oder etwa zur Jagd z. B. im &Ouml;kotonbereich von Waldrandstrukturen. Als zumeist opportunistisch agierende J&auml;ger, die sich mit wenigen Ausnahmen von Fluginsekten ern&auml;hren, nutzen Flederm&auml;use ihren Lebensraum oft sehr variabel, abh&auml;ngig vom verf&uuml;gbaren Beutespektrum und -angebot. Durch die enge Korrelation des Insektenvorkommens mit der landschaftlichen Ausstattung und der Bewirtschaftungsform sind Flederm&auml;use und hier insbesondere die Offenlandarten gute Indikatoren zur Ermittlung des Naturwertes von Landwirtschaftsfl&auml;chen. Es kann prognostiziert werden, dass eine naturnahe Auspr&auml;gung der Landschaft bzw. das Vorkommen von Strukturelementen, wie z. B. Hecken, Kleingew&auml;ssern oder Bl&uuml;hstreifen einen positiven Effekt auf die Vitalit&auml;t von Fledermausgemeinschaften hat. Demgegen&uuml;ber kann eine intensiv genutzte, strukturell verarmte Agrarlandschaft genauso negative Effekte f&uuml;r die Fledermausbesiedlung haben. So kann das Fehlen von Leitstrukturen f&uuml;r strukturgebundene Fledermausarten Zerschneidungseffekte bewirken, da von vielen Arten weitr&auml;umige Offenfl&auml;chen nicht oder nur in geringem Umfang &uuml;berflogen werden. Direkt auf die individuelle Fitness des Einzelindividuums wirkt sich ggf. ein verringertes Nahrungsangebot oder die Pestizidbelastung von Beutensekten aus. Zielstellung der Untersuchung ist es, die Bedeutung von Strukturelementen in landwirtschaftlichen Nutzfl&auml;chen f&uuml;r das Auftreten von Flederm&auml;usen und deren Raumnutzungsverhalten herauszustellen. Prognostiziert wird, dass die Aktivit&auml;t von Flederm&auml;usen abh&auml;ngig von dem untersuchten Landschaftselement ist und diese mit besserer Habitatausstattung steigt bzw. im Gegenzug die Aktivit&auml;tsdichte in prognostiziert weniger attraktiven Bereichen geringer ausf&auml;llt.</p>",
     "rating": "0",
@@ -23517,8 +23517,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "158",
     "poc": {
@@ -23535,7 +23535,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "164",
+    "popular_count": "170",
     "processed": true,
     "purpose": "<p>Die Carabiden sind gute Bioindikatoren f&uuml;r den Zustand der &Ouml;kosysteme. Ihr Vorkommen bzw. Fehlen weist bestimmte Erhaltungszust&auml;nde aus. Carabiden sind wesentliche Bestandteile von Agrar&ouml;kosystemen und sollten in diesen nach M&ouml;glichkeit Habitatbedingungen vorfinden, in denen sie sich in standorttypischer Artenzusammensetzung ansiedeln k&ouml;nnen.</p>",
     "rating": "0",
@@ -23748,7 +23748,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "99",
+    "popular_count": "101",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -24361,8 +24361,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "155",
     "poc": {
@@ -24379,7 +24379,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "159",
+    "popular_count": "167",
     "processed": true,
     "purpose": "<p>Ermittlung von Qualit&auml;t und Quantit&auml; der Fruchtfolgenwechsel zur Beurteilung der nachhaltigen Sicherung heimischer Flora und Fauna.</p>",
     "rating": "0",
@@ -24725,8 +24725,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "146",
     "poc": {
@@ -25024,8 +25024,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "135",
     "poc": {
@@ -25342,8 +25342,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "133",
     "poc": {
@@ -25672,8 +25672,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "117",
     "poc": {
@@ -25690,7 +25690,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "31",
+    "popular_count": "33",
     "processed": true,
     "purpose": "<p>&bdquo;Landschaftsstrukturma&szlig;e&ldquo; zur Analyse von Landschaften, sind ein gerne praktizierter Ansatz in der Landschaftsforschung bzw. in der Landschafts&ouml;kologie, gerade bei Analysen zum Landschaftswandel, zumal der Einsatz Geographischer Informationssysteme hier gro&szlig;e Vorteile bietet.</p>\r\n<p>Zwischen der Landschaftsstruktur und landschafts&ouml;kologischen Funktionen besteht im Allgemeinen ein enger und auch quantitativ nachweisbarer Zusammenhang.</p>",
     "rating": "0",
@@ -25974,8 +25974,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "145",
     "poc": {
@@ -25992,7 +25992,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "23",
+    "popular_count": "25",
     "processed": true,
     "purpose": "<ul>\r\n<li>Erarbeitung eines Konzeptes f&uuml;r eine integrative Bestandanalyse, die f&uuml;r Ackerbaubetriebe alle relevanten Leistungsindikatoren (v.&nbsp;a. &ouml;kologische und sozio&ouml;konomische Aspekte) und auch umgebenden Natur- und Landschaftsr&auml;ume auf lokaler und regionaler Ebene erfassen.</li>\r\n<li>Komplexanalyse bzw. integrative Bestandsanalyse der Fl&auml;chen des Mustergut Tellow und der umliegenden Landschaft vor dem Hintergrund<br />- unterschiedlicher Vorbewirtschaftung (konventionell &ndash; &ouml;kologisch) und<br />- unterschiedlicher Schutzgebietskulissen (Naturschutzrecht, Wasserschutzgebiet etc.)</li>\r\n</ul>",
     "rating": "0",
@@ -26288,8 +26288,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "154",
     "poc": {
@@ -26306,7 +26306,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "166",
+    "popular_count": "171",
     "processed": true,
     "purpose": "<p>Viele Nachtfalter spielen als Best&auml;uber eine wichtige Rolle. Das Spektrum an diesen Arten soll deshalb in repr&auml;sentativen Bereichen des Gebietes m&ouml;glichst vollst&auml;ndig erfasst werden. Dabei stehen Reststrukturen in der Agrarlandschaft im Blickpunkt des Interesses. Diese k&ouml;nnen &uuml;ber Biotopverbundsysteme der Wiederbesiedlung des agrarisch genutzten Raumes durch Nachtfalter dienen und somit die Biodiversit&auml;t erh&ouml;hen. Zudem sollte durch geschickte Anlage von Verbundachsen nach Renaturierungen die Wiederbesiedlung naturn&auml;herer Bereiche m&ouml;glich sein.</p>",
     "rating": "0",
@@ -26591,8 +26591,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "151",
     "poc": {
@@ -26609,7 +26609,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "173",
+    "popular_count": "181",
     "processed": true,
     "purpose": "<p>Ziel der Untersuchungen ist es, Schwerpunkte des Rastgeschehens zu identifizieren und, darauf aufbauend, eine naturvertr&auml;gliche landwirtschaftliche Bewirtschaftung zu empfehlen.</p>",
     "rating": "0",
@@ -26886,8 +26886,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "138",
     "poc": {
@@ -27196,8 +27196,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "171",
     "poc": {
@@ -27214,7 +27214,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "169",
+    "popular_count": "174",
     "processed": true,
     "purpose": "<p>Bez&uuml;glich der Brutv&ouml;gel sind die naturnahen Reststrukturen im Gebiet von gro&szlig;er Bedeutung. So stellen beispielsweise Feldgeh&ouml;lze und Hecken wichtige Lebensr&auml;ume f&uuml;r V&ouml;gel der Agrarlandschaft dar (insbesondere f&uuml;r H&ouml;hlen-, Horst- und Heckenbr&uuml;ter) und sollten ebenfalls gef&ouml;rdert werden. Zudem br&uuml;ten zahlreiche Vogelarten in den naturn&auml;heren Randbereichen und suchen auf den landwirtschaftlichen Fl&auml;chen nur nach Nahrung. Einige Arten nutzen die Felder aber auch zur Brut. Der immer seltener werdende Kiebitz geh&ouml;rt dazu. Viele andere Bodenbr&uuml;ter, wie Lerchen, ziehen auf landwirtschaftlichen Nutzfl&auml;chen (Offenfl&auml;chen) ihre Jungen auf. Ziel der Untersuchungen ist es, Schwerpunkte des Rast- und Brutgeschehens zu identifizieren und, darauf aufbauend, eine naturvertr&auml;gliche landwirtschaftliche Bewirtschaftung zu empfehlen und die Wiederanlage von Strukturen, vor allem von Geh&ouml;lzgruppen, f&uuml;r die Arten des Agrarlandes fundiert zu begr&uuml;nden.</p>",
     "rating": "0",
@@ -27510,8 +27510,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "150",
     "poc": {
@@ -27819,8 +27819,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "136",
     "poc": {
@@ -28110,8 +28110,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "163",
     "poc": {
@@ -28128,7 +28128,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "144",
+    "popular_count": "153",
     "processed": true,
     "purpose": "<p>&Uuml;ber den Vergleich der vorgefundenen Vogelgemeinschaften mit der potentiell im Leitbildlebensraumtyp vorkommenden, k&ouml;nnen Schl&uuml;sse dar&uuml;ber gezogen werden, wie &bdquo;leitbildgerecht&ldquo; die Aviz&ouml;nose ist.</p>\r\n<p>Die Vogelgemeinschaften nach Flade (1994) sind folgenderma&szlig;en aufgebaut:</p>\r\n<ul>\r\n<li><strong>Leitarten</strong> weisen in dem betreffenden Lebensraumtyp signifikant h&ouml;here Stetigkeiten auf als in allen anderen Lebensraumtypen</li>\r\n<li><strong>lebensraumholde Arten</strong> erreichen in dem Lebensraumtyp h&ouml;chste Siedlungsdichten bei hohen Stetigkeiten, d.h. maximale Individuendichten (in max. 2 Landschaftstypen)</li>\r\n<li><strong>stete Begleiter </strong>sind Arten mit hoher Stetigkeit (&gt;80 %)</li>\r\n</ul>",
     "rating": "0",
@@ -28412,8 +28412,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "132",
     "poc": {
@@ -28725,8 +28725,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "162",
     "poc": {
@@ -28743,7 +28743,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "182",
+    "popular_count": "188",
     "processed": true,
     "purpose": "<p>Bei der Einrichtung des Reallabors wurde zun&auml;chst &uuml;berblickshaft verfahren, indem Schr&auml;gluftbilder per Drohne f&uuml;r den Ausgangszustand aufgenommen wurden. Ziel war mithin, den Landschaftsraum insgesamt m&ouml;glichst repr&auml;sentativ im Bild festzuhalten. Vertiefte Analysen zum Landschaftsbild sollten dann erfolgen, wenn konkrete Ma&szlig;nahmen ver&auml;nderter betrieblicher und ggf. auch regionaler Ackerbaustrategie umgesetzt werden (sollen).</p>",
     "rating": "0",
@@ -29072,8 +29072,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "129",
     "poc": {
@@ -29090,7 +29090,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "41",
+    "popular_count": "46",
     "processed": true,
     "purpose": "<p>Auf Grund der Fragestellungen sollte bez&uuml;glich des Reliefs zun&auml;chst nur eine dahingehende Analyse erfolgen, wie die Reliefverh&auml;ltnisse zur Ausbildung eines tempor&auml;ren Flie&szlig;gew&auml;ssernetzes in Form von oberirdischen Abflussbahnen beitragen. Solch ein tempor&auml;res Gew&auml;ssernetz bildet sich im Fall des Auftretens von Landoberfl&auml;chenabfluss aus. Dieser tritt auf, wenn die Niederschlagsintensit&auml;t die Versickerungsleistung des Bodens &uuml;bersteigt und Flie&szlig;prozesse durch die Gef&auml;lleverh&auml;ltnisse erm&ouml;glicht werden.</p>\r\n<p>Die Thematik ist daher aus Bodenschutzsicht (vor allem Bodenverlust, Ausbildung von Kolluvisolen) sowie aus Gew&auml;sserschutzsicht von gro&szlig;em Belang.</p>",
     "rating": "0",
@@ -29371,8 +29371,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "197",
     "poc": {
@@ -29389,7 +29389,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "101",
+    "popular_count": "102",
     "processed": true,
     "purpose": "<p>Bestimmung des C-Faktors</p>",
     "rating": "0",
@@ -29670,8 +29670,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "126",
     "poc": {
@@ -29688,7 +29688,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "24",
+    "popular_count": "27",
     "processed": true,
     "purpose": "<p>F&uuml;r die Bestimmung des langj&auml;hrigen mittleren Bodenabtrags wurde in Anlehnung an DIN 19708:2017-08 ein C-Faktor f&uuml;r verschiedene Nutzungen vergeben (DIN19708).</p>",
     "rating": "0",
@@ -30042,8 +30042,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "123",
     "poc": {
@@ -30060,7 +30060,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "50",
+    "popular_count": "56",
     "processed": true,
     "purpose": "<p>Kontrolle von k&uuml;nstlichen Verstecken (KV) zum Nachweis von Reptilien</p>",
     "rating": "0",
@@ -30340,8 +30340,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "131",
     "poc": {
@@ -30654,8 +30654,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "116",
     "poc": {
@@ -30672,7 +30672,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "40",
+    "popular_count": "44",
     "processed": true,
     "purpose": "<p>Innerhalb der Heuschreckenz&ouml;nose gibt es Arten unterschiedlicher Anspruchstypen. So sind darunter Bewohner der Baum- und Strauchschicht, der Hochstaudenfluren, der Trocken-, Frisch-, und Feuchtgr&uuml;nl&auml;nder sowie der Rohb&ouml;den zu finden.</p>\r\n<p>Heuschrecken sind gute Indikatoren vor allem f&uuml;r Offenlandbiotope. Sie sind relativ sicher zu erfassen und &uuml;ber ihre Stridulation leicht nachzuweisen. Viele Arten besitzen spezifische Habitatanspr&uuml;che, was sich beispielsweise durch die Bindung an Faktoren, wie Mikroklima, Bodenbeschaffenheit, Struktur oder Raumaufbau zeigt.</p>\r\n<p>Im Wesentlichen wird die Nutzung ihres Lebensraumes durch die Vegetationsh&ouml;he, die Exposition, den Feuchtegrad und den Nutzungsgrad bestimmt. Die Eiablage kann in den Boden, bodennahen Wurzelfilz oder in Pflanzen erfolgen. Das Vorhandensein oder Fehlen bestimmter Arten kann zur Charakterisierung und Bewertung des Lebensraumes herangezogen werden.</p>\r\n<p>Ziel der Erfassungen ist es daher in erster Linie, geeignete Habitate f&uuml;r diese Artengruppe &uuml;ber ihre Erfassung zu identifizieren. Zudem k&ouml;nnen durch verschiedene f&ouml;rdernde Ma&szlig;nahmen die Vorkommen stabilisiert werden.</p>",
     "rating": "0",
@@ -30961,8 +30961,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "153",
     "poc": {
@@ -30979,7 +30979,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "148",
+    "popular_count": "154",
     "processed": true,
     "purpose": "<p>Die Biotopkartierung beinhaltet eine methodisch einheitliche Erfassung der Lebensr&auml;ume in einem definierten Gebiet, um diese hinsichtlich ihrer naturschutzfachlichen Wertigkeit zu beurteilen und r&auml;umlich abzugrenzen. Generelles Ziel der Biotopkartierung ist die Inventarisierung der Landschaft nach naturschutzfachlichen Gesichtspunkten. Damit kommt der Biotopkartierung eine besondere Bedeutung zu. Sie dient als Ausgangspunkt f&uuml;r jegliche naturschutzfachlichen Planungen, zur Potenzialabsch&auml;tzung der Ausstattung der Fauna im Gebiet und wird als Grundlage zur Bewertung von Eingriffen in den Naturhaushalt herangezogen. Besonderes Ziel ist es, die Strukturen im Analyseraum&nbsp;zu kennzeichnen und ihre Funktion f&uuml;r den Biotopverbund zu bestimmen. Diese haben eine enorme Lebensraumfunktion als Fortpflanzungs- und Nahrungsraum f&uuml;r Flora und Fauna.</p>",
     "rating": "0",
@@ -31257,8 +31257,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "152",
     "poc": {
@@ -31275,7 +31275,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "195",
+    "popular_count": "200",
     "processed": true,
     "purpose": "<p>Im Bereich des stark agrarisch gepr&auml;gten Kartiergebiet sollen vornehmlich gesch&uuml;tzte und gef&auml;hrdete Pflanzenarten aufgefunden und in ihren Bestandsgr&ouml;&szlig;en abgesch&auml;tzt werden. Bei diesen Arten muss bzw. sollte ein Schutz auch unter dem Gesichtspunkt der Bewirtschaftung aufrechterhalten werden. Zudem k&ouml;nnen die Erkenntnisse genutzt werden, um diese Arten durch &ouml;kologische Sanierungen zu f&ouml;rdern.</p>\r\n<p>Weiterhin geht es darum, als Status Quo zu erfassen, welche gef&auml;hrdeten und gesch&uuml;tzten Arten wo vorkommen. Dadurch kann man Besiedlungspotenziale absch&auml;tzen und Entwicklungen im Zuge des Monitorings beobachten.</p>",
     "rating": "0",
@@ -31557,8 +31557,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "147",
     "poc": {
@@ -31884,8 +31884,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "148",
     "poc": {
@@ -32187,8 +32187,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "156",
     "poc": {
@@ -32205,7 +32205,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "179",
+    "popular_count": "184",
     "processed": true,
     "purpose": "<p>Viele Tagfalter und tagfliegende Nachtfalter spielen als Best&auml;uber eine wichtige Rolle. Das Spektrum an diesen Arten soll deshalb in repr&auml;sentativen Bereichen des Gebietes m&ouml;glichst vollst&auml;ndig erfasst werden. Dabei stehen Reststrukturen in der Agrarlandschaft im Blickpunkt des Interesses. Diese k&ouml;nnen &uuml;ber Biotopverbundsysteme der Wiederbesiedlung des agrarisch genutzten Raumes durch Tagfalter und tagfliegende Nachtfalter dienen und somit die Biodiversit&auml;t erh&ouml;hen. Zudem sollte durch geschickte Anlage von Verbundachsen nach Renaturierungen die Wiederbesiedlung naturn&auml;herer Bereiche m&ouml;glich sein.</p>",
     "rating": "0",
@@ -32444,7 +32444,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "152",
+    "popular_count": "158",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -32679,7 +32679,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "350",
+    "popular_count": "358",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33121,8 +33121,8 @@
       "username": "emissionsinventare"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "181",
     "poc": {
@@ -33139,7 +33139,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1827",
+    "popular_count": "1897",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33424,7 +33424,7 @@
       "username": "blickensdoerfer"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "28665",
+    "popular_count": "29507",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33616,8 +33616,8 @@
       "username": "gocht"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "45",
     "poc": {
@@ -33634,7 +33634,7 @@
       "username": "gocht"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "595",
+    "popular_count": "601",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33830,8 +33830,8 @@
       "username": "blickensdoerfer"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "108",
     "poc": {
@@ -33848,7 +33848,7 @@
       "username": "blickensdoerfer"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "699",
+    "popular_count": "712",
     "processed": true,
     "purpose": null,
     "rating": "0",
@@ -34261,8 +34261,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "11",
     "poc": {
@@ -34279,7 +34279,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1733",
+    "popular_count": "1769",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -34483,8 +34483,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "9",
     "poc": {
@@ -34501,7 +34501,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "114",
+    "popular_count": "117",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -34697,8 +34697,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "10",
     "poc": {
@@ -34715,7 +34715,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "106",
+    "popular_count": "108",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -34911,8 +34911,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "8",
     "poc": {
@@ -34929,7 +34929,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "110",
+    "popular_count": "112",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35125,8 +35125,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "7",
     "poc": {
@@ -35143,7 +35143,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "109",
+    "popular_count": "110",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35352,8 +35352,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "73",
     "poc": {
@@ -35370,7 +35370,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "486",
+    "popular_count": "491",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35566,8 +35566,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "91",
     "poc": {
@@ -35584,7 +35584,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "389",
+    "popular_count": "398",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35942,8 +35942,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "38",
     "poc": {
@@ -35960,7 +35960,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1199",
+    "popular_count": "1209",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -36346,8 +36346,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "24",
     "poc": {
@@ -36364,7 +36364,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1244",
+    "popular_count": "1260",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -36721,8 +36721,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "41",
     "poc": {
@@ -36739,7 +36739,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1813",
+    "popular_count": "1819",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37032,8 +37032,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "27",
     "poc": {
@@ -37050,7 +37050,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1068",
+    "popular_count": "1072",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37395,8 +37395,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "51",
     "poc": {
@@ -37413,7 +37413,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1899",
+    "popular_count": "1921",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37694,8 +37694,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "28",
     "poc": {
@@ -37712,7 +37712,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1129",
+    "popular_count": "1149",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38001,8 +38001,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "29",
     "poc": {
@@ -38019,7 +38019,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1135",
+    "popular_count": "1148",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38312,8 +38312,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "65",
     "poc": {
@@ -38330,7 +38330,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2399",
+    "popular_count": "2422",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38523,8 +38523,8 @@
       "username": "scherstjanoi"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "74",
     "poc": {
@@ -38541,7 +38541,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "413",
+    "popular_count": "420",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38739,8 +38739,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "68",
     "poc": {
@@ -38757,7 +38757,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "504",
+    "popular_count": "506",
     "processed": true,
     "purpose": "",
     "rating": "0",

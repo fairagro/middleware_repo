@@ -3462,212 +3462,6 @@
   },
   {
     "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6452815",
-    "accessScheme": "public",
-    "catalogId": "ED6452815",
-    "contentType": "researchData",
-    "contributorOrder": [
-      "https://orcid.org/0000-0002-8431-6613|https://frl.publisso.de/adhoc/uri/QmFzaGEsIEFkYW0=|https://frl.publisso.de/adhoc/uri/Q29wLCBNaWNoYWVs|https://orcid.org/0000-0001-5068-5034|https://orcid.org/0000-0002-1033-144X|https://orcid.org/0000-0002-2805-6474|https://frl.publisso.de/adhoc/uri/RnJhbmtlbmJlcmdlciwgQmVybmhhcmQ=|https://orcid.org/0000-0001-6232-7568|https://orcid.org/0000-0002-9546-3352|https://orcid.org/0000-0001-9513-2468|https://orcid.org/0000-0002-4946-6544|https://orcid.org/0000-0002-8251-1597|https://orcid.org/0000-0002-4810-6918|https://orcid.org/0000-0001-6461-9433|https://orcid.org/0000-0002-8186-3566|https://orcid.org/0000-0003-0937-7165|https://orcid.org/0000-0001-5389-9409"
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-8431-6613",
-        "prefLabel": "Adam, Beatrix"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/QmFzaGEsIEFkYW0=",
-        "prefLabel": "Basha, Adam"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/Q29wLCBNaWNoYWVs",
-        "prefLabel": "Cop, Michael"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-5068-5034",
-        "prefLabel": "Cordes, Birte"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-1033-144X",
-        "prefLabel": "Eschke, Catriona"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-2805-6474",
-        "prefLabel": "Feeken, Corinna"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RnJhbmtlbmJlcmdlciwgQmVybmhhcmQ=",
-        "prefLabel": "Frankenberger, Bernhard"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-6232-7568",
-        "prefLabel": "Freund, Jens"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-9546-3352",
-        "prefLabel": "Jerger, Dorit"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-9513-2468",
-        "prefLabel": "Jung, Nicole"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-4946-6544",
-        "prefLabel": "Krause, Evamaria"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-8251-1597",
-        "prefLabel": "Lindstaedt, Birte"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-4810-6918",
-        "prefLabel": "Marutschke, Christoph"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-6461-9433",
-        "prefLabel": "Rhiem, Florian"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-8186-3566",
-        "prefLabel": "Rose, Thomas"
-      },
-      {
-        "@id": "https://orcid.org/0000-0003-0937-7165",
-        "prefLabel": "Ruffing, Nina"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-5389-9409",
-        "prefLabel": "Schieberle, Andreas"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/004/",
-        "prefLabel": "Datenverarbeitung; Informatik"
-      },
-      {
-        "@id": "http://dewey.info/class/610/",
-        "prefLabel": "Medizin und Gesundheit"
-      }
-    ],
-    "doi": "10.4126/FRL01-006452815",
-    "fundingProgram": [
-      "-"
-    ],
-    "hasPart": [
-      {
-        "@id": "frl:6452835",
-        "prefLabel": "Metadata schema of the ELN Finder (V1_0).xlsx"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6452815.rdf",
-      "created": "2023-06-12T06:38:10.305+0200",
-      "createdBy": "317",
-      "describes": "frl:6452815",
-      "lastModifiedBy": "317",
-      "modified": "2023-06-15T08:33:49.412+0000",
-      "objectTimestamp": "2023-06-15T08:33:48.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:article",
-        "prefLabel": "info:fedora/oai:article"
-      },
-      {
-        "@id": "info:fedora/oai:monograph",
-        "prefLabel": "info:fedora/oai:monograph"
-      },
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6452815/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6452815/edit",
-        "primaryTopic": "frl:6452815"
-      }
-    ],
-    "issued": [
-      "2023"
-    ],
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6452815",
-        "prefLabel": "oai:frl.publisso.de:frl:6452815"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6452815"
-    ],
-    "primaryTopic": "frl:6452815",
-    "projectId": [
-      "-"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGVuc2NoZW1h",
-        "prefLabel": "Metadatenschema"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RUxOIEZpbmRlcg==",
-        "prefLabel": "ELN Finder"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RWxlY3Ryb25pYyBMYWIgTm90ZWJvb2s=",
-        "prefLabel": "Electronic Lab Notebook"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RWxla3Ryb25pc2NoZXMgTGFib3JidWNo",
-        "prefLabel": "Elektronisches Laborbuch"
-      }
-    ],
-    "title": [
-      "Metadata schema of the ELN Finder (V1_0).xlsx"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "yearOfCopyright": [
-      "2023"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
     "@id": "frl:6431357",
     "accessScheme": "public",
     "associatedDataset": [
@@ -3882,6 +3676,214 @@
     ],
     "yearOfCopyright": [
       "2022"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6452815",
+    "accessScheme": "public",
+    "catalogId": "ED6452815",
+    "contentType": "researchData",
+    "contributorOrder": [
+      "https://orcid.org/0000-0002-8431-6613|https://frl.publisso.de/adhoc/uri/QmFzaGEsIEFkYW0=|https://frl.publisso.de/adhoc/uri/Q29wLCBNaWNoYWVs|https://orcid.org/0000-0001-5068-5034|https://orcid.org/0000-0002-1033-144X|https://orcid.org/0000-0002-2805-6474|https://frl.publisso.de/adhoc/uri/RnJhbmtlbmJlcmdlciwgQmVybmhhcmQ=|https://orcid.org/0000-0001-6232-7568|https://orcid.org/0000-0002-9546-3352|https://orcid.org/0000-0001-9513-2468|https://orcid.org/0000-0002-4946-6544|https://orcid.org/0000-0002-8251-1597|https://orcid.org/0000-0002-4810-6918|https://orcid.org/0000-0001-6461-9433|https://orcid.org/0000-0002-8186-3566|https://orcid.org/0000-0003-0937-7165|https://orcid.org/0000-0001-5389-9409"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-8431-6613",
+        "prefLabel": "Adam, Beatrix"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/QmFzaGEsIEFkYW0=",
+        "prefLabel": "Basha, Adam"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/Q29wLCBNaWNoYWVs",
+        "prefLabel": "Cop, Michael"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-5068-5034",
+        "prefLabel": "Cordes, Birte"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-1033-144X",
+        "prefLabel": "Eschke, Catriona"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-2805-6474",
+        "prefLabel": "Feeken, Corinna"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RnJhbmtlbmJlcmdlciwgQmVybmhhcmQ=",
+        "prefLabel": "Frankenberger, Bernhard"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-6232-7568",
+        "prefLabel": "Freund, Jens"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-9546-3352",
+        "prefLabel": "Jerger, Dorit"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-9513-2468",
+        "prefLabel": "Jung, Nicole"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-4946-6544",
+        "prefLabel": "Krause, Evamaria"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-8251-1597",
+        "prefLabel": "Lindstaedt, Birte"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-4810-6918",
+        "prefLabel": "Marutschke, Christoph"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-6461-9433",
+        "prefLabel": "Rhiem, Florian"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-8186-3566",
+        "prefLabel": "Rose, Thomas"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-0937-7165",
+        "prefLabel": "Ruffing, Nina"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-5389-9409",
+        "prefLabel": "Schieberle, Andreas"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/004/",
+        "prefLabel": "Datenverarbeitung; Informatik"
+      },
+      {
+        "@id": "http://dewey.info/class/610/",
+        "prefLabel": "Medizin und Gesundheit"
+      }
+    ],
+    "doi": "10.4126/FRL01-006452815",
+    "fundingProgram": [
+      "-"
+    ],
+    "hasPart": [
+      {
+        "@id": "frl:6452835",
+        "prefLabel": "Metadata schema of the ELN Finder (V1_0).xlsx"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6452815.rdf",
+      "created": "2023-06-12T06:38:10.305+0200",
+      "createdBy": "317",
+      "describes": "frl:6452815",
+      "lastModifiedBy": "25",
+      "modified": "2024-01-04T09:48:17.809+0000",
+      "objectTimestamp": "2024-01-04T09:48:17.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:article",
+        "prefLabel": "info:fedora/oai:article"
+      },
+      {
+        "@id": "info:fedora/oai:monograph",
+        "prefLabel": "info:fedora/oai:monograph"
+      },
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6452815/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6452815/edit",
+        "primaryTopic": "frl:6452815"
+      }
+    ],
+    "issued": "2023",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6452815",
+        "prefLabel": "oai:frl.publisso.de:frl:6452815"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0",
+        "prefLabel": "CC BY 4.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset",
+        "prefLabel": "Datensatz"
+      }
+    ],
+    "prefLabel": [
+      "frl:6452815"
+    ],
+    "primaryTopic": "frl:6452815",
+    "projectId": [
+      "-"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGVuc2NoZW1h",
+        "prefLabel": "Metadatenschema"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RUxOIEZpbmRlcg==",
+        "prefLabel": "ELN Finder"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RWxlY3Ryb25pYyBMYWIgTm90ZWJvb2s=",
+        "prefLabel": "Electronic Lab Notebook"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RWxlY3Ryb25pYyBMYWIgTm90ZWJvb2sgKEVMTik=",
+        "prefLabel": "Electronic Lab Notebook (ELN)"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RWxla3Ryb25pc2NoZXMgTGFib3JidWNo",
+        "prefLabel": "Elektronisches Laborbuch"
+      }
+    ],
+    "title": [
+      "Metadata schema of the ELN Finder (V1_0).xlsx"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "yearOfCopyright": [
+      "2023"
     ]
   }
 ]

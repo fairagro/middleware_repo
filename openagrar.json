@@ -6,6 +6,65 @@
     "creator": [
       {
         "@type": "Person",
+        "affiliation": "Thünen-Institut für Waldökosysteme / Thünen Institute of Forest Ecosystems, A.-Möller-Str. 1, Haus 41/42, 16225 Eberswalde (Germany)",
+        "familyName": "Scherstjanoi",
+        "givenName": "Marc",
+        "identifier": [
+          "https://d-nb.info/gnd/1213038529",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1213038529"
+          }
+        ],
+        "name": "Scherstjanoi, Marc"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Agrarklimaschutz, Bundesallee 65, 38116 Braunschweig",
+        "familyName": "Dechow",
+        "givenName": "René",
+        "identifier": [
+          "https://d-nb.info/gnd/13314917X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "13314917X"
+          }
+        ],
+        "name": "Dechow, René"
+      }
+    ],
+    "datePublished": "2023-12-18",
+    "description": [
+      "",
+      "SORCERING can be used to model the fate of soil organic carbon (SOC) and soil organic nitrogen (SON) and to calculate N mineralisation rates. It provides a framework that numerically solves differential equations of SOC models based on first-order kinetics. Thus, SOC models can be simply defined and run to predict the temporal development of SOC. Beyond this, SORCERING determines the fluxes of SON and N mineralisation / immobilisation. Basic inputs are (1) the model parameters of a given SOC model expressed as the C transfer matrix (including information on decomposition and transfer rates between model pools), (2) the initial distributions of C and N among model pools and (3) time series of C and N inputs and rate modulating environmental factors. The fourth-order Runge-Kutta algorithm is used to numerically solve the system of differential equations. Version: 1.0.0.1 Depends: R (≥ 3.5.0) Imports: Rcpp (≥ 1.0.6), mathjaxr, Rdpack LinkingTo: Rcpp, RcppArmadillo"
+    ],
+    "headline": "sorcering: Soil ORganic Carbon & CN Ratio drIven Nitrogen modellinG framework",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/DATA20240105170154-0"
+      }
+    ],
+    "license": [
+      "https://open-access.net/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00092845",
+    "name": "sorcering: Soil ORganic Carbon & CN Ratio drIven Nitrogen modellinG framework",
+    "publisher": {
+      "@type": "Person",
+      "name": "CRAN"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
         "affiliation": "Julius Kühn-Institute (JKI), Institute for Application Techniques in Plant Protection, Germany",
         "familyName": "Weimar-Bosse",
         "givenName": "Carolin",

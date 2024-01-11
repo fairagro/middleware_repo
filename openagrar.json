@@ -2,6 +2,276 @@
   {
     "@context": "http://schema.org/",
     "@type": "Dataset",
+    "alternativeHeadline": [
+      "Reference data from the FNEWS project"
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "familyName": "Langner",
+        "givenName": "Niklas",
+        "identifier": [
+          "https://orcid.org/0009-0005-8682-723X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0009-0005-8682-723X"
+          }
+        ],
+        "name": "Langner, Niklas"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Oehmichen",
+        "givenName": "Katja",
+        "identifier": [
+          "https://d-nb.info/gnd/132725770",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "132725770"
+          },
+          "https://orcid.org/0000-0002-3952-8561",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-3952-8561"
+          }
+        ],
+        "name": "Oehmichen, Katja"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Backa",
+        "givenName": "Julian",
+        "name": "Backa, Julian"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Eisenecker",
+        "givenName": "Philipp",
+        "name": "Eisenecker, Philipp"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Reinosch",
+        "givenName": "Eike",
+        "identifier": [
+          "https://orcid.org/0000-0003-3715-0048",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0003-3715-0048"
+          }
+        ],
+        "name": "Reinosch, Eike"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Wiesehahn",
+        "givenName": "Jens",
+        "identifier": [
+          "https://orcid.org/0000-0002-4482-3012",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-4482-3012"
+          }
+        ],
+        "name": "Wiesehahn, Jens"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Hoffmann",
+        "givenName": "Karina",
+        "identifier": [
+          "https://d-nb.info/gnd/1218191090",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1218191090"
+          },
+          "https://orcid.org/0000-0002-6114-8178",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-6114-8178"
+          }
+        ],
+        "name": "Hoffmann, Karina"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Adler",
+        "givenName": "Petra",
+        "identifier": [
+          "https://orcid.org/0000-0001-6040-9471",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-6040-9471"
+          },
+          "https://d-nb.info/gnd/1084347636",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1084347636"
+          }
+        ],
+        "name": "Adler, Petra"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Beckschäfer",
+        "givenName": "Philip",
+        "identifier": [
+          "https://d-nb.info/gnd/1048202704",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1048202704"
+          },
+          "https://orcid.org/0000-0003-1728-724X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0003-1728-724X"
+          }
+        ],
+        "name": "Beckschäfer, Philip"
+      }
+    ],
+    "datePublished": "2024",
+    "description": [
+      "",
+      "Der Datensatz wurde im Projekt „Fernerkundungsbasiertes Nationales Erfassungssystem Waldschäden (FNEWS)“ zum Training und zur Optimierung eines Verfahrens zur automatisierten Erfassung von Waldschäden hergestellt und verwendet. Die Veröffentlichung des umfangreichen Referenzdatensatzes leistet damit einen Beitrag zur Unterstützung der Wissenschaft und Forschung im Bereich des fernerkundungsbasierten Waldmonitorings. Der bereitgestellte Geodatensatz „referenzdaten_fnews_3_0.gpkg“ besteht aus georeferenzierten Polygonen von Waldschäden (und ungeschädigten Referenzflächen) aus den Untersuchungsgebieten des Projektes FNEWS (fnews-wald.de). Der Datensatz umfasst detaillierte Zusatzinformationen über Schädigung und Waldstruktur. Die erfassten Waldschäden liegen im Zeitraum von 2018 bis 2021. Der Datensatz wurde im Projekt FNEWS in Zusammenarbeit der Partner Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA), Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg (FVA-BW), Bayerische Landesanstalt für Wald und Forstwirtschaft (LWF), Staatsbetrieb Sachsenforst (SBS) und dem Thünen-Institut für Waldökosysteme (TI-WO) produziert. Der Geodatensatz wird über die Plattform des Thünen-Waldatlasses und OpenAgrar im Rahmen einer CC-BY 4.0 Lizenz publiziert. Die Bereitstellung erfolgt per OGC Compliance Dienst (WMS) und als lokaler Download. Der lokale Download wird über die Plattform OpenAgrar angeboten. Der Geodatensatz liegt im Koordinatensystem WGS 84 / UTM Zone 32N (EPSG: 32632) vor und umfasst 16.300 Polygone aus den Untersuchungsgebieten der Bundeslandpartner. Als Zusatzinformationen werden neun Attribute pro Polygon bereitgestellt. Die Attribute wurden von forstlichen Experten aus den Bundesländern auf Basis unterschiedlicher Sachdaten definiert. Attribute, die nicht eindeutig bestimmt werden konnten, tragen einen Leerwert. Für den Datenzugang und weitere Informationen wenden Sie sich bitte an fnews@thuenen.de. Die Datenquelle ist wie folgt anzugeben: Daten des Staatsbetrieb Sachsenforst. Darstellung auf Grundlage der Digitalen Referenzdaten Landeswald vom FNEWS-Projekt mit Genehmigung des Staatsbetriebes Sachsenforst 2023, Zeitraum von 2018 bis 2021. Daten der Forstliche Versuchsanstalt Baden-Württemberg. Datengrundlage: Referenzdaten aus FNEWS-Projekt, Zeitraum 2018 bis 2021. Forstliche Versuch- und Forschungsanstalt Baden-Württemberg (www.fva-bw.de). Daten der Nordwestdeutschen Forstlichen Versuchsanstalt. Referenzdaten im Untersuchungsgebiet 32UNC erfasst und bereitgestellt durch die Nordwestdeutsche Forstliche Versuchsanstalt (2023). Die Wiedergabevermerke müssen gut lesbar in der Bildunterschrift oder Kartenlegende, sowie bei Zitaten im Text platziert werden. Koordinatensystem: EPSG:32632 Type of Resource: Vektor/ Geopackage",
+      "",
+      "The data set was produced and used in the project \"Remote sensing-based National Forest Damage Assessment System (FNEWS)\" to train and optimise a method for automated forest damage assessment. The publication of the detailed reference dataset thus contributes to the support of science and research in the field of remote sensing-based forest monitoring. The geodata provided, \"referenzdaten_fnews_3_0.gpkg\", consists of georeferenced polygons of forest damage (and undamaged reference areas) from the research areas of the FNEWS project (fnews-wald.de). The data set contains detailed additional information on damage and forest structure. The recorded forest damage covers the period from 2018 to 2021. The dataset was produced in the FNEWS project in cooperation with the partners Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA), Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg (FVA-BW), Bayerische Landesanstalt für Wald und Forstwirtschaft (LWF), Staatsbetrieb Sachsenforst (SBS) and the Thünen Institute for Forest Ecosystems (TI-WO). The geodata set is published via the platform of the Thünen Forest Atlas and OpenAgrar under a CC-BY 4.0 licence. It is accessible via OGC Compliance Service (WMS) and as a local download. The local download is offered via the OpenAgrar platform. The geodata set is available as WGS 84 / UTM Zone 32N coordinate system (EPSG: 32632) and comprises 16,300 polygons from the study areas of the federal state partners. As additional information, nine attributes per polygon are provided. The attributes were interpreted and defined by forestry experts from the federal states on the basis of different types of data. Attributes that could not be clearly determined have a NoData value. For data access and further information, please contact fnews@thuenen.de. The data source must be indicated as follows: Daten des Staatsbetrieb Sachsenforst. Darstellung auf Grundlage der Digitalen Referenzdaten Landeswald vom FNEWS-Projekt mit Genehmigung des Staatsbetriebes Sachsenforst 2023, Zeitraum von 2018 bis 2021. Daten der Forstliche Versuchsanstalt Baden-Württemberg. Datengrundlage: Referenzdaten aus FNEWS-Projekt, Zeitraum 2018 bis 2021. Forstliche Versuch- und Forschungsanstalt Baden-Württemberg (www.fva-bw.de). Daten der Nordwestdeutschen Forstlichen Versuchsanstalt. Referenzdaten im Untersuchungsgebiet 32UNC erfasst und bereitgestellt durch die Nordwestdeutsche Forstliche Versuchsanstalt (2023). The caption or map legend must be clearly legible, as must the text in the case of quotations. Koordinatensystem: EPSG:32632 Type of Resource: Vector/ Geopackage"
+    ],
+    "headline": "Referenzdaten aus dem Projekt FNEWS",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/DATA20240111153336-0"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00093065",
+    "name": "Referenzdaten aus dem Projekt FNEWS",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar-Repository"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Julius Kühn-Institute (JKI), Institut for Breeding Research on Fruit Crops, Germany",
+        "familyName": "Broschewitz",
+        "givenName": "Lea",
+        "identifier": [
+          "https://d-nb.info/gnd/1300933054",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1300933054"
+          }
+        ],
+        "name": "Broschewitz, Lea"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Bannier",
+        "givenName": "Hans-Joachim",
+        "identifier": [
+          "https://d-nb.info/gnd/1211929094",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1211929094"
+          }
+        ],
+        "name": "Bannier, Hans-Joachim"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Julius Kühn-Institute (JKI), Institut for Breeding Research on Fruit Crops, Germany",
+        "familyName": "Reim",
+        "givenName": "Stefanie",
+        "identifier": [
+          "https://d-nb.info/gnd/137845197",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "137845197"
+          }
+        ],
+        "name": "Reim, Stefanie"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Julius Kühn-Institute (JKI), Institut for Breeding Research on Fruit Crops, Germany",
+        "familyName": "Flachowsky",
+        "givenName": "Henryk",
+        "identifier": [
+          "https://d-nb.info/gnd/128593652",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "128593652"
+          }
+        ],
+        "name": "Flachowsky, Henryk"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Julius Kühn-Institute (JKI), Institut for Breeding Research on Fruit Crops, Germany",
+        "familyName": "Höfer",
+        "givenName": "Monika",
+        "identifier": [
+          "https://d-nb.info/gnd/1059103419",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1059103419"
+          }
+        ],
+        "name": "Höfer, Monika"
+      }
+    ],
+    "datePublished": "2023-12-20",
+    "description": [
+      "",
+      "The German Fruit Genebank (https://www.deutsche-genbank-obst.de/) is a decentralized network with focus on the coordination of the different germplasm collections in Germany to conserve and utilize genetic resources of native fruit species. Here, emphasis is put on the trueness-to-type of the genetic resources based on pomological and molecular characteristics. Over the years from 2009 to 2021, several projects were carried out to take an inventory of the germplasm collections in the apple (Malus ×domestica) network of the German Fruit Genebank. In a first step, at least two knowledgeable experts of the German Pomological Association characterized accessions pomologically. In a second step, a DNA fingerprint analysis was used for the molecular characterization. The DNA fingerprint analysis utilized a set of 17 simple sequence repeat (SSR) markers and 8 reference genotypes recommended by the European Cooperative Programme for Plant Genetic Resources (ECPGR; http://www.ecpgr.cgiar.org/) Malus/Pyrus working group and was performed by Microsynth ecogenics GmbH (Balgach, Switzerland). 8,184 samples (fruits/ leaves) of apple trees belonging to the German Fruit Genebank from eight network collections were investigated. 1,404 different fingerprints in correspondence to cultivars could be estimated for apple."
+    ],
+    "headline": "Microsatellite/SSR dataset: pomological and molecular characterization of apple cultivars (Malus × domestica Borkh.) of the German Fruit Genebank",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.5073/20231220-114634-0"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/publicdomain/zero/1.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00092714",
+    "name": "Microsatellite/SSR dataset: pomological and molecular characterization of apple cultivars (Malus × domestica Borkh.) of the German Fruit Genebank",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar Repository"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
     "alternativeHeadline": [],
     "creator": [
       {
@@ -7215,173 +7485,6 @@
   {
     "@context": "http://schema.org/",
     "@type": "Dataset",
-    "alternativeHeadline": [
-      "Reference data from the FNEWS project"
-    ],
-    "creator": [
-      {
-        "@type": "Person",
-        "familyName": "Langner",
-        "givenName": "Niklas",
-        "identifier": [
-          "https://orcid.org/0009-0005-8682-723X",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0009-0005-8682-723X"
-          }
-        ],
-        "name": "Langner, Niklas"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Oehmichen",
-        "givenName": "Katja",
-        "identifier": [
-          "https://d-nb.info/gnd/132725770",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "132725770"
-          },
-          "https://orcid.org/0000-0002-3952-8561",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-3952-8561"
-          }
-        ],
-        "name": "Oehmichen, Katja"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Backa",
-        "givenName": "Julian",
-        "name": "Backa, Julian"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Eisenecker",
-        "givenName": "Philipp",
-        "name": "Eisenecker, Philipp"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Reinosch",
-        "givenName": "Eike",
-        "identifier": [
-          "https://orcid.org/0000-0003-3715-0048",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0003-3715-0048"
-          }
-        ],
-        "name": "Reinosch, Eike"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Wiesehahn",
-        "givenName": "Jens",
-        "identifier": [
-          "https://orcid.org/0000-0002-4482-3012",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-4482-3012"
-          }
-        ],
-        "name": "Wiesehahn, Jens"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Hoffmann",
-        "givenName": "Karina",
-        "identifier": [
-          "https://d-nb.info/gnd/1218191090",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1218191090"
-          },
-          "https://orcid.org/0000-0002-6114-8178",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-6114-8178"
-          }
-        ],
-        "name": "Hoffmann, Karina"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Adler",
-        "givenName": "Petra",
-        "identifier": [
-          "https://orcid.org/0000-0001-6040-9471",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0001-6040-9471"
-          },
-          "https://d-nb.info/gnd/1084347636",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1084347636"
-          }
-        ],
-        "name": "Adler, Petra"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Beckschäfer",
-        "givenName": "Philip",
-        "identifier": [
-          "https://d-nb.info/gnd/1048202704",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1048202704"
-          },
-          "https://orcid.org/0000-0003-1728-724X",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0003-1728-724X"
-          }
-        ],
-        "name": "Beckschäfer, Philip"
-      }
-    ],
-    "datePublished": "2023",
-    "description": [
-      "",
-      "Der Datensatz wurde im Projekt „Fernerkundungsbasiertes Nationales Erfassungssystem Waldschäden (FNEWS)“ zum Training und zur Optimierung eines Verfahrens zur automatisierten Erfassung von Waldschäden hergestellt und verwendet. Die Veröffentlichung des umfangreichen Referenzdatensatzes leistet damit einen Beitrag zur Unterstützung der Wissenschaft und Forschung im Bereich des fernerkundungsbasierten Waldmonitorings. Der bereitgestellte Geodatensatz „referenzdaten_fnews_3_0.gpkg“ besteht aus georeferenzierten Polygonen von Waldschäden (und ungeschädigten Referenzflächen) aus den Untersuchungsgebieten des Projektes FNEWS (fnews-wald.de). Der Datensatz umfasst detaillierte Zusatzinformationen über Schädigung und Waldstruktur. Die erfassten Waldschäden liegen im Zeitraum von 2018 bis 2021. Der Datensatz wurde im Projekt FNEWS in Zusammenarbeit der Partner Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA), Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg (FVA-BW), Bayerische Landesanstalt für Wald und Forstwirtschaft (LWF), Staatsbetrieb Sachsenforst (SBS) und dem Thünen-Institut für Waldökosysteme (TI-WO) produziert. Der Geodatensatz wird über die Plattform des Thünen-Waldatlasses und OpenAgrar im Rahmen einer CC-BY 4.0 Lizenz publiziert. Die Bereitstellung erfolgt per OGC Compliance Dienst (WMS) und als lokaler Download. Der lokale Download wird über die Plattform OpenAgrar angeboten. Der Geodatensatz liegt im Koordinatensystem WGS 84 / UTM Zone 32N (EPSG: 32632) vor und umfasst 16.300 Polygone aus den Untersuchungsgebieten der Bundeslandpartner. Als Zusatzinformationen werden neun Attribute pro Polygon bereitgestellt. Die Attribute wurden von forstlichen Experten aus den Bundesländern auf Basis unterschiedlicher Sachdaten definiert. Attribute, die nicht eindeutig bestimmt werden konnten, tragen einen Leerwert. Für den Datenzugang und weitere Informationen wenden Sie sich bitte an fnews@thuenen.de. Die Datenquelle ist wie folgt anzugeben: Daten des Staatsbetrieb Sachsenforst. Darstellung auf Grundlage der Digitalen Referenzdaten Landeswald vom FNEWS-Projekt mit Genehmigung des Staatsbetriebes Sachsenforst 2023, Zeitraum von 2018 bis 2021. Daten der Forstliche Versuchsanstalt Baden-Württemberg. Datengrundlage: Referenzdaten aus FNEWS-Projekt, Zeitraum 2018 bis 2021. Forstliche Versuch- und Forschungsanstalt Baden-Württemberg (www.fva-bw.de). Daten der Nordwestdeutschen Forstlichen Versuchsanstalt. Referenzdaten im Untersuchungsgebiet 32UNC erfasst und bereitgestellt durch die Nordwestdeutsche Forstliche Versuchsanstalt (2023). Die Wiedergabevermerke müssen gut lesbar in der Bildunterschrift oder Kartenlegende, sowie bei Zitaten im Text platziert werden. Koordinatensystem: EPSG:32632 Type of Resource: Vektor/ Geopackage",
-      "",
-      "The data set was produced and used in the project \"Remote sensing-based National Forest Damage Assessment System (FNEWS)\" to train and optimise a method for automated forest damage assessment. The publication of the detailed reference dataset thus contributes to the support of science and research in the field of remote sensing-based forest monitoring. The geodata provided, \"referenzdaten_fnews_3_0.gpkg\", consists of georeferenced polygons of forest damage (and undamaged reference areas) from the research areas of the FNEWS project (fnews-wald.de). The data set contains detailed additional information on damage and forest structure. The recorded forest damage covers the period from 2018 to 2021. The dataset was produced in the FNEWS project in cooperation with the partners Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA), Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg (FVA-BW), Bayerische Landesanstalt für Wald und Forstwirtschaft (LWF), Staatsbetrieb Sachsenforst (SBS) and the Thünen Institute for Forest Ecosystems (TI-WO). The geodata set is published via the platform of the Thünen Forest Atlas and OpenAgrar under a CC-BY 4.0 licence. It is accessible via OGC Compliance Service (WMS) and as a local download. The local download is offered via the OpenAgrar platform. The geodata set is available as WGS 84 / UTM Zone 32N coordinate system (EPSG: 32632) and comprises 16,300 polygons from the study areas of the federal state partners. As additional information, nine attributes per polygon are provided. The attributes were interpreted and defined by forestry experts from the federal states on the basis of different types of data. Attributes that could not be clearly determined have a NoData value. For data access and further information, please contact fnews@thuenen.de. The data source must be indicated as follows: Daten des Staatsbetrieb Sachsenforst. Darstellung auf Grundlage der Digitalen Referenzdaten Landeswald vom FNEWS-Projekt mit Genehmigung des Staatsbetriebes Sachsenforst 2023, Zeitraum von 2018 bis 2021. Daten der Forstliche Versuchsanstalt Baden-Württemberg. Datengrundlage: Referenzdaten aus FNEWS-Projekt, Zeitraum 2018 bis 2021. Forstliche Versuch- und Forschungsanstalt Baden-Württemberg (www.fva-bw.de). Daten der Nordwestdeutschen Forstlichen Versuchsanstalt. Referenzdaten im Untersuchungsgebiet 32UNC erfasst und bereitgestellt durch die Nordwestdeutsche Forstliche Versuchsanstalt (2023). The caption or map legend must be clearly legible, as must the text in the case of quotations. Koordinatensystem: EPSG:32632 Type of Resource: Vector/ Geopackage"
-    ],
-    "headline": "Referenzdaten aus dem Projekt FNEWS",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/DATA20231025183526-0"
-      }
-    ],
-    "license": [
-      "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00091251",
-    "name": "Referenzdaten aus dem Projekt FNEWS",
-    "publisher": {
-      "@type": "Person",
-      "name": "OpenAgrar-Repository"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
     "alternativeHeadline": [],
     "creator": [
       {
@@ -7634,6 +7737,173 @@
     ],
     "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00090310",
     "name": "Datensatz zu \"Rechtsextreme Konzerte und Völkische Siedler: Welche Möglichkeiten bieten ländliche Räume?\"",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar-Repository"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [
+      "Reference data from the FNEWS project"
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "familyName": "Langner",
+        "givenName": "Niklas",
+        "identifier": [
+          "https://orcid.org/0009-0005-8682-723X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0009-0005-8682-723X"
+          }
+        ],
+        "name": "Langner, Niklas"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Oehmichen",
+        "givenName": "Katja",
+        "identifier": [
+          "https://d-nb.info/gnd/132725770",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "132725770"
+          },
+          "https://orcid.org/0000-0002-3952-8561",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-3952-8561"
+          }
+        ],
+        "name": "Oehmichen, Katja"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Backa",
+        "givenName": "Julian",
+        "name": "Backa, Julian"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Eisenecker",
+        "givenName": "Philipp",
+        "name": "Eisenecker, Philipp"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Reinosch",
+        "givenName": "Eike",
+        "identifier": [
+          "https://orcid.org/0000-0003-3715-0048",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0003-3715-0048"
+          }
+        ],
+        "name": "Reinosch, Eike"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Wiesehahn",
+        "givenName": "Jens",
+        "identifier": [
+          "https://orcid.org/0000-0002-4482-3012",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-4482-3012"
+          }
+        ],
+        "name": "Wiesehahn, Jens"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Hoffmann",
+        "givenName": "Karina",
+        "identifier": [
+          "https://d-nb.info/gnd/1218191090",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1218191090"
+          },
+          "https://orcid.org/0000-0002-6114-8178",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-6114-8178"
+          }
+        ],
+        "name": "Hoffmann, Karina"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Adler",
+        "givenName": "Petra",
+        "identifier": [
+          "https://orcid.org/0000-0001-6040-9471",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-6040-9471"
+          },
+          "https://d-nb.info/gnd/1084347636",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1084347636"
+          }
+        ],
+        "name": "Adler, Petra"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Beckschäfer",
+        "givenName": "Philip",
+        "identifier": [
+          "https://d-nb.info/gnd/1048202704",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1048202704"
+          },
+          "https://orcid.org/0000-0003-1728-724X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0003-1728-724X"
+          }
+        ],
+        "name": "Beckschäfer, Philip"
+      }
+    ],
+    "datePublished": "2023",
+    "description": [
+      "",
+      "Der Datensatz wurde im Projekt „Fernerkundungsbasiertes Nationales Erfassungssystem Waldschäden (FNEWS)“ zum Training und zur Optimierung eines Verfahrens zur automatisierten Erfassung von Waldschäden hergestellt und verwendet. Die Veröffentlichung des umfangreichen Referenzdatensatzes leistet damit einen Beitrag zur Unterstützung der Wissenschaft und Forschung im Bereich des fernerkundungsbasierten Waldmonitorings. Der bereitgestellte Geodatensatz „referenzdaten_fnews_3_0.gpkg“ besteht aus georeferenzierten Polygonen von Waldschäden (und ungeschädigten Referenzflächen) aus den Untersuchungsgebieten des Projektes FNEWS (fnews-wald.de). Der Datensatz umfasst detaillierte Zusatzinformationen über Schädigung und Waldstruktur. Die erfassten Waldschäden liegen im Zeitraum von 2018 bis 2021. Der Datensatz wurde im Projekt FNEWS in Zusammenarbeit der Partner Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA), Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg (FVA-BW), Bayerische Landesanstalt für Wald und Forstwirtschaft (LWF), Staatsbetrieb Sachsenforst (SBS) und dem Thünen-Institut für Waldökosysteme (TI-WO) produziert. Der Geodatensatz wird über die Plattform des Thünen-Waldatlasses und OpenAgrar im Rahmen einer CC-BY 4.0 Lizenz publiziert. Die Bereitstellung erfolgt per OGC Compliance Dienst (WMS) und als lokaler Download. Der lokale Download wird über die Plattform OpenAgrar angeboten. Der Geodatensatz liegt im Koordinatensystem WGS 84 / UTM Zone 32N (EPSG: 32632) vor und umfasst 16.300 Polygone aus den Untersuchungsgebieten der Bundeslandpartner. Als Zusatzinformationen werden neun Attribute pro Polygon bereitgestellt. Die Attribute wurden von forstlichen Experten aus den Bundesländern auf Basis unterschiedlicher Sachdaten definiert. Attribute, die nicht eindeutig bestimmt werden konnten, tragen einen Leerwert. Für den Datenzugang und weitere Informationen wenden Sie sich bitte an fnews@thuenen.de. Die Datenquelle ist wie folgt anzugeben: Daten des Staatsbetrieb Sachsenforst. Darstellung auf Grundlage der Digitalen Referenzdaten Landeswald vom FNEWS-Projekt mit Genehmigung des Staatsbetriebes Sachsenforst 2023, Zeitraum von 2018 bis 2021. Daten der Forstliche Versuchsanstalt Baden-Württemberg. Datengrundlage: Referenzdaten aus FNEWS-Projekt, Zeitraum 2018 bis 2021. Forstliche Versuch- und Forschungsanstalt Baden-Württemberg (www.fva-bw.de). Daten der Nordwestdeutschen Forstlichen Versuchsanstalt. Referenzdaten im Untersuchungsgebiet 32UNC erfasst und bereitgestellt durch die Nordwestdeutsche Forstliche Versuchsanstalt (2023). Die Wiedergabevermerke müssen gut lesbar in der Bildunterschrift oder Kartenlegende, sowie bei Zitaten im Text platziert werden. Koordinatensystem: EPSG:32632 Type of Resource: Vektor/ Geopackage",
+      "",
+      "The data set was produced and used in the project \"Remote sensing-based National Forest Damage Assessment System (FNEWS)\" to train and optimise a method for automated forest damage assessment. The publication of the detailed reference dataset thus contributes to the support of science and research in the field of remote sensing-based forest monitoring. The geodata provided, \"referenzdaten_fnews_3_0.gpkg\", consists of georeferenced polygons of forest damage (and undamaged reference areas) from the research areas of the FNEWS project (fnews-wald.de). The data set contains detailed additional information on damage and forest structure. The recorded forest damage covers the period from 2018 to 2021. The dataset was produced in the FNEWS project in cooperation with the partners Nordwestdeutsche Forstliche Versuchsanstalt (NW-FVA), Forstliche Versuchs- und Forschungsanstalt Baden-Württemberg (FVA-BW), Bayerische Landesanstalt für Wald und Forstwirtschaft (LWF), Staatsbetrieb Sachsenforst (SBS) and the Thünen Institute for Forest Ecosystems (TI-WO). The geodata set is published via the platform of the Thünen Forest Atlas and OpenAgrar under a CC-BY 4.0 licence. It is accessible via OGC Compliance Service (WMS) and as a local download. The local download is offered via the OpenAgrar platform. The geodata set is available as WGS 84 / UTM Zone 32N coordinate system (EPSG: 32632) and comprises 16,300 polygons from the study areas of the federal state partners. As additional information, nine attributes per polygon are provided. The attributes were interpreted and defined by forestry experts from the federal states on the basis of different types of data. Attributes that could not be clearly determined have a NoData value. For data access and further information, please contact fnews@thuenen.de. The data source must be indicated as follows: Daten des Staatsbetrieb Sachsenforst. Darstellung auf Grundlage der Digitalen Referenzdaten Landeswald vom FNEWS-Projekt mit Genehmigung des Staatsbetriebes Sachsenforst 2023, Zeitraum von 2018 bis 2021. Daten der Forstliche Versuchsanstalt Baden-Württemberg. Datengrundlage: Referenzdaten aus FNEWS-Projekt, Zeitraum 2018 bis 2021. Forstliche Versuch- und Forschungsanstalt Baden-Württemberg (www.fva-bw.de). Daten der Nordwestdeutschen Forstlichen Versuchsanstalt. Referenzdaten im Untersuchungsgebiet 32UNC erfasst und bereitgestellt durch die Nordwestdeutsche Forstliche Versuchsanstalt (2023). The caption or map legend must be clearly legible, as must the text in the case of quotations. Koordinatensystem: EPSG:32632 Type of Resource: Vector/ Geopackage"
+    ],
+    "headline": "Referenzdaten aus dem Projekt FNEWS",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/DATA20231025183526-0"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00091251",
+    "name": "Referenzdaten aus dem Projekt FNEWS",
     "publisher": {
       "@type": "Person",
       "name": "OpenAgrar-Repository"

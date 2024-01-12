@@ -1,5 +1,218 @@
 [
   {
+    "abstract": "<p>Die Karte zeigt die Untersuchungsfl&auml;chen, die im <a href=\"https://wildbienen.thuenen.de/\" target=\"_blank\" rel=\"noopener\">Wildbienen-Monitoring in Agrarlandschaften</a> genutzt werden, aufgeteilt nach den Citizen-Science-Modulen Nisthilfe-Patenschaft und Hummel-Monitoring. Die Stichprobenkulisse basiert auf dem LUCAS-Grid.</p>",
+    "alternate": null,
+    "attribution": null,
+    "bbox_polygon": {
+      "coordinates": [
+        [
+          [
+            8.386696217103912,
+            50.252668654442076
+          ],
+          [
+            8.386696217103912,
+            51.128427548350885
+          ],
+          [
+            9.759987232728912,
+            51.128427548350885
+          ],
+          [
+            9.759987232728912,
+            50.252668654442076
+          ],
+          [
+            8.386696217103912,
+            50.252668654442076
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "category": {
+      "identifier": "biota"
+    },
+    "constraints_other": "",
+    "created": "2023-03-15T14:35:06.047621Z",
+    "data_quality_statement": "",
+    "date": "2023-03-15T14:35:00Z",
+    "date_type": "publication",
+    "detail_url": "https://atlas.thuenen.de/maps/177",
+    "doi": null,
+    "edition": null,
+    "embed_url": "https://atlas.thuenen.de/maps/177/embed",
+    "featured": false,
+    "group": null,
+    "is_approved": true,
+    "is_published": true,
+    "keywords": [
+      {
+        "name": "Wildbienen",
+        "slug": "wildbienen"
+      }
+    ],
+    "language": "eng",
+    "last_updated": "2024-01-12T14:36:01.328283Z",
+    "license": {
+      "identifier": ""
+    },
+    "link": "https://atlas.thuenen.de/api/v2/resources/177",
+    "links": [
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "/static/geonode/img/missing_thumb.png"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ISO",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "Atom",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fwww.w3.org%2F2005%2FAtom&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "DIF",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "Dublin Core",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2F2.0.2&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ebRIM",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "FGDC",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&elementsetname=full"
+      }
+    ],
+    "ll_bbox_polygon": {
+      "coordinates": [
+        [
+          [
+            8.386696217103912,
+            50.252668654442076
+          ],
+          [
+            8.386696217103912,
+            51.128427548350885
+          ],
+          [
+            9.759987232728912,
+            51.128427548350885
+          ],
+          [
+            9.759987232728912,
+            50.252668654442076
+          ],
+          [
+            8.386696217103912,
+            50.252668654442076
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "maintenance_frequency": "continual",
+    "metadata_author": {
+      "avatar": "https://www.gravatar.com/avatar/f17eb5c865f4aff64c906c1cd5630ce7/?s=240",
+      "first_name": "Monvia",
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "Wildbienen Monitoring",
+      "link": "https://atlas.thuenen.de/api/v2/users/1029",
+      "perms": [
+        "add_resource"
+      ],
+      "pk": 1029,
+      "username": "monvia-wildbienenmonitoring"
+    },
+    "metadata_only": false,
+    "owner": {
+      "avatar": "https://www.gravatar.com/avatar/f17eb5c865f4aff64c906c1cd5630ce7/?s=240",
+      "first_name": "Monvia",
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "Wildbienen Monitoring",
+      "link": "https://atlas.thuenen.de/api/v2/users/1029",
+      "perms": [
+        "add_resource"
+      ],
+      "pk": 1029,
+      "username": "monvia-wildbienenmonitoring"
+    },
+    "perms": [
+      "view_resourcebase"
+    ],
+    "pk": "177",
+    "poc": {
+      "avatar": "https://www.gravatar.com/avatar/f17eb5c865f4aff64c906c1cd5630ce7/?s=240",
+      "first_name": "Monvia",
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "Wildbienen Monitoring",
+      "link": "https://atlas.thuenen.de/api/v2/users/1029",
+      "perms": [
+        "add_resource"
+      ],
+      "pk": 1029,
+      "username": "monvia-wildbienenmonitoring"
+    },
+    "polymorphic_ctype_id": "74",
+    "popular_count": "244",
+    "processed": true,
+    "purpose": "<p>Untersuchungsfl&auml;chen im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
+    "rating": "0",
+    "raw_abstract": "Die Karte zeigt die Untersuchungsflächen, die im Wildbienen-Monitoring in Agrarlandschaften genutzt werden, aufgeteilt nach den Citizen-Science-Modulen Nisthilfe-Patenschaft und Hummel-Monitoring. Die Stichprobenkulisse basiert auf dem LUCAS-Grid.",
+    "raw_constraints_other": "",
+    "raw_data_quality_statement": "",
+    "raw_purpose": "Untersuchungsflächen im Projekt Wildbienen-Monitoring in Agrarlandschaften.",
+    "raw_supplemental_information": "Mehr Informationen: wildbienen.thuenen.de",
+    "regions": [
+      {
+        "code": "DEU",
+        "name": "Germany"
+      }
+    ],
+    "resource_type": "map",
+    "restriction_code_type": null,
+    "share_count": "0",
+    "spatial_representation_type": {
+      "identifier": "vector"
+    },
+    "srid": "EPSG:4326",
+    "supplemental_information": "<p>Mehr Informationen: <a href=\"https://wildbienen.thuenen.de/\">wildbienen.thuenen.de</a></p>\r\n<hr />\r\n<dl class=\"dl-horizontal\">\r\n<dt></dt>\r\n</dl>",
+    "temporal_extent_end": null,
+    "temporal_extent_start": null,
+    "thumbnail_url": "https://atlas.thuenen.de/static/geonode/img/missing_thumb.png?v=41f08cdd",
+    "title": "Wildbienen-Monitoring Untersuchungsflächen",
+    "tkeywords": [],
+    "uuid": "2a608886-07ce-4b83-964b-9cef1d9ec488"
+  },
+  {
     "abstract": "<p>Als Grundlage f&uuml;r das fernerkundungsbasierte Monitoring von Wald&ouml;kosystemen muss die zu betrachtende Waldfl&auml;che eingegrenzt werden. Zu diesem Zweck wird in der Regel eine Wald- oder Holzbodenkarte hergestellt, welche auf einer Walddefinition basiert.</p>\r\n<p>Die hier vorgestellte bestockte Holzbodenkarte wurde auf Basis der Walddefinition der Bundeswaldinventur produziert (<a href=\"https://www.bundeswaldinventur.de/service/fachbegriffe-und-abkuerzungen\">https://www.bundeswaldinventur.de/service/fachbegriffe-und-abkuerzungen</a>). Ziel der Karte ist die Erfassung der mit Forstpflanzen bestocken Waldfl&auml;che. Dabei werden Landnutzungs- und Landbedeckungseigenschaften ber&uuml;cksichtigt, zum Beispiel geh&ouml;ren Weihnachtsbaumkulturen, Stadtparks oder Geh&ouml;lzstreifen nach dem Bundeswaldgesetzt nicht zur Waldfl&auml;che und werden nicht erfasst.</p>\r\n<p>Die Karte basiert auf den Klassen AX_Wald, AX_Sumpf, AX_Moor des Basis-DLM 2018 (<a href=\"https://gdz.bkg.bund.de/index.php/default/digitales-basis-landschaftsmodell-ebenen-basis-dlm-ebenen.html\">https://gdz.bkg.bund.de/index.php/default/digitales-basis-landschaftsmodell-ebenen-basis-dlm-ebenen.html</a>), sowie den Produkten High Resolution Layer Tree Cover Density 2015/2018 (<a href=\"https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/tree-cover-density-2018?tab=metadata\">https://land.copernicus.eu/pan-european/high-resolution-layers/forests/tree-cover-density/status-maps/tree-cover-density-2018?tab=metadata</a>) und Feature Aditional Support Layer 2018 (<a href=\"https://land.copernicus.eu/user-corner/technical-library/forest-2018-user-manual.pdf\">https://land.copernicus.eu/user-corner/technical-library/forest-2018-user-manual.pdf</a>).</p>\r\n<p>Fl&auml;chen mit einem &Uuml;berschirmungsgrad &le; 50% und Gebiete mit einer Minimalen Fl&auml;cheneinheit (MMU) &le; 0,25 Hektar werden von der Holzbodenkarte nicht ber&uuml;cksichtigt.</p>\r\n<p>Die Genauigkeit der Karte wurde nach Stehman (2014, <a href=\"https://www.tandfonline.com/doi/full/10.1080/01431161.2014.930207\">doi.org/10.1080/01431161.2014.930207</a>) basierend auf den Waldentscheiden der Kohlenstoffinventur 2017/2018 gesch&auml;tzt. Dabei erreicht die Karte eine Gesamtgenauigkeit von 96,49 &plusmn; 0,05%, ein Produzentengenauigkeit f&uuml;r Wald von 94,06 &plusmn; 0,12%&nbsp; und eine Nutzergenauigkeit f&uuml;r Wald von 94,56 &plusmn; 0,11%. Die deutschlandweite bestockte Holzbodenfl&auml;che umfasst 10.962.639 Hektar. Damit liegt die kartierte Fl&auml;che 0,45% (49.782 Hektar) unter der bestockten Holbodenfl&auml;che nach BWI3 (<a href=\"https://bwi.info/\">https://bwi.info/</a>).</p>\r\n<p><strong>F&uuml;r Datenzugang und weitere Informationen wenden Sie sich bitte an <a href=\"fnews@thuenen.de\">fnews@thuenen.de</a>.</strong></p>",
     "alternate": "geonode:fnews_holzbodenmaske_2018_32632",
     "attribution": "Langner, N., Oehmichen, K., Henning, L., Blickensdörfer, L., Riedel, T.,",
@@ -242,7 +455,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "6299",
+    "popular_count": "6315",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1176,7 +1389,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1025",
+    "popular_count": "1041",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1743,7 +1956,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "829",
+    "popular_count": "830",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -3291,7 +3504,7 @@
       "username": "arbeitsgruppe-moore"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "25787",
+    "popular_count": "25799",
     "processed": true,
     "purpose": "<p>Verwendung in der Emissionsberichterstattung und Grundlage f&uuml;r deutschlandweite Fragestellungen zu organischen B&ouml;den.</p>",
     "rating": "0",
@@ -5141,7 +5354,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "3845",
+    "popular_count": "3851",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -6258,219 +6471,6 @@
     "uuid": "80ce199b-4840-4c76-b661-438611124ccc"
   },
   {
-    "abstract": "<p>Die Karte zeigt die Untersuchungsfl&auml;chen, die im <a href=\"https://wildbienen.thuenen.de/\" target=\"_blank\" rel=\"noopener\">Wildbienen-Monitoring in Agrarlandschaften</a> genutzt werden, aufgeteilt nach den Citizen-Science-Modulen Nisthilfe-Patenschaft und Hummel-Monitoring. Die Stichprobenkulisse basiert auf dem LUCAS-Grid.</p>",
-    "alternate": null,
-    "attribution": null,
-    "bbox_polygon": {
-      "coordinates": [
-        [
-          [
-            -1.340204276337397,
-            45.39555525367098
-          ],
-          [
-            -1.340204276337397,
-            56.63767524236694
-          ],
-          [
-            20.632451973662604,
-            56.63767524236694
-          ],
-          [
-            20.632451973662604,
-            45.39555525367098
-          ],
-          [
-            -1.340204276337397,
-            45.39555525367098
-          ]
-        ]
-      ],
-      "type": "Polygon"
-    },
-    "category": {
-      "identifier": "biota"
-    },
-    "constraints_other": "",
-    "created": "2023-03-15T14:35:06.047621Z",
-    "data_quality_statement": "",
-    "date": "2023-03-15T14:35:00Z",
-    "date_type": "publication",
-    "detail_url": "https://atlas.thuenen.de/maps/177",
-    "doi": null,
-    "edition": null,
-    "embed_url": "https://atlas.thuenen.de/maps/177/embed",
-    "featured": false,
-    "group": null,
-    "is_approved": true,
-    "is_published": true,
-    "keywords": [
-      {
-        "name": "Wildbienen",
-        "slug": "wildbienen"
-      }
-    ],
-    "language": "eng",
-    "last_updated": "2023-07-03T14:12:19.746617Z",
-    "license": {
-      "identifier": ""
-    },
-    "link": "https://atlas.thuenen.de/api/v2/resources/177",
-    "links": [
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-2a608886-07ce-4b83-964b-9cef1d9ec488-thumb-159dfbe3-e7e0-49bb-9bb0-06dd25429232.png"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "ISO",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "Atom",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fwww.w3.org%2F2005%2FAtom&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "DIF",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "Dublin Core",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2F2.0.2&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "ebRIM",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&elementsetname=full"
-      },
-      {
-        "extension": "xml",
-        "link_type": "metadata",
-        "mime": "text/xml",
-        "name": "FGDC",
-        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2a608886-07ce-4b83-964b-9cef1d9ec488&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&elementsetname=full"
-      }
-    ],
-    "ll_bbox_polygon": {
-      "coordinates": [
-        [
-          [
-            -1.340204276337397,
-            45.39555525367098
-          ],
-          [
-            -1.340204276337397,
-            56.63767524236694
-          ],
-          [
-            20.632451973662604,
-            56.63767524236694
-          ],
-          [
-            20.632451973662604,
-            45.39555525367098
-          ],
-          [
-            -1.340204276337397,
-            45.39555525367098
-          ]
-        ]
-      ],
-      "type": "Polygon"
-    },
-    "maintenance_frequency": "continual",
-    "metadata_author": {
-      "avatar": "https://www.gravatar.com/avatar/f17eb5c865f4aff64c906c1cd5630ce7/?s=240",
-      "first_name": "Monvia",
-      "is_staff": false,
-      "is_superuser": false,
-      "last_name": "Wildbienen Monitoring",
-      "link": "https://atlas.thuenen.de/api/v2/users/1029",
-      "perms": [
-        "add_resource"
-      ],
-      "pk": 1029,
-      "username": "monvia-wildbienenmonitoring"
-    },
-    "metadata_only": false,
-    "owner": {
-      "avatar": "https://www.gravatar.com/avatar/f17eb5c865f4aff64c906c1cd5630ce7/?s=240",
-      "first_name": "Monvia",
-      "is_staff": false,
-      "is_superuser": false,
-      "last_name": "Wildbienen Monitoring",
-      "link": "https://atlas.thuenen.de/api/v2/users/1029",
-      "perms": [
-        "add_resource"
-      ],
-      "pk": 1029,
-      "username": "monvia-wildbienenmonitoring"
-    },
-    "perms": [
-      "view_resourcebase"
-    ],
-    "pk": "177",
-    "poc": {
-      "avatar": "https://www.gravatar.com/avatar/f17eb5c865f4aff64c906c1cd5630ce7/?s=240",
-      "first_name": "Monvia",
-      "is_staff": false,
-      "is_superuser": false,
-      "last_name": "Wildbienen Monitoring",
-      "link": "https://atlas.thuenen.de/api/v2/users/1029",
-      "perms": [
-        "add_resource"
-      ],
-      "pk": 1029,
-      "username": "monvia-wildbienenmonitoring"
-    },
-    "polymorphic_ctype_id": "74",
-    "popular_count": "241",
-    "processed": true,
-    "purpose": "<p>Untersuchungsfl&auml;chen im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
-    "rating": "0",
-    "raw_abstract": "Die Karte zeigt die Untersuchungsflächen, die im Wildbienen-Monitoring in Agrarlandschaften genutzt werden, aufgeteilt nach den Citizen-Science-Modulen Nisthilfe-Patenschaft und Hummel-Monitoring. Die Stichprobenkulisse basiert auf dem LUCAS-Grid.",
-    "raw_constraints_other": "",
-    "raw_data_quality_statement": "",
-    "raw_purpose": "Untersuchungsflächen im Projekt Wildbienen-Monitoring in Agrarlandschaften.",
-    "raw_supplemental_information": "Mehr Informationen: wildbienen.thuenen.de",
-    "regions": [
-      {
-        "code": "DEU",
-        "name": "Germany"
-      }
-    ],
-    "resource_type": "map",
-    "restriction_code_type": null,
-    "share_count": "0",
-    "spatial_representation_type": {
-      "identifier": "vector"
-    },
-    "srid": "EPSG:4326",
-    "supplemental_information": "<p>Mehr Informationen: <a href=\"https://wildbienen.thuenen.de/\">wildbienen.thuenen.de</a></p>\r\n<hr />\r\n<dl class=\"dl-horizontal\">\r\n<dt></dt>\r\n</dl>",
-    "temporal_extent_end": null,
-    "temporal_extent_start": null,
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-2a608886-07ce-4b83-964b-9cef1d9ec488-thumb-159dfbe3-e7e0-49bb-9bb0-06dd25429232.png?v=fcaa552d",
-    "title": "Wildbienen-Monitoring Untersuchungsflächen",
-    "tkeywords": [],
-    "uuid": "2a608886-07ce-4b83-964b-9cef1d9ec488"
-  },
-  {
     "abstract": "<p>Untersuchungsfl&auml;chen im Wildbienen-Monitoring in Agrarlandschaften</p>",
     "alternate": "geonode:sample_areas_3km3",
     "attribution": "Wildbienen-Monitoring, Thünen-Institut für Biodiversität",
@@ -6954,7 +6954,7 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "161",
+    "popular_count": "163",
     "processed": true,
     "purpose": "<p>Untersuchungsfl&auml;chen im Hummel-Monitoring im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
     "rating": "0",
@@ -7577,7 +7577,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "3850",
+    "popular_count": "3851",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8209,7 +8209,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2322",
+    "popular_count": "2324",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8526,7 +8526,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2031",
+    "popular_count": "2032",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8848,7 +8848,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1440",
+    "popular_count": "1443",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9172,7 +9172,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1494",
+    "popular_count": "1498",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9496,7 +9496,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1309",
+    "popular_count": "1311",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -12085,7 +12085,7 @@
       "username": "broeg"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "757",
+    "popular_count": "759",
     "processed": true,
     "purpose": "<p>The bare soil information contributes to a set of geospatial co-variates for the estimation of status and trends in soil parameters for Germany at high spatial resolution. The work is part of the project&nbsp;<a href=\"https://www.thuenen.de/de/fachinstitute/betriebswirtschaft/projekte/fernerkundung-fuer-eine-verbesserung-der-klimaberichterstattung-klimafern-1\"> KlimaFern </a>at Th&uuml;nen Institute.</p>",
     "rating": "0",
@@ -15222,7 +15222,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "425",
+    "popular_count": "435",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16080,7 +16080,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "300",
+    "popular_count": "302",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16652,7 +16652,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "388",
+    "popular_count": "390",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -17551,7 +17551,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "5905",
+    "popular_count": "5907",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18426,7 +18426,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "2331",
+    "popular_count": "2332",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -19018,7 +19018,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "286",
+    "popular_count": "287",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20092,7 +20092,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "168",
+    "popular_count": "171",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -21166,7 +21166,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "268",
+    "popular_count": "269",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -23248,7 +23248,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "214",
+    "popular_count": "215",
     "processed": true,
     "purpose": "<p>Flederm&auml;use besiedeln in Deutschland s&auml;mtliche Naturr&auml;ume und hier sowohl nat&uuml;rliche bzw. naturnahe Biotope, als auch intensiv anthropogen &uuml;berpr&auml;gte. Mit einem Anteil von 50 % nehmen landwirtschaftliche Nutzfl&auml;chen den mit Abstand bedeutendsten Anteil an der Gesamtfl&auml;che von Deutschland ein. Es ist also nicht verwunderlich, dass f&uuml;r Flederm&auml;use, einer Artengruppe mit oft gro&szlig;em Aktionsraum, die Agrarlandschaft einen essentiellen Teil ihres Lebensraumes darstellt. Selbst eng an W&auml;lder gebundene Fledermausarten nutzen zumindest partiell die Agrarlandschaft, sei es zu lokalen Ortswechseln, zur Migration zwischen Sommer- und Winterlebensr&auml;umen oder etwa zur Jagd z. B. im &Ouml;kotonbereich von Waldrandstrukturen. Als zumeist opportunistisch agierende J&auml;ger, die sich mit wenigen Ausnahmen von Fluginsekten ern&auml;hren, nutzen Flederm&auml;use ihren Lebensraum oft sehr variabel, abh&auml;ngig vom verf&uuml;gbaren Beutespektrum und -angebot. Durch die enge Korrelation des Insektenvorkommens mit der landschaftlichen Ausstattung und der Bewirtschaftungsform sind Flederm&auml;use und hier insbesondere die Offenlandarten gute Indikatoren zur Ermittlung des Naturwertes von Landwirtschaftsfl&auml;chen. Es kann prognostiziert werden, dass eine naturnahe Auspr&auml;gung der Landschaft bzw. das Vorkommen von Strukturelementen, wie z. B. Hecken, Kleingew&auml;ssern oder Bl&uuml;hstreifen einen positiven Effekt auf die Vitalit&auml;t von Fledermausgemeinschaften hat. Demgegen&uuml;ber kann eine intensiv genutzte, strukturell verarmte Agrarlandschaft genauso negative Effekte f&uuml;r die Fledermausbesiedlung haben. So kann das Fehlen von Leitstrukturen f&uuml;r strukturgebundene Fledermausarten Zerschneidungseffekte bewirken, da von vielen Arten weitr&auml;umige Offenfl&auml;chen nicht oder nur in geringem Umfang &uuml;berflogen werden. Direkt auf die individuelle Fitness des Einzelindividuums wirkt sich ggf. ein verringertes Nahrungsangebot oder die Pestizidbelastung von Beutensekten aus. Zielstellung der Untersuchung ist es, die Bedeutung von Strukturelementen in landwirtschaftlichen Nutzfl&auml;chen f&uuml;r das Auftreten von Flederm&auml;usen und deren Raumnutzungsverhalten herauszustellen. Prognostiziert wird, dass die Aktivit&auml;t von Flederm&auml;usen abh&auml;ngig von dem untersuchten Landschaftselement ist und diese mit besserer Habitatausstattung steigt bzw. im Gegenzug die Aktivit&auml;tsdichte in prognostiziert weniger attraktiven Bereichen geringer ausf&auml;llt.</p>",
     "rating": "0",
@@ -32444,7 +32444,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "161",
+    "popular_count": "165",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33424,7 +33424,7 @@
       "username": "blickensdoerfer"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "30099",
+    "popular_count": "30113",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -34279,7 +34279,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1803",
+    "popular_count": "1811",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35960,7 +35960,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1211",
+    "popular_count": "1224",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -36739,7 +36739,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1831",
+    "popular_count": "1838",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37050,7 +37050,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1092",
+    "popular_count": "1099",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38019,7 +38019,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1157",
+    "popular_count": "1166",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38330,7 +38330,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2461",
+    "popular_count": "2464",
     "processed": true,
     "purpose": "",
     "rating": "0",

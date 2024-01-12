@@ -242,7 +242,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "6295",
+    "popular_count": "6297",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -534,7 +534,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "338",
+    "popular_count": "342",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -831,7 +831,7 @@
       "username": "langner"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "905",
+    "popular_count": "907",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1176,7 +1176,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1024",
+    "popular_count": "1025",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -1743,7 +1743,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "827",
+    "popular_count": "829",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -2846,7 +2846,7 @@
       "username": "arbeitsgruppe-moore"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "861",
+    "popular_count": "864",
     "processed": true,
     "purpose": "<p>Kartendarstellung der im Datensatz \"Aktualisierte Kulisse organischer B&ouml;den in Deutschland\" enthaltenen Merkmale:</p>\r\n<ul>\r\n<li>Genese</li>\r\n<li>Mineralische &Uuml;berdeckung (M&auml;chtigkeit)</li>\r\n<li>Mineralische &Uuml;berdeckung (Substrat)</li>\r\n<li>Torfm&auml;chtigkeit</li>\r\n<li>Abmoorigkeit</li>\r\n<li>Tiefumbruch</li>\r\n<li>Unterlagernde Mudden</li>\r\n<li>Unterlagerndes mineralisches Substrat</li>\r\n</ul>\r\n<p>Eine &Uuml;bersicht aller verwendeten Merkmale sowie deren Auspr&auml;gungen und Klassifikationen findet sich im Th&uuml;nen Working Paper 212, Tabelle 4, S. 33.<br />DOI: <a href=\"https://doi.org/10.3220/WP1683180852000\">10.3220/WP1683180852000 </a></p>",
     "rating": "0",
@@ -3291,7 +3291,7 @@
       "username": "arbeitsgruppe-moore"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "25759",
+    "popular_count": "25787",
     "processed": true,
     "purpose": "<p>Verwendung in der Emissionsberichterstattung und Grundlage f&uuml;r deutschlandweite Fragestellungen zu organischen B&ouml;den.</p>",
     "rating": "0",
@@ -3558,7 +3558,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1897",
+    "popular_count": "1898",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -3816,7 +3816,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "953",
+    "popular_count": "954",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4074,7 +4074,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1032",
+    "popular_count": "1033",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4332,7 +4332,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "996",
+    "popular_count": "997",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -4599,7 +4599,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1083",
+    "popular_count": "1084",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5412,7 +5412,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "939",
+    "popular_count": "941",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -5683,7 +5683,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "851",
+    "popular_count": "853",
     "processed": true,
     "purpose": "<p>Datengrundlage f&uuml;r die Th&uuml;nen-Agraratlas Applikationen. Siehe: <strong><a href=\"../../atlanten/agraratlas#apps\">Agraratlas Applikationen</a></strong></p>",
     "rating": "0",
@@ -6440,7 +6440,7 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "238",
+    "popular_count": "241",
     "processed": true,
     "purpose": "<p>Untersuchungsfl&auml;chen im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
     "rating": "0",
@@ -6954,7 +6954,7 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "159",
+    "popular_count": "161",
     "processed": true,
     "purpose": "<p>Untersuchungsfl&auml;chen im Hummel-Monitoring im Projekt Wildbienen-Monitoring in Agrarlandschaften.</p>",
     "rating": "0",
@@ -7260,7 +7260,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1338",
+    "popular_count": "1339",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -7892,7 +7892,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1658",
+    "popular_count": "1660",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -8209,7 +8209,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2314",
+    "popular_count": "2322",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -9496,7 +9496,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1308",
+    "popular_count": "1309",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -10675,7 +10675,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "244",
+    "popular_count": "245",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -11239,7 +11239,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "197",
+    "popular_count": "198",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -11521,7 +11521,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "268",
+    "popular_count": "269",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -13660,7 +13660,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1163",
+    "popular_count": "1164",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -14009,7 +14009,7 @@
       "username": "schwieder"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1329",
+    "popular_count": "1331",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16366,7 +16366,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "290",
+    "popular_count": "291",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -16652,7 +16652,7 @@
       "username": "tetteh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "387",
+    "popular_count": "388",
     "processed": true,
     "purpose": "<p>The data provide the basis for the <a href=\"../../atlanten/fernerkundungsatlas\">Th&uuml;nen Earth Observation Atlas</a>.</p>",
     "rating": "0",
@@ -17252,7 +17252,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2828",
+    "popular_count": "2835",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -17551,7 +17551,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "5901",
+    "popular_count": "5905",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -17798,7 +17798,7 @@
       "username": "scherstjanoi"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "469",
+    "popular_count": "470",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18215,7 +18215,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "1063",
+    "popular_count": "1066",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18426,7 +18426,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "2330",
+    "popular_count": "2331",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -18658,7 +18658,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "74",
-    "popular_count": "744",
+    "popular_count": "745",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20092,7 +20092,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "167",
+    "popular_count": "168",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -20808,7 +20808,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "158",
+    "popular_count": "159",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -21882,7 +21882,7 @@
       "username": "admin"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "502",
+    "popular_count": "503",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -23248,7 +23248,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "213",
+    "popular_count": "214",
     "processed": true,
     "purpose": "<p>Flederm&auml;use besiedeln in Deutschland s&auml;mtliche Naturr&auml;ume und hier sowohl nat&uuml;rliche bzw. naturnahe Biotope, als auch intensiv anthropogen &uuml;berpr&auml;gte. Mit einem Anteil von 50 % nehmen landwirtschaftliche Nutzfl&auml;chen den mit Abstand bedeutendsten Anteil an der Gesamtfl&auml;che von Deutschland ein. Es ist also nicht verwunderlich, dass f&uuml;r Flederm&auml;use, einer Artengruppe mit oft gro&szlig;em Aktionsraum, die Agrarlandschaft einen essentiellen Teil ihres Lebensraumes darstellt. Selbst eng an W&auml;lder gebundene Fledermausarten nutzen zumindest partiell die Agrarlandschaft, sei es zu lokalen Ortswechseln, zur Migration zwischen Sommer- und Winterlebensr&auml;umen oder etwa zur Jagd z. B. im &Ouml;kotonbereich von Waldrandstrukturen. Als zumeist opportunistisch agierende J&auml;ger, die sich mit wenigen Ausnahmen von Fluginsekten ern&auml;hren, nutzen Flederm&auml;use ihren Lebensraum oft sehr variabel, abh&auml;ngig vom verf&uuml;gbaren Beutespektrum und -angebot. Durch die enge Korrelation des Insektenvorkommens mit der landschaftlichen Ausstattung und der Bewirtschaftungsform sind Flederm&auml;use und hier insbesondere die Offenlandarten gute Indikatoren zur Ermittlung des Naturwertes von Landwirtschaftsfl&auml;chen. Es kann prognostiziert werden, dass eine naturnahe Auspr&auml;gung der Landschaft bzw. das Vorkommen von Strukturelementen, wie z. B. Hecken, Kleingew&auml;ssern oder Bl&uuml;hstreifen einen positiven Effekt auf die Vitalit&auml;t von Fledermausgemeinschaften hat. Demgegen&uuml;ber kann eine intensiv genutzte, strukturell verarmte Agrarlandschaft genauso negative Effekte f&uuml;r die Fledermausbesiedlung haben. So kann das Fehlen von Leitstrukturen f&uuml;r strukturgebundene Fledermausarten Zerschneidungseffekte bewirken, da von vielen Arten weitr&auml;umige Offenfl&auml;chen nicht oder nur in geringem Umfang &uuml;berflogen werden. Direkt auf die individuelle Fitness des Einzelindividuums wirkt sich ggf. ein verringertes Nahrungsangebot oder die Pestizidbelastung von Beutensekten aus. Zielstellung der Untersuchung ist es, die Bedeutung von Strukturelementen in landwirtschaftlichen Nutzfl&auml;chen f&uuml;r das Auftreten von Flederm&auml;usen und deren Raumnutzungsverhalten herauszustellen. Prognostiziert wird, dass die Aktivit&auml;t von Flederm&auml;usen abh&auml;ngig von dem untersuchten Landschaftselement ist und diese mit besserer Habitatausstattung steigt bzw. im Gegenzug die Aktivit&auml;tsdichte in prognostiziert weniger attraktiven Bereichen geringer ausf&auml;llt.</p>",
     "rating": "0",
@@ -23535,7 +23535,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "175",
+    "popular_count": "176",
     "processed": true,
     "purpose": "<p>Die Carabiden sind gute Bioindikatoren f&uuml;r den Zustand der &Ouml;kosysteme. Ihr Vorkommen bzw. Fehlen weist bestimmte Erhaltungszust&auml;nde aus. Carabiden sind wesentliche Bestandteile von Agrar&ouml;kosystemen und sollten in diesen nach M&ouml;glichkeit Habitatbedingungen vorfinden, in denen sie sich in standorttypischer Artenzusammensetzung ansiedeln k&ouml;nnen.</p>",
     "rating": "0",
@@ -28128,7 +28128,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "154",
+    "popular_count": "155",
     "processed": true,
     "purpose": "<p>&Uuml;ber den Vergleich der vorgefundenen Vogelgemeinschaften mit der potentiell im Leitbildlebensraumtyp vorkommenden, k&ouml;nnen Schl&uuml;sse dar&uuml;ber gezogen werden, wie &bdquo;leitbildgerecht&ldquo; die Aviz&ouml;nose ist.</p>\r\n<p>Die Vogelgemeinschaften nach Flade (1994) sind folgenderma&szlig;en aufgebaut:</p>\r\n<ul>\r\n<li><strong>Leitarten</strong> weisen in dem betreffenden Lebensraumtyp signifikant h&ouml;here Stetigkeiten auf als in allen anderen Lebensraumtypen</li>\r\n<li><strong>lebensraumholde Arten</strong> erreichen in dem Lebensraumtyp h&ouml;chste Siedlungsdichten bei hohen Stetigkeiten, d.h. maximale Individuendichten (in max. 2 Landschaftstypen)</li>\r\n<li><strong>stete Begleiter </strong>sind Arten mit hoher Stetigkeit (&gt;80 %)</li>\r\n</ul>",
     "rating": "0",
@@ -31275,7 +31275,7 @@
       "username": "biota-gmbh"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "204",
+    "popular_count": "205",
     "processed": true,
     "purpose": "<p>Im Bereich des stark agrarisch gepr&auml;gten Kartiergebiet sollen vornehmlich gesch&uuml;tzte und gef&auml;hrdete Pflanzenarten aufgefunden und in ihren Bestandsgr&ouml;&szlig;en abgesch&auml;tzt werden. Bei diesen Arten muss bzw. sollte ein Schutz auch unter dem Gesichtspunkt der Bewirtschaftung aufrechterhalten werden. Zudem k&ouml;nnen die Erkenntnisse genutzt werden, um diese Arten durch &ouml;kologische Sanierungen zu f&ouml;rdern.</p>\r\n<p>Weiterhin geht es darum, als Status Quo zu erfassen, welche gef&auml;hrdeten und gesch&uuml;tzten Arten wo vorkommen. Dadurch kann man Besiedlungspotenziale absch&auml;tzen und Entwicklungen im Zuge des Monitorings beobachten.</p>",
     "rating": "0",
@@ -33139,7 +33139,7 @@
       "username": "emissionsinventare"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1921",
+    "popular_count": "1927",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33424,7 +33424,7 @@
       "username": "blickensdoerfer"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "30057",
+    "popular_count": "30099",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -33634,7 +33634,7 @@
       "username": "gocht"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "604",
+    "popular_count": "605",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -35584,7 +35584,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "78",
-    "popular_count": "407",
+    "popular_count": "408",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -36364,7 +36364,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1266",
+    "popular_count": "1268",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37050,7 +37050,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1082",
+    "popular_count": "1092",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37413,7 +37413,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1931",
+    "popular_count": "1936",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -37712,7 +37712,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "1155",
+    "popular_count": "1156",
     "processed": true,
     "purpose": "",
     "rating": "0",
@@ -38330,7 +38330,7 @@
       "username": "opendata@thuenen.de"
     },
     "polymorphic_ctype_id": "70",
-    "popular_count": "2458",
+    "popular_count": "2459",
     "processed": true,
     "purpose": "",
     "rating": "0",

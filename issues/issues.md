@@ -1,4 +1,6 @@
-**Schema.org issues**
+# Schema.org issues
+
+**Note:** Issues to be solved by the repository (where possible) are listed in the columns `Schema.org` and `ARCtrl (ro-crate)`. Specific issues will be created using the GitHub issues system and assigned to the responsible person.
 
 | Repository | Schema.org | ARCtrl (ro-crate) | Gitlab |
 | ----- | ----- | ----- | ----- |

@@ -1,37 +1,18 @@
 [
   {
     "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6472531",
+    "@id": "frl:6450625",
     "accessScheme": "public",
-    "catalogId": "ED6472531",
+    "catalogId": "ED6450625",
     "contentType": "researchData",
-    "contributorOrder": [
-      "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=|https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=|https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==|https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQS4gSS4=|https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=|https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE4u|https://frl.publisso.de/adhoc/uri/QnLDvG5pbmdzLUt1cHBlLCBDbGF1ZGlh|https://frl.publisso.de/adhoc/uri/Q2xlbWVucywgVmVyYQ==|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://frl.publisso.de/adhoc/uri/SGFuw58sIFNhYmluZQ==|https://frl.publisso.de/adhoc/uri/SW50ZW1hbm4sIFRpbW0=|https://frl.publisso.de/adhoc/uri/SmFubmFzY2gsIEZyYW56aXNrYQ==|https://frl.publisso.de/adhoc/uri/S2FzYm9obSwgRWxpc2E=|https://frl.publisso.de/adhoc/uri/TGluZHN0w6RkdCwgQmlydGU=|https://frl.publisso.de/adhoc/uri/TMO2YmUsIE1hdHRoaWFz|https://frl.publisso.de/adhoc/uri/T3JiYW4sIEVzdGVy|https://frl.publisso.de/adhoc/uri/UGVycmFyLCBJbmVz|https://frl.publisso.de/adhoc/uri/UGV0ZXJzLCBNYW51ZWxh|https://frl.publisso.de/adhoc/uri/U2F4LCBVbHJpY2g=|https://frl.publisso.de/adhoc/uri/U2NodWx6ZSwgTWF0dGhpYXM=|https://frl.publisso.de/adhoc/uri/U2NodXBwLCBDbGF1ZGlh|https://frl.publisso.de/adhoc/uri/U2Nod2FyeiwgRmxvcmlhbg==|https://frl.publisso.de/adhoc/uri/U2Nod2VkaGVsbSwgQ2Fyb2xpbmE=|https://frl.publisso.de/adhoc/uri/U3RyYXRobWFubiwgU3RlZmFu|https://frl.publisso.de/adhoc/uri/V2FsdGVtYXRoLCBEYWdtYXI=|https://frl.publisso.de/adhoc/uri/V8O8bnNjaGUsIEhhbm5lcw==|https://frl.publisso.de/adhoc/uri/WmVsZWtlLCBBdGlua3V0IEEu"
-    ],
-    "creator": [
+    "contributor": [
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=",
-        "prefLabel": "Abaza, Haitham"
+        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOQ==",
+        "prefLabel": "NFDI4Health Task Force COVID-19"
       },
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=",
-        "prefLabel": "Shutsko, Aliaksandra"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==",
-        "prefLabel": "Golebiewski, Martin"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQS4gSS4=",
-        "prefLabel": "Klopfenstein, Sophie A. I."
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=",
-        "prefLabel": "Schmidt, Carsten Oliver"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE4u",
-        "prefLabel": "Vorisek, Carina N."
+        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
+        "prefLabel": "NFDI4Health"
       },
       {
         "@id": "https://frl.publisso.de/adhoc/uri/QnLDvG5pbmdzLUt1cHBlLCBDbGF1ZGlh",
@@ -118,10 +99,39 @@
         "prefLabel": "Zeleke, Atinkut A."
       }
     ],
+    "contributorOrder": [
+      "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=|https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmEg|https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==|https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQS4gSS4=|https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=|https://frl.publisso.de/adhoc/uri/Vm9yaXNlayxDYXJpbmEgTi4g|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOQ==|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=|https://frl.publisso.de/adhoc/uri/QnLDvG5pbmdzLUt1cHBlLCBDbGF1ZGlh|https://frl.publisso.de/adhoc/uri/Q2xlbWVucywgVmVyYQ==|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://frl.publisso.de/adhoc/uri/SGFuw58sIFNhYmluZQ==|https://frl.publisso.de/adhoc/uri/SW50ZW1hbm4sIFRpbW0=|https://frl.publisso.de/adhoc/uri/SmFubmFzY2gsIEZyYW56aXNrYQ==|https://frl.publisso.de/adhoc/uri/S2FzYm9obSwgRWxpc2E=|https://frl.publisso.de/adhoc/uri/TGluZHN0w6RkdCwgQmlydGU=|https://frl.publisso.de/adhoc/uri/TMO2YmUsIE1hdHRoaWFz|https://frl.publisso.de/adhoc/uri/T3JiYW4sIEVzdGVy|https://frl.publisso.de/adhoc/uri/UGVycmFyLCBJbmVz|https://frl.publisso.de/adhoc/uri/UGV0ZXJzLCBNYW51ZWxh|https://frl.publisso.de/adhoc/uri/U2F4LCBVbHJpY2g=|https://frl.publisso.de/adhoc/uri/U2NodWx6ZSwgTWF0dGhpYXM=|https://frl.publisso.de/adhoc/uri/U2NodXBwLCBDbGF1ZGlh|https://frl.publisso.de/adhoc/uri/U2Nod2FyeiwgRmxvcmlhbg==|https://frl.publisso.de/adhoc/uri/U2Nod2VkaGVsbSwgQ2Fyb2xpbmE=|https://frl.publisso.de/adhoc/uri/U3RyYXRobWFubiwgU3RlZmFu|https://frl.publisso.de/adhoc/uri/V2FsdGVtYXRoLCBEYWdtYXI=|https://frl.publisso.de/adhoc/uri/V8O8bnNjaGUsIEhhbm5lcw==|https://frl.publisso.de/adhoc/uri/WmVsZWtlLCBBdGlua3V0IEEu"
+    ],
+    "creator": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=",
+        "prefLabel": "Abaza, Haitham"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmEg",
+        "prefLabel": "Shutsko, Aliaksandra "
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==",
+        "prefLabel": "Golebiewski, Martin"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQS4gSS4=",
+        "prefLabel": "Klopfenstein, Sophie A. I."
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=",
+        "prefLabel": "Schmidt, Carsten Oliver"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/Vm9yaXNlayxDYXJpbmEgTi4g",
+        "prefLabel": "Vorisek,Carina N. "
+      }
+    ],
     "ddc": [
       {
-        "@id": "http://dewey.info/class/020/",
-        "prefLabel": "Bibliotheks- und Informationswissenschaften"
+        "@id": "http://dewey.info/class/000/",
+        "prefLabel": "Informatik, Informationswissenschaft, allgemeine Werke"
       },
       {
         "@id": "http://dewey.info/class/610/",
@@ -129,9 +139,9 @@
       }
     ],
     "description": [
-      "Originally developed by the NFDI4Health Task Force COVID-19, the Metadata Schema of the NFDI4Health contains a list of properties \r\nthat describe a resource to be registered in the German Central Health Study Hub.  Currently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, other types of resources may also be described and registered. The metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of the resource, the related persons and organizations contributing to the development of the resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. For studies, information about study design and accessibility of the collected data should be additionally provided. The Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema 4.4, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies. This is an updated version V3_3 of the Metadata Schema, which improves the modules of the previous version via refined display names, description and additional information texts, and short input helps and examples. The new version also introduces a new url item in the data sharing section for linking to data request applications. The undertaken changes are described within the document.\r\n"
+      "The Metadata Schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (Metadata Schema) contains a list of properties that describe a resource to be registered in the German Central Health Study Hub. Currently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, other types of resources may also be described and registered. The metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of the resource, the related persons and organizations contributing to the development of the resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. For studies, information about study design and accessibility of the collected data should be additionally provided. The Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema 4.4, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies. This is an updated version V3_1 of the Metadata Schema, which introduces two new resource types, namely registries and secondary data sources. Accordingly, the metadata set describing studies, which was part of the core module in previous versions, has been split into a separate module and adapted to also apply to registries and secondary data sources. An additional use case-specific module has also been added, including metadata specific to record linkage. The undertaken changes are described within the document."
     ],
-    "doi": "10.4126/FRL01-006472531",
+    "doi": "10.4126/FRL01-006450625",
     "fundingId": [
       {
         "@id": "http://dx.doi.org/10.13039/501100001659",
@@ -143,8 +153,8 @@
     ],
     "hasPart": [
       {
-        "@id": "frl:6472624",
-        "prefLabel": "The NFDI4Health Metadata Schema (V3_3)"
+        "@id": "frl:6450944",
+        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_1)"
       }
     ],
     "institution": [
@@ -154,13 +164,13 @@
       }
     ],
     "isDescribedBy": {
-      "@id": "frl:6472531.rdf",
-      "created": "2023-11-29T09:14:30.003+0100",
+      "@id": "frl:6450625.rdf",
+      "created": "2023-05-10T15:52:47.731+0200",
       "createdBy": "317",
-      "describes": "frl:6472531",
-      "lastModifiedBy": "317",
-      "modified": "2023-12-12T12:10:58.407+0000",
-      "objectTimestamp": "2023-12-12T12:10:58.000+0000"
+      "describes": "frl:6450625",
+      "lastModifiedBy": "305",
+      "modified": "2024-09-24T10:08:07.508+0200",
+      "objectTimestamp": "2024-09-24T08:08:07.000+0000"
     },
     "isMemberOf": [
       {
@@ -174,16 +184,16 @@
     ],
     "isPrimaryTopicOf": [
       {
-        "@id": "https://repository.publisso.de/resource/frl:6472531/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6472531/edit",
-        "primaryTopic": "frl:6472531"
+        "@id": "https://repository.publisso.de/resource/frl:6450625/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6450625/edit",
+        "primaryTopic": "frl:6450625"
       }
     ],
     "issued": "2023",
     "itemID": [
       {
-        "@id": "oai:frl.publisso.de:frl:6472531",
-        "prefLabel": "oai:frl.publisso.de:frl:6472531"
+        "@id": "oai:frl.publisso.de:frl:6450625",
+        "prefLabel": "oai:frl.publisso.de:frl:6450625"
       }
     ],
     "joinedFunding": [
@@ -214,13 +224,13 @@
         "prefLabel": "Datensatz"
       }
     ],
+    "nextVersion": [
+      "https://repository.publisso.de/resource/frl:6453422"
+    ],
     "prefLabel": [
-      "frl:6472531"
+      "frl:6450625"
     ],
-    "previousVersion": [
-      "https://repository.publisso.de/resource/frl%3A6453422"
-    ],
-    "primaryTopic": "frl:6472531",
+    "primaryTopic": "frl:6450625",
     "projectId": [
       "451265285; 442326535"
     ],
@@ -232,10 +242,6 @@
       }
     ],
     "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5",
-        "prefLabel": "Epidemiology"
-      },
       {
         "@id": "https://d-nb.info/gnd/1206347392",
         "prefLabel": "COVID-19"
@@ -261,12 +267,16 @@
         "prefLabel": "Public Health"
       },
       {
+        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5IA==",
+        "prefLabel": "Epidemiology "
+      },
+      {
         "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEgbW9kZWw=",
         "prefLabel": "Metadata model"
       }
     ],
     "title": [
-      "The NFDI4Health Metadata Schema (V3_3)"
+      "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_1)"
     ],
     "transformer": [
       "mets",
@@ -281,185 +291,16 @@
   },
   {
     "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6421672",
+    "@id": "frl:6483993",
     "accessScheme": "public",
     "associatedDataset": [
-      "https://dx.doi.org/10.4126/FRL01-006425521",
-      "https://frl.publisso.de/data/frl:6421672",
-      "https://dx.doi.org/10.4126/FRL01-006425518",
-      "https://github.com/CAMI-challenge/CAMISIM/tree/0.3"
-    ],
-    "associatedPublication": [
-      "https://doi.org/10.1186/s40168-019-0633-6"
-    ],
-    "catalogId": "ED6421672",
-    "contentType": "researchData",
-    "contributorOrder": [
-      "https://orcid.org/0000-0002-9853-5577|https://orcid.org/0000-0002-3085-6438|https://frl.publisso.de/adhoc/uri/QnJlbWdlcywgQW5kcmVhcw==|https://orcid.org/0000-0003-2370-3430"
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-9853-5577",
-        "prefLabel": "Fritz, Adrian"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-3085-6438",
-        "prefLabel": "Lesker, Till"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/QnJlbWdlcywgQW5kcmVhcw==",
-        "prefLabel": "Bremges, Andreas"
-      },
-      {
-        "@id": "https://orcid.org/0000-0003-2370-3430",
-        "prefLabel": "McHardy, Alice"
-      }
-    ],
-    "dataOrigin": [
-      {
-        "@id": "http://hbz-nrw.de/regal#Simulation",
-        "prefLabel": "Simulation"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/004/",
-        "prefLabel": "Datenverarbeitung; Informatik"
-      },
-      {
-        "@id": "http://dewey.info/class/570/",
-        "prefLabel": "Biowissenschaften; Biologie"
-      }
-    ],
-    "description": [
-      "Simulated multi-sample metagenome data set including both long and short reads and created to prepare participants for the second CAMI challenge. Genomes included in this data set were selected from public dbs to match taxonomic profiles of simulated samples were matched to 16S rRNA profiles the guts of different mice, vendors and positions in the gut."
-    ],
-    "doi": "10.4126/FRL01-006421672",
-    "fundingProgram": [
-      "-"
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/10177899-5",
-        "prefLabel": "Helmholtz-Zentrum für Infektionsforschung"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6421672.rdf",
-      "created": "2020-07-02T11:25:41.944+0200",
-      "createdBy": "122",
-      "describes": "frl:6421672",
-      "lastModifiedBy": "305",
-      "modified": "2024-07-30T12:16:18.663+0000",
-      "objectTimestamp": "2024-07-30T12:16:17.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6421672/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6421672/edit",
-        "primaryTopic": "frl:6421672"
-      }
-    ],
-    "issued": "2020",
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6421672",
-        "prefLabel": "oai:frl.publisso.de:frl:6421672"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6421672"
-    ],
-    "primaryTopic": "frl:6421672",
-    "projectId": [
-      "-"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/bWljcm9iaW9tZQ==",
-        "prefLabel": "microbiome"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/Q0FNSSBjaGFsbGVuZ2U=",
-        "prefLabel": "CAMI challenge"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/bG9uZyByZWFkIHNlcXVlbmNlIGRhdGE=",
-        "prefLabel": "long read sequence data"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWdlbm9tZQ==",
-        "prefLabel": "Metagenome"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/c2hvcnQgcmVhZCBzZXF1ZW5jZSBkYXRh",
-        "prefLabel": "short read sequence data"
-      }
-    ],
-    "title": [
-      "CAMI 2 - Multisample Benchmark Dataset of Mouse Gut"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "usageManual": [
-      "The data can be temporarily downloaded via the https://frl.publisso.de/data/frl:6421672 link under \"Zugehöriges Dataset\". A direct download function with an extended tree view within this metadata record is planned for a later date. This does not affect the integrity of the data. The citation capability is fully ensured."
-    ],
-    "yearOfCopyright": [
-      "2020"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6483994",
-    "accessScheme": "public",
-    "associatedDataset": [
-      "https://repository.publisso.de/resource/frl%3A6483993",
+      "https://repository.publisso.de/resource/frl%3A6483994",
       "https://repository.publisso.de/resource/frl%3A6483995"
     ],
     "associatedPublication": [
       "https://repository.publisso.de/resource/frl%3A6483992"
     ],
-    "catalogId": "ED6483994",
+    "catalogId": "ED6483993",
     "contentType": "researchData",
     "contributor": [
       {
@@ -503,9 +344,9 @@
       }
     ],
     "description": [
-      "Within the NFDI4Health, three Research Data Management Plan templates have been developed to support researchers in planning their research projects. The template ‘Research Data Management Plan - Epidemiological studies’ is aimed at epidemiological research. Instructions for filling in the templates and explanations of the terms used in the templates can be found in the linked accompanying document ‘Research Data Management Plan templates - instructions for use’"
+      "Within the NFDI4Health, three Research Data Management Plan templates have been developed to support researchers in planning their research projects. The template ‘Research Data Management Plan short - DFG Proposal’ is based on the DFG checklist for handling research data and can be submitted together with a funding proposal.  Instructions for filling in the templates and explanations of the terms used in the templates can be found in the linked accompanying document ‘Research Data Management Plan templates - instructions for use’"
     ],
-    "doi": "10.4126/FRL01-006483994",
+    "doi": "10.4126/FRL01-006483993",
     "fundingId": [
       {
         "@id": "http://dx.doi.org/10.13039/501100001659",
@@ -517,12 +358,12 @@
     ],
     "hasPart": [
       {
-        "@id": "frl:6484017",
-        "prefLabel": "Research Data Management Plan — Epidemiological studies"
+        "@id": "frl:6484007",
+        "prefLabel": "Research Data Management Plan short — DFG Proposal"
       },
       {
-        "@id": "frl:6484008",
-        "prefLabel": "Research Data Management Plan — Epidemiological studies"
+        "@id": "frl:6484015",
+        "prefLabel": "Research Data Management Plan short — DFG Proposal"
       }
     ],
     "institution": [
@@ -532,13 +373,13 @@
       }
     ],
     "isDescribedBy": {
-      "@id": "frl:6483994.rdf",
-      "created": "2024-08-23T07:20:21.858+0200",
+      "@id": "frl:6483993.rdf",
+      "created": "2024-08-22T13:28:33.594+0200",
       "createdBy": "317",
-      "describes": "frl:6483994",
+      "describes": "frl:6483993",
       "lastModifiedBy": "317",
-      "modified": "2024-09-04T09:32:43.655+0200",
-      "objectTimestamp": "2024-09-04T07:32:43.000+0000"
+      "modified": "2024-09-04T09:33:35.495+0200",
+      "objectTimestamp": "2024-09-04T07:33:34.000+0000"
     },
     "isMemberOf": [
       {
@@ -552,16 +393,16 @@
     ],
     "isPrimaryTopicOf": [
       {
-        "@id": "https://repository.publisso.de/resource/frl:6483994/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6483994/edit",
-        "primaryTopic": "frl:6483994"
+        "@id": "https://repository.publisso.de/resource/frl:6483993/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6483993/edit",
+        "primaryTopic": "frl:6483993"
       }
     ],
     "issued": "2024",
     "itemID": [
       {
-        "@id": "oai:frl.publisso.de:frl:6483994",
-        "prefLabel": "oai:frl.publisso.de:frl:6483994"
+        "@id": "oai:frl.publisso.de:frl:6483993",
+        "prefLabel": "oai:frl.publisso.de:frl:6483993"
       }
     ],
     "joinedFunding": [
@@ -593,9 +434,9 @@
       }
     ],
     "prefLabel": [
-      "frl:6483994"
+      "frl:6483993"
     ],
-    "primaryTopic": "frl:6483994",
+    "primaryTopic": "frl:6483993",
     "projectId": [
       "442326535"
     ],
@@ -613,7 +454,7 @@
       }
     ],
     "title": [
-      "Research Data Management Plan — Epidemiological studies"
+      "Research Data Management Plan short — DFG Proposal"
     ],
     "transformer": [
       "mets",
@@ -624,897 +465,6 @@
     ],
     "yearOfCopyright": [
       "2024"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6423454",
-    "accessScheme": "public",
-    "catalogId": "ED6423454",
-    "contentType": "researchData",
-    "contributorOrder": [
-      "https://orcid.org/0000-0002-8287-0127|https://orcid.org/0000-0002-4439-1133|https://frl.publisso.de/adhoc/uri/UGV1a2VydCwgTmljb2xl|https://frl.publisso.de/adhoc/uri/U2NobmVpZGVyLCBIYXJ0bXV0|https://orcid.org/0000-0002-3716-4231|https://frl.publisso.de/adhoc/uri/TWF5ZXIsIFN0ZWZmaQ==|https://frl.publisso.de/adhoc/uri/U3V0dGt1cywgQW5uZQ==|https://frl.publisso.de/adhoc/uri/TGFjaGVyLCBNYXJ0aW4=|https://frl.publisso.de/adhoc/uri/S2x1dGgsIERpZXRyaWNo|https://frl.publisso.de/adhoc/uri/R29zZW1hbm4sICBKYW4tSGVuZHJpaw=="
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-8287-0127",
-        "prefLabel": "Markel, Moritz"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-4439-1133",
-        "prefLabel": "Ginzel, Marco"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/UGV1a2VydCwgTmljb2xl",
-        "prefLabel": "Peukert, Nicole"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U2NobmVpZGVyLCBIYXJ0bXV0",
-        "prefLabel": "Schneider, Hartmut"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-3716-4231",
-        "prefLabel": "Haak, Rainer"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWF5ZXIsIFN0ZWZmaQ==",
-        "prefLabel": "Mayer, Steffi"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U3V0dGt1cywgQW5uZQ==",
-        "prefLabel": "Suttkus, Anne"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TGFjaGVyLCBNYXJ0aW4=",
-        "prefLabel": "Lacher, Martin"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/S2x1dGgsIERpZXRyaWNo",
-        "prefLabel": "Kluth, Dietrich"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/R29zZW1hbm4sICBKYW4tSGVuZHJpaw==",
-        "prefLabel": "Gosemann,  Jan-Hendrik"
-      }
-    ],
-    "dataOrigin": [
-      {
-        "@id": "http://hbz-nrw.de/regal#Laborbeobachtung",
-        "prefLabel": "Laborbeobachtung"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/610/",
-        "prefLabel": "Medizin und Gesundheit"
-      },
-      {
-        "@id": "http://dewey.info/class/617/",
-        "prefLabel": "Chirurgie und verwandte medizinische Fachrichtungen"
-      }
-    ],
-    "description": [
-      "TABLES: 1 (Mean humeral length, organ volume and standard deviation) 2 (Mean humeral ratio of organs with standard deviation). 3 (Mean humeral ratio of lung and lung lobes and standard deviation) and 4 (Mean humeral ratio of left and right ventricle with standard deviation).  MOVIES: (1) Pulmonary development (ED15, ED19, N0). Exemplified movies with 3-dimensional overview of the whole lung, 360° rotation and cross-section view of pulmonary tissue (ED15, ED19 and N0). Additional morphing from ED15 to N0. (2) Cardiac development (ED15, ED19, N0). Exemplified movies with 3-dimensional overview of the whole heart, 360° rotation and cross-section view of cardiac tissue (ED15, ED19 and N0). Additional morphing from ED15 to N0. (3) Hepatic development (ED15, ED19, N0). Exemplified movies with 3-dimensional overview of the whole liver, 360° rotation and cross-section view of hepatic tissue (ED15, ED19 and N0). Additional morphing from ED15 to N0."
-    ],
-    "doi": "10.4126/FRL01-006423454",
-    "fundingProgram": [
-      "-"
-    ],
-    "hasPart": [
-      {
-        "@id": "frl:6423622",
-        "prefLabel": "Daten CSV"
-      },
-      {
-        "@id": "frl:6423530",
-        "prefLabel": "Morphings"
-      },
-      {
-        "@id": "frl:6423538",
-        "prefLabel": "3D reconstructions"
-      }
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/10198584-8",
-        "prefLabel": "Universitätsklinikum Leipzig"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/2133894-2",
-        "prefLabel": "Klinik für Kinderchirurgie (Leipzig)"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6423454.rdf",
-      "created": "2020-10-13T08:26:22.549+0200",
-      "createdBy": "122",
-      "describes": "frl:6423454",
-      "lastModifiedBy": "305",
-      "modified": "2023-03-10T15:41:54.089+0000",
-      "objectTimestamp": "2023-03-10T15:41:53.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6423454/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6423454/edit",
-        "primaryTopic": "frl:6423454"
-      }
-    ],
-    "issued": [
-      "2020"
-    ],
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6423454",
-        "prefLabel": "oai:frl.publisso.de:frl:6423454"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
-        "prefLabel": "CC0 1.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6423454"
-    ],
-    "primaryTopic": "frl:6423454",
-    "projectId": [
-      "-"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RW1icnlvbG9neQ==",
-        "prefLabel": "Embryology"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/ZmV0YWwgcmF0IGFuYXRvbXk=",
-        "prefLabel": "fetal rat anatomy"
-      }
-    ],
-    "title": [
-      "Fetal rat lung, heart and liver development ED 15 - N0"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "yearOfCopyright": [
-      "2020"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6425518",
-    "accessScheme": "public",
-    "associatedDataset": [
-      "https://frl.publisso.de/data/frl:6425518/ ",
-      "https://dx.doi.org/10.4126/FRL01-006425521",
-      "https://dx.doi.org/10.4126/FRL01-006421672",
-      "https://github.com/CAMI-challenge/CAMISIM"
-    ],
-    "associatedPublication": [
-      "https://dx.doi.org/10.1186/s40168-019-0633-6"
-    ],
-    "catalogId": "ED6425518",
-    "contentType": "researchData",
-    "contributorOrder": [
-      "https://orcid.org/0000-0002-9853-5577|https://orcid.org/0000-0002-3085-6438|https://frl.publisso.de/adhoc/uri/QnJlbWdlcywgQW5kcmVhcw==|https://orcid.org/0000-0003-2370-3430"
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-9853-5577",
-        "prefLabel": "Fritz, Adrian"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-3085-6438",
-        "prefLabel": "Lesker, Till"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/QnJlbWdlcywgQW5kcmVhcw==",
-        "prefLabel": "Bremges, Andreas"
-      },
-      {
-        "@id": "https://orcid.org/0000-0003-2370-3430",
-        "prefLabel": "McHardy, Alice"
-      }
-    ],
-    "dataOrigin": [
-      {
-        "@id": "http://hbz-nrw.de/regal#Simulation",
-        "prefLabel": "Simulation"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/004/",
-        "prefLabel": "Datenverarbeitung; Informatik"
-      },
-      {
-        "@id": "http://dewey.info/class/570/",
-        "prefLabel": "Biowissenschaften; Biologie"
-      }
-    ],
-    "description": [
-      "Simulated multisample metagenome dataset including both long and short reads and created to prepare participants for the second CAMI challenge, from five different body sites of the human host: gastrointestinal tract, oral cavity, airways, skin, and urogenital tract. Underlying genome sources: NCBI RefSeq complete genomes, 07.08.2017. Underlying microbiome profile source: HMP (Human Microbiome Project, DOI: 10.1038/nature11234)."
-    ],
-    "doi": "10.4126/FRL01-006425518",
-    "fundingProgram": [
-      "-"
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/10177899-5",
-        "prefLabel": "Helmholtz-Zentrum für Infektionsforschung"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6425518.rdf",
-      "created": "2021-02-04T12:11:24.357+0100",
-      "createdBy": "122",
-      "describes": "frl:6425518",
-      "lastModifiedBy": "305",
-      "modified": "2023-03-10T15:38:13.008+0000",
-      "objectTimestamp": "2023-03-10T15:38:12.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6425518/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6425518/edit",
-        "primaryTopic": "frl:6425518"
-      }
-    ],
-    "issued": [
-      "2019"
-    ],
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6425518",
-        "prefLabel": "oai:frl.publisso.de:frl:6425518"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6425518"
-    ],
-    "primaryTopic": "frl:6425518",
-    "projectId": [
-      "-"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/bW91c2UgZ3V0",
-        "prefLabel": "mouse gut"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/bWljcm9iaW9tZQ==",
-        "prefLabel": "microbiome"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/Q0FNSSBjaGFsbGVuZ2U=",
-        "prefLabel": "CAMI challenge"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/YmVuY2htYXJraW5n",
-        "prefLabel": "benchmarking"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/bG9uZyByZWFkIHNlcXVlbmNlIGRhdGE=",
-        "prefLabel": "long read sequence data"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWdlbm9tZQ==",
-        "prefLabel": "Metagenome"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/c2hvcnQgcmVhZCBzZXF1ZW5jZSBkYXRh",
-        "prefLabel": "short read sequence data"
-      }
-    ],
-    "title": [
-      "CAMI 2 - Multisample Benchmark Dataset of Human Microbiome Project"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "usageManual": [
-      " The data can be downloaded via the link https://frl.publisso.de/data/frl:6425518/ under \"Zugehöriges Dataset\". A direct download function within this metadata record is planned for a later date. This does not affect the integrity of the data. The citation capability is fully ensured.\r\n"
-    ],
-    "yearOfCopyright": [
-      "2019"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6420859",
-    "accessScheme": "public",
-    "catalogId": "ED6420859",
-    "contentType": "researchData",
-    "contributorOrder": [
-      "https://orcid.org/0000-0002-4211-3404|https://frl.publisso.de/adhoc/uri/WWksIFFpbnlpYW5n|https://orcid.org/0000-0002-8398-4820|https://frl.publisso.de/adhoc/uri/VGhvcm1hbm4sIExhcnM=|https://orcid.org/0000-0001-5650-1806|https://orcid.org/0000-0003-2468-3160"
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-4211-3404",
-        "prefLabel": "Janke, David"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/WWksIFFpbnlpYW5n",
-        "prefLabel": "Yi, Qinyiang"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-8398-4820",
-        "prefLabel": "Hempel, Sabrina"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/VGhvcm1hbm4sIExhcnM=",
-        "prefLabel": "Thormann, Lars"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-5650-1806",
-        "prefLabel": "Amon, Barbara"
-      },
-      {
-        "@id": "https://orcid.org/0000-0003-2468-3160",
-        "prefLabel": "Amon, Thomas"
-      }
-    ],
-    "dataOrigin": [
-      {
-        "@id": "http://hbz-nrw.de/regal#Messung",
-        "prefLabel": "Messung"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/333/7/",
-        "prefLabel": "Natürliche Ressourcen,Energie & Umwelt"
-      },
-      {
-        "@id": "http://dewey.info/class/630/",
-        "prefLabel": "Landwirtschaft und verwandte Bereiche"
-      }
-    ],
-    "doi": "10.4126/FRL01-006420859",
-    "fundingProgram": [
-      "-"
-    ],
-    "hasPart": [
-      {
-        "@id": "frl:6420860",
-        "prefLabel": "Velocity measurements of a 1:100 scaled model of a naturally ventilated dairy barn in an atmospheric boundary layer wind tunnel"
-      }
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/1246824-1",
-        "prefLabel": "Uniwersytet Zielonogórski"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/1081272074",
-        "prefLabel": "Freie Universität Berlin. Institut für Tier- und Umwelthygiene"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/1119361486",
-        "prefLabel": "Leibniz-Institut für Agrartechnik und Bioökonomie"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6420859.rdf",
-      "created": "2020-05-13T15:51:09.130+0200",
-      "createdBy": "122",
-      "describes": "frl:6420859",
-      "lastModifiedBy": "305",
-      "modified": "2023-03-10T15:45:13.682+0000",
-      "objectTimestamp": "2023-03-10T15:45:13.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6420859/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6420859/edit",
-        "primaryTopic": "frl:6420859"
-      }
-    ],
-    "issued": [
-      "2020"
-    ],
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6420859",
-        "prefLabel": "oai:frl.publisso.de:frl:6420859"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "http://opendatacommons.org/licenses/by/1.0/",
-        "prefLabel": "ODC By"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6420859"
-    ],
-    "primaryTopic": "frl:6420859",
-    "projectId": [
-      "-"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "title": [
-      "Velocity measurements of a 1:100 scaled model of a naturally ventilated dairy barn in an atmospheric boundary layer wind tunnel"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "yearOfCopyright": [
-      "2020"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6439110",
-    "accessScheme": "public",
-    "catalogId": "ED6439110",
-    "contentType": "researchData",
-    "contributor": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOSA=",
-        "prefLabel": "NFDI4Health Task Force COVID-19 "
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
-        "prefLabel": "NFDI4Health"
-      }
-    ],
-    "contributorOrder": [
-      "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=|https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=|https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQW5uZSBJbmVz|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==|https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE5pbmE=|https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOSA=|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg="
-    ],
-    "creator": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=",
-        "prefLabel": "Shutsko, Aliaksandra"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=",
-        "prefLabel": "Schmidt, Carsten Oliver"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQW5uZSBJbmVz",
-        "prefLabel": "Klopfenstein, Sophie Anne Ines"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz",
-        "prefLabel": "Darms, Johannes"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==",
-        "prefLabel": "Golebiewski, Martin"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE5pbmE=",
-        "prefLabel": "Vorisek, Carina Nina"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=",
-        "prefLabel": "Abaza, Haitham"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/000/",
-        "prefLabel": "Informatik, Informationswissenschaft, allgemeine Werke"
-      },
-      {
-        "@id": "http://dewey.info/class/610/",
-        "prefLabel": "Medizin und Gesundheit"
-      }
-    ],
-    "description": [
-      "The Metadata Schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (Metadata Schema) contains a list of properties that describe a resource to be registered in the German Central Health Study Hub. \r\nCurrently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, \r\nother types of resources may also be described and registered. The metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of the resource, \r\nthe related persons and organizations contributing to the development of the resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. \r\nFor studies, information about study design and accessibility of the collected data should be additionally provided. The Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema 4.4, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies.\r\nThis is an updated version V3_0 of the Metadata Schema, which in addition to the core module of previous versions, includes also two use case-specific modules for nutritional epidemiology and chronic diseases. The undertaken changes are described within the document."
-    ],
-    "doi": "10.4126/FRL01-006439110",
-    "fundingId": [
-      {
-        "@id": "http://dx.doi.org/10.13039/501100001659",
-        "prefLabel": "Deutsche Forschungsgemeinschaft"
-      }
-    ],
-    "fundingProgram": [
-      "-"
-    ],
-    "hasPart": [
-      {
-        "@id": "frl:6439112",
-        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_0)"
-      },
-      {
-        "@id": "frl:6439111",
-        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_0)"
-      }
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/1246206420",
-        "prefLabel": "NFDI4Health - Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten (Projekt)"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6439110.rdf",
-      "created": "2022-12-23T10:33:51.862+0100",
-      "createdBy": "317",
-      "describes": "frl:6439110",
-      "lastModifiedBy": "25",
-      "modified": "2023-03-13T11:07:54.867+0000",
-      "objectTimestamp": "2023-03-13T11:07:53.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6439110/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6439110/edit",
-        "primaryTopic": "frl:6439110"
-      }
-    ],
-    "issued": [
-      "2022"
-    ],
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6439110",
-        "prefLabel": "oai:frl.publisso.de:frl:6439110"
-      }
-    ],
-    "joinedFunding": [
-      {
-        "fundingJoined": {
-          "@id": "http://dx.doi.org/10.13039/501100001659",
-          "prefLabel": "Deutsche Forschungsgemeinschaft"
-        },
-        "fundingProgramJoined": "-",
-        "projectIdJoined": "451265285; 442326535"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6439110"
-    ],
-    "primaryTopic": "frl:6439110",
-    "projectId": [
-      "451265285; 442326535"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5",
-        "prefLabel": "Epidemiology"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/1206347392",
-        "prefLabel": "COVID-19"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U3RhbmRhcmQ=",
-        "prefLabel": "Standard"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/Q2xpbmljYWwgdHJpYWxz",
-        "prefLabel": "Clinical trials"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGE=",
-        "prefLabel": "Metadata"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RkFJUiBwcmluY2lwbGVz",
-        "prefLabel": "FAIR principles"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/UHVibGljIEhlYWx0aA==",
-        "prefLabel": "Public Health"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEgbW9kZWw=",
-        "prefLabel": "Metadata model"
-      }
-    ],
-    "title": [
-      "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_0)"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "yearOfCopyright": [
-      "2022"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6427216",
-    "accessScheme": "public",
-    "associatedDataset": [
-      "https://www.ebi.ac.uk/ena/browser/view/PRJEB43874",
-      "https://frl.publisso.de/data/frl:6427216"
-    ],
-    "associatedPublication": [
-      "https://doi.org/10.4049/jimmunol.2100622"
-    ],
-    "catalogId": "ED6427216",
-    "contentType": "researchData",
-    "contributor": [
-      {
-        "@id": "https://orcid.org/0000-0002-1481-2996",
-        "prefLabel": "Förstner, Konrad U."
-      }
-    ],
-    "contributorOrder": [
-      "https://orcid.org/0000-0001-5830-4208|https://orcid.org/0000-0002-1481-2996"
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0001-5830-4208",
-        "prefLabel": "Sauerwein, Till"
-      }
-    ],
-    "dataOrigin": [
-      {
-        "@id": "http://hbz-nrw.de/regal#Analyse",
-        "prefLabel": "Analyse"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/579/",
-        "prefLabel": "Mikroorganismen, Pilze, Algen"
-      }
-    ],
-    "description": [
-      "Bioinformatical workflow for the publication “Sensing of intracellular Staphylococcus aureus by mast cells induces a type I interferon positive feedback loop that enhances cell-autonomous immunity”"
-    ],
-    "doi": "10.4126/FRL01-006427216",
-    "fundingId": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/SGVsbWhvbHR6LUluc3RpdHV0IGbDvHIgUk5BLWJhc2llcnRlIEluZmVrdGlvbnNmb3JzY2h1bmc=",
-        "prefLabel": "Helmholtz-Institut für RNA-basierte Infektionsforschung"
-      }
-    ],
-    "fundingProgram": [
-      "HIRI Seed Grant"
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/1124555668",
-        "prefLabel": "ZB MED - Informationszentrum Lebenswissenschaften"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6427216.rdf",
-      "created": "2021-04-30T12:13:07.955+0200",
-      "createdBy": "305",
-      "describes": "frl:6427216",
-      "lastModifiedBy": "16",
-      "modified": "2024-08-01T07:12:50.787+0000",
-      "objectTimestamp": "2024-08-01T07:12:50.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6427216/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6427216/edit",
-        "primaryTopic": "frl:6427216"
-      }
-    ],
-    "issued": "2021",
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6427216",
-        "prefLabel": "oai:frl.publisso.de:frl:6427216"
-      }
-    ],
-    "joinedFunding": [
-      {
-        "fundingJoined": {
-          "@id": "https://frl.publisso.de/adhoc/uri/SGVsbWhvbHR6LUluc3RpdHV0IGbDvHIgUk5BLWJhc2llcnRlIEluZmVrdGlvbnNmb3JzY2h1bmc=",
-          "prefLabel": "Helmholtz-Institut für RNA-basierte Infektionsforschung"
-        },
-        "fundingProgramJoined": "HIRI Seed Grant",
-        "projectIdJoined": "-"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6427216"
-    ],
-    "primaryTopic": "frl:6427216",
-    "projectId": [
-      "-"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "recordingPeriod": [
-      "2017 - 2021"
-    ],
-    "title": [
-      "Bioinformatical workflow for “Sensing of intracellular Staphylococcus aureus by mast cells induces a type I interferon positive feedback loop that enhances cell-autonomous immunity”"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "usageManual": [
-      "The dataset contains an executable run script and singularity containers to re-run the complete workflow. The data can be temporarily downloaded via the https://frl.publisso.de/data/frl:6427216 link under \"Zugehöriges Dataset\". A direct download function with an extended tree view within this metadata record is planned for a later date. This does not affect the integrity of the data. The citation capability is fully ensured."
-    ],
-    "yearOfCopyright": [
-      "2021"
     ]
   },
   {
@@ -1597,7 +547,7 @@
       "createdBy": "122",
       "describes": "frl:6407998",
       "lastModifiedBy": "305",
-      "modified": "2023-11-15T13:07:37.192+0000",
+      "modified": "2023-11-15T14:07:37.192+0100",
       "objectTimestamp": "2023-11-15T13:07:32.000+0000"
     },
     "isLike": [
@@ -1921,7 +871,7 @@
       "createdBy": "317",
       "describes": "frl:6453422",
       "lastModifiedBy": "317",
-      "modified": "2023-12-12T06:13:33.554+0000",
+      "modified": "2023-12-12T07:13:33.554+0100",
       "objectTimestamp": "2023-12-12T06:13:32.000+0000"
     },
     "isMemberOf": [
@@ -2046,196 +996,37 @@
   },
   {
     "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6483993",
+    "@id": "frl:6472531",
     "accessScheme": "public",
-    "associatedDataset": [
-      "https://repository.publisso.de/resource/frl%3A6483994",
-      "https://repository.publisso.de/resource/frl%3A6483995"
-    ],
-    "associatedPublication": [
-      "https://repository.publisso.de/resource/frl%3A6483992"
-    ],
-    "catalogId": "ED6483993",
+    "catalogId": "ED6472531",
     "contentType": "researchData",
-    "contributor": [
-      {
-        "@id": "https://orcid.org/0000-0002-7091-5084",
-        "prefLabel": "Shutsko, Aliaksandra"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-5485-9724",
-        "prefLabel": "Gonzalez Ocanto, Marisabel"
-      },
-      {
-        "@id": "https://orcid.org/0000-0003-4645-6014",
-        "prefLabel": "Grummich, Kathrin"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-2830-6322",
-        "prefLabel": "Perrar, Ines"
-      }
-    ],
     "contributorOrder": [
-      "https://orcid.org/0000-0003-2547-933X|https://orcid.org/0000-0002-8251-1597|https://orcid.org/0000-0002-7091-5084|https://orcid.org/0000-0001-5485-9724|https://orcid.org/0000-0003-4645-6014|https://orcid.org/0000-0002-2830-6322"
+      "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=|https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=|https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==|https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQS4gSS4=|https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=|https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE4u|https://frl.publisso.de/adhoc/uri/QnLDvG5pbmdzLUt1cHBlLCBDbGF1ZGlh|https://frl.publisso.de/adhoc/uri/Q2xlbWVucywgVmVyYQ==|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://frl.publisso.de/adhoc/uri/SGFuw58sIFNhYmluZQ==|https://frl.publisso.de/adhoc/uri/SW50ZW1hbm4sIFRpbW0=|https://frl.publisso.de/adhoc/uri/SmFubmFzY2gsIEZyYW56aXNrYQ==|https://frl.publisso.de/adhoc/uri/S2FzYm9obSwgRWxpc2E=|https://frl.publisso.de/adhoc/uri/TGluZHN0w6RkdCwgQmlydGU=|https://frl.publisso.de/adhoc/uri/TMO2YmUsIE1hdHRoaWFz|https://frl.publisso.de/adhoc/uri/T3JiYW4sIEVzdGVy|https://frl.publisso.de/adhoc/uri/UGVycmFyLCBJbmVz|https://frl.publisso.de/adhoc/uri/UGV0ZXJzLCBNYW51ZWxh|https://frl.publisso.de/adhoc/uri/U2F4LCBVbHJpY2g=|https://frl.publisso.de/adhoc/uri/U2NodWx6ZSwgTWF0dGhpYXM=|https://frl.publisso.de/adhoc/uri/U2NodXBwLCBDbGF1ZGlh|https://frl.publisso.de/adhoc/uri/U2Nod2FyeiwgRmxvcmlhbg==|https://frl.publisso.de/adhoc/uri/U2Nod2VkaGVsbSwgQ2Fyb2xpbmE=|https://frl.publisso.de/adhoc/uri/U3RyYXRobWFubiwgU3RlZmFu|https://frl.publisso.de/adhoc/uri/V2FsdGVtYXRoLCBEYWdtYXI=|https://frl.publisso.de/adhoc/uri/V8O8bnNjaGUsIEhhbm5lcw==|https://frl.publisso.de/adhoc/uri/WmVsZWtlLCBBdGlua3V0IEEu"
     ],
     "creator": [
       {
-        "@id": "https://orcid.org/0000-0003-2547-933X",
-        "prefLabel": "Fuerst, Julia"
+        "@id": "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=",
+        "prefLabel": "Abaza, Haitham"
       },
       {
-        "@id": "https://orcid.org/0000-0002-8251-1597",
-        "prefLabel": "Lindstaedt, Birte"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/020/",
-        "prefLabel": "Bibliotheks- und Informationswissenschaften"
+        "@id": "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=",
+        "prefLabel": "Shutsko, Aliaksandra"
       },
       {
-        "@id": "http://dewey.info/class/610/",
-        "prefLabel": "Medizin und Gesundheit"
-      }
-    ],
-    "description": [
-      "Within the NFDI4Health, three Research Data Management Plan templates have been developed to support researchers in planning their research projects. The template ‘Research Data Management Plan short - DFG Proposal’ is based on the DFG checklist for handling research data and can be submitted together with a funding proposal.  Instructions for filling in the templates and explanations of the terms used in the templates can be found in the linked accompanying document ‘Research Data Management Plan templates - instructions for use’"
-    ],
-    "doi": "10.4126/FRL01-006483993",
-    "fundingId": [
-      {
-        "@id": "http://dx.doi.org/10.13039/501100001659",
-        "prefLabel": "Deutsche Forschungsgemeinschaft"
-      }
-    ],
-    "fundingProgram": [
-      "NFDI4Health Consortium"
-    ],
-    "hasPart": [
-      {
-        "@id": "frl:6484007",
-        "prefLabel": "Research Data Management Plan short — DFG Proposal"
+        "@id": "https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==",
+        "prefLabel": "Golebiewski, Martin"
       },
       {
-        "@id": "frl:6484015",
-        "prefLabel": "Research Data Management Plan short — DFG Proposal"
-      }
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/1246206420",
-        "prefLabel": "NFDI4Health - Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten (Projekt)"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6483993.rdf",
-      "created": "2024-08-22T13:28:33.594+0200",
-      "createdBy": "317",
-      "describes": "frl:6483993",
-      "lastModifiedBy": "317",
-      "modified": "2024-09-04T09:33:35.495+0200",
-      "objectTimestamp": "2024-09-04T07:33:34.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
+        "@id": "https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQS4gSS4=",
+        "prefLabel": "Klopfenstein, Sophie A. I."
       },
       {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6483993/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6483993/edit",
-        "primaryTopic": "frl:6483993"
-      }
-    ],
-    "issued": "2024",
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6483993",
-        "prefLabel": "oai:frl.publisso.de:frl:6483993"
-      }
-    ],
-    "joinedFunding": [
-      {
-        "fundingJoined": {
-          "@id": "http://dx.doi.org/10.13039/501100001659",
-          "prefLabel": "Deutsche Forschungsgemeinschaft"
-        },
-        "fundingProgramJoined": "NFDI4Health Consortium",
-        "projectIdJoined": "442326535"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://pbcore.org/vocabularies/instantiationMediaType#text",
-        "prefLabel": "Text"
-      }
-    ],
-    "prefLabel": [
-      "frl:6483993"
-    ],
-    "primaryTopic": "frl:6483993",
-    "projectId": [
-      "442326535"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
-        "prefLabel": "NFDI4Health"
-      }
-    ],
-    "title": [
-      "Research Data Management Plan short — DFG Proposal"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "yearOfCopyright": [
-      "2024"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6450625",
-    "accessScheme": "public",
-    "catalogId": "ED6450625",
-    "contentType": "researchData",
-    "contributor": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOQ==",
-        "prefLabel": "NFDI4Health Task Force COVID-19"
+        "@id": "https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=",
+        "prefLabel": "Schmidt, Carsten Oliver"
       },
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
-        "prefLabel": "NFDI4Health"
+        "@id": "https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE4u",
+        "prefLabel": "Vorisek, Carina N."
       },
       {
         "@id": "https://frl.publisso.de/adhoc/uri/QnLDvG5pbmdzLUt1cHBlLCBDbGF1ZGlh",
@@ -2322,39 +1113,10 @@
         "prefLabel": "Zeleke, Atinkut A."
       }
     ],
-    "contributorOrder": [
-      "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=|https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmEg|https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==|https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQS4gSS4=|https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=|https://frl.publisso.de/adhoc/uri/Vm9yaXNlayxDYXJpbmEgTi4g|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOQ==|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=|https://frl.publisso.de/adhoc/uri/QnLDvG5pbmdzLUt1cHBlLCBDbGF1ZGlh|https://frl.publisso.de/adhoc/uri/Q2xlbWVucywgVmVyYQ==|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://frl.publisso.de/adhoc/uri/SGFuw58sIFNhYmluZQ==|https://frl.publisso.de/adhoc/uri/SW50ZW1hbm4sIFRpbW0=|https://frl.publisso.de/adhoc/uri/SmFubmFzY2gsIEZyYW56aXNrYQ==|https://frl.publisso.de/adhoc/uri/S2FzYm9obSwgRWxpc2E=|https://frl.publisso.de/adhoc/uri/TGluZHN0w6RkdCwgQmlydGU=|https://frl.publisso.de/adhoc/uri/TMO2YmUsIE1hdHRoaWFz|https://frl.publisso.de/adhoc/uri/T3JiYW4sIEVzdGVy|https://frl.publisso.de/adhoc/uri/UGVycmFyLCBJbmVz|https://frl.publisso.de/adhoc/uri/UGV0ZXJzLCBNYW51ZWxh|https://frl.publisso.de/adhoc/uri/U2F4LCBVbHJpY2g=|https://frl.publisso.de/adhoc/uri/U2NodWx6ZSwgTWF0dGhpYXM=|https://frl.publisso.de/adhoc/uri/U2NodXBwLCBDbGF1ZGlh|https://frl.publisso.de/adhoc/uri/U2Nod2FyeiwgRmxvcmlhbg==|https://frl.publisso.de/adhoc/uri/U2Nod2VkaGVsbSwgQ2Fyb2xpbmE=|https://frl.publisso.de/adhoc/uri/U3RyYXRobWFubiwgU3RlZmFu|https://frl.publisso.de/adhoc/uri/V2FsdGVtYXRoLCBEYWdtYXI=|https://frl.publisso.de/adhoc/uri/V8O8bnNjaGUsIEhhbm5lcw==|https://frl.publisso.de/adhoc/uri/WmVsZWtlLCBBdGlua3V0IEEu"
-    ],
-    "creator": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=",
-        "prefLabel": "Abaza, Haitham"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmEg",
-        "prefLabel": "Shutsko, Aliaksandra "
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==",
-        "prefLabel": "Golebiewski, Martin"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQS4gSS4=",
-        "prefLabel": "Klopfenstein, Sophie A. I."
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=",
-        "prefLabel": "Schmidt, Carsten Oliver"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/Vm9yaXNlayxDYXJpbmEgTi4g",
-        "prefLabel": "Vorisek,Carina N. "
-      }
-    ],
     "ddc": [
       {
-        "@id": "http://dewey.info/class/000/",
-        "prefLabel": "Informatik, Informationswissenschaft, allgemeine Werke"
+        "@id": "http://dewey.info/class/020/",
+        "prefLabel": "Bibliotheks- und Informationswissenschaften"
       },
       {
         "@id": "http://dewey.info/class/610/",
@@ -2362,9 +1124,9 @@
       }
     ],
     "description": [
-      "The Metadata Schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (Metadata Schema) contains a list of properties that describe a resource to be registered in the German Central Health Study Hub. Currently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, other types of resources may also be described and registered. The metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of the resource, the related persons and organizations contributing to the development of the resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. For studies, information about study design and accessibility of the collected data should be additionally provided. The Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema 4.4, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies. This is an updated version V3_1 of the Metadata Schema, which introduces two new resource types, namely registries and secondary data sources. Accordingly, the metadata set describing studies, which was part of the core module in previous versions, has been split into a separate module and adapted to also apply to registries and secondary data sources. An additional use case-specific module has also been added, including metadata specific to record linkage. The undertaken changes are described within the document."
+      "Originally developed by the NFDI4Health Task Force COVID-19, the Metadata Schema of the NFDI4Health contains a list of properties \r\nthat describe a resource to be registered in the German Central Health Study Hub.  Currently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, other types of resources may also be described and registered. The metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of the resource, the related persons and organizations contributing to the development of the resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. For studies, information about study design and accessibility of the collected data should be additionally provided. The Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema 4.4, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies. This is an updated version V3_3 of the Metadata Schema, which improves the modules of the previous version via refined display names, description and additional information texts, and short input helps and examples. The new version also introduces a new url item in the data sharing section for linking to data request applications. The undertaken changes are described within the document.\r\n"
     ],
-    "doi": "10.4126/FRL01-006450625",
+    "doi": "10.4126/FRL01-006472531",
     "fundingId": [
       {
         "@id": "http://dx.doi.org/10.13039/501100001659",
@@ -2376,8 +1138,8 @@
     ],
     "hasPart": [
       {
-        "@id": "frl:6450944",
-        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_1)"
+        "@id": "frl:6472624",
+        "prefLabel": "The NFDI4Health Metadata Schema (V3_3)"
       }
     ],
     "institution": [
@@ -2387,13 +1149,13 @@
       }
     ],
     "isDescribedBy": {
-      "@id": "frl:6450625.rdf",
-      "created": "2023-05-10T15:52:47.731+0200",
+      "@id": "frl:6472531.rdf",
+      "created": "2023-11-29T09:14:30.003+0100",
       "createdBy": "317",
-      "describes": "frl:6450625",
-      "lastModifiedBy": "305",
-      "modified": "2024-09-24T10:08:07.508+0200",
-      "objectTimestamp": "2024-09-24T08:08:07.000+0000"
+      "describes": "frl:6472531",
+      "lastModifiedBy": "317",
+      "modified": "2023-12-12T13:10:58.407+0100",
+      "objectTimestamp": "2023-12-12T12:10:58.000+0000"
     },
     "isMemberOf": [
       {
@@ -2407,16 +1169,16 @@
     ],
     "isPrimaryTopicOf": [
       {
-        "@id": "https://repository.publisso.de/resource/frl:6450625/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6450625/edit",
-        "primaryTopic": "frl:6450625"
+        "@id": "https://repository.publisso.de/resource/frl:6472531/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6472531/edit",
+        "primaryTopic": "frl:6472531"
       }
     ],
     "issued": "2023",
     "itemID": [
       {
-        "@id": "oai:frl.publisso.de:frl:6450625",
-        "prefLabel": "oai:frl.publisso.de:frl:6450625"
+        "@id": "oai:frl.publisso.de:frl:6472531",
+        "prefLabel": "oai:frl.publisso.de:frl:6472531"
       }
     ],
     "joinedFunding": [
@@ -2447,13 +1209,13 @@
         "prefLabel": "Datensatz"
       }
     ],
-    "nextVersion": [
-      "https://repository.publisso.de/resource/frl:6453422"
-    ],
     "prefLabel": [
-      "frl:6450625"
+      "frl:6472531"
     ],
-    "primaryTopic": "frl:6450625",
+    "previousVersion": [
+      "https://repository.publisso.de/resource/frl%3A6453422"
+    ],
+    "primaryTopic": "frl:6472531",
     "projectId": [
       "451265285; 442326535"
     ],
@@ -2465,6 +1227,10 @@
       }
     ],
     "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5",
+        "prefLabel": "Epidemiology"
+      },
       {
         "@id": "https://d-nb.info/gnd/1206347392",
         "prefLabel": "COVID-19"
@@ -2490,16 +1256,12 @@
         "prefLabel": "Public Health"
       },
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5IA==",
-        "prefLabel": "Epidemiology "
-      },
-      {
         "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEgbW9kZWw=",
         "prefLabel": "Metadata model"
       }
     ],
     "title": [
-      "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_1)"
+      "The NFDI4Health Metadata Schema (V3_3)"
     ],
     "transformer": [
       "mets",
@@ -2514,9 +1276,978 @@
   },
   {
     "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6434859",
+    "@id": "frl:6428767",
+    "accessScheme": "private",
+    "catalogId": "ED6428767",
+    "contentType": "researchData",
+    "contributorOrder": [
+      "https://orcid.org/0000-0002-4818-3593"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-4818-3593",
+        "prefLabel": "Botero-Hoyos, Andres"
+      }
+    ],
+    "dataOrigin": [
+      {
+        "@id": "http://hbz-nrw.de/regal#Umfrage",
+        "prefLabel": "Umfrage"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/331/",
+        "prefLabel": "Arbeitsökonomie"
+      }
+    ],
+    "fundingId": [
+      {
+        "@id": "http://dx.doi.org/10.13039/501100013860",
+        "prefLabel": "Deutsche Migräne- und Kopfschmerzgesellschaft e.V."
+      }
+    ],
+    "fundingProgram": [
+      "678910"
+    ],
+    "hasPart": [
+      {
+        "@id": "frl:6472926",
+        "prefLabel": "Prüfung ob Funding noch funktioniert"
+      },
+      {
+        "@id": "frl:6461927",
+        "prefLabel": "Test"
+      }
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/10320999-2",
+        "prefLabel": "Leibniz"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6428767.rdf",
+      "created": "2021-08-04T17:09:52.223+0200",
+      "createdBy": "16",
+      "describes": "frl:6428767",
+      "lastModifiedBy": "317",
+      "modified": "2024-10-25T08:27:02.212+0200",
+      "objectTimestamp": "2024-10-25T06:26:09.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6428767/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6428767/edit",
+        "primaryTopic": "frl:6428767"
+      }
+    ],
+    "issued": "2021",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6428767",
+        "prefLabel": "oai:frl.publisso.de:frl:6428767"
+      }
+    ],
+    "joinedFunding": [
+      {
+        "fundingJoined": {
+          "@id": "http://dx.doi.org/10.13039/501100013860",
+          "prefLabel": "Deutsche Migräne- und Kopfschmerzgesellschaft e.V."
+        },
+        "fundingProgramJoined": "678910",
+        "projectIdJoined": "12345"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/ger",
+        "prefLabel": "Deutsch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "prefLabel": "CC0 1.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://purl.org/ontology/bibo/AudioDocument",
+        "prefLabel": "Audio-Dokument"
+      }
+    ],
+    "prefLabel": [
+      "frl:6428767"
+    ],
+    "primaryTopic": "frl:6428767",
+    "projectId": [
+      "12345"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "title": [
+      "Prüfung ob Funding noch funktioniert"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "yearOfCopyright": [
+      "2021"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6421672",
     "accessScheme": "public",
-    "catalogId": "ED6434859",
+    "associatedDataset": [
+      "https://dx.doi.org/10.4126/FRL01-006425521",
+      "https://frl.publisso.de/data/frl:6421672",
+      "https://dx.doi.org/10.4126/FRL01-006425518",
+      "https://github.com/CAMI-challenge/CAMISIM/tree/0.3"
+    ],
+    "associatedPublication": [
+      "https://doi.org/10.1186/s40168-019-0633-6"
+    ],
+    "catalogId": "ED6421672",
+    "contentType": "researchData",
+    "contributorOrder": [
+      "https://orcid.org/0000-0002-9853-5577|https://orcid.org/0000-0002-3085-6438|https://frl.publisso.de/adhoc/uri/QnJlbWdlcywgQW5kcmVhcw==|https://orcid.org/0000-0003-2370-3430"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-9853-5577",
+        "prefLabel": "Fritz, Adrian"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-3085-6438",
+        "prefLabel": "Lesker, Till"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/QnJlbWdlcywgQW5kcmVhcw==",
+        "prefLabel": "Bremges, Andreas"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-2370-3430",
+        "prefLabel": "McHardy, Alice"
+      }
+    ],
+    "dataOrigin": [
+      {
+        "@id": "http://hbz-nrw.de/regal#Simulation",
+        "prefLabel": "Simulation"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/004/",
+        "prefLabel": "Datenverarbeitung; Informatik"
+      },
+      {
+        "@id": "http://dewey.info/class/570/",
+        "prefLabel": "Biowissenschaften; Biologie"
+      }
+    ],
+    "description": [
+      "Simulated multi-sample metagenome data set including both long and short reads and created to prepare participants for the second CAMI challenge. Genomes included in this data set were selected from public dbs to match taxonomic profiles of simulated samples were matched to 16S rRNA profiles the guts of different mice, vendors and positions in the gut."
+    ],
+    "doi": "10.4126/FRL01-006421672",
+    "fundingProgram": [
+      "-"
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/10177899-5",
+        "prefLabel": "Helmholtz-Zentrum für Infektionsforschung"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6421672.rdf",
+      "created": "2020-07-02T11:25:41.944+0200",
+      "createdBy": "122",
+      "describes": "frl:6421672",
+      "lastModifiedBy": "305",
+      "modified": "2024-07-30T14:16:18.663+0200",
+      "objectTimestamp": "2024-07-30T12:16:17.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6421672/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6421672/edit",
+        "primaryTopic": "frl:6421672"
+      }
+    ],
+    "issued": "2020",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6421672",
+        "prefLabel": "oai:frl.publisso.de:frl:6421672"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0",
+        "prefLabel": "CC BY 4.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset",
+        "prefLabel": "Datensatz"
+      }
+    ],
+    "prefLabel": [
+      "frl:6421672"
+    ],
+    "primaryTopic": "frl:6421672",
+    "projectId": [
+      "-"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/bWljcm9iaW9tZQ==",
+        "prefLabel": "microbiome"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/Q0FNSSBjaGFsbGVuZ2U=",
+        "prefLabel": "CAMI challenge"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/bG9uZyByZWFkIHNlcXVlbmNlIGRhdGE=",
+        "prefLabel": "long read sequence data"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWdlbm9tZQ==",
+        "prefLabel": "Metagenome"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/c2hvcnQgcmVhZCBzZXF1ZW5jZSBkYXRh",
+        "prefLabel": "short read sequence data"
+      }
+    ],
+    "title": [
+      "CAMI 2 - Multisample Benchmark Dataset of Mouse Gut"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "usageManual": [
+      "The data can be temporarily downloaded via the https://frl.publisso.de/data/frl:6421672 link under \"Zugehöriges Dataset\". A direct download function with an extended tree view within this metadata record is planned for a later date. This does not affect the integrity of the data. The citation capability is fully ensured."
+    ],
+    "yearOfCopyright": [
+      "2020"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6483994",
+    "accessScheme": "public",
+    "associatedDataset": [
+      "https://repository.publisso.de/resource/frl%3A6483993",
+      "https://repository.publisso.de/resource/frl%3A6483995"
+    ],
+    "associatedPublication": [
+      "https://repository.publisso.de/resource/frl%3A6483992"
+    ],
+    "catalogId": "ED6483994",
+    "contentType": "researchData",
+    "contributor": [
+      {
+        "@id": "https://orcid.org/0000-0002-7091-5084",
+        "prefLabel": "Shutsko, Aliaksandra"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-5485-9724",
+        "prefLabel": "Gonzalez Ocanto, Marisabel"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-4645-6014",
+        "prefLabel": "Grummich, Kathrin"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-2830-6322",
+        "prefLabel": "Perrar, Ines"
+      }
+    ],
+    "contributorOrder": [
+      "https://orcid.org/0000-0003-2547-933X|https://orcid.org/0000-0002-8251-1597|https://orcid.org/0000-0002-7091-5084|https://orcid.org/0000-0001-5485-9724|https://orcid.org/0000-0003-4645-6014|https://orcid.org/0000-0002-2830-6322"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-2547-933X",
+        "prefLabel": "Fuerst, Julia"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-8251-1597",
+        "prefLabel": "Lindstaedt, Birte"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/020/",
+        "prefLabel": "Bibliotheks- und Informationswissenschaften"
+      },
+      {
+        "@id": "http://dewey.info/class/610/",
+        "prefLabel": "Medizin und Gesundheit"
+      }
+    ],
+    "description": [
+      "Within the NFDI4Health, three Research Data Management Plan templates have been developed to support researchers in planning their research projects. The template ‘Research Data Management Plan - Epidemiological studies’ is aimed at epidemiological research. Instructions for filling in the templates and explanations of the terms used in the templates can be found in the linked accompanying document ‘Research Data Management Plan templates - instructions for use’"
+    ],
+    "doi": "10.4126/FRL01-006483994",
+    "fundingId": [
+      {
+        "@id": "http://dx.doi.org/10.13039/501100001659",
+        "prefLabel": "Deutsche Forschungsgemeinschaft"
+      }
+    ],
+    "fundingProgram": [
+      "NFDI4Health Consortium"
+    ],
+    "hasPart": [
+      {
+        "@id": "frl:6484017",
+        "prefLabel": "Research Data Management Plan — Epidemiological studies"
+      },
+      {
+        "@id": "frl:6484008",
+        "prefLabel": "Research Data Management Plan — Epidemiological studies"
+      }
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/1246206420",
+        "prefLabel": "NFDI4Health - Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten (Projekt)"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6483994.rdf",
+      "created": "2024-08-23T07:20:21.858+0200",
+      "createdBy": "317",
+      "describes": "frl:6483994",
+      "lastModifiedBy": "317",
+      "modified": "2024-09-04T09:32:43.655+0200",
+      "objectTimestamp": "2024-09-04T07:32:43.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6483994/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6483994/edit",
+        "primaryTopic": "frl:6483994"
+      }
+    ],
+    "issued": "2024",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6483994",
+        "prefLabel": "oai:frl.publisso.de:frl:6483994"
+      }
+    ],
+    "joinedFunding": [
+      {
+        "fundingJoined": {
+          "@id": "http://dx.doi.org/10.13039/501100001659",
+          "prefLabel": "Deutsche Forschungsgemeinschaft"
+        },
+        "fundingProgramJoined": "NFDI4Health Consortium",
+        "projectIdJoined": "442326535"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0",
+        "prefLabel": "CC BY 4.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://pbcore.org/vocabularies/instantiationMediaType#text",
+        "prefLabel": "Text"
+      }
+    ],
+    "prefLabel": [
+      "frl:6483994"
+    ],
+    "primaryTopic": "frl:6483994",
+    "projectId": [
+      "442326535"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
+        "prefLabel": "NFDI4Health"
+      }
+    ],
+    "title": [
+      "Research Data Management Plan — Epidemiological studies"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "yearOfCopyright": [
+      "2024"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6420859",
+    "accessScheme": "public",
+    "catalogId": "ED6420859",
+    "contentType": "researchData",
+    "contributorOrder": [
+      "https://orcid.org/0000-0002-4211-3404|https://frl.publisso.de/adhoc/uri/WWksIFFpbnlpYW5n|https://orcid.org/0000-0002-8398-4820|https://frl.publisso.de/adhoc/uri/VGhvcm1hbm4sIExhcnM=|https://orcid.org/0000-0001-5650-1806|https://orcid.org/0000-0003-2468-3160"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-4211-3404",
+        "prefLabel": "Janke, David"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/WWksIFFpbnlpYW5n",
+        "prefLabel": "Yi, Qinyiang"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-8398-4820",
+        "prefLabel": "Hempel, Sabrina"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/VGhvcm1hbm4sIExhcnM=",
+        "prefLabel": "Thormann, Lars"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-5650-1806",
+        "prefLabel": "Amon, Barbara"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-2468-3160",
+        "prefLabel": "Amon, Thomas"
+      }
+    ],
+    "dataOrigin": [
+      {
+        "@id": "http://hbz-nrw.de/regal#Messung",
+        "prefLabel": "Messung"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/333/7/",
+        "prefLabel": "Natürliche Ressourcen,Energie & Umwelt"
+      },
+      {
+        "@id": "http://dewey.info/class/630/",
+        "prefLabel": "Landwirtschaft und verwandte Bereiche"
+      }
+    ],
+    "doi": "10.4126/FRL01-006420859",
+    "fundingProgram": [
+      "-"
+    ],
+    "hasPart": [
+      {
+        "@id": "frl:6420860",
+        "prefLabel": "Velocity measurements of a 1:100 scaled model of a naturally ventilated dairy barn in an atmospheric boundary layer wind tunnel"
+      }
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/1246824-1",
+        "prefLabel": "Uniwersytet Zielonogórski"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1081272074",
+        "prefLabel": "Freie Universität Berlin. Institut für Tier- und Umwelthygiene"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1119361486",
+        "prefLabel": "Leibniz-Institut für Agrartechnik und Bioökonomie"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6420859.rdf",
+      "created": "2020-05-13T15:51:09.130+0200",
+      "createdBy": "122",
+      "describes": "frl:6420859",
+      "lastModifiedBy": "305",
+      "modified": "2023-03-10T16:45:13.682+0100",
+      "objectTimestamp": "2023-03-10T15:45:13.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6420859/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6420859/edit",
+        "primaryTopic": "frl:6420859"
+      }
+    ],
+    "issued": "2020",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6420859",
+        "prefLabel": "oai:frl.publisso.de:frl:6420859"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "http://opendatacommons.org/licenses/by/1.0/",
+        "prefLabel": "ODC By"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset",
+        "prefLabel": "Datensatz"
+      }
+    ],
+    "prefLabel": [
+      "frl:6420859"
+    ],
+    "primaryTopic": "frl:6420859",
+    "projectId": [
+      "-"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "title": [
+      "Velocity measurements of a 1:100 scaled model of a naturally ventilated dairy barn in an atmospheric boundary layer wind tunnel"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "yearOfCopyright": [
+      "2020"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6427216",
+    "accessScheme": "public",
+    "associatedDataset": [
+      "https://www.ebi.ac.uk/ena/browser/view/PRJEB43874",
+      "https://frl.publisso.de/data/frl:6427216"
+    ],
+    "associatedPublication": [
+      "https://doi.org/10.4049/jimmunol.2100622"
+    ],
+    "catalogId": "ED6427216",
+    "contentType": "researchData",
+    "contributor": [
+      {
+        "@id": "https://orcid.org/0000-0002-1481-2996",
+        "prefLabel": "Förstner, Konrad U."
+      }
+    ],
+    "contributorOrder": [
+      "https://orcid.org/0000-0001-5830-4208|https://orcid.org/0000-0002-1481-2996"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0001-5830-4208",
+        "prefLabel": "Sauerwein, Till"
+      }
+    ],
+    "dataOrigin": [
+      {
+        "@id": "http://hbz-nrw.de/regal#Analyse",
+        "prefLabel": "Analyse"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/579/",
+        "prefLabel": "Mikroorganismen, Pilze, Algen"
+      }
+    ],
+    "description": [
+      "Bioinformatical workflow for the publication “Sensing of intracellular Staphylococcus aureus by mast cells induces a type I interferon positive feedback loop that enhances cell-autonomous immunity”"
+    ],
+    "doi": "10.4126/FRL01-006427216",
+    "fundingId": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/SGVsbWhvbHR6LUluc3RpdHV0IGbDvHIgUk5BLWJhc2llcnRlIEluZmVrdGlvbnNmb3JzY2h1bmc=",
+        "prefLabel": "Helmholtz-Institut für RNA-basierte Infektionsforschung"
+      }
+    ],
+    "fundingProgram": [
+      "HIRI Seed Grant"
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/1124555668",
+        "prefLabel": "ZB MED - Informationszentrum Lebenswissenschaften"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6427216.rdf",
+      "created": "2021-04-30T12:13:07.955+0200",
+      "createdBy": "305",
+      "describes": "frl:6427216",
+      "lastModifiedBy": "16",
+      "modified": "2024-08-01T09:12:50.787+0200",
+      "objectTimestamp": "2024-08-01T07:12:50.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6427216/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6427216/edit",
+        "primaryTopic": "frl:6427216"
+      }
+    ],
+    "issued": "2021",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6427216",
+        "prefLabel": "oai:frl.publisso.de:frl:6427216"
+      }
+    ],
+    "joinedFunding": [
+      {
+        "fundingJoined": {
+          "@id": "https://frl.publisso.de/adhoc/uri/SGVsbWhvbHR6LUluc3RpdHV0IGbDvHIgUk5BLWJhc2llcnRlIEluZmVrdGlvbnNmb3JzY2h1bmc=",
+          "prefLabel": "Helmholtz-Institut für RNA-basierte Infektionsforschung"
+        },
+        "fundingProgramJoined": "HIRI Seed Grant",
+        "projectIdJoined": "-"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0",
+        "prefLabel": "CC BY 4.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset",
+        "prefLabel": "Datensatz"
+      }
+    ],
+    "prefLabel": [
+      "frl:6427216"
+    ],
+    "primaryTopic": "frl:6427216",
+    "projectId": [
+      "-"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "recordingPeriod": [
+      "2017 - 2021"
+    ],
+    "title": [
+      "Bioinformatical workflow for “Sensing of intracellular Staphylococcus aureus by mast cells induces a type I interferon positive feedback loop that enhances cell-autonomous immunity”"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "usageManual": [
+      "The dataset contains an executable run script and singularity containers to re-run the complete workflow. The data can be temporarily downloaded via the https://frl.publisso.de/data/frl:6427216 link under \"Zugehöriges Dataset\". A direct download function with an extended tree view within this metadata record is planned for a later date. This does not affect the integrity of the data. The citation capability is fully ensured."
+    ],
+    "yearOfCopyright": [
+      "2021"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6425518",
+    "accessScheme": "public",
+    "associatedDataset": [
+      "https://frl.publisso.de/data/frl:6425518/ ",
+      "https://dx.doi.org/10.4126/FRL01-006425521",
+      "https://dx.doi.org/10.4126/FRL01-006421672",
+      "https://github.com/CAMI-challenge/CAMISIM"
+    ],
+    "associatedPublication": [
+      "https://dx.doi.org/10.1186/s40168-019-0633-6"
+    ],
+    "catalogId": "ED6425518",
+    "contentType": "researchData",
+    "contributorOrder": [
+      "https://orcid.org/0000-0002-9853-5577|https://orcid.org/0000-0002-3085-6438|https://frl.publisso.de/adhoc/uri/QnJlbWdlcywgQW5kcmVhcw==|https://orcid.org/0000-0003-2370-3430"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-9853-5577",
+        "prefLabel": "Fritz, Adrian"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-3085-6438",
+        "prefLabel": "Lesker, Till"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/QnJlbWdlcywgQW5kcmVhcw==",
+        "prefLabel": "Bremges, Andreas"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-2370-3430",
+        "prefLabel": "McHardy, Alice"
+      }
+    ],
+    "dataOrigin": [
+      {
+        "@id": "http://hbz-nrw.de/regal#Simulation",
+        "prefLabel": "Simulation"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/004/",
+        "prefLabel": "Datenverarbeitung; Informatik"
+      },
+      {
+        "@id": "http://dewey.info/class/570/",
+        "prefLabel": "Biowissenschaften; Biologie"
+      }
+    ],
+    "description": [
+      "Simulated multisample metagenome dataset including both long and short reads and created to prepare participants for the second CAMI challenge, from five different body sites of the human host: gastrointestinal tract, oral cavity, airways, skin, and urogenital tract. Underlying genome sources: NCBI RefSeq complete genomes, 07.08.2017. Underlying microbiome profile source: HMP (Human Microbiome Project, DOI: 10.1038/nature11234)."
+    ],
+    "doi": "10.4126/FRL01-006425518",
+    "fundingProgram": [
+      "-"
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/10177899-5",
+        "prefLabel": "Helmholtz-Zentrum für Infektionsforschung"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6425518.rdf",
+      "created": "2021-02-04T12:11:24.357+0100",
+      "createdBy": "122",
+      "describes": "frl:6425518",
+      "lastModifiedBy": "305",
+      "modified": "2023-03-10T16:38:13.008+0100",
+      "objectTimestamp": "2023-03-10T15:38:12.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6425518/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6425518/edit",
+        "primaryTopic": "frl:6425518"
+      }
+    ],
+    "issued": "2019",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6425518",
+        "prefLabel": "oai:frl.publisso.de:frl:6425518"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0",
+        "prefLabel": "CC BY 4.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset",
+        "prefLabel": "Datensatz"
+      }
+    ],
+    "prefLabel": [
+      "frl:6425518"
+    ],
+    "primaryTopic": "frl:6425518",
+    "projectId": [
+      "-"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/bW91c2UgZ3V0",
+        "prefLabel": "mouse gut"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/bWljcm9iaW9tZQ==",
+        "prefLabel": "microbiome"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/Q0FNSSBjaGFsbGVuZ2U=",
+        "prefLabel": "CAMI challenge"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/YmVuY2htYXJraW5n",
+        "prefLabel": "benchmarking"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/bG9uZyByZWFkIHNlcXVlbmNlIGRhdGE=",
+        "prefLabel": "long read sequence data"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWdlbm9tZQ==",
+        "prefLabel": "Metagenome"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/c2hvcnQgcmVhZCBzZXF1ZW5jZSBkYXRh",
+        "prefLabel": "short read sequence data"
+      }
+    ],
+    "title": [
+      "CAMI 2 - Multisample Benchmark Dataset of Human Microbiome Project"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "usageManual": [
+      " The data can be downloaded via the link https://frl.publisso.de/data/frl:6425518/ under \"Zugehöriges Dataset\". A direct download function within this metadata record is planned for a later date. This does not affect the integrity of the data. The citation capability is fully ensured.\r\n"
+    ],
+    "yearOfCopyright": [
+      "2019"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6439110",
+    "accessScheme": "public",
+    "catalogId": "ED6439110",
     "contentType": "researchData",
     "contributor": [
       {
@@ -2529,7 +2260,7 @@
       }
     ],
     "contributorOrder": [
-      "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=|https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=|https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQW5uZSBJbmVz|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==|https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE5pbmE=|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOSA=|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg="
+      "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=|https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=|https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQW5uZSBJbmVz|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==|https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE5pbmE=|https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOSA=|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg="
     ],
     "creator": [
       {
@@ -2555,6 +2286,10 @@
       {
         "@id": "https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE5pbmE=",
         "prefLabel": "Vorisek, Carina Nina"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/QWJhemEsIEhhaXRoYW0=",
+        "prefLabel": "Abaza, Haitham"
       }
     ],
     "ddc": [
@@ -2568,9 +2303,9 @@
       }
     ],
     "description": [
-      "The Metadata Schema of the NFDI4Health and the NFDI4Health Task Force COVID-19  (Metadata Schema) contains a list of properties that describe a resource to be registered in the German Central Health Study Hub. Currently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, other types of resources may also be described and registered. The metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of the resource, the related persons and organizations contributing to the development of the resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. For studies, information about study design and accessibility of the collected data should be additionally provided. The Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema 4.4, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies.\r\nThis is an updated version V2_1 of the Metadata Schema. The undertaken changes are described within the document."
+      "The Metadata Schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (Metadata Schema) contains a list of properties that describe a resource to be registered in the German Central Health Study Hub. \r\nCurrently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, \r\nother types of resources may also be described and registered. The metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of the resource, \r\nthe related persons and organizations contributing to the development of the resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. \r\nFor studies, information about study design and accessibility of the collected data should be additionally provided. The Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema 4.4, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies.\r\nThis is an updated version V3_0 of the Metadata Schema, which in addition to the core module of previous versions, includes also two use case-specific modules for nutritional epidemiology and chronic diseases. The undertaken changes are described within the document."
     ],
-    "doi": "10.4126/FRL01-006434859",
+    "doi": "10.4126/FRL01-006439110",
     "fundingId": [
       {
         "@id": "http://dx.doi.org/10.13039/501100001659",
@@ -2578,28 +2313,16 @@
       }
     ],
     "fundingProgram": [
-      "Flexibilisierte Förderung Bereich Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)"
+      "-"
     ],
     "hasPart": [
       {
-        "@id": "frl:6434878",
-        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
+        "@id": "frl:6439112",
+        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_0)"
       },
       {
-        "@id": "frl:6434868",
-        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
-      },
-      {
-        "@id": "frl:6434875",
-        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
-      },
-      {
-        "@id": "frl:6434876",
-        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
-      },
-      {
-        "@id": "frl:6434877",
-        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
+        "@id": "frl:6439111",
+        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_0)"
       }
     ],
     "institution": [
@@ -2609,13 +2332,13 @@
       }
     ],
     "isDescribedBy": {
-      "@id": "frl:6434859.rdf",
-      "created": "2022-09-08T12:57:25.660+0200",
+      "@id": "frl:6439110.rdf",
+      "created": "2022-12-23T10:33:51.862+0100",
       "createdBy": "317",
-      "describes": "frl:6434859",
-      "lastModifiedBy": "305",
-      "modified": "2023-03-10T15:35:11.630+0000",
-      "objectTimestamp": "2023-03-10T15:35:11.000+0000"
+      "describes": "frl:6439110",
+      "lastModifiedBy": "25",
+      "modified": "2023-03-13T12:07:54.867+0100",
+      "objectTimestamp": "2023-03-13T11:07:53.000+0000"
     },
     "isMemberOf": [
       {
@@ -2629,18 +2352,16 @@
     ],
     "isPrimaryTopicOf": [
       {
-        "@id": "https://repository.publisso.de/resource/frl:6434859/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6434859/edit",
-        "primaryTopic": "frl:6434859"
+        "@id": "https://repository.publisso.de/resource/frl:6439110/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6439110/edit",
+        "primaryTopic": "frl:6439110"
       }
     ],
-    "issued": [
-      "2022"
-    ],
+    "issued": "2022",
     "itemID": [
       {
-        "@id": "oai:frl.publisso.de:frl:6434859",
-        "prefLabel": "oai:frl.publisso.de:frl:6434859"
+        "@id": "oai:frl.publisso.de:frl:6439110",
+        "prefLabel": "oai:frl.publisso.de:frl:6439110"
       }
     ],
     "joinedFunding": [
@@ -2649,7 +2370,7 @@
           "@id": "http://dx.doi.org/10.13039/501100001659",
           "prefLabel": "Deutsche Forschungsgemeinschaft"
         },
-        "fundingProgramJoined": "Flexibilisierte Förderung Bereich Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)",
+        "fundingProgramJoined": "-",
         "projectIdJoined": "451265285; 442326535"
       }
     ],
@@ -2672,12 +2393,9 @@
       }
     ],
     "prefLabel": [
-      "frl:6434859"
+      "frl:6439110"
     ],
-    "previousVersion": [
-      "https://doi.org/10.4126/FRL01-006431357"
-    ],
-    "primaryTopic": "frl:6434859",
+    "primaryTopic": "frl:6439110",
     "projectId": [
       "451265285; 442326535"
     ],
@@ -2690,40 +2408,40 @@
     ],
     "subject": [
       {
+        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5",
+        "prefLabel": "Epidemiology"
+      },
+      {
         "@id": "https://d-nb.info/gnd/1206347392",
         "prefLabel": "COVID-19"
       },
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEg",
-        "prefLabel": "Metadata "
+        "@id": "https://frl.publisso.de/adhoc/uri/U3RhbmRhcmQ=",
+        "prefLabel": "Standard"
       },
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEgbW9kZWwg",
-        "prefLabel": "Metadata model "
+        "@id": "https://frl.publisso.de/adhoc/uri/Q2xpbmljYWwgdHJpYWxz",
+        "prefLabel": "Clinical trials"
       },
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/Q2xpbmljYWwgdHJpYWxzIA==",
-        "prefLabel": "Clinical trials "
+        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGE=",
+        "prefLabel": "Metadata"
       },
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/RkFJUiBwcmluY2lwbGVzIA==",
-        "prefLabel": "FAIR principles "
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U3RhbmRhcmQg",
-        "prefLabel": "Standard "
+        "@id": "https://frl.publisso.de/adhoc/uri/RkFJUiBwcmluY2lwbGVz",
+        "prefLabel": "FAIR principles"
       },
       {
         "@id": "https://frl.publisso.de/adhoc/uri/UHVibGljIEhlYWx0aA==",
         "prefLabel": "Public Health"
       },
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5IA==",
-        "prefLabel": "Epidemiology "
+        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEgbW9kZWw=",
+        "prefLabel": "Metadata model"
       }
     ],
     "title": [
-      "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
+      "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V3_0)"
     ],
     "transformer": [
       "mets",
@@ -2734,6 +2452,371 @@
     ],
     "yearOfCopyright": [
       "2022"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6423454",
+    "accessScheme": "public",
+    "catalogId": "ED6423454",
+    "contentType": "researchData",
+    "contributorOrder": [
+      "https://orcid.org/0000-0002-8287-0127|https://orcid.org/0000-0002-4439-1133|https://frl.publisso.de/adhoc/uri/UGV1a2VydCwgTmljb2xl|https://frl.publisso.de/adhoc/uri/U2NobmVpZGVyLCBIYXJ0bXV0|https://orcid.org/0000-0002-3716-4231|https://frl.publisso.de/adhoc/uri/TWF5ZXIsIFN0ZWZmaQ==|https://frl.publisso.de/adhoc/uri/U3V0dGt1cywgQW5uZQ==|https://frl.publisso.de/adhoc/uri/TGFjaGVyLCBNYXJ0aW4=|https://frl.publisso.de/adhoc/uri/S2x1dGgsIERpZXRyaWNo|https://frl.publisso.de/adhoc/uri/R29zZW1hbm4sICBKYW4tSGVuZHJpaw=="
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-8287-0127",
+        "prefLabel": "Markel, Moritz"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-4439-1133",
+        "prefLabel": "Ginzel, Marco"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/UGV1a2VydCwgTmljb2xl",
+        "prefLabel": "Peukert, Nicole"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/U2NobmVpZGVyLCBIYXJ0bXV0",
+        "prefLabel": "Schneider, Hartmut"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-3716-4231",
+        "prefLabel": "Haak, Rainer"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TWF5ZXIsIFN0ZWZmaQ==",
+        "prefLabel": "Mayer, Steffi"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/U3V0dGt1cywgQW5uZQ==",
+        "prefLabel": "Suttkus, Anne"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TGFjaGVyLCBNYXJ0aW4=",
+        "prefLabel": "Lacher, Martin"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/S2x1dGgsIERpZXRyaWNo",
+        "prefLabel": "Kluth, Dietrich"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/R29zZW1hbm4sICBKYW4tSGVuZHJpaw==",
+        "prefLabel": "Gosemann,  Jan-Hendrik"
+      }
+    ],
+    "dataOrigin": [
+      {
+        "@id": "http://hbz-nrw.de/regal#Laborbeobachtung",
+        "prefLabel": "Laborbeobachtung"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/610/",
+        "prefLabel": "Medizin und Gesundheit"
+      },
+      {
+        "@id": "http://dewey.info/class/617/",
+        "prefLabel": "Chirurgie und verwandte medizinische Fachrichtungen"
+      }
+    ],
+    "description": [
+      "TABLES: 1 (Mean humeral length, organ volume and standard deviation) 2 (Mean humeral ratio of organs with standard deviation). 3 (Mean humeral ratio of lung and lung lobes and standard deviation) and 4 (Mean humeral ratio of left and right ventricle with standard deviation).  MOVIES: (1) Pulmonary development (ED15, ED19, N0). Exemplified movies with 3-dimensional overview of the whole lung, 360° rotation and cross-section view of pulmonary tissue (ED15, ED19 and N0). Additional morphing from ED15 to N0. (2) Cardiac development (ED15, ED19, N0). Exemplified movies with 3-dimensional overview of the whole heart, 360° rotation and cross-section view of cardiac tissue (ED15, ED19 and N0). Additional morphing from ED15 to N0. (3) Hepatic development (ED15, ED19, N0). Exemplified movies with 3-dimensional overview of the whole liver, 360° rotation and cross-section view of hepatic tissue (ED15, ED19 and N0). Additional morphing from ED15 to N0."
+    ],
+    "doi": "10.4126/FRL01-006423454",
+    "fundingProgram": [
+      "-"
+    ],
+    "hasPart": [
+      {
+        "@id": "frl:6423622",
+        "prefLabel": "Daten CSV"
+      },
+      {
+        "@id": "frl:6423530",
+        "prefLabel": "Morphings"
+      },
+      {
+        "@id": "frl:6423538",
+        "prefLabel": "3D reconstructions"
+      }
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/10198584-8",
+        "prefLabel": "Universitätsklinikum Leipzig"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/2133894-2",
+        "prefLabel": "Klinik für Kinderchirurgie (Leipzig)"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6423454.rdf",
+      "created": "2020-10-13T08:26:22.549+0200",
+      "createdBy": "122",
+      "describes": "frl:6423454",
+      "lastModifiedBy": "305",
+      "modified": "2023-03-10T16:41:54.089+0100",
+      "objectTimestamp": "2023-03-10T15:41:53.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6423454/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6423454/edit",
+        "primaryTopic": "frl:6423454"
+      }
+    ],
+    "issued": "2020",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6423454",
+        "prefLabel": "oai:frl.publisso.de:frl:6423454"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "prefLabel": "CC0 1.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset",
+        "prefLabel": "Datensatz"
+      }
+    ],
+    "prefLabel": [
+      "frl:6423454"
+    ],
+    "primaryTopic": "frl:6423454",
+    "projectId": [
+      "-"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RW1icnlvbG9neQ==",
+        "prefLabel": "Embryology"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/ZmV0YWwgcmF0IGFuYXRvbXk=",
+        "prefLabel": "fetal rat anatomy"
+      }
+    ],
+    "title": [
+      "Fetal rat lung, heart and liver development ED 15 - N0"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "yearOfCopyright": [
+      "2020"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6483995",
+    "accessScheme": "public",
+    "associatedDataset": [
+      "https://repository.publisso.de/resource/frl%3A6483993",
+      "https://repository.publisso.de/resource/frl%3A6483994"
+    ],
+    "associatedPublication": [
+      "https://repository.publisso.de/resource/frl%3A6483992"
+    ],
+    "catalogId": "ED6483995",
+    "contentType": "researchData",
+    "contributor": [
+      {
+        "@id": "https://orcid.org/0000-0002-7091-5084",
+        "prefLabel": "Shutsko, Aliaksandra"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-5485-9724",
+        "prefLabel": "Gonzalez Ocanto, Marisabel"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-4645-6014",
+        "prefLabel": "Grummich, Kathrin"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-2830-6322",
+        "prefLabel": "Perrar, Ines"
+      }
+    ],
+    "contributorOrder": [
+      "https://orcid.org/0000-0003-2547-933X|https://orcid.org/0000-0002-8251-1597|https://orcid.org/0000-0002-7091-5084|https://orcid.org/0000-0001-5485-9724|https://orcid.org/0000-0003-4645-6014|https://orcid.org/0000-0002-2830-6322"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-2547-933X",
+        "prefLabel": "Fuerst, Julia"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-8251-1597",
+        "prefLabel": "Lindstaedt, Birte"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/020/",
+        "prefLabel": "Bibliotheks- und Informationswissenschaften"
+      },
+      {
+        "@id": "http://dewey.info/class/610/",
+        "prefLabel": "Medizin und Gesundheit"
+      }
+    ],
+    "description": [
+      "Within the NFDI4Health, three Research Data Management Plan templates have been developed to support researchers in planning their research projects. The template ‘Research Data Management Plan - Clinical studies’ is aimed at clinical research. Instructions for filling in the templates and explanations of the terms used in the templates can be found in the linked accompanying document ‘Research Data Management Plan templates - instructions for use’"
+    ],
+    "doi": "10.4126/FRL01-006483995",
+    "fundingId": [
+      {
+        "@id": "http://dx.doi.org/10.13039/501100001659",
+        "prefLabel": "Deutsche Forschungsgemeinschaft"
+      }
+    ],
+    "fundingProgram": [
+      "NFDI4Health Consortium"
+    ],
+    "hasPart": [
+      {
+        "@id": "frl:6484016",
+        "prefLabel": "Research Data Management Plan — Clinical studies"
+      },
+      {
+        "@id": "frl:6484009",
+        "prefLabel": "Research Data Management Plan — Clinical studies"
+      }
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/1246206420",
+        "prefLabel": "NFDI4Health - Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten (Projekt)"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6483995.rdf",
+      "created": "2024-08-23T07:21:16.509+0200",
+      "createdBy": "317",
+      "describes": "frl:6483995",
+      "lastModifiedBy": "317",
+      "modified": "2024-09-04T09:34:30.938+0200",
+      "objectTimestamp": "2024-09-04T07:34:30.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6483995/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6483995/edit",
+        "primaryTopic": "frl:6483995"
+      }
+    ],
+    "issued": "2024",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6483995",
+        "prefLabel": "oai:frl.publisso.de:frl:6483995"
+      }
+    ],
+    "joinedFunding": [
+      {
+        "fundingJoined": {
+          "@id": "http://dx.doi.org/10.13039/501100001659",
+          "prefLabel": "Deutsche Forschungsgemeinschaft"
+        },
+        "fundingProgramJoined": "NFDI4Health Consortium",
+        "projectIdJoined": "442326535"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0",
+        "prefLabel": "CC BY 4.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://pbcore.org/vocabularies/instantiationMediaType#text",
+        "prefLabel": "Text"
+      }
+    ],
+    "prefLabel": [
+      "frl:6483995"
+    ],
+    "primaryTopic": "frl:6483995",
+    "projectId": [
+      "442326535"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
+        "prefLabel": "NFDI4Health"
+      }
+    ],
+    "title": [
+      "Research Data Management Plan — Clinical studies"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "yearOfCopyright": [
+      "2024"
     ]
   },
   {
@@ -2848,7 +2931,7 @@
       "createdBy": "122",
       "describes": "frl:6424451",
       "lastModifiedBy": "305",
-      "modified": "2024-07-30T12:19:43.323+0000",
+      "modified": "2024-07-30T14:19:43.323+0200",
       "objectTimestamp": "2024-07-30T12:19:42.000+0000"
     },
     "isMemberOf": [
@@ -3084,7 +3167,7 @@
       "createdBy": "317",
       "describes": "frl:6483142",
       "lastModifiedBy": "317",
-      "modified": "2024-07-15T05:10:42.080+0000",
+      "modified": "2024-07-15T07:10:42.080+0200",
       "objectTimestamp": "2024-07-10T09:44:12.000+0000"
     },
     "isMemberOf": [
@@ -3225,52 +3308,53 @@
   },
   {
     "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6483995",
+    "@id": "frl:6434859",
     "accessScheme": "public",
-    "associatedDataset": [
-      "https://repository.publisso.de/resource/frl%3A6483993",
-      "https://repository.publisso.de/resource/frl%3A6483994"
-    ],
-    "associatedPublication": [
-      "https://repository.publisso.de/resource/frl%3A6483992"
-    ],
-    "catalogId": "ED6483995",
+    "catalogId": "ED6434859",
     "contentType": "researchData",
     "contributor": [
       {
-        "@id": "https://orcid.org/0000-0002-7091-5084",
-        "prefLabel": "Shutsko, Aliaksandra"
+        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOSA=",
+        "prefLabel": "NFDI4Health Task Force COVID-19 "
       },
       {
-        "@id": "https://orcid.org/0000-0001-5485-9724",
-        "prefLabel": "Gonzalez Ocanto, Marisabel"
-      },
-      {
-        "@id": "https://orcid.org/0000-0003-4645-6014",
-        "prefLabel": "Grummich, Kathrin"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-2830-6322",
-        "prefLabel": "Perrar, Ines"
+        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
+        "prefLabel": "NFDI4Health"
       }
     ],
     "contributorOrder": [
-      "https://orcid.org/0000-0003-2547-933X|https://orcid.org/0000-0002-8251-1597|https://orcid.org/0000-0002-7091-5084|https://orcid.org/0000-0001-5485-9724|https://orcid.org/0000-0003-4645-6014|https://orcid.org/0000-0002-2830-6322"
+      "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=|https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=|https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQW5uZSBJbmVz|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==|https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE5pbmE=|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOSA=|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg="
     ],
     "creator": [
       {
-        "@id": "https://orcid.org/0000-0003-2547-933X",
-        "prefLabel": "Fuerst, Julia"
+        "@id": "https://frl.publisso.de/adhoc/uri/U2h1dHNrbywgQWxpYWtzYW5kcmE=",
+        "prefLabel": "Shutsko, Aliaksandra"
       },
       {
-        "@id": "https://orcid.org/0000-0002-8251-1597",
-        "prefLabel": "Lindstaedt, Birte"
+        "@id": "https://frl.publisso.de/adhoc/uri/U2NobWlkdCwgQ2Fyc3RlbiBPbGl2ZXI=",
+        "prefLabel": "Schmidt, Carsten Oliver"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/S2xvcGZlbnN0ZWluLCBTb3BoaWUgQW5uZSBJbmVz",
+        "prefLabel": "Klopfenstein, Sophie Anne Ines"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz",
+        "prefLabel": "Darms, Johannes"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/R29sZWJpZXdza2ksIE1hcnRpbg==",
+        "prefLabel": "Golebiewski, Martin"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/Vm9yaXNlaywgQ2FyaW5hIE5pbmE=",
+        "prefLabel": "Vorisek, Carina Nina"
       }
     ],
     "ddc": [
       {
-        "@id": "http://dewey.info/class/020/",
-        "prefLabel": "Bibliotheks- und Informationswissenschaften"
+        "@id": "http://dewey.info/class/000/",
+        "prefLabel": "Informatik, Informationswissenschaft, allgemeine Werke"
       },
       {
         "@id": "http://dewey.info/class/610/",
@@ -3278,9 +3362,9 @@
       }
     ],
     "description": [
-      "Within the NFDI4Health, three Research Data Management Plan templates have been developed to support researchers in planning their research projects. The template ‘Research Data Management Plan - Clinical studies’ is aimed at clinical research. Instructions for filling in the templates and explanations of the terms used in the templates can be found in the linked accompanying document ‘Research Data Management Plan templates - instructions for use’"
+      "The Metadata Schema of the NFDI4Health and the NFDI4Health Task Force COVID-19  (Metadata Schema) contains a list of properties that describe a resource to be registered in the German Central Health Study Hub. Currently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, other types of resources may also be described and registered. The metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of the resource, the related persons and organizations contributing to the development of the resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. For studies, information about study design and accessibility of the collected data should be additionally provided. The Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema 4.4, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies.\r\nThis is an updated version V2_1 of the Metadata Schema. The undertaken changes are described within the document."
     ],
-    "doi": "10.4126/FRL01-006483995",
+    "doi": "10.4126/FRL01-006434859",
     "fundingId": [
       {
         "@id": "http://dx.doi.org/10.13039/501100001659",
@@ -3288,16 +3372,28 @@
       }
     ],
     "fundingProgram": [
-      "NFDI4Health Consortium"
+      "Flexibilisierte Förderung Bereich Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)"
     ],
     "hasPart": [
       {
-        "@id": "frl:6484016",
-        "prefLabel": "Research Data Management Plan — Clinical studies"
+        "@id": "frl:6434878",
+        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
       },
       {
-        "@id": "frl:6484009",
-        "prefLabel": "Research Data Management Plan — Clinical studies"
+        "@id": "frl:6434868",
+        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
+      },
+      {
+        "@id": "frl:6434875",
+        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
+      },
+      {
+        "@id": "frl:6434876",
+        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
+      },
+      {
+        "@id": "frl:6434877",
+        "prefLabel": "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
       }
     ],
     "institution": [
@@ -3307,13 +3403,13 @@
       }
     ],
     "isDescribedBy": {
-      "@id": "frl:6483995.rdf",
-      "created": "2024-08-23T07:21:16.509+0200",
+      "@id": "frl:6434859.rdf",
+      "created": "2022-09-08T12:57:25.660+0200",
       "createdBy": "317",
-      "describes": "frl:6483995",
-      "lastModifiedBy": "317",
-      "modified": "2024-09-04T09:34:30.938+0200",
-      "objectTimestamp": "2024-09-04T07:34:30.000+0000"
+      "describes": "frl:6434859",
+      "lastModifiedBy": "305",
+      "modified": "2023-03-10T16:35:11.630+0100",
+      "objectTimestamp": "2023-03-10T15:35:11.000+0000"
     },
     "isMemberOf": [
       {
@@ -3327,16 +3423,16 @@
     ],
     "isPrimaryTopicOf": [
       {
-        "@id": "https://repository.publisso.de/resource/frl:6483995/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6483995/edit",
-        "primaryTopic": "frl:6483995"
+        "@id": "https://repository.publisso.de/resource/frl:6434859/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6434859/edit",
+        "primaryTopic": "frl:6434859"
       }
     ],
-    "issued": "2024",
+    "issued": "2022",
     "itemID": [
       {
-        "@id": "oai:frl.publisso.de:frl:6483995",
-        "prefLabel": "oai:frl.publisso.de:frl:6483995"
+        "@id": "oai:frl.publisso.de:frl:6434859",
+        "prefLabel": "oai:frl.publisso.de:frl:6434859"
       }
     ],
     "joinedFunding": [
@@ -3345,8 +3441,8 @@
           "@id": "http://dx.doi.org/10.13039/501100001659",
           "prefLabel": "Deutsche Forschungsgemeinschaft"
         },
-        "fundingProgramJoined": "NFDI4Health Consortium",
-        "projectIdJoined": "442326535"
+        "fundingProgramJoined": "Flexibilisierte Förderung Bereich Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)",
+        "projectIdJoined": "451265285; 442326535"
       }
     ],
     "language": [
@@ -3363,16 +3459,19 @@
     ],
     "medium": [
       {
-        "@id": "http://pbcore.org/vocabularies/instantiationMediaType#text",
-        "prefLabel": "Text"
+        "@id": "http://purl.org/dc/dcmitype/Dataset",
+        "prefLabel": "Datensatz"
       }
     ],
     "prefLabel": [
-      "frl:6483995"
+      "frl:6434859"
     ],
-    "primaryTopic": "frl:6483995",
+    "previousVersion": [
+      "https://doi.org/10.4126/FRL01-006431357"
+    ],
+    "primaryTopic": "frl:6434859",
     "projectId": [
-      "442326535"
+      "451265285; 442326535"
     ],
     "publishScheme": "public",
     "rdftype": [
@@ -3383,12 +3482,40 @@
     ],
     "subject": [
       {
-        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
-        "prefLabel": "NFDI4Health"
+        "@id": "https://d-nb.info/gnd/1206347392",
+        "prefLabel": "COVID-19"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEg",
+        "prefLabel": "Metadata "
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEgbW9kZWwg",
+        "prefLabel": "Metadata model "
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/Q2xpbmljYWwgdHJpYWxzIA==",
+        "prefLabel": "Clinical trials "
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RkFJUiBwcmluY2lwbGVzIA==",
+        "prefLabel": "FAIR principles "
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/U3RhbmRhcmQg",
+        "prefLabel": "Standard "
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/UHVibGljIEhlYWx0aA==",
+        "prefLabel": "Public Health"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5IA==",
+        "prefLabel": "Epidemiology "
       }
     ],
     "title": [
-      "Research Data Management Plan — Clinical studies"
+      "Metadata schema of the NFDI4Health and the NFDI4Health Task Force COVID-19 (V2_1)\r\n"
     ],
     "transformer": [
       "mets",
@@ -3398,7 +3525,7 @@
       "rdf"
     ],
     "yearOfCopyright": [
-      "2024"
+      "2022"
     ]
   },
   {
@@ -3573,165 +3700,6 @@
   },
   {
     "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6424446",
-    "accessScheme": "public",
-    "associatedDataset": [
-      "https://frl.publisso.de/data/frl:6424446/ "
-    ],
-    "catalogId": "ED6424446",
-    "contentType": "researchData",
-    "contributorOrder": [
-      "https://orcid.org/0000-0002-4439-1133|https://orcid.org/0000-0003-4400-302X|https://orcid.org/0000-0002-3716-4231|https://frl.publisso.de/adhoc/uri/TGFjaGVyLCBNYXJ0aW4=|https://frl.publisso.de/adhoc/uri/S2x1dGgsIERpZXRyaWNo"
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-4439-1133",
-        "prefLabel": "Ginzel, Marco"
-      },
-      {
-        "@id": "https://orcid.org/0000-0003-4400-302X",
-        "prefLabel": "Martynov, Illya"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-3716-4231",
-        "prefLabel": "Haak, Rainer"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TGFjaGVyLCBNYXJ0aW4=",
-        "prefLabel": "Lacher, Martin"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/S2x1dGgsIERpZXRyaWNo",
-        "prefLabel": "Kluth, Dietrich"
-      }
-    ],
-    "dataOrigin": [
-      {
-        "@id": "http://hbz-nrw.de/regal#Laborbeobachtung",
-        "prefLabel": "Laborbeobachtung"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/570/",
-        "prefLabel": "Biowissenschaften; Biologie"
-      }
-    ],
-    "description": [
-      "The micro-CT datasets consist of single images in .png format. The images in each set can be combined into three-dimensional structures by using appropriate software such as CTvox, CTAn (both software from Bruker, Kontich, belgium) or Amira  (software from Thermo Fisher Scientific, Waltham, MA, USA)."
-    ],
-    "doi": "10.4126/FRL01-006424446",
-    "fundingProgram": [
-      "-"
-    ],
-    "hasPart": [
-      {
-        "@id": "frl:6427217",
-        "prefLabel": "."
-      }
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/10198584-8",
-        "prefLabel": "Universitätsklinikum Leipzig"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/2133894-2",
-        "prefLabel": "Klinik für Kinderchirurgie (Leipzig)"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6424446.rdf",
-      "created": "2020-11-23T10:14:05.575+0100",
-      "createdBy": "122",
-      "describes": "frl:6424446",
-      "lastModifiedBy": "305",
-      "modified": "2023-03-10T15:37:18.526+0000",
-      "objectTimestamp": "2023-03-10T15:37:18.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6424446/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6424446/edit",
-        "primaryTopic": "frl:6424446"
-      }
-    ],
-    "issued": [
-      "2020"
-    ],
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6424446",
-        "prefLabel": "oai:frl.publisso.de:frl:6424446"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6424446"
-    ],
-    "primaryTopic": "frl:6424446",
-    "projectId": [
-      "-"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RW1icnlvbG9neQ==",
-        "prefLabel": "Embryology"
-      }
-    ],
-    "title": [
-      "Midgut development in rat embryos using microcomputed tomography"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "usageManual": [
-      "The data can be temporarily downloaded via the link https://frl.publisso.de/data/frl:6424446/ under \"Zugehöriges Dataset\". A direct download function within this metadata record is planned for a later date. This does not affect the integrity of the data. The citation capability is fully ensured."
-    ],
-    "yearOfCopyright": [
-      "2020"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
     "@id": "frl:6420709",
     "accessScheme": "public",
     "catalogId": "ED6420709",
@@ -3807,8 +3775,8 @@
       "createdBy": "122",
       "describes": "frl:6420709",
       "lastModifiedBy": "305",
-      "modified": "2023-03-10T15:46:10.814+0000",
-      "objectTimestamp": "2023-03-10T15:46:10.000+0000"
+      "modified": "2023-03-10T16:46:10.814+0100",
+      "objectTimestamp": "2023-03-10T15:46:10.814+0000"
     },
     "isMemberOf": [
       {
@@ -3827,9 +3795,7 @@
         "primaryTopic": "frl:6420709"
       }
     ],
-    "issued": [
-      "2020"
-    ],
+    "issued": "2020",
     "itemID": [
       {
         "@id": "oai:frl.publisso.de:frl:6420709",
@@ -3889,95 +3855,29 @@
     "@context": "https://frl.publisso.de/context.json",
     "@id": "frl:6431357",
     "accessScheme": "public",
-    "associatedDataset": [
-      "https://doi.org/10.15490/FAIRDOMHUB.1.DATAFILE.3972.1"
-    ],
     "catalogId": "ED6431357",
     "contentType": "researchData",
-    "contributor": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOQ==",
-        "prefLabel": "NFDI4Health Task Force COVID-19"
-      }
-    ],
-    "contributorOrder": [
-      "https://orcid.org/0000-0002-7091-5084|https://orcid.org/0000-0001-5266-9396|https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz|https://orcid.org/0000-0002-8470-2258|https://orcid.org/0000-0001-7499-8115|https://orcid.org/0000-0002-8683-7084|https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGggVGFzayBGb3JjZSBDT1ZJRC0xOQ=="
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0002-7091-5084",
-        "prefLabel": "Shutsko, Aliaksandra"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-5266-9396",
-        "prefLabel": "Schmidt, Carsten Oliver"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RGFybXMsIEpvaGFubmVz",
-        "prefLabel": "Darms, Johannes"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-8470-2258",
-        "prefLabel": "Klopfenstein, Sophie Anne Ines"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-7499-8115",
-        "prefLabel": "Vorisek , Carina Nina"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-8683-7084",
-        "prefLabel": "Golebiewski, Martin"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/000/",
-        "prefLabel": "Informatik, Informationswissenschaft, allgemeine Werke"
-      },
-      {
-        "@id": "http://dewey.info/class/610/",
-        "prefLabel": "Medizin und Gesundheit"
-      }
-    ],
-    "description": [
-      "The NFDI4Health Task Force COVID-19 Metadata Schema Version 2_0 (Metadata Schema) contains a list of properties that describe a resource to be registered in the German Central Health Study Hub COVID-19 of the NFDI4Health Task Force COVID-19. Currently, two main types of resources are distinguished: a) study descriptions (i.e., metadata set describing a study) and b) study documents. However, due to the generic character of the Metadata Schema, other types of resources may also be described and registered.\r\nThe metadata properties are divided into mandatory and recommended ones. Along with bibliographic information such as title and description of a resource, the related persons and organizations contributing to the development of a resource can also be specified. The results of studies published in journal articles or other text publications can be linked too. For studies, information about study design and accessibility of the collected data should be additionally provided.\r\nThe Metadata Schema consists mainly of properties adapted from established standards and models such as DataCite Metadata Schema, data models of the ClinicalTrials.gov, German Clinical Trials Register, International Clinical Trials Registry, HL7® FHIR, MIABIS, Maelstrom Research cataloguing toolkit and DDI Controlled Vocabularies."
-    ],
     "doi": "10.4126/FRL01-006431357",
-    "fundingId": [
-      {
-        "@id": "http://dx.doi.org/10.13039/501100001659",
-        "prefLabel": "Deutsche Forschungsgemeinschaft"
-      }
-    ],
-    "fundingProgram": [
-      "Flexibilisierte Förderung Bereich Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)"
-    ],
     "hasPart": [
       {
         "@id": "frl:6431382",
-        "prefLabel": "NFDI4Health Task Force COVID-19 Metadata Schema V2_0\r\n"
+        "prefLabel": "No title"
       },
       {
         "@id": "frl:6431390",
-        "prefLabel": "NFDI4Health Task Force COVID-19 Metadata Schema V2_0\r\n"
+        "prefLabel": "No title"
       },
       {
         "@id": "frl:6431358",
-        "prefLabel": "NFDI4Health Task Force COVID-19 Metadata schema V2_0\r\n"
+        "prefLabel": "No title"
       },
       {
         "@id": "frl:6431367",
-        "prefLabel": "NFDI4Health Task Force COVID-19 Metadata schema V2_0\r\n"
+        "prefLabel": "No title"
       },
       {
         "@id": "frl:6431368",
         "prefLabel": "NFDI4Health Task Force COVID-19 Metadata schema V2_0\r\n"
-      }
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/1246206420",
-        "prefLabel": "NFDI4Health - Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten (Projekt)"
       }
     ],
     "isDescribedBy": {
@@ -3986,7 +3886,7 @@
       "createdBy": "317",
       "describes": "frl:6431357",
       "lastModifiedBy": "337",
-      "modified": "2023-12-14T10:44:29.982+0000",
+      "modified": "2023-12-14T11:44:29.982+0100",
       "objectTimestamp": "2023-12-14T10:44:29.000+0000"
     },
     "isMemberOf": [
@@ -3999,108 +3899,20 @@
         "prefLabel": "info:fedora/oai:researchData"
       }
     ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6431357/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6431357/edit",
-        "primaryTopic": "frl:6431357"
-      }
-    ],
-    "issued": "2022",
     "itemID": [
       {
         "@id": "oai:frl.publisso.de:frl:6431357",
         "prefLabel": "oai:frl.publisso.de:frl:6431357"
       }
     ],
-    "joinedFunding": [
-      {
-        "fundingJoined": {
-          "@id": "http://dx.doi.org/10.13039/501100001659",
-          "prefLabel": "Deutsche Forschungsgemeinschaft"
-        },
-        "fundingProgramJoined": "Flexibilisierte Förderung Bereich Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)",
-        "projectIdJoined": "451265285; 442326535"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://purl.org/dc/dcmitype/Dataset",
-        "prefLabel": "Datensatz"
-      }
-    ],
-    "prefLabel": [
-      "frl:6431357"
-    ],
     "primaryTopic": "frl:6431357",
-    "projectId": [
-      "451265285; 442326535"
-    ],
     "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RXBpZGVtaW9sb2d5",
-        "prefLabel": "Epidemiology"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/1206347392",
-        "prefLabel": "COVID-19"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/U3RhbmRhcmQ=",
-        "prefLabel": "Standard"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/Q2xpbmljYWwgdHJpYWxz",
-        "prefLabel": "Clinical trials"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGE=",
-        "prefLabel": "Metadata"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/RkFJUiBwcmluY2lwbGVz",
-        "prefLabel": "FAIR principles"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/UHVibGljIEhlYWx0aA==",
-        "prefLabel": "Public Health"
-      },
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TWV0YWRhdGEgbW9kZWw=",
-        "prefLabel": "Metadata model"
-      }
-    ],
-    "title": [
-      "NFDI4Health Task Force COVID-19 Metadata Schema V2_0\r\n"
-    ],
     "transformer": [
       "mets",
       "mods",
       "oaidc",
       "openaire",
       "rdf"
-    ],
-    "yearOfCopyright": [
-      "2022"
     ]
   },
   {
@@ -4176,7 +3988,7 @@
       "createdBy": "122",
       "describes": "frl:6421675",
       "lastModifiedBy": "305",
-      "modified": "2024-01-19T18:02:42.201+0000",
+      "modified": "2024-01-19T19:02:42.201+0100",
       "objectTimestamp": "2024-01-19T18:02:41.000+0000"
     },
     "isMemberOf": [
@@ -4247,6 +4059,163 @@
       "oaidc",
       "openaire",
       "rdf"
+    ],
+    "yearOfCopyright": [
+      "2020"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6424446",
+    "accessScheme": "public",
+    "associatedDataset": [
+      "https://frl.publisso.de/data/frl:6424446/ "
+    ],
+    "catalogId": "ED6424446",
+    "contentType": "researchData",
+    "contributorOrder": [
+      "https://orcid.org/0000-0002-4439-1133|https://orcid.org/0000-0003-4400-302X|https://orcid.org/0000-0002-3716-4231|https://frl.publisso.de/adhoc/uri/TGFjaGVyLCBNYXJ0aW4=|https://frl.publisso.de/adhoc/uri/S2x1dGgsIERpZXRyaWNo"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0002-4439-1133",
+        "prefLabel": "Ginzel, Marco"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-4400-302X",
+        "prefLabel": "Martynov, Illya"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-3716-4231",
+        "prefLabel": "Haak, Rainer"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TGFjaGVyLCBNYXJ0aW4=",
+        "prefLabel": "Lacher, Martin"
+      },
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/S2x1dGgsIERpZXRyaWNo",
+        "prefLabel": "Kluth, Dietrich"
+      }
+    ],
+    "dataOrigin": [
+      {
+        "@id": "http://hbz-nrw.de/regal#Laborbeobachtung",
+        "prefLabel": "Laborbeobachtung"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/570/",
+        "prefLabel": "Biowissenschaften; Biologie"
+      }
+    ],
+    "description": [
+      "The micro-CT datasets consist of single images in .png format. The images in each set can be combined into three-dimensional structures by using appropriate software such as CTvox, CTAn (both software from Bruker, Kontich, belgium) or Amira  (software from Thermo Fisher Scientific, Waltham, MA, USA)."
+    ],
+    "doi": "10.4126/FRL01-006424446",
+    "fundingProgram": [
+      "-"
+    ],
+    "hasPart": [
+      {
+        "@id": "frl:6427217",
+        "prefLabel": "."
+      }
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/10198584-8",
+        "prefLabel": "Universitätsklinikum Leipzig"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/2133894-2",
+        "prefLabel": "Klinik für Kinderchirurgie (Leipzig)"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6424446.rdf",
+      "created": "2020-11-23T10:14:05.575+0100",
+      "createdBy": "122",
+      "describes": "frl:6424446",
+      "lastModifiedBy": "305",
+      "modified": "2023-03-10T16:37:18.526+0100",
+      "objectTimestamp": "2023-03-10T15:37:18.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6424446/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6424446/edit",
+        "primaryTopic": "frl:6424446"
+      }
+    ],
+    "issued": "2020",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6424446",
+        "prefLabel": "oai:frl.publisso.de:frl:6424446"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0",
+        "prefLabel": "CC BY 4.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://purl.org/dc/dcmitype/Dataset",
+        "prefLabel": "Datensatz"
+      }
+    ],
+    "prefLabel": [
+      "frl:6424446"
+    ],
+    "primaryTopic": "frl:6424446",
+    "projectId": [
+      "-"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/RW1icnlvbG9neQ==",
+        "prefLabel": "Embryology"
+      }
+    ],
+    "title": [
+      "Midgut development in rat embryos using microcomputed tomography"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "usageManual": [
+      "The data can be temporarily downloaded via the link https://frl.publisso.de/data/frl:6424446/ under \"Zugehöriges Dataset\". A direct download function within this metadata record is planned for a later date. This does not affect the integrity of the data. The citation capability is fully ensured."
     ],
     "yearOfCopyright": [
       "2020"
@@ -4357,7 +4326,7 @@
       "createdBy": "317",
       "describes": "frl:6452815",
       "lastModifiedBy": "317",
-      "modified": "2024-02-01T09:54:49.927+0000",
+      "modified": "2024-02-01T10:54:49.927+0100",
       "objectTimestamp": "2024-02-01T09:54:49.000+0000"
     },
     "isMemberOf": [
@@ -4458,6 +4427,182 @@
     ],
     "yearOfCopyright": [
       "2023"
+    ]
+  },
+  {
+    "@context": "https://frl.publisso.de/context.json",
+    "@id": "frl:6483992",
+    "accessScheme": "public",
+    "associatedDataset": [
+      "https://repository.publisso.de/resource/frl%3A6483993",
+      "https://repository.publisso.de/resource/frl%3A6483994",
+      "https://repository.publisso.de/resource/frl%3A6483995"
+    ],
+    "catalogId": "ED6483992",
+    "contentType": "researchData",
+    "contributor": [
+      {
+        "@id": "https://orcid.org/0000-0002-7091-5084",
+        "prefLabel": "Shutsko, Aliaksandra"
+      },
+      {
+        "@id": "https://orcid.org/0000-0001-5485-9724",
+        "prefLabel": "Gonzalez Ocanto, Marisabel"
+      },
+      {
+        "@id": "https://orcid.org/0000-0003-4645-6014",
+        "prefLabel": "Grummich, Kathrin"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-2830-6322",
+        "prefLabel": "Perrar, Ines"
+      }
+    ],
+    "contributorOrder": [
+      "https://orcid.org/0000-0003-2547-933X|https://orcid.org/0000-0002-8251-1597|https://orcid.org/0000-0002-7091-5084|https://orcid.org/0000-0001-5485-9724|https://orcid.org/0000-0003-4645-6014|https://orcid.org/0000-0002-2830-6322"
+    ],
+    "creator": [
+      {
+        "@id": "https://orcid.org/0000-0003-2547-933X",
+        "prefLabel": "Fuerst, Julia"
+      },
+      {
+        "@id": "https://orcid.org/0000-0002-8251-1597",
+        "prefLabel": "Lindstaedt, Birte"
+      }
+    ],
+    "ddc": [
+      {
+        "@id": "http://dewey.info/class/020/",
+        "prefLabel": "Bibliotheks- und Informationswissenschaften"
+      },
+      {
+        "@id": "http://dewey.info/class/610/",
+        "prefLabel": "Medizin und Gesundheit"
+      }
+    ],
+    "description": [
+      "Within the NFDI4Health, three Research Data Management Plan templates have been developed  to support researchers in planning their research projects. The \"\"Research Data Management Plan templates - instructions for use\"\" document explains these three Research Data Management Plan templates and points out which template should be selected for which purpose (epidemiological research, clinical research, submission of a funding proposal to the DFG (German Research Foundation)). The document also contains instructions for filling in the templates and explanations of the terms used in the templates."
+    ],
+    "doi": "10.4126/FRL01-006483992",
+    "fundingId": [
+      {
+        "@id": "http://dx.doi.org/10.13039/501100001659",
+        "prefLabel": "Deutsche Forschungsgemeinschaft"
+      }
+    ],
+    "fundingProgram": [
+      "NFDI4Health Consortium"
+    ],
+    "hasPart": [
+      {
+        "@id": "frl:6484014",
+        "prefLabel": "Research Data Management Plan templates – instructions for use"
+      },
+      {
+        "@id": "frl:6484006",
+        "prefLabel": "Research Data Management Plan templates – instructions for use"
+      }
+    ],
+    "institution": [
+      {
+        "@id": "https://d-nb.info/gnd/1246206420",
+        "prefLabel": "NFDI4Health - Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten (Projekt)"
+      }
+    ],
+    "isDescribedBy": {
+      "@id": "frl:6483992.rdf",
+      "created": "2024-08-22T13:06:38.918+0200",
+      "createdBy": "317",
+      "describes": "frl:6483992",
+      "lastModifiedBy": "25",
+      "modified": "2024-10-01T07:27:35.636+0200",
+      "objectTimestamp": "2024-10-01T05:27:34.000+0000"
+    },
+    "isMemberOf": [
+      {
+        "@id": "info:fedora/oai:open_access",
+        "prefLabel": "info:fedora/oai:open_access"
+      },
+      {
+        "@id": "info:fedora/oai:researchData",
+        "prefLabel": "info:fedora/oai:researchData"
+      }
+    ],
+    "isPrimaryTopicOf": [
+      {
+        "@id": "https://repository.publisso.de/resource/frl:6483992/edit",
+        "prefLabel": "https://repository.publisso.de/resource/frl:6483992/edit",
+        "primaryTopic": "frl:6483992"
+      }
+    ],
+    "issued": "2024",
+    "itemID": [
+      {
+        "@id": "oai:frl.publisso.de:frl:6483992",
+        "prefLabel": "oai:frl.publisso.de:frl:6483992"
+      }
+    ],
+    "joinedFunding": [
+      {
+        "fundingJoined": {
+          "@id": "http://dx.doi.org/10.13039/501100001659",
+          "prefLabel": "Deutsche Forschungsgemeinschaft"
+        },
+        "fundingProgramJoined": "NFDI4Health Consortium",
+        "projectIdJoined": "442326535"
+      }
+    ],
+    "language": [
+      {
+        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
+        "prefLabel": "Englisch"
+      }
+    ],
+    "license": [
+      {
+        "@id": "https://creativecommons.org/licenses/by/4.0",
+        "prefLabel": "CC BY 4.0"
+      }
+    ],
+    "medium": [
+      {
+        "@id": "http://pbcore.org/vocabularies/instantiationMediaType#text",
+        "prefLabel": "Text"
+      }
+    ],
+    "prefLabel": [
+      "frl:6483992"
+    ],
+    "primaryTopic": "frl:6483992",
+    "projectId": [
+      "442326535"
+    ],
+    "publishScheme": "public",
+    "rdftype": [
+      {
+        "@id": "http://hbz-nrw.de/regal#ResearchData",
+        "prefLabel": "Forschungsdaten"
+      }
+    ],
+    "subject": [
+      {
+        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
+        "prefLabel": "NFDI4Health"
+      }
+    ],
+    "title": [
+      "Research Data Management Plan templates – instructions for use"
+    ],
+    "transformer": [
+      "mets",
+      "mods",
+      "oaidc",
+      "openaire",
+      "rdf"
+    ],
+    "yearOfCopyright": [
+      "2024"
     ]
   },
   {
@@ -4704,182 +4849,6 @@
     ],
     "yearOfCopyright": [
       "2020"
-    ]
-  },
-  {
-    "@context": "https://frl.publisso.de/context.json",
-    "@id": "frl:6483992",
-    "accessScheme": "public",
-    "associatedDataset": [
-      "https://repository.publisso.de/resource/frl%3A6483993",
-      "https://repository.publisso.de/resource/frl%3A6483994",
-      "https://repository.publisso.de/resource/frl%3A6483995"
-    ],
-    "catalogId": "ED6483992",
-    "contentType": "researchData",
-    "contributor": [
-      {
-        "@id": "https://orcid.org/0000-0002-7091-5084",
-        "prefLabel": "Shutsko, Aliaksandra"
-      },
-      {
-        "@id": "https://orcid.org/0000-0001-5485-9724",
-        "prefLabel": "Gonzalez Ocanto, Marisabel"
-      },
-      {
-        "@id": "https://orcid.org/0000-0003-4645-6014",
-        "prefLabel": "Grummich, Kathrin"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-2830-6322",
-        "prefLabel": "Perrar, Ines"
-      }
-    ],
-    "contributorOrder": [
-      "https://orcid.org/0000-0003-2547-933X|https://orcid.org/0000-0002-8251-1597|https://orcid.org/0000-0002-7091-5084|https://orcid.org/0000-0001-5485-9724|https://orcid.org/0000-0003-4645-6014|https://orcid.org/0000-0002-2830-6322"
-    ],
-    "creator": [
-      {
-        "@id": "https://orcid.org/0000-0003-2547-933X",
-        "prefLabel": "Fuerst, Julia"
-      },
-      {
-        "@id": "https://orcid.org/0000-0002-8251-1597",
-        "prefLabel": "Lindstaedt, Birte"
-      }
-    ],
-    "ddc": [
-      {
-        "@id": "http://dewey.info/class/020/",
-        "prefLabel": "Bibliotheks- und Informationswissenschaften"
-      },
-      {
-        "@id": "http://dewey.info/class/610/",
-        "prefLabel": "Medizin und Gesundheit"
-      }
-    ],
-    "description": [
-      "Within the NFDI4Health, three Research Data Management Plan templates have been developed  to support researchers in planning their research projects. The \"\"Research Data Management Plan templates - instructions for use\"\" document explains these three Research Data Management Plan templates and points out which template should be selected for which purpose (epidemiological research, clinical research, submission of a funding proposal to the DFG (German Research Foundation)). The document also contains instructions for filling in the templates and explanations of the terms used in the templates."
-    ],
-    "doi": "10.4126/FRL01-006483992",
-    "fundingId": [
-      {
-        "@id": "http://dx.doi.org/10.13039/501100001659",
-        "prefLabel": "Deutsche Forschungsgemeinschaft"
-      }
-    ],
-    "fundingProgram": [
-      "NFDI4Health Consortium"
-    ],
-    "hasPart": [
-      {
-        "@id": "frl:6484014",
-        "prefLabel": "Research Data Management Plan templates – instructions for use"
-      },
-      {
-        "@id": "frl:6484006",
-        "prefLabel": "Research Data Management Plan templates – instructions for use"
-      }
-    ],
-    "institution": [
-      {
-        "@id": "https://d-nb.info/gnd/1246206420",
-        "prefLabel": "NFDI4Health - Nationale Forschungsdateninfrastruktur für personenbezogene Gesundheitsdaten (Projekt)"
-      }
-    ],
-    "isDescribedBy": {
-      "@id": "frl:6483992.rdf",
-      "created": "2024-08-22T13:06:38.918+0200",
-      "createdBy": "317",
-      "describes": "frl:6483992",
-      "lastModifiedBy": "25",
-      "modified": "2024-10-01T07:27:35.636+0200",
-      "objectTimestamp": "2024-10-01T05:27:34.000+0000"
-    },
-    "isMemberOf": [
-      {
-        "@id": "info:fedora/oai:open_access",
-        "prefLabel": "info:fedora/oai:open_access"
-      },
-      {
-        "@id": "info:fedora/oai:researchData",
-        "prefLabel": "info:fedora/oai:researchData"
-      }
-    ],
-    "isPrimaryTopicOf": [
-      {
-        "@id": "https://repository.publisso.de/resource/frl:6483992/edit",
-        "prefLabel": "https://repository.publisso.de/resource/frl:6483992/edit",
-        "primaryTopic": "frl:6483992"
-      }
-    ],
-    "issued": "2024",
-    "itemID": [
-      {
-        "@id": "oai:frl.publisso.de:frl:6483992",
-        "prefLabel": "oai:frl.publisso.de:frl:6483992"
-      }
-    ],
-    "joinedFunding": [
-      {
-        "fundingJoined": {
-          "@id": "http://dx.doi.org/10.13039/501100001659",
-          "prefLabel": "Deutsche Forschungsgemeinschaft"
-        },
-        "fundingProgramJoined": "NFDI4Health Consortium",
-        "projectIdJoined": "442326535"
-      }
-    ],
-    "language": [
-      {
-        "@id": "http://id.loc.gov/vocabulary/iso639-2/eng",
-        "prefLabel": "Englisch"
-      }
-    ],
-    "license": [
-      {
-        "@id": "https://creativecommons.org/licenses/by/4.0",
-        "prefLabel": "CC BY 4.0"
-      }
-    ],
-    "medium": [
-      {
-        "@id": "http://pbcore.org/vocabularies/instantiationMediaType#text",
-        "prefLabel": "Text"
-      }
-    ],
-    "prefLabel": [
-      "frl:6483992"
-    ],
-    "primaryTopic": "frl:6483992",
-    "projectId": [
-      "442326535"
-    ],
-    "publishScheme": "public",
-    "rdftype": [
-      {
-        "@id": "http://hbz-nrw.de/regal#ResearchData",
-        "prefLabel": "Forschungsdaten"
-      }
-    ],
-    "subject": [
-      {
-        "@id": "https://frl.publisso.de/adhoc/uri/TkZESTRIZWFsdGg=",
-        "prefLabel": "NFDI4Health"
-      }
-    ],
-    "title": [
-      "Research Data Management Plan templates – instructions for use"
-    ],
-    "transformer": [
-      "mets",
-      "mods",
-      "oaidc",
-      "openaire",
-      "rdf"
-    ],
-    "yearOfCopyright": [
-      "2024"
     ]
   }
 ]

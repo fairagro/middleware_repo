@@ -30272,6 +30272,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4513",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "barley",
+    "name": "Hordeum spontaneum",
+    "parentTaxon": "Hordeum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/8352487d-b047-42eb-a141-42dd4720b8cb/0046d6ad-f4ba-4c09-a49a-2d760ceb4571/2",
     "@type": "Dataset",
     "author": [
@@ -30350,6 +30360,16 @@
       "@type": "Organization",
       "name": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4113",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "tuberosum",
+    "name": "Solanum tuberosum",
+    "parentTaxon": "Solanum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -30760,6 +30780,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4513",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "barley",
+    "name": "Hordeum spontaneum",
+    "parentTaxon": "Hordeum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/2e9674d7-103a-46f0-88af-36fbc26b7d6a/6893e53e-facd-4e40-be4e-48a06aa5df7e/2",
     "@type": "Dataset",
     "author": [
@@ -30892,6 +30922,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4565",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "wheat",
+    "name": "Triticum vulgare",
+    "parentTaxon": "Triticum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -31200,6 +31240,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4565",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "wheat",
+    "name": "Triticum vulgare",
+    "parentTaxon": "Triticum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/746cc46e-1641-47a7-b225-c14d107238db/8fabfe05-74fd-436a-9760-77db1ccccfe9/2",
     "@type": "Dataset",
     "author": [
@@ -31379,6 +31429,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=3702",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "arabidopsis",
+    "name": "Arabidopsis thaliana",
+    "parentTaxon": "Arabidopsis",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/7d5bbc03-eae6-4acc-b58b-c88185c8652b/f7ed9692-e890-4445-9837-5ef2d5631554/2",
     "@type": "Dataset",
     "author": [
@@ -31475,6 +31535,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=3702",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "arabidopsis",
+    "name": "Arabidopsis thaliana",
+    "parentTaxon": "Arabidopsis",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/6a0233e4-1a2c-4db9-b555-006bdb81175e/eceac5f5-c23a-48db-910e-9589bc61e1e0/2",
     "@type": "Dataset",
     "author": [
@@ -31568,6 +31638,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=3702",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "arabidopsis",
+    "name": "Arabidopsis thaliana",
+    "parentTaxon": "Arabidopsis",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -31790,6 +31870,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4565",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "wheat",
+    "name": "Triticum vulgare",
+    "parentTaxon": "Triticum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -32225,6 +32315,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4565",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "wheat",
+    "name": "Triticum vulgare",
+    "parentTaxon": "Triticum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/2041e861-2570-4e08-b1e4-ef1d7a168502/26cf7dcb-0b30-4cb3-ba57-ddfef3204921/2",
     "@type": "Dataset",
     "author": [
@@ -32320,6 +32420,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4513",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "barley",
+    "name": "Hordeum spontaneum",
+    "parentTaxon": "Hordeum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/c0d5383f-f2a7-419a-99ef-f3c7e88a37ef/c2c9939e-3786-480f-b7e6-46f7f073fccb/2",
     "@type": "Dataset",
     "author": [
@@ -32400,6 +32510,16 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4565",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "wheat",
+    "name": "Triticum vulgare",
+    "parentTaxon": "Triticum",
+    "taxonRank": "species"
   },
   {
     "@context": "http://schema.org",
@@ -32680,6 +32800,16 @@
   },
   {
     "@context": "http://schema.org",
+    "@id": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=4513",
+    "@type": "Taxon",
+    "dct:conformsTo": "https://bioschemas.org/profiles/Taxon/0.6-RELEASE",
+    "dwc:vernacularName": "barley",
+    "name": "Hordeum spontaneum",
+    "parentTaxon": "Hordeum",
+    "taxonRank": "species"
+  },
+  {
+    "@context": "http://schema.org",
     "@id": "https://doi.ipk-gatersleben.de:443/DOI/97768093-afd2-46b6-9e22-2a9b0bf027c4/0f63c1a8-f223-4f14-85ab-ea0b4439625f/2",
     "@type": "Dataset",
     "author": [
@@ -32759,6 +32889,149 @@
     "keywords": "Vicia faba, Gene annotation, Hedin/2",
     "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
     "name": "Gene annotation for Vicia faba (Hedin_2) version 2 genome",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/586ea58b-25ce-4f83-9035-b7e8c8578d19/47f682fe-1efc-41e0-bbcf-6fe1bac11dca/2",
+    "@type": "Dataset",
+    "author": [
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "65366",
+          "streetAddress": "Hochschule Geisenheim University"
+        },
+        "familyName": "Becker",
+        "givenName": "Christine",
+        "name": "Christine Becker"
+      },
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "65366",
+          "streetAddress": "Hochschule Geisenheim University"
+        },
+        "familyName": "Steingass",
+        "givenName": "Christof B.",
+        "name": "Christof B. Steingass"
+      },
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "07745",
+          "streetAddress": "MPI für Chemische Ökologie, Jena"
+        },
+        "familyName": "Vogel",
+        "givenName": "Heiko",
+        "name": "Heiko Vogel"
+      },
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "65366",
+          "streetAddress": "Hochschule Geisenheim University"
+        },
+        "familyName": "Reineke",
+        "givenName": "Annette",
+        "name": "Annette Reineke"
+      }
+    ],
+    "contributor": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "address": "Hochschule Geisenheim University, 65366, Germany",
+        "familyName": "Becker",
+        "givenName": "Christine",
+        "name": "Christine Becker"
+      },
+      {
+        "@type": "Person",
+        "address": "Hochschule Geisenheim University, 65366, Germany",
+        "familyName": "Steingass",
+        "givenName": "Christof B.",
+        "name": "Christof B. Steingass"
+      },
+      {
+        "@type": "Person",
+        "address": "MPI für Chemische Ökologie, Jena, 07745, Germany",
+        "familyName": "Vogel",
+        "givenName": "Heiko",
+        "name": "Heiko Vogel"
+      },
+      {
+        "@type": "Person",
+        "address": "Hochschule Geisenheim University, 65366, Germany",
+        "familyName": "Reineke",
+        "givenName": "Annette",
+        "name": "Annette Reineke"
+      }
+    ],
+    "datePublished": "Fri Oct 18 14:18:12 CEST 2024",
+    "description": "In the Geisenheim VineyardFACE, grapevine plants (Vitis vinifera L., cultivars ‘Riesling’ and ‘Cabernet Sauvignon’) are cultivated under ambient or elevated (ambient  + 20%) carbon dioxide (CO2) concentrations. We harvested grapevine reproductive organs from two plant phenological stages: inflorescences and ripening berries in the véraison stage, i.e. berries starting to change color. Additionally, larvae (ca. third instar) of Lobesia botrana (Lepidoptera: Tortricidae) had been feeding on the plants for 7 days. We collected véraison berries with feeding marks and control berries without feeding to elucidate their different chemical composition. The plant material was freeze-dried and ground and we analyzed amino acid, sugar, and phenolic compound concentration.\nAssociated dataset: The larval transcriptome was analyzed via RNA-Seq after they had been feeding on the respective grapevine reproductive organs. The raw transcriptomic datasets generated during the current study are available in the NCBI Sequence Read Archive under BioProject PRJNA910346 and can be assessed in the BioSample database under accession numbers SAMN32123559-SAMN32123582\nThe uploaded dataset consists of two CVS-files: one contains the chemical composition of the plant material, one contains metadata describing the chemical composition-table and their liquid chromatograpy-mass spectrometric characteristics (HPLC-DAD-ESI(-)-QTOF-HR-MS and ESI(-)-MSn data).",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE",
+      "@type": "CreativeWork"
+    },
+    "inLanguage": "de_DE",
+    "keywords": "Plant biochemistry, phenolic compound, sugar, amino acid, grapevine, herbivory, climate change",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+    "name": "Concentration of amino acids, sugars, and phenolic compounds in grapevine cultivars 'Riesling' and 'Cabernet Sauvignon' at two phenological stages, cultivated under ambient or elevated CO2 concentration in the Geisenheim VineyardFACE.",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/5f0f10d5-927b-4669-9f18-3c72c8f779c7/db17b3c7-0ca8-4efb-9f2c-70a651ba13f4/2",
+    "@type": "Dataset",
+    "author": [
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "06466",
+          "streetAddress": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+        },
+        "familyName": "Oppermann",
+        "givenName": "Markus",
+        "name": "Markus Oppermann"
+      }
+    ],
+    "contributor": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Oppermann",
+        "givenName": "Markus",
+        "name": "Markus Oppermann"
+      }
+    ],
+    "datePublished": "Tue Dec 03 08:51:22 CET 2024",
+    "description": "This data set contains a snapshot of the passport data for the current genebank collection of the IPK (status: 2024-12-02). The data format follows the EURISCO MCPD, Version November 2017. The data set represent the current status of the data of the Genebank Information System (GBIS). It includes information to both actively maintained and historic accessions.",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE",
+      "@type": "CreativeWork"
+    },
+    "inLanguage": "en",
+    "keywords": "Passport data, genebank information, plant genetic ressources, IPK genebank, MCPD",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "name": "IPK genebank accessions passport data snapshot 2024-12-02",
     "publisher": {
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"

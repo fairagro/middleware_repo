@@ -1,5 +1,582 @@
 [
   {
+    "abstract": "<p>Die Bundesregierung ist durch internationalen Vereinbarungen zum Klimaschutz und europ&auml;ische Rechtsvorschriften &nbsp;dazu verpflichtet, nationale anthropogene Emissionen von Treibhausgasen zu berichten. Die nationale Treibhausgas-Emissionsberichterstattung wird j&auml;hrlich durch das Umweltbundesamt ver&ouml;ffentlicht. Die Ermittlung der Emissionen aus dem Sektor Landnutzung, Landnutzungs&auml;nderung und Forstwirtschaft (LULUCF) erfolgt dabei im Auftrag des Bundesministeriums f&uuml;r Ern&auml;hrung und Landwirtschaft (BMEL) durch die Institute f&uuml;r Agrarklimaschutz (AK), f&uuml;r Wald&ouml;kosysteme (WO) und f&uuml;r Holzforschung (HF) des Johann Heinrich von Th&uuml;nen-Instituts (TI).&nbsp;</p>\r\n<p>Bereitgestellt werden hier die Summen der LULUCF-Emissionen von CH4, CO2 und N2O in CO2-&Auml;quivalenten unterteilt nach Landnutzungskategorien. Gem&auml;&szlig; den methodischen Vorgaben des IPCC werden in den Tabellen die Treibhausgasemissionen mit positiven Zahlen dargestellt, die Einbindung derselben in Boden bzw. Phytomasse mit negativen. Die Emissionen der Treibhausgase wird auf Kreisebene (NUTS 3) aggregiert dargestellt. Die Daten stellen die bestm&ouml;gliche Sch&auml;tzung f&uuml;r diese r&auml;umliche Aufl&ouml;sung dar. Es gibt dabei jedoch erhebliche r&auml;umliche Unsicherheiten, die sich vor allem aus der r&auml;umlichen Aufl&ouml;sung von Eingangsdaten der Berechnung ergeben. So wird beispielsweise die Entwicklung der Waldbiomasse f&uuml;r die forstlichen Gro&szlig;landschaften (https://atlas.thuenen.de/catalogue/#/map/72) berechnet und die entsprechenden Emissionen werden anhand der Waldfl&auml;che auf die Kreise verteilt.&nbsp;</p>\r\n<p>Die Anzahl der Stellen der zum Download bereitgestellten Daten l&auml;sst keinen R&uuml;ckschluss auf deren Unsicherheit zu. Nicht enthalten sind Offsite-Emissionen aus der Verwendung von Torfprodukten, Emissionen aus Waldbr&auml;nden sowie Emissionen aus Fischteichen, die bisher nicht r&auml;umlich lokalisiert werden k&ouml;nnen. Methodische Einzelheiten zur Ermittlung von Aktivit&auml;tsdaten und Emissionen sind im aktuellen Nationalen Inventardokument der Submission 2025 nachzulesen. Exceltabellen mit Daten f&uuml;r Bundesl&auml;nder werden auf Open Agrar zum Download bereitgestellt.</p>",
+    "alternate": null,
+    "attribution": "Gensior A, Laggner A, Stümer W, Adam S, Piayda A, Scherstjanoi M, Fuß R (2025): “LULUCF-Kreisdaten (UNFCCC-Submission 2025)”, Thünen-Institut",
+    "bbox_polygon": {
+      "coordinates": [
+        [
+          [
+            -180.0,
+            -90.0
+          ],
+          [
+            -180.0,
+            90.0
+          ],
+          [
+            180.0,
+            90.0
+          ],
+          [
+            180.0,
+            -90.0
+          ],
+          [
+            -180.0,
+            -90.0
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "category": {
+      "gn_description": "Environment",
+      "identifier": "environment"
+    },
+    "constraints_other": "",
+    "created": "2025-04-15T14:18:54.224011Z",
+    "custodian": [],
+    "data_quality_statement": "",
+    "date": "2025-04-15T14:18:00Z",
+    "date_type": "publication",
+    "detail_url": "https://atlas.thuenen.de/catalogue/#/map/347",
+    "distributor": [],
+    "doi": null,
+    "download_url": null,
+    "download_urls": [],
+    "edition": "Beruht auf der Submission 2025",
+    "embed_url": "https://atlas.thuenen.de/maps/347/embed",
+    "extent": {
+      "coords": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+      ],
+      "srid": "EPSG:4326"
+    },
+    "favorite": false,
+    "featured": false,
+    "group": null,
+    "is_approved": true,
+    "is_copyable": true,
+    "is_published": true,
+    "keywords": [
+      {
+        "name": "Emissionen",
+        "slug": "emissionen"
+      },
+      {
+        "name": "Kohlenstoff",
+        "slug": "kohlenstoff"
+      },
+      {
+        "name": "LULUCF",
+        "slug": "lulucf"
+      },
+      {
+        "name": "Landnutzung",
+        "slug": "landnutzung"
+      },
+      {
+        "name": "Treibhausgase",
+        "slug": "treibhausgase"
+      }
+    ],
+    "language": "ger",
+    "last_updated": "2025-04-29T06:54:37.601789Z",
+    "license": {
+      "identifier": ""
+    },
+    "link": "https://atlas.thuenen.de/api/v2/resources/347",
+    "links": [
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-32f74a21-ed42-40d8-951d-4a3c9126232e-thumb-17446b59-b09b-40fd-8066-6bc46c1838b5.jpg"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "Atom",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=32f74a21-ed42-40d8-951d-4a3c9126232e&outputschema=http%3A%2F%2Fwww.w3.org%2F2005%2FAtom&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "DataCite",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=32f74a21-ed42-40d8-951d-4a3c9126232e&outputschema=http%3A%2F%2Fdatacite.org%2Fschema%2Fkernel-4&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "DIF",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=32f74a21-ed42-40d8-951d-4a3c9126232e&outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "Dublin Core",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=32f74a21-ed42-40d8-951d-4a3c9126232e&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2F2.0.2&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ebRIM",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=32f74a21-ed42-40d8-951d-4a3c9126232e&outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "FGDC",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=32f74a21-ed42-40d8-951d-4a3c9126232e&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ISO",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=32f74a21-ed42-40d8-951d-4a3c9126232e&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
+      }
+    ],
+    "ll_bbox_polygon": {
+      "coordinates": [
+        [
+          [
+            -180.0,
+            -90.0
+          ],
+          [
+            -180.0,
+            90.0
+          ],
+          [
+            180.0,
+            90.0
+          ],
+          [
+            180.0,
+            -90.0
+          ],
+          [
+            -180.0,
+            -90.0
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "maintenance_frequency": "annually",
+    "metadata_author": [
+      {
+        "avatar": "https://www.gravatar.com/avatar/7ed6c2429165754f8ebb6cced25add8a/?s=240",
+        "email": "emissionsinventare@thuenen.de",
+        "first_name": "",
+        "is_staff": false,
+        "is_superuser": false,
+        "last_name": "",
+        "link": "https://atlas.thuenen.de/api/v2/users/1020",
+        "pk": 1020,
+        "username": "emissionsinventare"
+      }
+    ],
+    "metadata_only": false,
+    "originator": [],
+    "owner": {
+      "avatar": "https://www.gravatar.com/avatar/7ed6c2429165754f8ebb6cced25add8a/?s=240",
+      "email": "emissionsinventare@thuenen.de",
+      "first_name": "",
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "",
+      "link": "https://atlas.thuenen.de/api/v2/users/1020",
+      "pk": 1020,
+      "username": "emissionsinventare"
+    },
+    "perms": [
+      "view_resourcebase"
+    ],
+    "pk": "347",
+    "poc": [
+      {
+        "avatar": "https://www.gravatar.com/avatar/7ed6c2429165754f8ebb6cced25add8a/?s=240",
+        "email": "emissionsinventare@thuenen.de",
+        "first_name": "",
+        "is_staff": false,
+        "is_superuser": false,
+        "last_name": "",
+        "link": "https://atlas.thuenen.de/api/v2/users/1020",
+        "pk": 1020,
+        "username": "emissionsinventare"
+      }
+    ],
+    "polymorphic_ctype_id": "74",
+    "popular_count": "0",
+    "principal_investigator": [],
+    "processed": true,
+    "processor": [],
+    "publisher": [],
+    "purpose": "",
+    "rating": "0",
+    "raw_abstract": "Die Bundesregierung ist durch internationalen Vereinbarungen zum Klimaschutz und europäische Rechtsvorschriften  dazu verpflichtet, nationale anthropogene Emissionen von Treibhausgasen zu berichten. Die nationale Treibhausgas-Emissionsberichterstattung wird jährlich durch das Umweltbundesamt veröffentlicht. Die Ermittlung der Emissionen aus dem Sektor Landnutzung, Landnutzungsänderung und Forstwirtschaft (LULUCF) erfolgt dabei im Auftrag des Bundesministeriums für Ernährung und Landwirtschaft (BMEL) durch die Institute für Agrarklimaschutz (AK), für Waldökosysteme (WO) und für Holzforschung (HF) des Johann Heinrich von Thünen-Instituts (TI).  Bereitgestellt werden hier die Summen der LULUCF-Emissionen von CH4, CO2 und N2O in CO2-Äquivalenten unterteilt nach Landnutzungskategorien. Gemäß den methodischen Vorgaben des IPCC werden in den Tabellen die Treibhausgasemissionen mit positiven Zahlen dargestellt, die Einbindung derselben in Boden bzw. Phytomasse mit negativen. Die Emissionen der Treibhausgase wird auf Kreisebene (NUTS 3) aggregiert dargestellt. Die Daten stellen die bestmögliche Schätzung für diese räumliche Auflösung dar. Es gibt dabei jedoch erhebliche räumliche Unsicherheiten, die sich vor allem aus der räumlichen Auflösung von Eingangsdaten der Berechnung ergeben. So wird beispielsweise die Entwicklung der Waldbiomasse für die forstlichen Großlandschaften (https://atlas.thuenen.de/catalogue/#/map/72) berechnet und die entsprechenden Emissionen werden anhand der Waldfläche auf die Kreise verteilt.  Die Anzahl der Stellen der zum Download bereitgestellten Daten lässt keinen Rückschluss auf deren Unsicherheit zu. Nicht enthalten sind Offsite-Emissionen aus der Verwendung von Torfprodukten, Emissionen aus Waldbränden sowie Emissionen aus Fischteichen, die bisher nicht räumlich lokalisiert werden können. Methodische Einzelheiten zur Ermittlung von Aktivitätsdaten und Emissionen sind im aktuellen Nationalen Inventardokument der Submission 2025 nachzulesen. Exceltabellen mit Daten für Bundesländer werden auf Open Agrar zum Download bereitgestellt.",
+    "raw_constraints_other": "",
+    "raw_data_quality_statement": "",
+    "raw_purpose": "",
+    "raw_supplemental_information": "No information provided",
+    "regions": [
+      {
+        "code": "DEU",
+        "name": "Germany"
+      }
+    ],
+    "resource_provider": [],
+    "resource_type": "map",
+    "resource_user": [],
+    "restriction_code_type": null,
+    "share_count": "0",
+    "sourcetype": "LOCAL",
+    "spatial_representation_type": {
+      "identifier": "textTable"
+    },
+    "srid": "EPSG:4326",
+    "state": "PROCESSED",
+    "subtype": null,
+    "supplemental_information": "<p>No information provided</p>",
+    "temporal_extent_end": null,
+    "temporal_extent_start": null,
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-32f74a21-ed42-40d8-951d-4a3c9126232e-thumb-17446b59-b09b-40fd-8066-6bc46c1838b5.jpg",
+    "title": "Emissionen von Treibhausgasen des Sektors LULUCF in Deutschland für 1990-2023 (Submission 2025)",
+    "tkeywords": [],
+    "uuid": "32f74a21-ed42-40d8-951d-4a3c9126232e"
+  },
+  {
+    "abstract": "<p>Als Vertragsstaat internationaler Abkommen zum Klimaschutz ist es das erkl&auml;rte Ziel Deutschlands, den Aussto&szlig; an Treibhausgasen zu reduzieren. Wissenschaftliche Bestandsaufnahmen liefern die notwendigen Daten (<a title=\"Th&uuml;nen-Themenfeld &quot;Klima und Luft&quot;\" href=\"https://www.thuenen.de/de/themenfelder/klima-und-luft\" target=\"_blank\" rel=\"noopener\">Th&uuml;nen-Themenfeld \"Klima und Luft\"</a>). Die Bundesregierung hat sich im Rahmen von internationalen Vereinbarungen zum Klimaschutz dazu verpflichtet, nationale anthropogene Emissionen von Treibhausgasen zu berichten. Die Verantwortung f&uuml;r die gesamte deutsche Treibhausgasemissions-Berichterstattung liegt beim Bundesministerium f&uuml;r Wirtschaft und Klimaschutz (BMWK). Die Ermittlung der Emissionen aus dem Sektor LULUCF unterliegt der Federf&uuml;hrung des Bundesministeriums f&uuml;r Ern&auml;hrung und Landwirtschaft (BMEL). Im Auftrag des BMEL erstellt das Institut f&uuml;r Agrarklimaschutz (AK), das Institut f&uuml;r Wald&ouml;kosysteme (WO) und das Institut f&uuml;r Holzforschung (HF) des Johann Heinrich von Th&uuml;nen-Instituts (TI) das j&auml;hrliche Emissionsinventar f&uuml;r den Sektor LULUCF.</p>\r\n<p>Gezeigt wird die Summe der Emissionen von CH4, CO2 und N2O in CO2-&Auml;quivalenten aus dem Bereich, der durch die Berichterstattung im Berichtssektor Landnutzung, Landnutzungs&auml;nderung und Forstwirtschaft (LULUCF) abgedeckt wird. Gem&auml;&szlig; den Vorgaben des IPCC werden in den Tabellen die Treibhausgasemissionen mit positiven Zahlen dargestellt, die Einbindung derselben in Boden bzw. Phytomasse mit negativen.&nbsp;<br />Die Emissionen der Treibhausgase wird auf Landkreisebene aggregiert dargestellt. Die Anzahl der Stellen der zum Download bereitgestellten Daten l&auml;sst keinen R&uuml;ckschluss auf deren Unsicherheit zu. Nicht enthalten sind Offsite-Emissionen aus der Verwednung von Torfprodukten, Emissionen aus Waldbr&auml;nden sowie Emissionen aus Fischteichen. Methodische Einzelheiten zur Ermittlung von Aktivit&auml;tsdaten und Emissionen sind im aktuellen Nationalen Inventardokument der Submission 2025 nachzulesen.</p>",
+    "alternate": "geonode:emissions_co2_eq_lulucf_20250",
+    "attribution": "Gensior A, Laggner A, Stümer W, Adam S, Piayda A, Scherstjanoi M, Fuß R (2025): “LULUCF-Kreisdaten (UNFCCC-Submission 2025)”, Thünen-Institut",
+    "bbox_polygon": {
+      "coordinates": [
+        [
+          [
+            3280358.692902823,
+            5237510.979825809
+          ],
+          [
+            3280358.692902823,
+            6103486.387774301
+          ],
+          [
+            3921535.531635984,
+            6103486.387774301
+          ],
+          [
+            3921535.531635984,
+            5237510.979825809
+          ],
+          [
+            3280358.692902823,
+            5237510.979825809
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "category": {
+      "gn_description": "Environment",
+      "identifier": "environment"
+    },
+    "constraints_other": "<p>CC BY (CC BY): This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials. (https://creativecommons.org/licenses/by/4.0)</p>",
+    "created": "2025-04-15T10:04:46.883829Z",
+    "custodian": [],
+    "data_quality_statement": "",
+    "date": "2025-04-11T07:45:00Z",
+    "date_type": "publication",
+    "detail_url": "https://atlas.thuenen.de/catalogue/#/dataset/346",
+    "distributor": [],
+    "doi": null,
+    "download_url": "https://atlas.thuenen.de/datasets/geonode:emissions_co2_eq_lulucf_20250/dataset_download",
+    "download_urls": [
+      {
+        "ajax_safe": true,
+        "default": true,
+        "url": "/datasets/geonode:emissions_co2_eq_lulucf_20250/dataset_download"
+      }
+    ],
+    "edition": "Beruht auf der Submission 2025",
+    "embed_url": "https://atlas.thuenen.de/datasets/geonode:emissions_co2_eq_lulucf_20250/embed",
+    "extent": {
+      "coords": [
+        5.565031809580257,
+        47.141212321844336,
+        15.571669014242538,
+        55.060105179431694
+      ],
+      "srid": "EPSG:4326"
+    },
+    "favorite": false,
+    "featured": false,
+    "group": null,
+    "is_approved": true,
+    "is_copyable": true,
+    "is_published": true,
+    "keywords": [
+      {
+        "name": "Emissionen",
+        "slug": "emissionen"
+      },
+      {
+        "name": "Kohlenstoff",
+        "slug": "kohlenstoff"
+      },
+      {
+        "name": "LULUCF",
+        "slug": "lulucf"
+      },
+      {
+        "name": "Treibhausgase",
+        "slug": "treibhausgase"
+      }
+    ],
+    "language": "ger",
+    "last_updated": "2025-04-16T14:00:27.820570Z",
+    "license": {
+      "identifier": ""
+    },
+    "link": "https://atlas.thuenen.de/api/v2/resources/346",
+    "links": [
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Legend",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissions_co2_eq_lulucf_20250&STYLE=polygon&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-2bb0141f-4788-4c79-9214-1fcfd1828245-thumb-212e9bfb-5347-4b37-a3a8-8e966f2124b0.jpg"
+      },
+      {
+        "extension": "jpg",
+        "link_type": "image",
+        "mime": "image/jpeg",
+        "name": "JPEG",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissions_co2_eq_lulucf_20250&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A5677&bbox=3280358.6929028%2C5237510.9798258%2C3921535.5316360%2C6103486.3877743"
+      },
+      {
+        "extension": "pdf",
+        "link_type": "image",
+        "mime": "application/pdf",
+        "name": "PDF",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissions_co2_eq_lulucf_20250&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A5677&bbox=3280358.6929028%2C5237510.9798258%2C3921535.5316360%2C6103486.3877743"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "PNG",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissions_co2_eq_lulucf_20250&format=image%2Fpng&height=550&width=550&srs=EPSG%3A5677&bbox=3280358.6929028%2C5237510.9798258%2C3921535.5316360%2C6103486.3877743"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "Atom",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2bb0141f-4788-4c79-9214-1fcfd1828245&outputschema=http%3A%2F%2Fwww.w3.org%2F2005%2FAtom&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "DataCite",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2bb0141f-4788-4c79-9214-1fcfd1828245&outputschema=http%3A%2F%2Fdatacite.org%2Fschema%2Fkernel-4&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "DIF",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2bb0141f-4788-4c79-9214-1fcfd1828245&outputschema=http%3A%2F%2Fgcmd.gsfc.nasa.gov%2FAboutus%2Fxml%2Fdif%2F&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "Dublin Core",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2bb0141f-4788-4c79-9214-1fcfd1828245&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2F2.0.2&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ebRIM",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2bb0141f-4788-4c79-9214-1fcfd1828245&outputschema=urn%3Aoasis%3Anames%3Atc%3Aebxml-regrep%3Axsd%3Arim%3A3.0&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "FGDC",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2bb0141f-4788-4c79-9214-1fcfd1828245&outputschema=http%3A%2F%2Fwww.opengis.net%2Fcat%2Fcsw%2Fcsdgm&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ISO",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=2bb0141f-4788-4c79-9214-1fcfd1828245&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "ISO with XSL",
+        "url": "https://atlas.thuenen.de/showmetadata/xsl/346"
+      },
+      {
+        "extension": "html",
+        "link_type": "OGC:WMS",
+        "mime": "text/html",
+        "name": "OGC WMS: geonode Service",
+        "url": "https://atlas.thuenen.de/geoserver/ows"
+      },
+      {
+        "extension": "html",
+        "link_type": "OGC:WFS",
+        "mime": "text/html",
+        "name": "OGC WFS: geonode Service",
+        "url": "https://atlas.thuenen.de/geoserver/ows"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Legend",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissions_co2_eq_lulucf_20250&STYLE=emissions_co2_eq_lulucf_20250&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
+      }
+    ],
+    "ll_bbox_polygon": {
+      "coordinates": [
+        [
+          [
+            5.565031809580257,
+            47.141212321844336
+          ],
+          [
+            5.565031809580257,
+            55.060105179431694
+          ],
+          [
+            15.571669014242538,
+            55.060105179431694
+          ],
+          [
+            15.571669014242538,
+            47.141212321844336
+          ],
+          [
+            5.565031809580257,
+            47.141212321844336
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "maintenance_frequency": "annually",
+    "metadata_author": [
+      {
+        "avatar": "https://www.gravatar.com/avatar/46d229b033af06a191ff2267bca9ae56/?s=240",
+        "email": "admin@localhost",
+        "first_name": "",
+        "is_staff": true,
+        "is_superuser": true,
+        "last_name": "",
+        "link": "https://atlas.thuenen.de/api/v2/users/1000",
+        "pk": 1000,
+        "username": "admin"
+      }
+    ],
+    "metadata_only": false,
+    "originator": [],
+    "owner": {
+      "avatar": "https://www.gravatar.com/avatar/7ed6c2429165754f8ebb6cced25add8a/?s=240",
+      "email": "emissionsinventare@thuenen.de",
+      "first_name": "",
+      "is_staff": false,
+      "is_superuser": false,
+      "last_name": "",
+      "link": "https://atlas.thuenen.de/api/v2/users/1020",
+      "pk": 1020,
+      "username": "emissionsinventare"
+    },
+    "perms": [
+      "view_resourcebase",
+      "download_resourcebase"
+    ],
+    "pk": "346",
+    "poc": [
+      {
+        "avatar": "https://www.gravatar.com/avatar/7ed6c2429165754f8ebb6cced25add8a/?s=240",
+        "email": "emissionsinventare@thuenen.de",
+        "first_name": "",
+        "is_staff": false,
+        "is_superuser": false,
+        "last_name": "",
+        "link": "https://atlas.thuenen.de/api/v2/users/1020",
+        "pk": 1020,
+        "username": "emissionsinventare"
+      }
+    ],
+    "polymorphic_ctype_id": "70",
+    "popular_count": "49",
+    "principal_investigator": [],
+    "processed": true,
+    "processor": [],
+    "publisher": [],
+    "purpose": "",
+    "rating": "0",
+    "raw_abstract": "Als Vertragsstaat internationaler Abkommen zum Klimaschutz ist es das erklärte Ziel Deutschlands, den Ausstoß an Treibhausgasen zu reduzieren. Wissenschaftliche Bestandsaufnahmen liefern die notwendigen Daten (Thünen-Themenfeld \"Klima und Luft\"). Die Bundesregierung hat sich im Rahmen von internationalen Vereinbarungen zum Klimaschutz dazu verpflichtet, nationale anthropogene Emissionen von Treibhausgasen zu berichten. Die Verantwortung für die gesamte deutsche Treibhausgasemissions-Berichterstattung liegt beim Bundesministerium für Wirtschaft und Klimaschutz (BMWK). Die Ermittlung der Emissionen aus dem Sektor LULUCF unterliegt der Federführung des Bundesministeriums für Ernährung und Landwirtschaft (BMEL). Im Auftrag des BMEL erstellt das Institut für Agrarklimaschutz (AK), das Institut für Waldökosysteme (WO) und das Institut für Holzforschung (HF) des Johann Heinrich von Thünen-Instituts (TI) das jährliche Emissionsinventar für den Sektor LULUCF. Gezeigt wird die Summe der Emissionen von CH4, CO2 und N2O in CO2-Äquivalenten aus dem Bereich, der durch die Berichterstattung im Berichtssektor Landnutzung, Landnutzungsänderung und Forstwirtschaft (LULUCF) abgedeckt wird. Gemäß den Vorgaben des IPCC werden in den Tabellen die Treibhausgasemissionen mit positiven Zahlen dargestellt, die Einbindung derselben in Boden bzw. Phytomasse mit negativen. Die Emissionen der Treibhausgase wird auf Landkreisebene aggregiert dargestellt. Die Anzahl der Stellen der zum Download bereitgestellten Daten lässt keinen Rückschluss auf deren Unsicherheit zu. Nicht enthalten sind Offsite-Emissionen aus der Verwednung von Torfprodukten, Emissionen aus Waldbränden sowie Emissionen aus Fischteichen. Methodische Einzelheiten zur Ermittlung von Aktivitätsdaten und Emissionen sind im aktuellen Nationalen Inventardokument der Submission 2025 nachzulesen.",
+    "raw_constraints_other": "CC BY (CC BY): This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials. (https://creativecommons.org/licenses/by/4.0)",
+    "raw_data_quality_statement": "",
+    "raw_purpose": "",
+    "raw_supplemental_information": "No information provided",
+    "regions": [
+      {
+        "code": "DEU",
+        "name": "Germany"
+      }
+    ],
+    "resource_provider": [],
+    "resource_type": "dataset",
+    "resource_user": [],
+    "restriction_code_type": null,
+    "share_count": "0",
+    "sourcetype": "LOCAL",
+    "spatial_representation_type": {
+      "identifier": "textTable"
+    },
+    "srid": "EPSG:5677",
+    "state": "PROCESSED",
+    "subtype": "vector_time",
+    "supplemental_information": "<p>No information provided</p>",
+    "temporal_extent_end": "2023-01-01T00:00:00Z",
+    "temporal_extent_start": "1990-01-01T00:00:00Z",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-2bb0141f-4788-4c79-9214-1fcfd1828245-thumb-212e9bfb-5347-4b37-a3a8-8e966f2124b0.jpg",
+    "title": "Emissionen LULUCF 1990-2023",
+    "tkeywords": [],
+    "uuid": "2bb0141f-4788-4c79-9214-1fcfd1828245"
+  },
+  {
     "abstract": "Unsere Karten machen Trends und Verteilung von Tierbeständen und landwirtschaftlicher Flächennutzung besser sichtbar",
     "alternate": null,
     "attribution": null,
@@ -1800,7 +2377,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "134",
+    "popular_count": "142",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -2106,7 +2683,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "139",
+    "popular_count": "153",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -2437,7 +3014,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "135",
+    "popular_count": "136",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -3076,7 +3653,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "227",
+    "popular_count": "238",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -3452,7 +4029,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "115",
+    "popular_count": "119",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -3783,7 +4360,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "109",
+    "popular_count": "114",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -4096,7 +4673,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "114",
+    "popular_count": "122",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -4437,7 +5014,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "121",
+    "popular_count": "124",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -4768,7 +5345,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "133",
+    "popular_count": "138",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -5074,7 +5651,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "106",
+    "popular_count": "113",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -8357,7 +8934,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "120",
+    "popular_count": "121",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -9659,7 +10236,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "120",
+    "popular_count": "122",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -11270,7 +11847,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "107",
+    "popular_count": "108",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -13941,8 +14518,8 @@
       "username": "emissionsinventare"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "283",
     "poc": [
@@ -13959,7 +14536,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "392",
+    "popular_count": "423",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -14099,7 +14676,7 @@
       }
     ],
     "language": "ger",
-    "last_updated": "2024-10-23T15:29:27.804973Z",
+    "last_updated": "2025-04-28T09:28:12.501803Z",
     "license": {
       "identifier": ""
     },
@@ -14420,8 +14997,8 @@
       "username": "emissionsinventare"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "281",
     "poc": [
@@ -14438,7 +15015,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "224",
+    "popular_count": "238",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -14751,7 +15328,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1500",
+    "popular_count": "1508",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -15072,8 +15649,8 @@
       "username": "fischer_r"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "259",
     "poc": [
@@ -15090,7 +15667,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "135",
+    "popular_count": "136",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -15387,8 +15964,8 @@
       "username": "fischer_r"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "258",
     "poc": [
@@ -15405,7 +15982,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "150",
+    "popular_count": "157",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -15722,8 +16299,8 @@
       "username": "fischer_r"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "257",
     "poc": [
@@ -16106,8 +16683,8 @@
       "username": "fischer_r"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "256",
     "poc": [
@@ -16124,7 +16701,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "145",
+    "popular_count": "149",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -16503,8 +17080,8 @@
       "username": "fischer_r"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "253",
     "poc": [
@@ -16521,7 +17098,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "137",
+    "popular_count": "138",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -17189,8 +17766,8 @@
       "username": "fischer_r"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "251",
     "poc": [
@@ -17207,7 +17784,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "206",
+    "popular_count": "209",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -17521,8 +18098,8 @@
       "username": "fischer_r"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "250",
     "poc": [
@@ -17539,7 +18116,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "135",
+    "popular_count": "136",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -17880,7 +18457,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2275",
+    "popular_count": "2298",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -18416,8 +18993,8 @@
       "username": "dehler"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "235",
     "poc": [
@@ -18434,7 +19011,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "691",
+    "popular_count": "693",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -18795,8 +19372,8 @@
       "username": "dehler"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "233",
     "poc": [
@@ -19123,7 +19700,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1177",
+    "popular_count": "1217",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -19428,7 +20005,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "427",
+    "popular_count": "439",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -19733,7 +20310,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "384",
+    "popular_count": "385",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -20031,7 +20608,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1318",
+    "popular_count": "1332",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -20641,7 +21218,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "593",
+    "popular_count": "595",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -20950,7 +21527,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "568",
+    "popular_count": "593",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -21259,7 +21836,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "469",
+    "popular_count": "484",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -21568,7 +22145,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "500",
+    "popular_count": "513",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -21877,7 +22454,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "415",
+    "popular_count": "417",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -22186,7 +22763,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "681",
+    "popular_count": "695",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -22488,7 +23065,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1125",
+    "popular_count": "1134",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -22800,7 +23377,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "450",
+    "popular_count": "453",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -23112,7 +23689,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "567",
+    "popular_count": "568",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -23431,7 +24008,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "327",
+    "popular_count": "329",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -23736,7 +24313,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1492",
+    "popular_count": "1504",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -24321,7 +24898,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "86",
+    "popular_count": "88",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -24626,7 +25203,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "282",
+    "popular_count": "288",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -24920,8 +25497,8 @@
       "username": "erasmi"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "209",
     "poc": [
@@ -24938,7 +25515,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "655",
+    "popular_count": "656",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -25548,7 +26125,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "397",
+    "popular_count": "402",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -25853,7 +26430,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2333",
+    "popular_count": "2370",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -26176,7 +26753,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2350",
+    "popular_count": "2377",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -26499,7 +27076,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "910",
+    "popular_count": "918",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -26818,7 +27395,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "279",
+    "popular_count": "282",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -27137,7 +27714,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "276",
+    "popular_count": "278",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -27456,7 +28033,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "295",
+    "popular_count": "298",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -27916,8 +28493,8 @@
       "username": "arbeitsgruppe-moore"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "200",
     "poc": [
@@ -27934,7 +28511,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "33903",
+    "popular_count": "33982",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -28483,8 +29060,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "197",
     "poc": [
@@ -28501,7 +29078,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "220",
+    "popular_count": "222",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -29404,8 +29981,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "194",
     "poc": [
@@ -29791,8 +30368,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "193",
     "poc": [
@@ -30178,8 +30755,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "192",
     "poc": [
@@ -30196,7 +30773,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "909",
+    "popular_count": "910",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -30565,8 +31142,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "191",
     "poc": [
@@ -30583,7 +31160,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1258",
+    "popular_count": "1259",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -30952,8 +31529,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "190",
     "poc": [
@@ -31339,8 +31916,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "189",
     "poc": [
@@ -31726,8 +32303,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "188",
     "poc": [
@@ -32113,8 +32690,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "187",
     "poc": [
@@ -32500,8 +33077,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "186",
     "poc": [
@@ -32887,8 +33464,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "185",
     "poc": [
@@ -33274,8 +33851,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "184",
     "poc": [
@@ -33661,8 +34238,8 @@
       "username": "akimova"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "183",
     "poc": [
@@ -34150,8 +34727,8 @@
       "username": "emissionsinventare"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "181",
     "poc": [
@@ -34168,7 +34745,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2937",
+    "popular_count": "2940",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -34522,8 +35099,8 @@
       "username": "emissionsinventare"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "180",
     "poc": [
@@ -34540,7 +35117,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1373",
+    "popular_count": "1376",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -34809,8 +35386,8 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "179",
     "poc": [
@@ -34827,7 +35404,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "284",
+    "popular_count": "286",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -35094,8 +35671,8 @@
       "username": "monvia-wildbienenmonitoring"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "178",
     "poc": [
@@ -35112,7 +35689,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "244",
+    "popular_count": "246",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -35674,8 +36251,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "171",
     "poc": [
@@ -35692,7 +36269,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "307",
+    "popular_count": "309",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -35994,8 +36571,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "163",
     "poc": [
@@ -36012,7 +36589,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "286",
+    "popular_count": "288",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -36336,8 +36913,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "162",
     "poc": [
@@ -36661,8 +37238,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "160",
     "poc": [
@@ -36679,7 +37256,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "433",
+    "popular_count": "435",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -36993,8 +37570,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "159",
     "poc": [
@@ -37011,7 +37588,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "259",
+    "popular_count": "260",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -37309,8 +37886,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "158",
     "poc": [
@@ -37641,8 +38218,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "156",
     "poc": [
@@ -38303,8 +38880,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "155",
     "poc": [
@@ -38321,7 +38898,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "331",
+    "popular_count": "332",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -38646,8 +39223,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "154",
     "poc": [
@@ -38982,8 +39559,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "153",
     "poc": [
@@ -39000,7 +39577,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "386",
+    "popular_count": "387",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -39307,8 +39884,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "152",
     "poc": [
@@ -39325,7 +39902,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "332",
+    "popular_count": "333",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -39639,8 +40216,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "151",
     "poc": [
@@ -39657,7 +40234,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "366",
+    "popular_count": "368",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -39982,8 +40559,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "150",
     "poc": [
@@ -40000,7 +40577,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "92",
+    "popular_count": "95",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -40338,8 +40915,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "148",
     "poc": [
@@ -40667,8 +41244,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "147",
     "poc": [
@@ -40685,7 +41262,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "74",
+    "popular_count": "77",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -41060,8 +41637,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "146",
     "poc": [
@@ -41391,8 +41968,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "145",
     "poc": [
@@ -41409,7 +41986,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "58",
+    "popular_count": "60",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -41715,8 +42292,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "138",
     "poc": [
@@ -42053,8 +42630,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "136",
     "poc": [
@@ -42381,8 +42958,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "135",
     "poc": [
@@ -42728,8 +43305,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "133",
     "poc": [
@@ -43059,8 +43636,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "132",
     "poc": [
@@ -43386,8 +43963,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "131",
     "poc": [
@@ -43762,8 +44339,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "129",
     "poc": [
@@ -43780,7 +44357,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "97",
+    "popular_count": "99",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -44090,8 +44667,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "126",
     "poc": [
@@ -44108,7 +44685,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "85",
+    "popular_count": "86",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -44491,8 +45068,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "123",
     "poc": [
@@ -44509,7 +45086,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "97",
+    "popular_count": "98",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -44850,8 +45427,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "117",
     "poc": [
@@ -44868,7 +45445,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "53",
+    "popular_count": "54",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -45193,8 +45770,8 @@
       "username": "biota-gmbh"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "116",
     "poc": [
@@ -45436,8 +46013,8 @@
       "username": "blickensdoerfer"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "108",
     "poc": [
@@ -45744,7 +46321,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "5989",
+    "popular_count": "6019",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -46332,7 +46909,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1290",
+    "popular_count": "1291",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -47520,8 +48097,8 @@
       "username": "blickensdoerfer"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "100",
     "poc": [
@@ -47538,7 +48115,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "49283",
+    "popular_count": "49370",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -47832,7 +48409,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "9435",
+    "popular_count": "9477",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -48068,8 +48645,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "91",
     "poc": [
@@ -48312,8 +48889,8 @@
       "username": "scherstjanoi"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "74",
     "poc": [
@@ -49140,8 +49717,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "67",
     "poc": [
@@ -49158,7 +49735,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2116",
+    "popular_count": "2122",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -49486,8 +50063,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "66",
     "poc": [
@@ -49832,8 +50409,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "65",
     "poc": [
@@ -50183,8 +50760,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "64",
     "poc": [
@@ -50201,7 +50778,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1707",
+    "popular_count": "1708",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -50522,8 +51099,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "63",
     "poc": [
@@ -50540,7 +51117,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1715",
+    "popular_count": "1716",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -50868,8 +51445,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "62",
     "poc": [
@@ -50886,7 +51463,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "6245",
+    "popular_count": "6261",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -51212,8 +51789,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "61",
     "poc": [
@@ -51230,7 +51807,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "3138",
+    "popular_count": "3147",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -51563,8 +52140,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "60",
     "poc": [
@@ -51581,7 +52158,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2035",
+    "popular_count": "2040",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -51916,8 +52493,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "59",
     "poc": [
@@ -52574,8 +53151,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "51",
     "poc": [
@@ -52592,7 +53169,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2473",
+    "popular_count": "2478",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -52889,7 +53466,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2162",
+    "popular_count": "2164",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -53451,7 +54028,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1226",
+    "popular_count": "1227",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -53732,7 +54309,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1187",
+    "popular_count": "1188",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -54022,7 +54599,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1285",
+    "popular_count": "1286",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -54648,8 +55225,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "41",
     "poc": [
@@ -54666,7 +55243,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2362",
+    "popular_count": "2377",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -55057,8 +55634,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "38",
     "poc": [
@@ -55075,7 +55652,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1451",
+    "popular_count": "1454",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -55385,8 +55962,8 @@
       "username": "scherstjanoi"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "30",
     "poc": [
@@ -55403,7 +55980,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "11262",
+    "popular_count": "11292",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -55723,8 +56300,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "29",
     "poc": [
@@ -55741,7 +56318,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1488",
+    "popular_count": "1494",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -56049,8 +56626,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "28",
     "poc": [
@@ -56067,7 +56644,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1444",
+    "popular_count": "1449",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -56385,8 +56962,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "27",
     "poc": [
@@ -56403,7 +56980,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1289",
+    "popular_count": "1294",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -56814,8 +57391,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "24",
     "poc": [
@@ -56832,7 +57409,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1607",
+    "popular_count": "1609",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -57138,8 +57715,8 @@
       "username": "scherstjanoi"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "19",
     "poc": [
@@ -57156,7 +57733,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "5153",
+    "popular_count": "5200",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -57604,8 +58181,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "11",
     "poc": [
@@ -57622,7 +58199,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2833",
+    "popular_count": "2859",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -57854,8 +58431,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "10",
     "poc": [
@@ -58096,8 +58673,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "9",
     "poc": [
@@ -58338,8 +58915,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "8",
     "poc": [
@@ -58580,8 +59157,8 @@
       "username": "opendata@thuenen.de"
     },
     "perms": [
-      "download_resourcebase",
-      "view_resourcebase"
+      "view_resourcebase",
+      "download_resourcebase"
     ],
     "pk": "7",
     "poc": [

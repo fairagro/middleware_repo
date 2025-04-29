@@ -33036,5 +33036,346 @@
       "@type": "Organization",
       "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/4c5eeb00-ba84-45f8-a549-533019c5d845/4c32343f-9146-4fa4-b1a2-e395841b7e3d/2",
+    "@type": "Dataset",
+    "author": [
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "06466",
+          "streetAddress": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+        },
+        "familyName": "Heuermann",
+        "givenName": "Marc Christian",
+        "name": "Marc Christian Heuermann"
+      },
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Altmann",
+        "givenName": "Thomas",
+        "name": "Thomas Altmann"
+      },
+      {
+        "@type": "Person",
+        "address": "Institute of Plant Sciences, Scuola Superiore Sant’Anna, 56127 Pisa, Italy , 56127, Italy",
+        "familyName": "Dell'Acqua",
+        "givenName": "Matteo",
+        "name": "Matteo Dell'Acqua"
+      },
+      {
+        "@type": "Person",
+        "address": "Institute of Plant Sciences, Scuola Superiore Sant’Anna, 56127 Pisa, Italy , 56127, Italy",
+        "familyName": "Caproni",
+        "givenName": "Leonardo",
+        "name": "Leonardo Caproni"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Altmann",
+        "givenName": "Thomas"
+      },
+      {
+        "@type": "Person",
+        "address": "Institute of Plant Sciences, Scuola Superiore Sant’Anna, 56127 Pisa, Italy , 56127, Italy",
+        "familyName": "Dell'Acqua",
+        "givenName": "Matteo"
+      },
+      {
+        "@type": "Person",
+        "address": "Institute of Plant Sciences, Scuola Superiore Sant’Anna, 56127 Pisa, Italy , 56127, Italy",
+        "familyName": "Caproni",
+        "givenName": "Leonardo"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Heuermann",
+        "givenName": "Marc Christian",
+        "name": "Marc Christian Heuermann"
+      }
+    ],
+    "datePublished": "Wed Feb 26 11:25:47 CET 2025",
+    "description": "A panel of 347 MAGIC maize lines and their 9 founder lines were phenotyped at high throughput in the Tier 1 phase of the CAPITALISE project. The phenotyping system accommodates 396 phenotyping units, so-called carriers with two pots each, in which 792 maize plants can be grown in parallel. The system is organized in 12 lanes with 33 carriers per lane. To ensure sufficient replication of three carriers per genotype in the Tier 1 experiments, the population was divided into three equal parts and phenotyped in three consecutive experiments, namely 2113MH, 2121MH and 2137MH. In each experiment, one third of the population was analyzed on IPK's high-throughput phenotyping platform for large plants, with a random overlap of 20 RILs from the other two experiments to ensure data compatibility. The nine founder lines were fully replicated in each experiment. The experimental design followed a completely randomized block design consisting of three blocks matching four of the twelve lanes of the HTP system. The README contains information about the folder and file structure.",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE",
+      "@type": "CreativeWork"
+    },
+    "inLanguage": "en",
+    "keywords": "plant phenotyping, image analysis, Zea mays, natural variation, RILs",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "A phenotypic dataset of natural variation in image-related traits by high-throughput phenotyping of 347 MAGIC maize lines and their 9 founder lines in the CAPITALISE project",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/544143f1-9105-4bce-be61-99cde78ad52c/501e5b3e-6f78-43f4-a00a-62718b36d604/2",
+    "@type": "Dataset",
+    "author": [
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "06466",
+          "streetAddress": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+        },
+        "familyName": "Oppermann",
+        "givenName": "Markus",
+        "name": "Markus Oppermann"
+      }
+    ],
+    "contributor": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Oppermann",
+        "givenName": "Markus",
+        "name": "Markus Oppermann"
+      }
+    ],
+    "datePublished": "Thu Mar 27 08:10:57 CET 2025",
+    "description": "This data set contains a snapshot of the passport data for the current genebank collection of the IPK (status: 2025-03-10). The data format follows the EURISCO MCPD, Version November 2017. The data set represent the current status of the data of the Genebank Information System (GBIS). It includes information to both actively maintained and historic accessions.",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE",
+      "@type": "CreativeWork"
+    },
+    "inLanguage": "en",
+    "keywords": "Passport data, genebank information, plant genetic ressources, IPK genebank, MCPD",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
+    "name": "IPK genebank accessions passport data snapshot 2025-03-10",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/0b258b73-1fba-4fb2-a959-06a7b95fc07e/8460ef92-a3db-4872-80c8-982de2a65e22/2",
+    "@type": "Dataset",
+    "author": [
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "24118",
+          "streetAddress": "Department of Landscape Ecology, Institute for Natural Resource Conservation, Kiel University, Kiel, Germany"
+        },
+        "familyName": "Laber",
+        "givenName": "Lars",
+        "name": "Lars Laber"
+      },
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "24118",
+          "streetAddress": "Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel, 24118, Germany"
+        },
+        "familyName": "Donath",
+        "givenName": "Tobias",
+        "name": "Tobias Donath"
+      },
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "35392",
+          "streetAddress": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen, 35392, Germany"
+        },
+        "familyName": "Junck",
+        "givenName": "Johannes",
+        "name": "Johannes Junck"
+      },
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "35392",
+          "streetAddress": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen, 35392, Germany"
+        },
+        "familyName": "Düring",
+        "givenName": "Rolf-Alexander",
+        "name": "Rolf-Alexander Düring"
+      },
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "06466",
+          "streetAddress": "Spatial and Environmental Sciences, Trier University, Behringstraße 21, Trier, 54296, Germany"
+        },
+        "familyName": "Eichberg",
+        "givenName": "Carsten",
+        "name": "Carsten Eichberg"
+      }
+    ],
+    "contributor": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "address": "Department of Landscape Ecology, Institute for Natural Resource Conservation, Kiel University, Kiel, Germany, 24118, Germany",
+        "familyName": "Laber",
+        "givenName": "Lars",
+        "name": "Lars Laber"
+      },
+      {
+        "@type": "Person",
+        "address": "Department of Landscape Ecology, Institute of Natural Resource Conservation, Kiel University, Olshausenstraße 75, Kiel, 24118, Germany, 24118, Germany",
+        "familyName": "Donath",
+        "givenName": "Tobias",
+        "name": "Tobias Donath"
+      },
+      {
+        "@type": "Person",
+        "address": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen, 35392, Germany, 35392, Germany",
+        "familyName": "Junck",
+        "givenName": "Johannes",
+        "name": "Johannes Junck"
+      },
+      {
+        "@type": "Person",
+        "address": "Institute of Soil Science and Soil Conservation, Justus Liebig University, Heinrich-Buff-Ring 26, Giessen, 35392, Germany, 35392, Germany",
+        "familyName": "Düring",
+        "givenName": "Rolf-Alexander",
+        "name": "Rolf-Alexander Düring"
+      },
+      {
+        "@type": "Person",
+        "address": "Spatial and Environmental Sciences, Trier University, Behringstraße 21, Trier, 54296, Germany, 06466, Germany",
+        "familyName": "Eichberg",
+        "givenName": "Carsten",
+        "name": "Carsten Eichberg"
+      }
+    ],
+    "datePublished": "Fri Mar 14 18:18:02 CET 2025",
+    "description": "In this experiment, we observed several fitness parameters of four different grassland species under the influence of varying concentrations of moxidectin in soil and added competition plants over a complete growth period. We analysed the effects of these factors on aboveground biomass, specific leaf area and intact leaf area. In addition, we also analysed soil and biomass samples via HPLC to analyse how moxidectin is taken up from soil into plants. For details, please refer to the publication: https://doi.org/10.1016/j.scitotenv.2025.178786\nIn the file 'Macrocyclic_lactone_contaminated_soil_SLA' you can find the data we used to calculate the specific leaf area.\nIn the file 'Macrocyclic_lactone_contaminated_soil_ILA' you can find the data we used to calculate the intact leaf area across the whole growth period.\nIn the file 'Macrocyclic_lactone_contaminated_soil_APB' you can find the data we used to calculate the aboveground plant biomass.\nIn the file 'Macrocyclic_lactone_contaminated_soil_HPLC_Soil_measurements' you can find the results of the HPLC analysis to determine moxidectin content in soil.\nIn the file 'Macrocyclic_lactone_contaminated_soil_HPLC_Plant_measurements' you can find the results of the HPLC analysis to determine moxidectin content in plant biomass.\nIn the file 'Macrocyclic_lactone_contaminated_soil_Legend' you can find  additional information regaring the data files and methods used in this experiment.\n",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE",
+      "@type": "CreativeWork"
+    },
+    "inLanguage": "de_DE",
+    "keywords": "Moxidectin, Anthelmintics, Soil, Weight, Grassland Species, Specific leaf area, Intact leaf area",
+    "license": "https://creativecommons.org/licenses/by-nc/4.0/legalcode",
+    "name": "Competition moderates impact of anthelmintic-contaminated soil on growth and fitness of temperate grassland species",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@id": "https://doi.ipk-gatersleben.de:443/DOI/752c6b3c-51a2-4e97-8772-d5e111401e16/2f4bc351-d1da-461d-b172-1ab9170d0b7c/2",
+    "@type": "Dataset",
+    "author": [
+      {
+        "@type": "Person",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "Germany",
+          "postalCode": "06466",
+          "streetAddress": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3"
+        },
+        "familyName": "Psaroudakis",
+        "givenName": "Dennis",
+        "name": "Dennis Psaroudakis"
+      },
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Neumann",
+        "givenName": "Kerstin",
+        "name": "Kerstin Neumann"
+      },
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "rolletschek",
+        "givenName": "hardy",
+        "name": "hardy rolletschek"
+      },
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Borisjuk",
+        "givenName": "Ljudmilla",
+        "name": "Ljudmilla Borisjuk"
+      },
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Szymanski",
+        "givenName": "Jedrzej",
+        "name": "Jedrzej Szymanski"
+      }
+    ],
+    "contributor": [
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Neumann",
+        "givenName": "Kerstin"
+      },
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "rolletschek",
+        "givenName": "hardy"
+      },
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Borisjuk",
+        "givenName": "Ljudmilla"
+      },
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Szymanski",
+        "givenName": "Jedrzej"
+      }
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "address": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany",
+        "familyName": "Psaroudakis",
+        "givenName": "Dennis",
+        "name": "Dennis Psaroudakis"
+      }
+    ],
+    "datePublished": "Thu Apr 10 10:10:17 CEST 2025",
+    "description": "Global agriculture and food security are increasingly threatened by heat stress due to climate change and more frequent heatwaves. Tomatoes are susceptible to heat stress in both field and greenhouse settings and further serve as an important model crop for vegetables, so they are a valuable species for heat resilience breeding. To help untangle the complexity of the multi-layered tomato heat stress response and identify target genes, we provide a comprehensive, time-resolved multi-omics dataset of heat stress in tomato: Tomato plants in their young vegetative stage were exposed to heat stress (37°C/28°C day/night) for 6 days and both macroscopic and molecular phenotypes extensively assayed before, during, and after the heat stress phase (i.e. in recovery), with parallel control plants for each time point. This repository contains data from the imaging-based phenotyping and FTIR measurement assays. RNA-Sequencing data are available at ENA (project PRJEB85881, https://www.ebi.ac.uk/ena/browser/view/PRJEB85881) more -omics data will be published and linked there over time. Each plant was phenotyped non-invasively over time but sampled only once and all molecular measurements stem from the same sample.",
+    "http://purl.org/dc/terms/conformsTo": {
+      "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE",
+      "@type": "CreativeWork"
+    },
+    "inLanguage": "en",
+    "keywords": "tomato, heat stress, high-throughput phenotyping, FTIR",
+    "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+    "name": "Time-Resolved Multi-Omics Analysis of Heat Stress Response in Moneymaker Tomato Plants",
+    "publisher": {
+      "@type": "Organization",
+      "name": "e!DAL - Plant Genomics and Phenomics Research Data Repository (PGP), IPK Gatersleben, Seeland OT Gatersleben, Corrensstraße 3, 06466, Germany"
+    }
   }
 ]

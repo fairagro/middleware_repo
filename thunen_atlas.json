@@ -346,7 +346,7 @@
       }
     ],
     "language": "ger",
-    "last_updated": "2025-04-16T14:00:27.820570Z",
+    "last_updated": "2025-05-05T07:56:01.210001Z",
     "license": {
       "identifier": ""
     },
@@ -538,7 +538,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "49",
+    "popular_count": "54",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -14048,10 +14048,10 @@
       "gn_description": "Farming",
       "identifier": "farming"
     },
-    "constraints_other": null,
+    "constraints_other": "",
     "created": "2024-03-28T14:14:26.171766Z",
     "custodian": [],
-    "data_quality_statement": null,
+    "data_quality_statement": "",
     "date": "2024-03-28T14:14:00Z",
     "date_type": "publication",
     "detail_url": "https://atlas.thuenen.de/catalogue/#/dataset/283",
@@ -14113,7 +14113,7 @@
       }
     ],
     "language": "ger",
-    "last_updated": "2024-10-23T15:27:18.861312Z",
+    "last_updated": "2025-04-30T13:28:20.098819Z",
     "license": {
       "identifier": ""
     },
@@ -14188,27 +14188,6 @@
         "mime": "text/html",
         "name": "OGC WFS: geonode Service",
         "url": "https://atlas.thuenen.de/geoserver/ows"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "PNG",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2022_thg&format=image%2Fpng&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
-      },
-      {
-        "extension": "jpg",
-        "link_type": "image",
-        "mime": "image/jpeg",
-        "name": "JPEG",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2022_thg&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
-      },
-      {
-        "extension": "pdf",
-        "link_type": "image",
-        "mime": "application/pdf",
-        "name": "PDF",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2022_thg&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
       },
       {
         "extension": "png",
@@ -14389,13 +14368,6 @@
         "extension": "png",
         "link_type": "image",
         "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-bcd74fb3-71de-4ce1-99ee-3f77ecfb9ff5-thumb-66fa30c4-a594-46ca-ad03-989b8eebe709.png"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
         "name": "Legend",
         "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissionen_lawi_1990_2022_thg&STYLE=CH4%20Emissionen%20aus%20dem%20Sektor%203A&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
       },
@@ -14461,6 +14433,34 @@
         "mime": "text/xml",
         "name": "DataCite",
         "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=bcd74fb3-71de-4ce1-99ee-3f77ecfb9ff5&outputschema=http%3A%2F%2Fdatacite.org%2Fschema%2Fkernel-4&elementsetname=full"
+      },
+      {
+        "extension": "jpg",
+        "link_type": "image",
+        "mime": "image/jpeg",
+        "name": "JPEG",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2022_thg&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
+      },
+      {
+        "extension": "pdf",
+        "link_type": "image",
+        "mime": "application/pdf",
+        "name": "PDF",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2022_thg&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "PNG",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2022_thg&format=image%2Fpng&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-bcd74fb3-71de-4ce1-99ee-3f77ecfb9ff5-thumb-6c180dfe-facf-47e3-b69b-0b2a0214c49f.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -14536,17 +14536,17 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "423",
+    "popular_count": "424",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
     "publisher": [],
-    "purpose": null,
+    "purpose": "",
     "rating": "0",
     "raw_abstract": "Als Vertragsstaat internationaler Abkommen zum Klimaschutz ist es das erklärte Ziel Deutschlands, den Ausstoß an Treibhausgasen zu reduzieren. Wissenschaftliche Bestandsaufnahmen liefern die notwendigen Daten. (https://www.thuenen.de/de/themenfelder/klima-und-luft). Die Bundesregierung hat sich im Rahmen von internationalen Vereinbarungen zum Klimaschutz dazu verpflichtet, nationale anthropogene Emissionen von Treibhausgasen zu berichten. Die Verantwortung für die gesamte deutsche Treibhausgasemissions-Berichterstattung liegt beim Bundesministerium für Wirtschaft und Klimaschutz (BMWK).  Die Ermittlung der Emissionen aus der Landwirtschaft unterliegt der Federführung des Bundesministeriums für Ernährung und Landwirtschaft (BMEL). Im Auftrag des BMEL erstellt das Institut für Agrarklimaschutz (AK) des Johann Heinrich von Thünen-Instituts (TI) das jährliche landwirtschaftliche Emissionsinventar. Gezeigt werden Emissionen von CH4, CO2 und N2Oaus dem Bereich, der durch die Berichterstattung im Berichtssektor „Landwirtschaft“ abgedeckt wird, d. h. die Nutztierhaltung und der Pflanzenbau. Die Vergärung von Energiepflanzen (Emissionen aus Fermenter, Gärrestlager und Gärrestausbringung) wird mit berücksichtigt. Emissionen aus Vorleistungsbereich (z. B. Düngerherstellung) und Energieverbrauch in der Landwirtschaft, die nach den IPCC-und EMEP-Regeln in gesonderten Sektoren berichtet werden, finden hier keine Berücksichtigung. Dies gilt insbesondere auch für die Emissionen aus der mobilen und stationären Feuerung in der Land- und Forstwirtschaft sowie Fischerei, die in der Einteilung nach Bundesklimaschutzgesetz der Landwirtschaft zugerechnet werden. Die Emissionen der einzelnen Treibhausgase und Luftschadstoffe wird auf Landkreisebene aggregiert dargestellt. Für diese Darstellung wurde die Aufteilung von Aktivitätsdaten auf Kreise teilweise gesch",
-    "raw_constraints_other": "None",
-    "raw_data_quality_statement": "None",
-    "raw_purpose": "None",
+    "raw_constraints_other": "",
+    "raw_data_quality_statement": "",
+    "raw_purpose": "",
     "raw_supplemental_information": "No information provided",
     "regions": [
       {
@@ -14567,17 +14567,17 @@
     },
     "srid": "EPSG:31467",
     "state": "PROCESSED",
-    "subtype": "vector",
+    "subtype": "vector_time",
     "supplemental_information": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">No information provided</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>",
     "temporal_extent_end": "2022-01-01T00:00:00Z",
     "temporal_extent_start": "1990-01-01T00:00:00Z",
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/layer-bcd74fb3-71de-4ce1-99ee-3f77ecfb9ff5-thumb-66fa30c4-a594-46ca-ad03-989b8eebe709.png",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-bcd74fb3-71de-4ce1-99ee-3f77ecfb9ff5-thumb-6c180dfe-facf-47e3-b69b-0b2a0214c49f.jpg",
     "title": "Emissionen von Treibhausgasen der deutschen Landwirtschaft 1990-2022",
     "tkeywords": [],
     "uuid": "bcd74fb3-71de-4ce1-99ee-3f77ecfb9ff5"
   },
   {
-    "abstract": "<p>Als Vertragsstaat internationaler Abkommen zur Luftreinhaltung ist es das erklärte Ziel Deutschlands, den Ausstoß an Luftschadstoffen zu reduzieren. Wissenschaftliche Bestandsaufnahmen liefern die notwendigen Daten. (https://www.thuenen.de/de/themenfelder/klima-und-luft). Die Bundesregierung hat sich im Rahmen von internationalen Vereinbarungen zur Luftreinhaltung dazu verpflichtet, nationale anthropogene Emissionen von Luftschadstoffen zu berichten. Die Berichterstattung zu Luftschadstoffemissionen liegt beim Bundesministerium für Umwelt und Verbraucherschutz (BMUV). Die Ermittlung der Emissionen aus der Landwirtschaft unterliegt der Federführung des Bundesministeriums für Ernährung und Landwirtschaft (BMEL). Im Auftrag des BMEL erstellt das Institut für Agrarklimaschutz (AK) des Johann Heinrich von Thünen-Instituts (TI) das jährliche landwirtschaftliche Emissionsinventar. Gezeigt werden Emissionen von NH3, NMVOC, NO und Stäuben aus dem Bereich, der durch die Berichterstattung im Berichtssektor „Landwirtschaft“ abgedeckt wird, d. h. die Nutztierhaltung und der Pflanzenbau. Die Vergärung von Energiepflanzen (Emissionen aus Fermenter, Gärrestlager und Gärrestausbringung) wird mit berücksichtigt. Emissionen aus Vorleistungsbereich (z. B. Düngerherstellung) und Energieverbrauch in der Landwirtschaft, die nach den IPCC-und EMEP-Regeln in gesonderten Sektoren berichtet werden, finden hier keine Berücksichtigung. Dies gilt insbesondere auch für die Emissionen aus der mobilen und stationären Feuerung in der Land- und Forstwirtschaft sowie Fischerei, die in der Einteilung nach Bundesklimaschutzgesetz der Landwirtschaft zugerechnet werden. Die Emissionen der einzelnen Treibhausgase und Luftschadstoffe wird auf Landkreisebene aggregiert dargestellt. Für diese Darstellung wurde die Aufteilung von Aktivitätsdaten auf Kreise teilweise geschätzt, da sie nicht statistisch erhoben wird. Die Anzahl der Stellen der zum Download bereitgestellten Daten lässt keinen Rückschluss a</p>",
+    "abstract": "<p>Als Vertragsstaat internationaler Abkommen zur Luftreinhaltung ist es das erkl&auml;rte Ziel Deutschlands, den Aussto&szlig; an Luftschadstoffen zu reduzieren. Wissenschaftliche Bestandsaufnahmen liefern die notwendigen Daten. (https://www.thuenen.de/de/themenfelder/klima-und-luft). Die Bundesregierung hat sich im Rahmen von internationalen Vereinbarungen zur Luftreinhaltung dazu verpflichtet, nationale anthropogene Emissionen von Luftschadstoffen zu berichten. Die Berichterstattung zu Luftschadstoffemissionen liegt beim Bundesministerium f&uuml;r Umwelt und Verbraucherschutz (BMUV). Die Ermittlung der Emissionen aus der Landwirtschaft unterliegt der Federf&uuml;hrung des Bundesministeriums f&uuml;r Ern&auml;hrung und Landwirtschaft (BMEL). Im Auftrag des BMEL erstellt das Institut f&uuml;r Agrarklimaschutz (AK) des Johann Heinrich von Th&uuml;nen-Instituts (TI) das j&auml;hrliche landwirtschaftliche Emissionsinventar. Gezeigt werden Emissionen von NH3, NMVOC, NO und St&auml;uben aus dem Bereich, der durch die Berichterstattung im Berichtssektor &bdquo;Landwirtschaft&ldquo; abgedeckt wird, d. h. die Nutztierhaltung und der Pflanzenbau. Die Verg&auml;rung von Energiepflanzen (Emissionen aus Fermenter, G&auml;rrestlager und G&auml;rrestausbringung) wird mit ber&uuml;cksichtigt. Emissionen aus Vorleistungsbereich (z. B. D&uuml;ngerherstellung) und Energieverbrauch in der Landwirtschaft, die nach den IPCC-und EMEP-Regeln in gesonderten Sektoren berichtet werden, finden hier keine Ber&uuml;cksichtigung. Dies gilt insbesondere auch f&uuml;r die Emissionen aus der mobilen und station&auml;ren Feuerung in der Land- und Forstwirtschaft sowie Fischerei, die in der Einteilung nach Bundesklimaschutzgesetz der Landwirtschaft zugerechnet werden. Die Emissionen der einzelnen Treibhausgase und Luftschadstoffe wird auf Landkreisebene aggregiert dargestellt. F&uuml;r diese Darstellung wurde die Aufteilung von Aktivit&auml;tsdaten auf Kreise teilweise gesch&auml;tzt, da sie nicht statistisch erhoben wird. Die Anzahl der Stellen der zum Download bereitgestellten Daten l&auml;sst keinen R&uuml;ckschluss a</p>",
     "alternate": "geonode:emissionen_lawi_1990_2022_luftschadstoffe",
     "attribution": "Cora Vos, Claus Rösemann, Hans-Dieter Haenel, Ulrich Dämmgen, Ulrike Döring, Sebastian Wulf, Brigitte Eurich-Menden, Annette Freibauer, Helmut Döhler, Carsten Schreiner, Bernhard Osterburg, Roland Fuß:  Gas- und partikelförmige Emissionen aus der deutschen Landwirtschaft 1990 – 2022",
     "bbox_polygon": {
@@ -14611,10 +14611,10 @@
       "gn_description": "Farming",
       "identifier": "farming"
     },
-    "constraints_other": null,
+    "constraints_other": "",
     "created": "2024-03-27T15:25:46.526222Z",
     "custodian": [],
-    "data_quality_statement": null,
+    "data_quality_statement": "",
     "date": "2024-03-27T15:25:00Z",
     "date_type": "publication",
     "detail_url": "https://atlas.thuenen.de/catalogue/#/dataset/281",
@@ -14676,7 +14676,7 @@
       }
     ],
     "language": "ger",
-    "last_updated": "2025-04-28T09:28:12.501803Z",
+    "last_updated": "2025-04-30T13:30:22.859729Z",
     "license": {
       "identifier": ""
     },
@@ -14939,7 +14939,7 @@
         "link_type": "image",
         "mime": "image/png",
         "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-6b38051c-c4ef-4383-8cfa-c53cc657736f-thumb-f3a21833-422b-4374-88d0-99ea2a2de4de.jpg"
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-6b38051c-c4ef-4383-8cfa-c53cc657736f-thumb-e1c92b03-bce4-437e-b2d2-acecde382c78.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -15015,17 +15015,17 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "238",
+    "popular_count": "239",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
     "publisher": [],
-    "purpose": null,
+    "purpose": "",
     "rating": "0",
     "raw_abstract": "Als Vertragsstaat internationaler Abkommen zur Luftreinhaltung ist es das erklärte Ziel Deutschlands, den Ausstoß an Luftschadstoffen zu reduzieren. Wissenschaftliche Bestandsaufnahmen liefern die notwendigen Daten. (https://www.thuenen.de/de/themenfelder/klima-und-luft). Die Bundesregierung hat sich im Rahmen von internationalen Vereinbarungen zur Luftreinhaltung dazu verpflichtet, nationale anthropogene Emissionen von Luftschadstoffen zu berichten. Die Berichterstattung zu Luftschadstoffemissionen liegt beim Bundesministerium für Umwelt und Verbraucherschutz (BMUV). Die Ermittlung der Emissionen aus der Landwirtschaft unterliegt der Federführung des Bundesministeriums für Ernährung und Landwirtschaft (BMEL). Im Auftrag des BMEL erstellt das Institut für Agrarklimaschutz (AK) des Johann Heinrich von Thünen-Instituts (TI) das jährliche landwirtschaftliche Emissionsinventar. Gezeigt werden Emissionen von NH3, NMVOC, NO und Stäuben aus dem Bereich, der durch die Berichterstattung im Berichtssektor „Landwirtschaft“ abgedeckt wird, d. h. die Nutztierhaltung und der Pflanzenbau. Die Vergärung von Energiepflanzen (Emissionen aus Fermenter, Gärrestlager und Gärrestausbringung) wird mit berücksichtigt. Emissionen aus Vorleistungsbereich (z. B. Düngerherstellung) und Energieverbrauch in der Landwirtschaft, die nach den IPCC-und EMEP-Regeln in gesonderten Sektoren berichtet werden, finden hier keine Berücksichtigung. Dies gilt insbesondere auch für die Emissionen aus der mobilen und stationären Feuerung in der Land- und Forstwirtschaft sowie Fischerei, die in der Einteilung nach Bundesklimaschutzgesetz der Landwirtschaft zugerechnet werden. Die Emissionen der einzelnen Treibhausgase und Luftschadstoffe wird auf Landkreisebene aggregiert dargestellt. Für diese Darstellung wurde die Aufteilung von Aktivitätsdaten auf Kreise teilweise geschätzt, da sie nicht statistisch erhoben wird. Die Anzahl der Stellen der zum Download bereitgestellten Daten lässt keinen Rückschluss a",
-    "raw_constraints_other": "None",
-    "raw_data_quality_statement": "None",
-    "raw_purpose": "None",
+    "raw_constraints_other": "",
+    "raw_data_quality_statement": "",
+    "raw_purpose": "",
     "raw_supplemental_information": "No information provided",
     "regions": [
       {
@@ -15050,7 +15050,7 @@
     "supplemental_information": "<p>No information provided</p>",
     "temporal_extent_end": "2022-01-01T00:00:00Z",
     "temporal_extent_start": "1990-01-01T00:00:00Z",
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-6b38051c-c4ef-4383-8cfa-c53cc657736f-thumb-f3a21833-422b-4374-88d0-99ea2a2de4de.jpg",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-6b38051c-c4ef-4383-8cfa-c53cc657736f-thumb-e1c92b03-bce4-437e-b2d2-acecde382c78.jpg",
     "title": "Emissionen von Luftschadstoffen der deutschen Landwirtschaft 1990-2022",
     "tkeywords": [],
     "uuid": "6b38051c-c4ef-4383-8cfa-c53cc657736f"
@@ -21527,7 +21527,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "593",
+    "popular_count": "594",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -21836,7 +21836,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "484",
+    "popular_count": "485",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -22145,7 +22145,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "513",
+    "popular_count": "515",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -26430,7 +26430,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2370",
+    "popular_count": "2375",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -26753,7 +26753,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2377",
+    "popular_count": "2378",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -27076,7 +27076,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "918",
+    "popular_count": "920",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -28511,7 +28511,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "33982",
+    "popular_count": "33983",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -34392,7 +34392,7 @@
       }
     ],
     "language": "ger",
-    "last_updated": "2023-03-23T15:26:33.076847Z",
+    "last_updated": "2025-04-30T13:29:35.290606Z",
     "license": {
       "identifier": ""
     },
@@ -34404,13 +34404,6 @@
         "mime": "image/jpeg",
         "name": "JPEG",
         "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2021_thg&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=fbe094b2"
       },
       {
         "extension": "xml",
@@ -34462,13 +34455,6 @@
         "url": "https://atlas.thuenen.de/showmetadata/xsl/181"
       },
       {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=b43ded65"
-      },
-      {
         "extension": "html",
         "link_type": "OGC:WMS",
         "mime": "text/html",
@@ -34481,118 +34467,6 @@
         "mime": "text/html",
         "name": "OGC WFS: geonode Service",
         "url": "https://atlas.thuenen.de/geoserver/ows"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=7c5c2411"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=719af6d3"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=435d0b51"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=a3cc7926"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=65d70f69"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=68c3109a"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=7115702e"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=08c03c61"
-      },
-      {
-        "extension": "pdf",
-        "link_type": "image",
-        "mime": "application/pdf",
-        "name": "PDF",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2021_thg&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=f44ea2fe"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=a64ecfd0"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=31266aa1"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=a1d4ec9a"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=0444753a"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=e06131ea"
       },
       {
         "extension": "png",
@@ -34654,13 +34528,6 @@
         "extension": "png",
         "link_type": "image",
         "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png?v=46416a99"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
         "name": "Legend",
         "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissionen_lawi_1990_2021_thg&STYLE=summer_der_landwirtschaftlichen_co2_emissionen___af5a3080-c955-11ed-a16c-eb87c89d5519&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
       },
@@ -34670,6 +34537,27 @@
         "mime": "image/png",
         "name": "Legend",
         "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissionen_lawi_1990_2021_thg&STYLE=sektor_3d_n2o_emissionen___6ce50700-c957-11ed-804c-bd2dab6c289c&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "DataCite",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=4ffecb75-2236-4953-86a4-e32215f3ced7&outputschema=http%3A%2F%2Fdatacite.org%2Fschema%2Fkernel-4&elementsetname=full"
+      },
+      {
+        "extension": "pdf",
+        "link_type": "image",
+        "mime": "application/pdf",
+        "name": "PDF",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2021_thg&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-210c81b3-a85b-4836-91d9-6b0bc553edc6.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -34745,7 +34633,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "2940",
+    "popular_count": "2941",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -34774,11 +34662,11 @@
     },
     "srid": "EPSG:31467",
     "state": "PROCESSED",
-    "subtype": "vector",
+    "subtype": "vector_time",
     "supplemental_information": "<p>Keine Information angegeben</p>",
     "temporal_extent_end": "2021-01-01T00:00:00Z",
     "temporal_extent_start": "1990-01-01T00:00:00Z",
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/layer-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-ef754ef7-4293-4710-bf99-00d0c3b3b6b5.png",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-4ffecb75-2236-4953-86a4-e32215f3ced7-thumb-210c81b3-a85b-4836-91d9-6b0bc553edc6.jpg",
     "title": "Emissionen von Treibhausgasen der deutschen Landwirtschaft 1990-2021",
     "tkeywords": [],
     "uuid": "4ffecb75-2236-4953-86a4-e32215f3ced7"
@@ -34883,7 +34771,7 @@
       }
     ],
     "language": "ger",
-    "last_updated": "2023-09-25T08:41:49.356527Z",
+    "last_updated": "2025-04-30T13:29:07.714159Z",
     "license": {
       "identifier": ""
     },
@@ -34895,13 +34783,6 @@
         "mime": "application/pdf",
         "name": "PDF",
         "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2021_luftschadstoffe&format=application%2Fpdf&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/layer-e5ca1d97-7199-47ed-9ebd-1ff1ddeb4b57-thumb-152bc43b-4d9d-4290-964d-4ed3987c635e.png"
       },
       {
         "extension": "xml",
@@ -34967,32 +34848,11 @@
         "url": "https://atlas.thuenen.de/geoserver/ows"
       },
       {
-        "extension": "jpg",
-        "link_type": "image",
-        "mime": "image/jpeg",
-        "name": "JPEG",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2021_luftschadstoffe&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
-      },
-      {
         "extension": "png",
         "link_type": "image",
         "mime": "image/png",
         "name": "Legend",
         "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissionen_lawi_1990_2021_luftschadstoffe&STYLE=polygon&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Legend",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissionen_lawi_1990_2021_luftschadstoffe&STYLE=summe_der_landwirtschftlichen_nh3_emissionen___6a36e4b0-c95c-11ed-8ec9-230ddb515d27&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
-      },
-      {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "PNG",
-        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2021_luftschadstoffe&format=image%2Fpng&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
       },
       {
         "extension": "png",
@@ -35042,6 +34902,41 @@
         "mime": "image/png",
         "name": "Legend",
         "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissionen_lawi_1990_2021_luftschadstoffe&STYLE=summe_pm25_emissionen___17319e70-c95e-11ed-8ec9-230ddb515d27&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
+      },
+      {
+        "extension": "xml",
+        "link_type": "metadata",
+        "mime": "text/xml",
+        "name": "DataCite",
+        "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=e5ca1d97-7199-47ed-9ebd-1ff1ddeb4b57&outputschema=http%3A%2F%2Fdatacite.org%2Fschema%2Fkernel-4&elementsetname=full"
+      },
+      {
+        "extension": "jpg",
+        "link_type": "image",
+        "mime": "image/jpeg",
+        "name": "JPEG",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2021_luftschadstoffe&format=image%2Fjpeg&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "PNG",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetMap&layers=geonode%3Aemissionen_lawi_1990_2021_luftschadstoffe&format=image%2Fpng&height=550&width=550&srs=EPSG%3A31467&bbox=3280373.2500000%2C5237510.0000000%2C3921531.7500000%2C6103349.0000000"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Legend",
+        "url": "https://atlas.thuenen.de/geoserver/ows?service=WMS&request=GetLegendGraphic&format=image/png&WIDTH=20&HEIGHT=20&LAYER=geonode:emissionen_lawi_1990_2021_luftschadstoffe&STYLE=summe_der_landwirtschftlichen_nh3_emissionen___6a36e4b0-c95c-11ed-8ec9-230ddb515d27&version=1.3.0&sld_version=1.1.0&legend_options=fontAntiAliasing:true;fontSize:12;forceLabels:on"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-e5ca1d97-7199-47ed-9ebd-1ff1ddeb4b57-thumb-bc94152a-a06d-4194-b304-de921ba2f5e7.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -35117,7 +35012,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1376",
+    "popular_count": "1377",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -35146,11 +35041,11 @@
     },
     "srid": "EPSG:31467",
     "state": "PROCESSED",
-    "subtype": "vector",
+    "subtype": "vector_time",
     "supplemental_information": "<p>Keine Information angegeben</p>",
     "temporal_extent_end": "2021-01-01T00:00:00Z",
     "temporal_extent_start": "1990-01-01T00:00:00Z",
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/layer-e5ca1d97-7199-47ed-9ebd-1ff1ddeb4b57-thumb-152bc43b-4d9d-4290-964d-4ed3987c635e.png",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-e5ca1d97-7199-47ed-9ebd-1ff1ddeb4b57-thumb-bc94152a-a06d-4194-b304-de921ba2f5e7.jpg",
     "title": "Emissionen von Luftschadstoffen der deutschen Landwirtschaft 1990-2021",
     "tkeywords": [],
     "uuid": "e5ca1d97-7199-47ed-9ebd-1ff1ddeb4b57"
@@ -37588,7 +37483,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "260",
+    "popular_count": "261",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -48115,7 +48010,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "49370",
+    "popular_count": "49373",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -55652,7 +55547,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1454",
+    "popular_count": "1456",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -55980,7 +55875,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "11292",
+    "popular_count": "11295",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -56318,7 +56213,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1494",
+    "popular_count": "1496",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -56644,7 +56539,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1449",
+    "popular_count": "1451",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -57733,7 +57628,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "5200",
+    "popular_count": "5201",
     "principal_investigator": [],
     "processed": true,
     "processor": [],

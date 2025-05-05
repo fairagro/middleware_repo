@@ -157,6 +157,7 @@
       },
       {
         "@type": "Person",
+        "affiliation": "Julius Kühn-Institute (JKI), Institute for Bee Protection, Germany",
         "familyName": "Jütte",
         "givenName": "Tobias",
         "identifier": [
@@ -423,6 +424,72 @@
     ],
     "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00100182",
     "name": "Win-N-DB Thünen",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Ostseefischerei",
+        "familyName": "Dinkel",
+        "givenName": "Thaya Mirinda",
+        "identifier": [
+          "https://d-nb.info/gnd/1257267809",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1257267809"
+          },
+          "https://viaf.org/viaf/9628165272262110690001/",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "viaf",
+            "value": "9628165272262110690001"
+          },
+          "https://orcid.org/0009-0003-3149-5608",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0009-0003-3149-5608"
+          }
+        ],
+        "name": "Dinkel, Thaya Mirinda"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Deutsches Meeresmuseum Stralsund",
+        "familyName": "Rostock",
+        "givenName": "Leon",
+        "name": "Rostock, Leon"
+      }
+    ],
+    "dateCreated": "2022 2024",
+    "datePublished": "2025-04",
+    "description": [
+      "",
+      "Training dataset or a binary classification model designed to distinguish real harbour porpoise echolocation narrow-band high-frequency (NBHF) signals from synthetic NBHF signals emitted by the PAL (Porpoise ALert, pinger alternative) in passive acoustic monitoring data collected using F-PODs (Chelonia Ltd., UK) within the PAL-CE project (thuenen.de/pal-ce, 2021-2025, BfN FKZ 3521820700). The training data set consists of the click train details table (.xlsx) that can be exported from the FPOD app (F-POD software v1.06) using the automated KERNO-F algorithm classifying for NBHF signals and retaining only high and moderate click train categories. Two experienced trainers manually separated click trains corresponding to real harbour porpoises and those belonging to the artificial PAL sounds based on visual information of the signals. A combined .xlsx file was created retaining only click trains were both annotators agreed resulting in a consensus-based training dataset comprising 154,772 click trains (912 real porpoise clicks and 153,860 PAL signals). This dataset was used to train an eXtreme Gradient Boosting (XGBoost) classifier (xgboost v1.7.8.1, R), enabling efficient and automated filtering of PAL signals from the broader dataset.",
+      "",
+      "Trainingsdatensatz für ein binäres Klassifikationsmodell zur Unterscheidung zwischen echten Echoortungssignalen von Schweinswalen im schmalbandig-hochfrequenten (NBHF) Bereich und synthetischen NBHF-Signalen, die vom PAL (Porpoise Alert, Alternative zum Pinger) ausgesendet werden, in passiv-akustischen Monitoringdaten, die mit F-PODs (Chelonia Ltd., UK) im Rahmen des PAL-CE-Projekts (thuenen.de/pal-ce, 2021-2025, BfN FKZ 3521820700) erhoben wurden. Der Trainingsdatensatz besteht aus der Tabelle der Klicksequenz-Details (.xlsx), die aus der FPOD-App (F-POD Software v1.06) unter Verwendung des automatisierten Analysealgorithmus KERNO-F exportiert wurde. Die Klassifikation erfolgte auf Basis von NBHF-Signalen, wobei nur die Kategorien „hoch“ und „moderat“ bei den Klicksequenzen berücksichtigt wurden. Zwei erfahrene Annotator:innen trennten manuell Klicksequenzen realer Schweinswale von jenen der künstlichen PAL-Signale, basierend auf der visuellen Darstellung der Signale. Es wurde eine kombinierte xlsx-Datei erstellt, in der nur solche Klicksequenzen enthalten sind, bei denen beide Annotator:innen dieselbe Klassifikation vornahmen. Daraus resultierte ein konsensbasierter Trainingsdatensatz bestehend aus 154.772 Klicksequenzen (912 echte Schweinswal-Klicks und 153.860 PAL-Signale). Dieser Datensatz wurde verwendet, um ein binäres Klassifikationsmodell mit eXtreme Gradient Boosting (XGBoost, xgboost v1.7.8.1, R) zu trainieren, um eine effiziente und automatisierte Filterung von PAL-Signalen aus dem Gesamtdatensatz zu ermöglichen."
+    ],
+    "headline": "Training data set for PAL filter",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/253-2025-43"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00107177",
+    "name": "Training data set for PAL filter",
     "publisher": {
       "@type": "Person",
       "name": "OpenAgrar"
@@ -1614,6 +1681,56 @@
       "",
       "Die Clusterstatistik liefert jährlich Informationen zu Umsatz, Wertschöpfung, Anzahl der Unternehmen und Anzahl der Beschäftigten für das gesamte Cluster Forst & Holz, sowie disaggregiert für die einbezogenen Wirtschaftszweige. Das Cluster Forst & Holz besteht aus der Forstwirtschaft und nachgelagerten Wirtschaftszweigen, die vom Rohstoff Holz abhängig sind. Daten für die Fortwirtschaft werden Berechnungen entsprechend des European Forest Accounts (TI-WF) entnommen. Für die holzbe- und -verarbeitenden Wirtschaftszweige werden amtliche Daten des Statistischen Bundesamtes (Destatis) und der Arbeitsagentur für Arbeit (Bafa) verwendet. Beschäftigungsdaten werden über jährliche Sonderabfragen für die relevanten Wirtschaftszweige, unterteilt nach sozialversicherungspflichtiger und anderweitig geringfügiger Beschäftigung für Gesamtdeutschland und die Bundesländer abgefragt. Daten zu Umsatz und Anzahl der Unternehmen werden den amtlichen Umsatzsteuervoranmeldungen (Destatis Code 73311) entnommen. Die Berechnung der Wertschöpfung basiert auf Daten der Struktur- und Kostenstrukturerhebungen (Fachserie 4, Reihen 4.3 und 5.3, Fachserie 9 Reihen 4.2 und 4.6). Die Fachserien sind online abrufbar unter https://www.statistischebibliothek.de/mir/content/index.xml Berichtszeitraum: 2000 bis 2020"
     ],
+    "headline": "Clusterstatistik Forst&Holz Datenbank bis 2020",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/253-2025-46"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by-nc/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00107370",
+    "name": "Clusterstatistik Forst&Holz Datenbank bis 2020",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut, Institut für Waldwirtschaft",
+        "familyName": "Iost",
+        "givenName": "Susanne",
+        "identifier": [
+          "https://d-nb.info/gnd/1019191570",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1019191570"
+          },
+          "https://orcid.org/0000-0001-5123-3822",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-5123-3822"
+          }
+        ],
+        "name": "Iost, Susanne"
+      }
+    ],
+    "datePublished": "2025-02",
+    "description": [
+      "",
+      "Die Clusterstatistik liefert jährlich Informationen zu Umsatz, Wertschöpfung, Anzahl der Unternehmen und Anzahl der Beschäftigten für das gesamte Cluster Forst & Holz, sowie disaggregiert für die einbezogenen Wirtschaftszweige. Das Cluster Forst & Holz besteht aus der Forstwirtschaft und nachgelagerten Wirtschaftszweigen, die vom Rohstoff Holz abhängig sind. Daten für die Fortwirtschaft werden Berechnungen entsprechend des European Forest Accounts (TI-WF) entnommen. Für die holzbe- und -verarbeitenden Wirtschaftszweige werden amtliche Daten des Statistischen Bundesamtes (Destatis) und der Arbeitsagentur für Arbeit (Bafa) verwendet. Beschäftigungsdaten werden über jährliche Sonderabfragen für die relevanten Wirtschaftszweige, unterteilt nach sozialversicherungspflichtiger und anderweitig geringfügiger Beschäftigung für Gesamtdeutschland und die Bundesländer abgefragt. Daten zu Umsatz und Anzahl der Unternehmen werden den amtlichen Umsatzsteuervoranmeldungen (Destatis Code 73311) entnommen. Die Berechnung der Wertschöpfung basiert auf Daten der Struktur- und Kostenstrukturerhebungen (Fachserie 4, Reihen 4.3 und 5.3, Fachserie 9 Reihen 4.2 und 4.6). Die Fachserien sind online abrufbar unter https://www.statistischebibliothek.de/mir/content/index.xml Berichtszeitraum: 2000 bis 2020"
+    ],
     "headline": "Clusterstatistik Forst&Holz Tabellen bis 2020",
     "identifier": [
       {
@@ -2283,6 +2400,50 @@
     "creator": [
       {
         "@type": "Person",
+        "affiliation": "Thünen Institute of Forestry",
+        "familyName": "Gordillo",
+        "givenName": "Fernando",
+        "identifier": [
+          "https://orcid.org/0000-0001-9183-0445",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-9183-0445"
+          }
+        ],
+        "name": "Gordillo, Fernando"
+      }
+    ],
+    "datePublished": "2025",
+    "description": [
+      "",
+      "This dataset contains material related to a scoping review conducted on substitution effects within bioeconomy. The aim of the scoping review is to identify definitions and methodological approaches used for the quantification of substitution effects for application in a bioeconomy monitoring framework. The scoping review was conducted guided by the 27-item checklist framework indicated on the Preferred Reporting Item for Systematic Reviews and Meta-Analysis (PRISMA) extension for scoping reviews, PRISMA-ScR. It searched for literature in two databases (Web of Science and Scopus) using bioeconomy-related search strings and keywords and spanning twenty-two and a half years (after 1999 until 2022) of scientific literature. The final selection includes 57 peer-reviewed articles published in English. The material includes the data extraction template, identification information from each article, summarized data extracted from articles as these relate to research questions and objectives of this review, verbatim explicit and implicit definitions as these were presented in the selected articles, as well as the displacement factors (from literature or authors` estimations) employed by the authors to analyze substitution effects."
+    ],
+    "headline": "How to define and measure substitution effects in bioeconomy: A scoping review – Data Set",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/253-2025-2"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00105561",
+    "name": "How to define and measure substitution effects in bioeconomy: A scoping review – Data Set",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
         "affiliation": "Thünen-Institut für Fischereiökologie",
         "familyName": "Kammann",
         "givenName": "Ulrike",
@@ -2401,468 +2562,6 @@
     "publisher": {
       "@type": "Person",
       "name": "Zenodo"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institute of Forestry",
-        "familyName": "Gordillo",
-        "givenName": "Fernando",
-        "identifier": [
-          "https://orcid.org/0000-0001-9183-0445",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0001-9183-0445"
-          }
-        ],
-        "name": "Gordillo, Fernando"
-      }
-    ],
-    "datePublished": "2025",
-    "description": [
-      "",
-      "This dataset contains material related to a scoping review conducted on substitution effects within bioeconomy. The aim of the scoping review is to identify definitions and methodological approaches used for the quantification of substitution effects for application in a bioeconomy monitoring framework. The scoping review was conducted guided by the 27-item checklist framework indicated on the Preferred Reporting Item for Systematic Reviews and Meta-Analysis (PRISMA) extension for scoping reviews, PRISMA-ScR. It searched for literature in two databases (Web of Science and Scopus) using bioeconomy-related search strings and keywords and spanning twenty-two and a half years (after 1999 until 2022) of scientific literature. The final selection includes 57 peer-reviewed articles published in English. The material includes the data extraction template, identification information from each article, summarized data extracted from articles as these relate to research questions and objectives of this review, verbatim explicit and implicit definitions as these were presented in the selected articles, as well as the displacement factors (from literature or authors` estimations) employed by the authors to analyze substitution effects."
-    ],
-    "headline": "How to define and measure substitution effects in bioeconomy: A scoping review – Data Set",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/253-2025-2"
-      }
-    ],
-    "license": [
-      "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00105561",
-    "name": "How to define and measure substitution effects in bioeconomy: A scoping review – Data Set",
-    "publisher": {
-      "@type": "Person",
-      "name": "OpenAgrar"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "University of Göttingen",
-        "familyName": "Tandetzki",
-        "givenName": "Julia",
-        "identifier": [
-          "https://d-nb.info/gnd/1294894277",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1294894277"
-          }
-        ],
-        "name": "Tandetzki, Julia"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Waldwirtschaft",
-        "familyName": "Honkomp",
-        "givenName": "Tomke",
-        "identifier": [
-          "https://d-nb.info/gnd/1225318386",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1225318386"
-          },
-          "https://orcid.org/0000-0002-6719-0190",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-6719-0190"
-          }
-        ],
-        "name": "Honkomp, Tomke"
-      }
-    ],
-    "datePublished": "2025",
-    "description": [
-      "",
-      "This package processes the model outputs from Bonannella et al. (2023), which provide spatially detailed global projections of potential natural vegetation (PNV) areas under three different climate change scenarios (RCP 2.6, 4.5, and 8.5) (van Vuuren et al. 2011) until 2080 (Bonnanella et al. 2023). We focus on processing these results (using TIFF files) to derive forest area estimates at the country level. The package begins with aggregating the data by country and adjusting forest definitions to match biome types and IUCN classifications, as provided in the dataset under PNV areas. The projections are converted to EPSG 8857 and then clipped with country data provided by geopandas at a 1x1 km pixel resolution. This allows us to derive country-specific areas in km². A toolbox is included to validate the results with alternative datasets (e.g., WDI). The package offers flexibility, enabling users to analyze not only the Bonanella et al. (2023) data but also other spatial maps using Python. Additionally, we examine how forest areas within countries and continents change up to 2080, focusing on both increases and decreases across various time frames. This tool can support long-term international forest and policy modelling, similar to other projects that leverage complex datasets for future scenario analysis. Bonannella, Carmelo; Hengl, Tomislav; Parente, Leandro; Bruin, Sytze de (2023): Biomes of the world under climate change scenarios: increasing aridity and higher temperatures lead to significant shifts in natural vegetation. In PeerJ 11, e15593. DOI: 10.7717/peerj.15593 . Van Vuuren, D.P., Edmonds, J., Kainuma, M. et al. The representative concentration pathways: an overview. Climatic Change 109, 5 (2011). https://doi.org/10.1007/s10584-011-0148-z"
-    ],
-    "headline": "Country-specific calculation of potential forest area (PFA)",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.5281/zenodo.14938796"
-      }
-    ],
-    "license": [
-      "https://open-access.net/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00105696",
-    "name": "Country-specific calculation of potential forest area (PFA)",
-    "publisher": {
-      "@type": "Person",
-      "name": "Zenodo"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Agrarklimaschutz",
-        "familyName": "Fuß",
-        "givenName": "Roland",
-        "identifier": [
-          "https://d-nb.info/gnd/139128220",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "139128220"
-          },
-          "https://viaf.org/viaf/29349125/",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "viaf",
-            "value": "29349125"
-          },
-          "https://orcid.org/0000-0002-0274-0809",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-0274-0809"
-          }
-        ],
-        "name": "Fuß, Roland"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Agrarklimaschutz",
-        "familyName": "Gensior",
-        "givenName": "Andreas",
-        "identifier": [
-          "https://d-nb.info/gnd/1019627409",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1019627409"
-          },
-          "https://viaf.org/viaf/232326032/",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "viaf",
-            "value": "232326032"
-          }
-        ],
-        "name": "Gensior, Andreas"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Waldökosysteme",
-        "familyName": "Stümer",
-        "givenName": "Wolfgang",
-        "identifier": [
-          "https://d-nb.info/gnd/138413495",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "138413495"
-          },
-          "https://viaf.org/viaf/89958121/",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "viaf",
-            "value": "89958121"
-          }
-        ],
-        "name": "Stümer, Wolfgang"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Agrarklimaschutz",
-        "familyName": "Laggner",
-        "givenName": "Andreas",
-        "identifier": [
-          "https://d-nb.info/gnd/1019147490",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1019147490"
-          },
-          "https://viaf.org/viaf/227747431/",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "viaf",
-            "value": "227747431"
-          }
-        ],
-        "name": "Laggner, Andreas"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Waldökosysteme",
-        "familyName": "Adam",
-        "givenName": "Sascha",
-        "identifier": [
-          "https://d-nb.info/gnd/1304009734",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1304009734"
-          },
-          "https://viaf.org/viaf/1689169639265296580000/",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "viaf",
-            "value": "1689169639265296580000"
-          }
-        ],
-        "name": "Adam, Sascha"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Agrarklimaschutz",
-        "familyName": "Drexler",
-        "givenName": "Sophie",
-        "identifier": [
-          "https://d-nb.info/gnd/1328393240",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1328393240"
-          },
-          "https://orcid.org/0000-0002-7232-1650",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-7232-1650"
-          }
-        ],
-        "name": "Drexler, Sophie"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Agrarklimaschutz",
-        "familyName": "Piyada",
-        "givenName": "Arndt",
-        "name": "Piyada, Arndt"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Waldökosysteme",
-        "familyName": "Scherstjanoi",
-        "givenName": "Marc",
-        "identifier": [
-          "https://orcid.org/0009-0007-5553-7349",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0009-0007-5553-7349"
-          }
-        ],
-        "name": "Scherstjanoi, Edgar"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen Institut für Holzforschung",
-        "familyName": "Rüter",
-        "givenName": "Sebastian",
-        "identifier": [
-          "https://d-nb.info/gnd/1018931449",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1018931449"
-          },
-          "https://viaf.org/viaf/222802078/",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "viaf",
-            "value": "222802078"
-          },
-          "https://orcid.org/0009-0000-1036-6987",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0009-0000-1036-6987"
-          }
-        ],
-        "name": "Rüter, Sebastian"
-      }
-    ],
-    "datePublished": "2025",
-    "description": [
-      "",
-      "In the UN Framework Convention on Climate Change (UNFCCC) Germany has committed to the mitigation of emissions of greenhouse gases. The convention as well as the EU LULUCF Regulation (Regulation (EU) 2018/841) requires annual reporting of greenhouse gas emissions. The LULUCF regulation and the Federal Climate Change Act require also reporting a short-term estimate for the previous year. The database contains input data and results of the calculation of GHG emissions and carbon sequestration in the Land Use, Land-Use Change and Forestry (LULUCF) sector in the years 1990 – 2024 on which the short-term estimate for 2024 is based on. The data is on a 100 m x 100 m grid over Germany."
-    ],
-    "headline": "LULUCF database (estimation 2025, climate change act)",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/253-2025-20"
-      },
-      {
-        "@type": "PropertyValue",
-        "propertyID": "intern_old",
-        "value": "sperrarchiv_00104458"
-      }
-    ],
-    "license": [
-      {
-        "@type": "CreativeWork",
-        "name": "all rights reserved"
-      }
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104458",
-    "name": "LULUCF database (estimation 2025, climate change act)",
-    "publisher": {
-      "@type": "Person",
-      "name": "Thünen-Institut"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Fischereiökologie",
-        "familyName": "Marohn",
-        "givenName": "Lasse",
-        "identifier": [
-          "https://d-nb.info/gnd/1019048948",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1019048948"
-          },
-          "https://orcid.org/0000-0002-0748-7128",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-0748-7128"
-          }
-        ],
-        "name": "Marohn, Lasse"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Fischereiökologie",
-        "familyName": "Freese",
-        "givenName": "Marko",
-        "identifier": [
-          "https://d-nb.info/gnd/1019550775",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1019550775"
-          },
-          "https://orcid.org/0000-0001-8919-6318",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0001-8919-6318"
-          }
-        ],
-        "name": "Freese, Marko"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Fischereiökologie",
-        "familyName": "Pohlmann",
-        "givenName": "Jan-Dag",
-        "identifier": [
-          "https://d-nb.info/gnd/1025014049",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1025014049"
-          },
-          "https://orcid.org/0000-0001-7385-913X",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0001-7385-913X"
-          }
-        ],
-        "name": "Pohlmann, Jan-Dag"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Fischereiökologie",
-        "familyName": "Wysujack",
-        "givenName": "Klaus",
-        "identifier": [
-          "https://d-nb.info/gnd/12421391X",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "12421391X"
-          },
-          "https://orcid.org/0000-0002-4083-3109",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-4083-3109"
-          }
-        ],
-        "name": "Wysujack, Klaus"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Fischereiökologie",
-        "familyName": "Hanel",
-        "givenName": "Reinhold",
-        "identifier": [
-          "https://d-nb.info/gnd/1011755254",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1011755254"
-          },
-          "https://orcid.org/0000-0002-3437-3679",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-3437-3679"
-          }
-        ],
-        "name": "Hanel, Reinhold"
-      }
-    ],
-    "dateCreated": "2022 2023",
-    "datePublished": "2025",
-    "description": [
-      "",
-      "Artenliste der mesopelagischen Fische, die 2022 während der 185. Reise der Meteor gefangen wurden."
-    ],
-    "headline": "M185 Mesopelagic fishes, species list",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/253-2025-36"
-      }
-    ],
-    "license": [
-      "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098259",
-    "name": "M185 Mesopelagic fishes, species list",
-    "publisher": {
-      "@type": "Person",
-      "name": "OpenAgrar"
     }
   },
   {
@@ -3379,6 +3078,424 @@
   {
     "@context": "http://schema.org/",
     "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Agrarklimaschutz",
+        "familyName": "Fuß",
+        "givenName": "Roland",
+        "identifier": [
+          "https://d-nb.info/gnd/139128220",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "139128220"
+          },
+          "https://viaf.org/viaf/29349125/",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "viaf",
+            "value": "29349125"
+          },
+          "https://orcid.org/0000-0002-0274-0809",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-0274-0809"
+          }
+        ],
+        "name": "Fuß, Roland"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Agrarklimaschutz",
+        "familyName": "Gensior",
+        "givenName": "Andreas",
+        "identifier": [
+          "https://d-nb.info/gnd/1019627409",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1019627409"
+          },
+          "https://viaf.org/viaf/232326032/",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "viaf",
+            "value": "232326032"
+          }
+        ],
+        "name": "Gensior, Andreas"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Waldökosysteme",
+        "familyName": "Stümer",
+        "givenName": "Wolfgang",
+        "identifier": [
+          "https://d-nb.info/gnd/138413495",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "138413495"
+          },
+          "https://viaf.org/viaf/89958121/",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "viaf",
+            "value": "89958121"
+          }
+        ],
+        "name": "Stümer, Wolfgang"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Agrarklimaschutz",
+        "familyName": "Laggner",
+        "givenName": "Andreas",
+        "identifier": [
+          "https://d-nb.info/gnd/1019147490",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1019147490"
+          },
+          "https://viaf.org/viaf/227747431/",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "viaf",
+            "value": "227747431"
+          }
+        ],
+        "name": "Laggner, Andreas"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Waldökosysteme",
+        "familyName": "Adam",
+        "givenName": "Sascha",
+        "identifier": [
+          "https://d-nb.info/gnd/1304009734",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1304009734"
+          },
+          "https://viaf.org/viaf/1689169639265296580000/",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "viaf",
+            "value": "1689169639265296580000"
+          }
+        ],
+        "name": "Adam, Sascha"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Agrarklimaschutz",
+        "familyName": "Drexler",
+        "givenName": "Sophie",
+        "identifier": [
+          "https://d-nb.info/gnd/1328393240",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1328393240"
+          },
+          "https://orcid.org/0000-0002-7232-1650",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-7232-1650"
+          }
+        ],
+        "name": "Drexler, Sophie"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Agrarklimaschutz",
+        "familyName": "Piyada",
+        "givenName": "Arndt",
+        "name": "Piyada, Arndt"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Waldökosysteme",
+        "familyName": "Scherstjanoi",
+        "givenName": "Marc",
+        "identifier": [
+          "https://orcid.org/0009-0007-5553-7349",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0009-0007-5553-7349"
+          }
+        ],
+        "name": "Scherstjanoi, Edgar"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen Institut für Holzforschung",
+        "familyName": "Rüter",
+        "givenName": "Sebastian",
+        "identifier": [
+          "https://d-nb.info/gnd/1018931449",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1018931449"
+          },
+          "https://viaf.org/viaf/222802078/",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "viaf",
+            "value": "222802078"
+          },
+          "https://orcid.org/0009-0000-1036-6987",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0009-0000-1036-6987"
+          }
+        ],
+        "name": "Rüter, Sebastian"
+      }
+    ],
+    "datePublished": "2025",
+    "description": [
+      "",
+      "In the UN Framework Convention on Climate Change (UNFCCC) Germany has committed to the mitigation of emissions of greenhouse gases. The convention as well as the EU LULUCF Regulation (Regulation (EU) 2018/841) requires annual reporting of greenhouse gas emissions. The LULUCF regulation and the Federal Climate Change Act require also reporting a short-term estimate for the previous year. The database contains input data and results of the calculation of GHG emissions and carbon sequestration in the Land Use, Land-Use Change and Forestry (LULUCF) sector in the years 1990 – 2024 on which the short-term estimate for 2024 is based on. The data is on a 100 m x 100 m grid over Germany."
+    ],
+    "headline": "LULUCF database (estimation 2025, climate change act)",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/253-2025-20"
+      },
+      {
+        "@type": "PropertyValue",
+        "propertyID": "intern_old",
+        "value": "sperrarchiv_00104458"
+      }
+    ],
+    "license": [
+      {
+        "@type": "CreativeWork",
+        "name": "all rights reserved"
+      }
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104458",
+    "name": "LULUCF database (estimation 2025, climate change act)",
+    "publisher": {
+      "@type": "Person",
+      "name": "Thünen-Institut"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "University of Göttingen",
+        "familyName": "Tandetzki",
+        "givenName": "Julia",
+        "identifier": [
+          "https://d-nb.info/gnd/1294894277",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1294894277"
+          }
+        ],
+        "name": "Tandetzki, Julia"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Waldwirtschaft",
+        "familyName": "Honkomp",
+        "givenName": "Tomke",
+        "identifier": [
+          "https://d-nb.info/gnd/1225318386",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1225318386"
+          },
+          "https://orcid.org/0000-0002-6719-0190",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-6719-0190"
+          }
+        ],
+        "name": "Honkomp, Tomke"
+      }
+    ],
+    "datePublished": "2025",
+    "description": [
+      "",
+      "This package processes the model outputs from Bonannella et al. (2023), which provide spatially detailed global projections of potential natural vegetation (PNV) areas under three different climate change scenarios (RCP 2.6, 4.5, and 8.5) (van Vuuren et al. 2011) until 2080 (Bonnanella et al. 2023). We focus on processing these results (using TIFF files) to derive forest area estimates at the country level. The package begins with aggregating the data by country and adjusting forest definitions to match biome types and IUCN classifications, as provided in the dataset under PNV areas. The projections are converted to EPSG 8857 and then clipped with country data provided by geopandas at a 1x1 km pixel resolution. This allows us to derive country-specific areas in km². A toolbox is included to validate the results with alternative datasets (e.g., WDI). The package offers flexibility, enabling users to analyze not only the Bonanella et al. (2023) data but also other spatial maps using Python. Additionally, we examine how forest areas within countries and continents change up to 2080, focusing on both increases and decreases across various time frames. This tool can support long-term international forest and policy modelling, similar to other projects that leverage complex datasets for future scenario analysis. Bonannella, Carmelo; Hengl, Tomislav; Parente, Leandro; Bruin, Sytze de (2023): Biomes of the world under climate change scenarios: increasing aridity and higher temperatures lead to significant shifts in natural vegetation. In PeerJ 11, e15593. DOI: 10.7717/peerj.15593 . Van Vuuren, D.P., Edmonds, J., Kainuma, M. et al. The representative concentration pathways: an overview. Climatic Change 109, 5 (2011). https://doi.org/10.1007/s10584-011-0148-z"
+    ],
+    "headline": "Country-specific calculation of potential forest area (PFA)",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.5281/zenodo.14938796"
+      }
+    ],
+    "license": [
+      "https://open-access.net/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00105696",
+    "name": "Country-specific calculation of potential forest area (PFA)",
+    "publisher": {
+      "@type": "Person",
+      "name": "Zenodo"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Fischereiökologie",
+        "familyName": "Marohn",
+        "givenName": "Lasse",
+        "identifier": [
+          "https://d-nb.info/gnd/1019048948",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1019048948"
+          },
+          "https://orcid.org/0000-0002-0748-7128",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-0748-7128"
+          }
+        ],
+        "name": "Marohn, Lasse"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Fischereiökologie",
+        "familyName": "Freese",
+        "givenName": "Marko",
+        "identifier": [
+          "https://d-nb.info/gnd/1019550775",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1019550775"
+          },
+          "https://orcid.org/0000-0001-8919-6318",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-8919-6318"
+          }
+        ],
+        "name": "Freese, Marko"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Fischereiökologie",
+        "familyName": "Pohlmann",
+        "givenName": "Jan-Dag",
+        "identifier": [
+          "https://d-nb.info/gnd/1025014049",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1025014049"
+          },
+          "https://orcid.org/0000-0001-7385-913X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-7385-913X"
+          }
+        ],
+        "name": "Pohlmann, Jan-Dag"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Fischereiökologie",
+        "familyName": "Wysujack",
+        "givenName": "Klaus",
+        "identifier": [
+          "https://d-nb.info/gnd/12421391X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "12421391X"
+          },
+          "https://orcid.org/0000-0002-4083-3109",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-4083-3109"
+          }
+        ],
+        "name": "Wysujack, Klaus"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Fischereiökologie",
+        "familyName": "Hanel",
+        "givenName": "Reinhold",
+        "identifier": [
+          "https://d-nb.info/gnd/1011755254",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1011755254"
+          },
+          "https://orcid.org/0000-0002-3437-3679",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-3437-3679"
+          }
+        ],
+        "name": "Hanel, Reinhold"
+      }
+    ],
+    "dateCreated": "2022 2023",
+    "datePublished": "2025",
+    "description": [
+      "",
+      "Artenliste der mesopelagischen Fische, die 2022 während der 185. Reise der Meteor gefangen wurden."
+    ],
+    "headline": "M185 Mesopelagic fishes, species list",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/253-2025-36"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098259",
+    "name": "M185 Mesopelagic fishes, species list",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
     "alternativeHeadline": [
       "Monitoring Rural Areas - Survey on the Compatibility of Gainful Employment and Family (In-depth Survey)"
     ],
@@ -3421,6 +3538,56 @@
     ],
     "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104080",
     "name": "Monitoring Ländliche Räume - Befragung zur Vereinbarkeit von Erwerbsarbeit und Familie (Vertiefungsbefragung)",
+    "publisher": {
+      "@type": "Person",
+      "name": "GESIS"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [
+      "Monitoring Rural Areas - Survey on Quality of Life (General Survey)"
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Lebensverhältnisse in ländlichen Räumen",
+        "familyName": "Kreis",
+        "givenName": "Joachim",
+        "identifier": [
+          "https://d-nb.info/gnd/1081308117",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1081308117"
+          }
+        ],
+        "name": "Kreis, Joachim"
+      }
+    ],
+    "dateCreated": "2016-09-14 2016-11-03",
+    "datePublished": "2024-12-19",
+    "description": [
+      "",
+      "Ländliche Räume sind Heimat für etwa 30 bis 50 Prozent der Bevölkerung in Deutschland – je nachdem, wie dieser Raumtyp genau definiert wird. Dörfer und kleinere Städte prägen ländliche Räume ebenso wie Land- und Forstwirtschaft sowie eine vergleichsweise geringe Bevölkerungs- und Siedlungsdichte. Das Monitoring ländlicher Räume nutzt neben Struktur- auch eigens erhobene Befragungsdaten zur subjektiven Bewertung ländlicher Lebensverhältnisse. Es handelt sich um eine standardisierte Befragung der erwachsenen Bevölkerung in den ländlichen Räumen Deutschlands zu den Themenschwerpunkten Lebensqualität und Daseinsvorsorge."
+    ],
+    "headline": "Monitoring Ländliche Räume - Befragung zur Lebensqualität (Allgemeinbefragung)",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.4232/1.14335"
+      }
+    ],
+    "license": [
+      {
+        "@type": "CreativeWork",
+        "name": "all rights reserved"
+      }
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104075",
+    "name": "Monitoring Ländliche Räume - Befragung zur Lebensqualität (Allgemeinbefragung)",
     "publisher": {
       "@type": "Person",
       "name": "GESIS"
@@ -3492,56 +3659,6 @@
     ],
     "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104059",
     "name": "Wanderungs- und Bleibe-Befragung „Vom Kommen, Gehen und Bleiben“ (KoBaLd)",
-    "publisher": {
-      "@type": "Person",
-      "name": "GESIS"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [
-      "Monitoring Rural Areas - Survey on Quality of Life (General Survey)"
-    ],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Lebensverhältnisse in ländlichen Räumen",
-        "familyName": "Kreis",
-        "givenName": "Joachim",
-        "identifier": [
-          "https://d-nb.info/gnd/1081308117",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1081308117"
-          }
-        ],
-        "name": "Kreis, Joachim"
-      }
-    ],
-    "dateCreated": "2016-09-14 2016-11-03",
-    "datePublished": "2024-12-19",
-    "description": [
-      "",
-      "Ländliche Räume sind Heimat für etwa 30 bis 50 Prozent der Bevölkerung in Deutschland – je nachdem, wie dieser Raumtyp genau definiert wird. Dörfer und kleinere Städte prägen ländliche Räume ebenso wie Land- und Forstwirtschaft sowie eine vergleichsweise geringe Bevölkerungs- und Siedlungsdichte. Das Monitoring ländlicher Räume nutzt neben Struktur- auch eigens erhobene Befragungsdaten zur subjektiven Bewertung ländlicher Lebensverhältnisse. Es handelt sich um eine standardisierte Befragung der erwachsenen Bevölkerung in den ländlichen Räumen Deutschlands zu den Themenschwerpunkten Lebensqualität und Daseinsvorsorge."
-    ],
-    "headline": "Monitoring Ländliche Räume - Befragung zur Lebensqualität (Allgemeinbefragung)",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.4232/1.14335"
-      }
-    ],
-    "license": [
-      {
-        "@type": "CreativeWork",
-        "name": "all rights reserved"
-      }
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104075",
-    "name": "Monitoring Ländliche Räume - Befragung zur Lebensqualität (Allgemeinbefragung)",
     "publisher": {
       "@type": "Person",
       "name": "GESIS"
@@ -18592,6 +18709,68 @@
     "creator": [
       {
         "@type": "Person",
+        "affiliation": "Thünen-Institut für Betriebswirtschaft",
+        "familyName": "Klockgether",
+        "givenName": "Kathrin",
+        "name": "Klockgether, Kathrin"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Betriebswirtschaft",
+        "familyName": "Ludwig-Ohm",
+        "givenName": "Sabine",
+        "name": "Ludwig-Ohm, Sabine"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Betriebswirtschaft",
+        "familyName": "Dirksmeyer",
+        "givenName": "Walter",
+        "identifier": [
+          "https://d-nb.info/gnd/132631652",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "132631652"
+          },
+          "https://orcid.org/0000-0003-0414-635X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0003-0414-635X"
+          }
+        ],
+        "name": "Dirksmeyer, Walter"
+      }
+    ],
+    "datePublished": "2024",
+    "description": [
+      "",
+      "Der Datensatz enthält 8 Fragebögen für persönliche Interviews mit Entscheidungstragenden auf Erzeugerebene und in der Wertschöpfungskette zur Analyse der Lebensmittelverluste: - im Freilandanbau von Möhre, Salat, Apfel und Erdbeere, - im geschützten Anbau von Erdbeere und Himbeere und - in Verarbeitung und Lebensmitteleinzelhandel"
+    ],
+    "headline": "Datensatz mit Fragebögen zur Analyse von Lebensmittelverlusten bei Obst und Gemüse auf Erzeugerebene und in der Wertschöpfungskette",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "intern",
+        "value": "Datenmeldung"
+      }
+    ],
+    "license": [
+      {
+        "@type": "CreativeWork",
+        "name": "all rights reserved"
+      }
+    ],
+    "name": "Datensatz mit Fragebögen zur Analyse von Lebensmittelverlusten bei Obst und Gemüse auf Erzeugerebene und in der Wertschöpfungskette"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
         "affiliation": "Thünen-Institute of climate-smart agriculture",
         "familyName": "Welpelo",
         "givenName": "Carla",
@@ -19829,6 +20008,78 @@
     "creator": [
       {
         "@type": "Person",
+        "affiliation": "Thuenen-Institute of Forestry",
+        "familyName": "Gordillo",
+        "givenName": "Fernando",
+        "identifier": [
+          "https://orcid.org/0000-0001-9183-0445",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-9183-0445"
+          }
+        ],
+        "name": "Gordillo, Fernando"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thuenen-Institute of Forestry",
+        "familyName": "Elsasser",
+        "givenName": "Peter",
+        "identifier": [
+          "https://d-nb.info/gnd/11298066X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "11298066X"
+          },
+          "https://orcid.org/0000-0002-2517-9428",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-2517-9428"
+          }
+        ],
+        "name": "Elsasser, Peter"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thuenen-Institute of Forestry",
+        "familyName": "Günter",
+        "givenName": "Sven",
+        "name": "Günter, Sven"
+      }
+    ],
+    "datePublished": "2024",
+    "description": [
+      "",
+      "The files contain the original raw data of a 2017 population survey in Ecuador that used the contingent valuation method for valuing forest conservation, codebook, sampling method, final sample, survey results descriptive statistics and corresponding questionnaires in English and Spanish. This application of the Contingent Valuation Method aimed at valuing the willingness to pay (WTP) for the conservation of approximately 500 km2 of forests for one year. The data set comprises 976 personal interviews from a nationwide population sample."
+    ],
+    "headline": "LaForeT-PES Survey Data",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/DATA20240813141517-0"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098397",
+    "name": "LaForeT-PES Survey Data",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
         "affiliation": "Thünen Institute of Sea Fisheries, Germany Thünen Institute of Baltic Sea Fisheries, Germany",
         "familyName": "Fiorentino",
         "givenName": "Dario",
@@ -20046,140 +20297,6 @@
     "publisher": {
       "@type": "Person",
       "name": "Thünen-Institut"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Betriebswirtschaft",
-        "familyName": "Klockgether",
-        "givenName": "Kathrin",
-        "name": "Klockgether, Kathrin"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Betriebswirtschaft",
-        "familyName": "Ludwig-Ohm",
-        "givenName": "Sabine",
-        "name": "Ludwig-Ohm, Sabine"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Betriebswirtschaft",
-        "familyName": "Dirksmeyer",
-        "givenName": "Walter",
-        "identifier": [
-          "https://d-nb.info/gnd/132631652",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "132631652"
-          },
-          "https://orcid.org/0000-0003-0414-635X",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0003-0414-635X"
-          }
-        ],
-        "name": "Dirksmeyer, Walter"
-      }
-    ],
-    "datePublished": "2024",
-    "description": [
-      "",
-      "Der Datensatz enthält 8 Fragebögen für persönliche Interviews mit Entscheidungstragenden auf Erzeugerebene und in der Wertschöpfungskette zur Analyse der Lebensmittelverluste: - im Freilandanbau von Möhre, Salat, Apfel und Erdbeere, - im geschützten Anbau von Erdbeere und Himbeere und - in Verarbeitung und Lebensmitteleinzelhandel"
-    ],
-    "headline": "Datensatz mit Fragebögen zur Analyse von Lebensmittelverlusten bei Obst und Gemüse auf Erzeugerebene und in der Wertschöpfungskette",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "intern",
-        "value": "Datenmeldung"
-      }
-    ],
-    "license": [
-      {
-        "@type": "CreativeWork",
-        "name": "all rights reserved"
-      }
-    ],
-    "name": "Datensatz mit Fragebögen zur Analyse von Lebensmittelverlusten bei Obst und Gemüse auf Erzeugerebene und in der Wertschöpfungskette"
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "Thuenen-Institute of Forestry",
-        "familyName": "Gordillo",
-        "givenName": "Fernando",
-        "identifier": [
-          "https://orcid.org/0000-0001-9183-0445",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0001-9183-0445"
-          }
-        ],
-        "name": "Gordillo, Fernando"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thuenen-Institute of Forestry",
-        "familyName": "Elsasser",
-        "givenName": "Peter",
-        "identifier": [
-          "https://d-nb.info/gnd/11298066X",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "11298066X"
-          },
-          "https://orcid.org/0000-0002-2517-9428",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-2517-9428"
-          }
-        ],
-        "name": "Elsasser, Peter"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thuenen-Institute of Forestry",
-        "familyName": "Günter",
-        "givenName": "Sven",
-        "name": "Günter, Sven"
-      }
-    ],
-    "datePublished": "2024",
-    "description": [
-      "",
-      "The files contain the original raw data of a 2017 population survey in Ecuador that used the contingent valuation method for valuing forest conservation, codebook, sampling method, final sample, survey results descriptive statistics and corresponding questionnaires in English and Spanish. This application of the Contingent Valuation Method aimed at valuing the willingness to pay (WTP) for the conservation of approximately 500 km2 of forests for one year. The data set comprises 976 personal interviews from a nationwide population sample."
-    ],
-    "headline": "LaForeT-PES Survey Data",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/DATA20240813141517-0"
-      }
-    ],
-    "license": [
-      "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098397",
-    "name": "LaForeT-PES Survey Data",
-    "publisher": {
-      "@type": "Person",
-      "name": "OpenAgrar"
     }
   },
   {
@@ -22209,21 +22326,21 @@
     "datePublished": "2023-07-19",
     "description": [
       "",
-      "Dieser Datensatz enthält Bodendaten aus einem Befahrungsversuch mit einem landwirtschaftlichen Fahrzeug (2-achsiger Mähdrescher mit Bunker; Gesamtgewicht: 17 t). Der Versuch fand 2017 während der Ernte statt. Der Boden, eine pseudovergleyte Parabraunerde aus Löss, wurde bis 28 cm Tiefe bearbeitet. Der Mähdrescher fuhr nacheinander über definierte Plots. Im Kernfeldbereich wurden zwei und im Vorgewende acht Überrollungen durchgeführt. Vor den Befahrungen wurde je Variante eine, nach den Befahrungen zwei Gruben ausgehoben. Folgende Messungen wurde in 20, 35 und 50 cm Tiefe je Grube durchgeführt: Bodendruck und plastische Bodensetzung Wasserretentionseigenschaften, Lagerungsdichte und gesättigte hydr. Leitfähigkeit (100 cm3 Stechzylinder; je 5 Wiederholungen pro Grube und Tiefe). Daraus abgeleitet wurden Gesamtporenvolumen, Luftkapazität, Feldkapazität, permanenter Welkepunkt und Trocken-rohdichte Bioporen wurden in jeder Grube und Tiefe gezählt"
+      "Dieser Datensatz enthält Bodendaten aus einem Befahrungsversuch mit landwirtschaftlichen Fahrzeugen der Silomaishäckselkette (Maishäcksler: ca. 20 t, Traktor mit Mulcher: ca.12 t, Traktor mit Silowagen: ca. 32 t). Der Versuch fand 2017 während der Ernte statt. Der Boden, eine pseudovergleyte Parabraunerde aus Löss, wurde bis 25 cm Tiefe bearbeitet. Die Fahrzeuge fuhren nacheinander über definierte Plots im Kernfeldbereich (8 Radüberrollungen). Vor und nach den Befahrungen wurden je Variante 2 Gruben ausgehoben. Folgende Messungen wurde in 20, 35 und 50 cm Tiefe je Grube durchgeführt: Bodendruck und plastische Bodensetzung Wasserretentionseigenschaften, Lagerungsdichte und gesättigte hydr. Leitfähigkeit (100 cm3 Stechzylinder; je 5 Wiederholungen pro Grube und Tiefe). Daraus abgeleitet wurden Gesamtporenvolumen, Luftkapazität, Feldkapazität, permanenter Welkepunkt und Trocken-rohdichte Bioporen wurden in jeder Grube und Tiefe gezählt"
     ],
-    "headline": "Bodendruck, -setzung und Änderungen bodenphysikalischer Parameter durch Befahrung mit einem Mähdrescher im Jahr 2017",
+    "headline": "Bodendruck, Deformation und Änderungen der bodenphysikalischen Parameter verursacht durch die Silomais-Erntekette auf einer Parabraunerde aus Löss im Jahr 2017",
     "identifier": [
       {
         "@type": "PropertyValue",
         "propertyID": "doi",
-        "value": "10.20387/bonares-0kxj-bv82"
+        "value": "10.20387/bonares-c2m5-dy36"
       }
     ],
     "license": [
       "https://creativecommons.org/licenses/by/4.0/"
     ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098833",
-    "name": "Bodendruck, -setzung und Änderungen bodenphysikalischer Parameter durch Befahrung mit einem Mähdrescher im Jahr 2017",
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098829",
+    "name": "Bodendruck, Deformation und Änderungen der bodenphysikalischen Parameter verursacht durch die Silomais-Erntekette auf einer Parabraunerde aus Löss im Jahr 2017",
     "publisher": {
       "@type": "Person",
       "name": "BonaRes Data Center (Leibniz Centre for Agricultural Landscape Research (ZALF))"
@@ -22253,21 +22370,21 @@
     "datePublished": "2023-07-19",
     "description": [
       "",
-      "Dieser Datensatz enthält Bodendaten aus einem Befahrungsversuch mit landwirtschaftlichen Fahrzeugen der Silomaishäckselkette (Maishäcksler: ca. 20 t, Traktor mit Mulcher: ca.12 t, Traktor mit Silowagen: ca. 32 t). Der Versuch fand 2017 während der Ernte statt. Der Boden, eine pseudovergleyte Parabraunerde aus Löss, wurde bis 25 cm Tiefe bearbeitet. Die Fahrzeuge fuhren nacheinander über definierte Plots im Kernfeldbereich (8 Radüberrollungen). Vor und nach den Befahrungen wurden je Variante 2 Gruben ausgehoben. Folgende Messungen wurde in 20, 35 und 50 cm Tiefe je Grube durchgeführt: Bodendruck und plastische Bodensetzung Wasserretentionseigenschaften, Lagerungsdichte und gesättigte hydr. Leitfähigkeit (100 cm3 Stechzylinder; je 5 Wiederholungen pro Grube und Tiefe). Daraus abgeleitet wurden Gesamtporenvolumen, Luftkapazität, Feldkapazität, permanenter Welkepunkt und Trocken-rohdichte Bioporen wurden in jeder Grube und Tiefe gezählt"
+      "Dieser Datensatz enthält Bodendaten aus einem Befahrungsversuch mit einem landwirtschaftlichen Fahrzeug (2-achsiger Mähdrescher mit Bunker; Gesamtgewicht: 17 t). Der Versuch fand 2017 während der Ernte statt. Der Boden, eine pseudovergleyte Parabraunerde aus Löss, wurde bis 28 cm Tiefe bearbeitet. Der Mähdrescher fuhr nacheinander über definierte Plots. Im Kernfeldbereich wurden zwei und im Vorgewende acht Überrollungen durchgeführt. Vor den Befahrungen wurde je Variante eine, nach den Befahrungen zwei Gruben ausgehoben. Folgende Messungen wurde in 20, 35 und 50 cm Tiefe je Grube durchgeführt: Bodendruck und plastische Bodensetzung Wasserretentionseigenschaften, Lagerungsdichte und gesättigte hydr. Leitfähigkeit (100 cm3 Stechzylinder; je 5 Wiederholungen pro Grube und Tiefe). Daraus abgeleitet wurden Gesamtporenvolumen, Luftkapazität, Feldkapazität, permanenter Welkepunkt und Trocken-rohdichte Bioporen wurden in jeder Grube und Tiefe gezählt"
     ],
-    "headline": "Bodendruck, Deformation und Änderungen der bodenphysikalischen Parameter verursacht durch die Silomais-Erntekette auf einer Parabraunerde aus Löss im Jahr 2017",
+    "headline": "Bodendruck, -setzung und Änderungen bodenphysikalischer Parameter durch Befahrung mit einem Mähdrescher im Jahr 2017",
     "identifier": [
       {
         "@type": "PropertyValue",
         "propertyID": "doi",
-        "value": "10.20387/bonares-c2m5-dy36"
+        "value": "10.20387/bonares-0kxj-bv82"
       }
     ],
     "license": [
       "https://creativecommons.org/licenses/by/4.0/"
     ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098829",
-    "name": "Bodendruck, Deformation und Änderungen der bodenphysikalischen Parameter verursacht durch die Silomais-Erntekette auf einer Parabraunerde aus Löss im Jahr 2017",
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098833",
+    "name": "Bodendruck, -setzung und Änderungen bodenphysikalischer Parameter durch Befahrung mit einem Mähdrescher im Jahr 2017",
     "publisher": {
       "@type": "Person",
       "name": "BonaRes Data Center (Leibniz Centre for Agricultural Landscape Research (ZALF))"
@@ -31153,6 +31270,191 @@
   {
     "@context": "http://schema.org/",
     "@type": "Dataset",
+    "alternativeHeadline": [
+      "Berechnung von gas- und partikelförmigen Emissionen aus der deutschen Landwirtschaft 1990 - 2021: Inputdaten und Emissionsergebnisse"
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "familyName": "Rösemann",
+        "givenName": "Claus",
+        "identifier": [
+          "https://d-nb.info/gnd/1018926275",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1018926275"
+          }
+        ],
+        "name": "Rösemann, Claus"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Vos",
+        "givenName": "Cora",
+        "identifier": [
+          "https://d-nb.info/gnd/1107316987",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1107316987"
+          }
+        ],
+        "name": "Vos, Cora"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Haenel",
+        "givenName": "Hans-Dieter",
+        "identifier": [
+          "https://d-nb.info/gnd/1018859047",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1018859047"
+          }
+        ],
+        "name": "Haenel, Hans-Dieter"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Dämmgen",
+        "givenName": "Ulrich",
+        "identifier": [
+          "https://d-nb.info/gnd/171364651",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "171364651"
+          }
+        ],
+        "name": "Dämmgen, Ulrich"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Döring",
+        "givenName": "Ulrike",
+        "identifier": [
+          "https://d-nb.info/gnd/12025638X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "12025638X"
+          }
+        ],
+        "name": "Döring, Ulrike"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Wulf",
+        "givenName": "Sebastian",
+        "name": "Wulf, Sebastian"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Eurich-Menden",
+        "givenName": "Brigitte",
+        "identifier": [
+          "https://d-nb.info/gnd/115820604",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "115820604"
+          }
+        ],
+        "name": "Eurich-Menden, Brigitte"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Freibauer",
+        "givenName": "Annette",
+        "identifier": [
+          "https://d-nb.info/gnd/1019621311",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1019621311"
+          }
+        ],
+        "name": "Freibauer, Annette"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Döhler",
+        "givenName": "Helmut",
+        "identifier": [
+          "https://d-nb.info/gnd/1049898214",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1049898214"
+          }
+        ],
+        "name": "Döhler, Helmut"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Schreiner",
+        "givenName": "Carsten",
+        "name": "Schreiner, Carsten"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Osterburg",
+        "givenName": "Bernhard",
+        "identifier": [
+          "https://d-nb.info/gnd/1018860738",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1018860738"
+          }
+        ],
+        "name": "Osterburg, Bernhard"
+      },
+      {
+        "@type": "Person",
+        "familyName": "Fuß",
+        "givenName": "Roland",
+        "identifier": [
+          "https://d-nb.info/gnd/139128220",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "139128220"
+          }
+        ],
+        "name": "Fuß, Roland"
+      }
+    ],
+    "datePublished": "2023",
+    "description": [
+      "",
+      "In international conventions Germany has committed to the mitigation of emissions of greenhouse gases and air pollution. These international regulations (protocols etc.) are the UN Framework Convention on Climate Change (UNFCCC), the UNECE Convention on Long-Range Transboundary Air Pollution (CLRTAP), and within the European Union the Directive of the European Parliament and of the Council on national emission ceilings for certain atmospheric pollutants (NEC Directive). These conventions require annual calculations of the emissions of the respective gases and air pollutants. The results have to be documented in an emission inventory and to be reported to the organisations in charge. The data file contains input data and results of the calculation of gas and particulate emissions from German agriculture for Germany and the federal states in the years 1990 - 2021. In this context the sector Agriculture comprises the emissions from animal husbandry, the use of agricultural soils and anaerobic digestion of energy crops. As required by the guidelines, emissions from activities preceding agriculture, from the use of energy and from land use change are reported elsewhere in the national inventories.",
+      "",
+      "Deutschland hat sich auf internationaler Ebene zur Minderung von Emissionen von Treibhausgasen und luftverschmutzenden Stoffen verpflichtet. Hierbei handelt es sich um die Klimarahmenkonvention (UN Framework Convention on Climate Change, UNFCCC), die Konvention zur Verminderung und Vermeidung grenzüberschreitender Luftverunreinigungen (UNECE Convention on Long-Range Transboundary Air Pollution, CLRTAP) sowie in der Europäischen Union um die Festlegung von Emissionsobergrenzen für einige Stoffe, u. a. Ammoniak (NEC-Richtlinie). Im Rahmen dieser Abkommen müssen die nationalen Emissionen der entsprechenden Gase und Luftschadstoffe jährlich berechnet und in Form des Emissionsinventars an die zuständigen Organisationen übermittelt werden. Die Datendatei beinhaltet Inputdaten und Ergebnisse der Berechnung von gas- und partikelförmigen Emissionen aus der deutschen Landwirtschaft für Deutschland und die Bundesländer in den Jahren 1990 – 2021. Der Bereich Landwirtschaft umfasst dabei die Emissionen aus der Tierhaltung und der Nutzung landwirtschaftlicher Böden sowie aus der Vergärung von Energiepflanzen. Emissionen aus dem Vorleistungsbereich, aus der Nutzung von Energie sowie Landnutzungsänderungen werden den Regelwerken entsprechend an anderer Stelle in den nationalen Inventaren berichtet."
+    ],
+    "headline": "Calculations of gaseous and particulate emissions from German agriculture 1990 - 2021: Input data and emission results",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/DATA20230307151125-0"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00085974",
+    "name": "Calculations of gaseous and particulate emissions from German agriculture 1990 - 2021: Input data and emission results",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
     "alternativeHeadline": [],
     "creator": [
       {
@@ -32465,191 +32767,6 @@
     "publisher": {
       "@type": "Person",
       "name": "ÖKOBAUDAT"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [
-      "Berechnung von gas- und partikelförmigen Emissionen aus der deutschen Landwirtschaft 1990 - 2021: Inputdaten und Emissionsergebnisse"
-    ],
-    "creator": [
-      {
-        "@type": "Person",
-        "familyName": "Rösemann",
-        "givenName": "Claus",
-        "identifier": [
-          "https://d-nb.info/gnd/1018926275",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1018926275"
-          }
-        ],
-        "name": "Rösemann, Claus"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Vos",
-        "givenName": "Cora",
-        "identifier": [
-          "https://d-nb.info/gnd/1107316987",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1107316987"
-          }
-        ],
-        "name": "Vos, Cora"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Haenel",
-        "givenName": "Hans-Dieter",
-        "identifier": [
-          "https://d-nb.info/gnd/1018859047",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1018859047"
-          }
-        ],
-        "name": "Haenel, Hans-Dieter"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Dämmgen",
-        "givenName": "Ulrich",
-        "identifier": [
-          "https://d-nb.info/gnd/171364651",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "171364651"
-          }
-        ],
-        "name": "Dämmgen, Ulrich"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Döring",
-        "givenName": "Ulrike",
-        "identifier": [
-          "https://d-nb.info/gnd/12025638X",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "12025638X"
-          }
-        ],
-        "name": "Döring, Ulrike"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Wulf",
-        "givenName": "Sebastian",
-        "name": "Wulf, Sebastian"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Eurich-Menden",
-        "givenName": "Brigitte",
-        "identifier": [
-          "https://d-nb.info/gnd/115820604",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "115820604"
-          }
-        ],
-        "name": "Eurich-Menden, Brigitte"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Freibauer",
-        "givenName": "Annette",
-        "identifier": [
-          "https://d-nb.info/gnd/1019621311",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1019621311"
-          }
-        ],
-        "name": "Freibauer, Annette"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Döhler",
-        "givenName": "Helmut",
-        "identifier": [
-          "https://d-nb.info/gnd/1049898214",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1049898214"
-          }
-        ],
-        "name": "Döhler, Helmut"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Schreiner",
-        "givenName": "Carsten",
-        "name": "Schreiner, Carsten"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Osterburg",
-        "givenName": "Bernhard",
-        "identifier": [
-          "https://d-nb.info/gnd/1018860738",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1018860738"
-          }
-        ],
-        "name": "Osterburg, Bernhard"
-      },
-      {
-        "@type": "Person",
-        "familyName": "Fuß",
-        "givenName": "Roland",
-        "identifier": [
-          "https://d-nb.info/gnd/139128220",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "139128220"
-          }
-        ],
-        "name": "Fuß, Roland"
-      }
-    ],
-    "datePublished": "2023",
-    "description": [
-      "",
-      "In international conventions Germany has committed to the mitigation of emissions of greenhouse gases and air pollution. These international regulations (protocols etc.) are the UN Framework Convention on Climate Change (UNFCCC), the UNECE Convention on Long-Range Transboundary Air Pollution (CLRTAP), and within the European Union the Directive of the European Parliament and of the Council on national emission ceilings for certain atmospheric pollutants (NEC Directive). These conventions require annual calculations of the emissions of the respective gases and air pollutants. The results have to be documented in an emission inventory and to be reported to the organisations in charge. The data file contains input data and results of the calculation of gas and particulate emissions from German agriculture for Germany and the federal states in the years 1990 - 2021. In this context the sector Agriculture comprises the emissions from animal husbandry, the use of agricultural soils and anaerobic digestion of energy crops. As required by the guidelines, emissions from activities preceding agriculture, from the use of energy and from land use change are reported elsewhere in the national inventories.",
-      "",
-      "Deutschland hat sich auf internationaler Ebene zur Minderung von Emissionen von Treibhausgasen und luftverschmutzenden Stoffen verpflichtet. Hierbei handelt es sich um die Klimarahmenkonvention (UN Framework Convention on Climate Change, UNFCCC), die Konvention zur Verminderung und Vermeidung grenzüberschreitender Luftverunreinigungen (UNECE Convention on Long-Range Transboundary Air Pollution, CLRTAP) sowie in der Europäischen Union um die Festlegung von Emissionsobergrenzen für einige Stoffe, u. a. Ammoniak (NEC-Richtlinie). Im Rahmen dieser Abkommen müssen die nationalen Emissionen der entsprechenden Gase und Luftschadstoffe jährlich berechnet und in Form des Emissionsinventars an die zuständigen Organisationen übermittelt werden. Die Datendatei beinhaltet Inputdaten und Ergebnisse der Berechnung von gas- und partikelförmigen Emissionen aus der deutschen Landwirtschaft für Deutschland und die Bundesländer in den Jahren 1990 – 2021. Der Bereich Landwirtschaft umfasst dabei die Emissionen aus der Tierhaltung und der Nutzung landwirtschaftlicher Böden sowie aus der Vergärung von Energiepflanzen. Emissionen aus dem Vorleistungsbereich, aus der Nutzung von Energie sowie Landnutzungsänderungen werden den Regelwerken entsprechend an anderer Stelle in den nationalen Inventaren berichtet."
-    ],
-    "headline": "Calculations of gaseous and particulate emissions from German agriculture 1990 - 2021: Input data and emission results",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/DATA20230307151125-0"
-      }
-    ],
-    "license": [
-      "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00085974",
-    "name": "Calculations of gaseous and particulate emissions from German agriculture 1990 - 2021: Input data and emission results",
-    "publisher": {
-      "@type": "Person",
-      "name": "OpenAgrar"
     }
   },
   {
@@ -54130,59 +54247,6 @@
     "creator": [
       {
         "@type": "Person",
-        "affiliation": "Thünen-Institut für Betriebswirtschaft",
-        "familyName": "Edebohls",
-        "givenName": "Imke",
-        "identifier": [
-          "https://d-nb.info/gnd/1203667914",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1203667914"
-          }
-        ],
-        "name": "Edebohls, Imke"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Betriebswirtschaft",
-        "familyName": "Zavyalova",
-        "givenName": "Katharina",
-        "name": "Zavyalova, Katharina"
-      }
-    ],
-    "description": [
-      "",
-      "Im Rahmen des Projektes InnoRind setzen Veruchsbetriebe diverse Tierwohlmaßnahmen in der Rinderhaltung um. Dazu gehören z. B. die Muttergebundene Kälberaufzucht, frühe Gruppenhaltung von Kälbern sowie vergrößertes Platzangebot für Mastrinder. Die Umsetzung der Maßnahmen wird wissenschaftlich begleitet, dabei liegen die Schwerpunkte auf Tierwohl, gesellschaftlicher Akzeptanz, Umweltwirkungen, aber auch wirtschaftlicher Umsetzbarkeit. Das Team des Thünen-Instituts für Betriebswirtschaft befasst sich mit dem Querschnittsthema „ökonomische Bewertung der Maßnahmen“, untergliedert nach Rindergattungen „Kuh“, „Kalb“ und „Mast“. Hierzu erfolgte bereits die Erhebung der Baseline der Betriebe (Zustand der projektrelevanten Betriebszweige vor der Umsetzung der Maßnahmen) auf der Grundlage von Vor-Ort-Besichtigungen mithilfe eines standardisierten Fragebogens. Der Fragebogen umfasst die materielle und personelle Ausstattung des Betriebes, Produktionskosten und tierische Leistungsparameter. Um die möglichst hohe Vergleichbarkeit der Betriebe zu gewährleisten, wurden die erhobenen Daten nach dem Einpflegen standardisiert, z. B. durch die Annahme gleicher Futtermittelpreise für einheitliche Futtermittel. Im Anschluss erfolgt eine Modellierung der Entwicklung der relevanten Betriebszweige für die nächsten Jahre unter vorliegenden Gegebenheiten (Baseline-Szenario). Sobald die Betriebe mit der Umsetzung der Tierwohlmaßnahmen starten, erfolgt eine Nacherhebung für das Versuchsszenario. Anschließend werden das Baseline-Szenario und das Versuchsszenario miteinander und auch die Betriebe untereinander verglichen."
-    ],
-    "headline": "Innovationsnetzwerk Rind – zukunftsfähige Rinderhaltung in Deutschland unter Berücksichtigung von Tierwohl, Umweltwirkungen und gesellschaftlicher Akzeptanz",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "intern",
-        "value": "inPress"
-      }
-    ],
-    "license": [
-      {
-        "@type": "CreativeWork",
-        "name": "all rights reserved"
-      }
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098635",
-    "name": "Innovationsnetzwerk Rind – zukunftsfähige Rinderhaltung in Deutschland unter Berücksichtigung von Tierwohl, Umweltwirkungen und gesellschaftlicher Akzeptanz",
-    "publisher": {
-      "@type": "Person",
-      "name": "Thünen-Institut"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
         "affiliation": "Thünen-Institut für Agrartechnologie",
         "familyName": "Peters",
         "givenName": "Andre",
@@ -54586,6 +54650,59 @@
     ],
     "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00100855",
     "name": "Datensatz: Begleitflora (Staphylokokken und Bakterien) im Waschwasser und Bioaerosol von landwirtschaftlichen Abluftreinigungsanlagen",
+    "publisher": {
+      "@type": "Person",
+      "name": "Thünen-Institut"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Betriebswirtschaft",
+        "familyName": "Edebohls",
+        "givenName": "Imke",
+        "identifier": [
+          "https://d-nb.info/gnd/1203667914",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1203667914"
+          }
+        ],
+        "name": "Edebohls, Imke"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Betriebswirtschaft",
+        "familyName": "Zavyalova",
+        "givenName": "Katharina",
+        "name": "Zavyalova, Katharina"
+      }
+    ],
+    "description": [
+      "",
+      "Im Rahmen des Projektes InnoRind setzen Veruchsbetriebe diverse Tierwohlmaßnahmen in der Rinderhaltung um. Dazu gehören z. B. die Muttergebundene Kälberaufzucht, frühe Gruppenhaltung von Kälbern sowie vergrößertes Platzangebot für Mastrinder. Die Umsetzung der Maßnahmen wird wissenschaftlich begleitet, dabei liegen die Schwerpunkte auf Tierwohl, gesellschaftlicher Akzeptanz, Umweltwirkungen, aber auch wirtschaftlicher Umsetzbarkeit. Das Team des Thünen-Instituts für Betriebswirtschaft befasst sich mit dem Querschnittsthema „ökonomische Bewertung der Maßnahmen“, untergliedert nach Rindergattungen „Kuh“, „Kalb“ und „Mast“. Hierzu erfolgte bereits die Erhebung der Baseline der Betriebe (Zustand der projektrelevanten Betriebszweige vor der Umsetzung der Maßnahmen) auf der Grundlage von Vor-Ort-Besichtigungen mithilfe eines standardisierten Fragebogens. Der Fragebogen umfasst die materielle und personelle Ausstattung des Betriebes, Produktionskosten und tierische Leistungsparameter. Um die möglichst hohe Vergleichbarkeit der Betriebe zu gewährleisten, wurden die erhobenen Daten nach dem Einpflegen standardisiert, z. B. durch die Annahme gleicher Futtermittelpreise für einheitliche Futtermittel. Im Anschluss erfolgt eine Modellierung der Entwicklung der relevanten Betriebszweige für die nächsten Jahre unter vorliegenden Gegebenheiten (Baseline-Szenario). Sobald die Betriebe mit der Umsetzung der Tierwohlmaßnahmen starten, erfolgt eine Nacherhebung für das Versuchsszenario. Anschließend werden das Baseline-Szenario und das Versuchsszenario miteinander und auch die Betriebe untereinander verglichen."
+    ],
+    "headline": "Innovationsnetzwerk Rind – zukunftsfähige Rinderhaltung in Deutschland unter Berücksichtigung von Tierwohl, Umweltwirkungen und gesellschaftlicher Akzeptanz",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "intern",
+        "value": "inPress"
+      }
+    ],
+    "license": [
+      {
+        "@type": "CreativeWork",
+        "name": "all rights reserved"
+      }
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098635",
+    "name": "Innovationsnetzwerk Rind – zukunftsfähige Rinderhaltung in Deutschland unter Berücksichtigung von Tierwohl, Umweltwirkungen und gesellschaftlicher Akzeptanz",
     "publisher": {
       "@type": "Person",
       "name": "Thünen-Institut"

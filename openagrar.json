@@ -2567,61 +2567,6 @@
   {
     "@context": "http://schema.org/",
     "@type": "Dataset",
-    "alternativeHeadline": [
-      "Prices and features of potting soils in Germany"
-    ],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Agrarklimaschutz",
-        "familyName": "Hirschler",
-        "givenName": "Olivier",
-        "identifier": [
-          "https://d-nb.info/gnd/1216457158",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "1216457158"
-          },
-          "https://orcid.org/0009-0008-3525-2685",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0009-0008-3525-2685"
-          }
-        ],
-        "name": "Hirschler, Olivier"
-      }
-    ],
-    "dateCreated": "2023-06",
-    "datePublished": "2025",
-    "description": [
-      "",
-      "In this dataset, the offer of potting soils available on the websites of 6 German retailers in June 2023 was listed. Price and features – volume, composition, form (Single bag, pallet…), type of potting soil and retailer – are described.",
-      "",
-      "In diesem Datensatz wurde das Angebot an Blumenerden aufgelistet, die im Juni 2023 auf den Webseiten von 6 deutschen Händlern verfügbar war. Neben dem Preis pro Kubikmeter werden Produktmerkmale dargestellt: Volumen, Zusammensetzung, Form (Einzelner Sack, Palette…), Nutzungskategorie und Händler."
-    ],
-    "headline": "Preise und Merkmale von Blumenerden in Deutschland",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/DATA20250205163923-0"
-      }
-    ],
-    "license": [
-      "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104905",
-    "name": "Preise und Merkmale von Blumenerden in Deutschland",
-    "publisher": {
-      "@type": "Person",
-      "name": "OpenAgrar"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
     "alternativeHeadline": [],
     "creator": [
       {
@@ -3488,6 +3433,61 @@
     ],
     "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098259",
     "name": "M185 Mesopelagic fishes, species list",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [
+      "Prices and features of potting soils in Germany"
+    ],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Agrarklimaschutz",
+        "familyName": "Hirschler",
+        "givenName": "Olivier",
+        "identifier": [
+          "https://d-nb.info/gnd/1216457158",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1216457158"
+          },
+          "https://orcid.org/0009-0008-3525-2685",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0009-0008-3525-2685"
+          }
+        ],
+        "name": "Hirschler, Olivier"
+      }
+    ],
+    "dateCreated": "2023-06",
+    "datePublished": "2025",
+    "description": [
+      "",
+      "In this dataset, the offer of potting soils available on the websites of 6 German retailers in June 2023 was listed. Price and features – volume, composition, form (Single bag, pallet…), type of potting soil and retailer – are described.",
+      "",
+      "In diesem Datensatz wurde das Angebot an Blumenerden aufgelistet, die im Juni 2023 auf den Webseiten von 6 deutschen Händlern verfügbar war. Neben dem Preis pro Kubikmeter werden Produktmerkmale dargestellt: Volumen, Zusammensetzung, Form (Einzelner Sack, Palette…), Nutzungskategorie und Händler."
+    ],
+    "headline": "Preise und Merkmale von Blumenerden in Deutschland",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/DATA20250205163923-0"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104905",
+    "name": "Preise und Merkmale von Blumenerden in Deutschland",
     "publisher": {
       "@type": "Person",
       "name": "OpenAgrar"

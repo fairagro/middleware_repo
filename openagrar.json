@@ -4259,6 +4259,57 @@
     "creator": [
       {
         "@type": "Person",
+        "affiliation": "Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei, Institut für Seefischerei",
+        "familyName": "Cisewski",
+        "givenName": "Boris",
+        "identifier": [
+          "https://d-nb.info/gnd/1018955925",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "1018955925"
+          },
+          "https://orcid.org/0000-0002-1130-6107",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-1130-6107"
+          }
+        ],
+        "name": "Cisewski, Boris"
+      }
+    ],
+    "dateCreated": "2021 2024",
+    "datePublished": "2024-10-15",
+    "description": [
+      "",
+      "The dataset contains temperature, salinity, oxygen, velocity, chlorophyll and turbidity data from the stationary underwater fish observatory (UFO). The stationary UFO was deployed at 54°20.4375'N, 10°10.4463'E from 2021/03/05 to 2022/05/18 about 50 m from the eastern shore of the Kiel Fjord, at a depth of 6 m. The abiotic sensor instrumentation consists of an upward looking acoustic Doppler current profiler (ADCP; Teledyne Workhorse Sentinel 1200 kHz), a pumped conductivity, temperature, and depth sonde (CTD; Sea Bird Scientific MicroCAT) and a combined fluorometer and turbidity sensor (Sea Bird Scientific ECO FLNTUS). All sensors were placed ~1.0 m above the seafloor."
+    ],
+    "headline": "Abiotic timeseries (T, S, O2, u, v, Chl a, Turb) obtained from the underwater fish observatory (UFO) in Kiel Fjord (March 2021 - May 2022)",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.1594/PANGAEA.973019"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00104617",
+    "name": "Abiotic timeseries (T, S, O2, u, v, Chl a, Turb) obtained from the underwater fish observatory (UFO) in Kiel Fjord (March 2021 - May 2022)",
+    "publisher": {
+      "@type": "Person",
+      "name": "PANGAEA"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
         "affiliation": "Thünen-Institut für Waldökosysteme / Thünen Institute of Forest Ecosystems, A.-Möller-Str. 1, Haus 41/42, 16225 Eberswalde (Germany)",
         "familyName": "Scherstjanoi",
         "givenName": "Marc",

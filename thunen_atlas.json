@@ -538,7 +538,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "60",
+    "popular_count": "61",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -2683,7 +2683,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "153",
+    "popular_count": "154",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -12526,7 +12526,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "102",
+    "popular_count": "103",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -13626,18 +13626,18 @@
         "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=e15d3a44-eb45-43b5-8a04-c5884781ec47&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
       },
       {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-e15d3a44-eb45-43b5-8a04-c5884781ec47-thumb-bdbbe75f-1aa4-4cbd-9223-adb863479e7d.png"
-      },
-      {
         "extension": "xml",
         "link_type": "metadata",
         "mime": "text/xml",
         "name": "DataCite",
         "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=e15d3a44-eb45-43b5-8a04-c5884781ec47&outputschema=http%3A%2F%2Fdatacite.org%2Fschema%2Fkernel-4&elementsetname=full"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-e15d3a44-eb45-43b5-8a04-c5884781ec47-thumb-0f0fb741-0222-4967-8e57-0051faf70c11.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -13743,7 +13743,7 @@
     "supplemental_information": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">No information provided</span></span></span></span></span></span></p>",
     "temporal_extent_end": "2022-01-01T00:00:00Z",
     "temporal_extent_start": null,
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-e15d3a44-eb45-43b5-8a04-c5884781ec47-thumb-bdbbe75f-1aa4-4cbd-9223-adb863479e7d.png",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-e15d3a44-eb45-43b5-8a04-c5884781ec47-thumb-0f0fb741-0222-4967-8e57-0051faf70c11.jpg",
     "title": "Karte - Emissionen von Luftschadstoffen der deutschen Landwirtschaft 1990-2022",
     "tkeywords": [],
     "uuid": "e15d3a44-eb45-43b5-8a04-c5884781ec47"
@@ -13891,18 +13891,18 @@
         "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=c5656f9a-000e-456a-a49d-557283a27836&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
       },
       {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-c5656f9a-000e-456a-a49d-557283a27836-thumb-537b3778-3af4-41fc-ab96-3e88a5bbd2c6.png"
-      },
-      {
         "extension": "xml",
         "link_type": "metadata",
         "mime": "text/xml",
         "name": "DataCite",
         "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=c5656f9a-000e-456a-a49d-557283a27836&outputschema=http%3A%2F%2Fdatacite.org%2Fschema%2Fkernel-4&elementsetname=full"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-c5656f9a-000e-456a-a49d-557283a27836-thumb-4186cdba-8bc7-47cc-8e12-db15554b85ad.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -14008,7 +14008,7 @@
     "supplemental_information": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">No information provided</span></span></span></span></p>",
     "temporal_extent_end": null,
     "temporal_extent_start": null,
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-c5656f9a-000e-456a-a49d-557283a27836-thumb-537b3778-3af4-41fc-ab96-3e88a5bbd2c6.png",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-c5656f9a-000e-456a-a49d-557283a27836-thumb-4186cdba-8bc7-47cc-8e12-db15554b85ad.jpg",
     "title": "Karte - Emissionen von Treibhausgasen der deutschen Landwirtschaft 1990-2022",
     "tkeywords": [],
     "uuid": "c5656f9a-000e-456a-a49d-557283a27836"
@@ -15253,7 +15253,7 @@
         "link_type": "image",
         "mime": "image/png",
         "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-d4c93e51-bb5a-43b5-8f23-1b92c68a707d-thumb-494b0ffc-93f7-4d66-8e43-da9f729f95fc.jpg"
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-d4c93e51-bb5a-43b5-8f23-1b92c68a707d-thumb-373687d4-051d-442b-aa85-e6e3a95667ee.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -15361,7 +15361,7 @@
     "supplemental_information": "<p><strong>&nbsp;</strong></p>\r\n<h2><a name=\"_Toc87873177\"></a><a name=\"_Toc146544102\"></a><a name=\"_Toc147753950\"></a>Schadtyp</h2>\r\n<p><strong>Beschreibung: </strong>Der Schadtyp beschreibt die Art bzw. Ursache des Schadens. Neben Waldsch&auml;den wurden Holzeinschlag und ungesch&auml;digte Fl&auml;chen erfasst.</p>\r\n<table style=\"border-collapse: collapse; width: 100%; border-style: solid;\" width=\"604\">\r\n<tbody>\r\n<tr>\r\n<td width=\"302\">\r\n<p><strong>Beschreibung</strong></p>\r\n</td>\r\n<td width=\"302\">\r\n<p><strong>Code</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Sturmwurf</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Borkenk&auml;fer</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>2</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p><em>Green Attack</em></p>\r\n</td>\r\n<td width=\"302\">\r\n<p>21</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p><em>Red Attack</em></p>\r\n</td>\r\n<td width=\"302\">\r\n<p>22</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p><em>Grey Attack</em></p>\r\n</td>\r\n<td width=\"302\">\r\n<p>23</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Komplexerkrankungen: Trockenstress + x</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>5</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Schwammspinner</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>51</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Unbekannter Schadtyp</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>6</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Holzeinschlag</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>7</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Ungesch&auml;digt/ kein Schaden</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>10</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h2><strong>&nbsp;</strong><a name=\"_Toc87873178\"></a><a name=\"_Toc146544103\"></a><a name=\"_Toc147753951\"></a>Aufarbeitungszustand</h2>\r\n<p><strong>Beschreibung: </strong>Der Aufarbeitungszustand definiert den Zustand der Schadfl&auml;che zum Referenzdatum.</p>\r\n<table style=\"border-collapse: collapse; width: 100%; border-style: solid;\" width=\"604\">\r\n<tbody>\r\n<tr>\r\n<td width=\"302\">\r\n<p><strong>Beschreibung</strong></p>\r\n</td>\r\n<td width=\"302\">\r\n<p><strong>Code</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Unger&auml;umt</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Ger&auml;umt/ aufgearbeitet</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>2</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Kein Hinweis</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>3</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<h2><a name=\"_Toc146544104\"></a><a name=\"_Toc147753952\"></a>Schadensausmass</h2>\r\n<p><strong>Beschreibung: </strong>Das Schadensausma&szlig; erfasst den prozentualen Anteil der Sch&auml;den an der Gesamtfl&auml;che des Polygons.</p>\r\n<table style=\"border-collapse: collapse; width: 100%; border-style: solid;\" cellpadding=\"0\">\r\n<tbody>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p><strong>Beschreibung</strong></p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p><strong>Code</strong></p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;0-10%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>1</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;11-20%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>2</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;21-30%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>3</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;31-40%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>4</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;41-50%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>5</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;51-60%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>6</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;61-70%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>7</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;71-80%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>8</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;81-90%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>9</p>\r\n</td>\r\n</tr>\r\n<tr style=\"height: 99px;\">\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>&ge;91-100%</p>\r\n</td>\r\n<td style=\"height: 99px; width: 50%;\" width=\"302\">\r\n<p>10</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>&nbsp;</p>\r\n<h2><a name=\"_Toc87873183\"></a><a name=\"_Toc146544105\"></a><a name=\"_Toc147753953\"></a>Referenz</h2>\r\n<p><strong>Beschreibung: </strong>Das Attribut Referenz beschreibt die Methode der Referenzdatenerhebung.</p>\r\n<p><strong>&nbsp;</strong></p>\r\n<table style=\"border-collapse: collapse; width: 100%; border-style: solid;\" width=\"604\">\r\n<tbody>\r\n<tr>\r\n<td width=\"302\">\r\n<p><strong>Beschreibung</strong></p>\r\n</td>\r\n<td width=\"302\">\r\n<p><strong>Code</strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Terrestrisch<strong> </strong></p>\r\n</td>\r\n<td width=\"302\">\r\n<p>1</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Luftbildauswertung</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>2</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Drohnenbildauswertung</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>3</p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"302\">\r\n<p>Satellitenbildauswertung</p>\r\n</td>\r\n<td width=\"302\">\r\n<p>4</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p><strong>&nbsp;</strong></p>\r\n<h2><a name=\"_Toc146544106\"></a><a name=\"_Toc147753954\"></a>Referenzdatum</h2>\r\n<p><strong>Beschreibung: </strong>Das Referenzdatum erfasst das Aufnahmedatum der verwendeten Fernerkundungsdaten. Achtung: die Zeitpunkte der Feststellung und des tats&auml;chlichen Schadens k&ouml;nnen abweichen. Das Datum wird im Format yyyy-mm-tt angegeben.</p>\r\n<h2><a name=\"_Toc146544107\"></a><a name=\"_Toc87873181\"></a><a name=\"_Toc147753955\"></a>Schadensdatum</h2>\r\n<p><strong>Beschreibung: </strong>Das Schadensdatum ist das Datum an dem der Schaden erfasst wurde. Referenzdatum und Schadensdatum sind daher in viele F&auml;llen identisch. Falls das exakte Datum des Schadereignisses bekannt ist (z.B. bei Sturmereignissen), ist dieses angegeben, sodass Referenzdatum und Schadensdatum nicht identisch sind. Das Datum wird im Format yyyy-mm-tt angegeben.</p>\r\n<h2><a name=\"_Toc147753956\"></a><a name=\"_Toc147753956\"></a>Datum_unaufgearbeitet</h2>\r\n<p><strong>Beschreibung: </strong>Das Datum_unaufgearbeitet ist das Datum an dem die Schadfl&auml;che auf Basis von verf&uuml;gbaren Referenzdaten als <u>unaufgearbeitet</u> interpretiert wurde. Das Datum wird im Format yyyy-mm-tt angegeben.</p>\r\n<h2><a name=\"_Toc87873186\"></a><a name=\"_Toc146544110\"></a><a name=\"_Toc147753957\"></a>Datum_aufgearbeitet</h2>\r\n<p><strong>Beschreibung: </strong>Das Datum_aufgearbeitet ist das Datum an dem die Schadfl&auml;che auf Basis von verf&uuml;gbaren Referenzdaten als <u>aufgearbeitet</u> interpretiert wurde. Das Datum wird im Format yyyy-mm-tt angegeben.</p>\r\n<h2><a name=\"_Toc87873186\"></a><a name=\"_Toc146544110\"></a><a name=\"_Toc147753957\"></a>Bestandesoberhoehe</h2>\r\n<p><strong>Beschreibung: </strong>Die mittlere Bestandesoberh&ouml;he beschreibt die Bestandesh&ouml;he vor Sch&auml;digung abgeleitet aus einem digitalen Oberfl&auml;chenmodell. Die Bestandesoberh&ouml;he wird gerundet in Meter angegeben</p>",
     "temporal_extent_end": "2021-12-31T15:26:00Z",
     "temporal_extent_start": "2018-01-01T15:26:00Z",
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-d4c93e51-bb5a-43b5-8f23-1b92c68a707d-thumb-494b0ffc-93f7-4d66-8e43-da9f729f95fc.jpg",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/dataset-d4c93e51-bb5a-43b5-8f23-1b92c68a707d-thumb-373687d4-051d-442b-aa85-e6e3a95667ee.jpg",
     "title": "Referenzdaten aus dem Projekt FNEWs",
     "tkeywords": [],
     "uuid": "d4c93e51-bb5a-43b5-8f23-1b92c68a707d"
@@ -15982,7 +15982,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "157",
+    "popular_count": "159",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -20005,7 +20005,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "439",
+    "popular_count": "440",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -29272,7 +29272,7 @@
         "link_type": "image",
         "mime": "image/png",
         "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-7b24e23b-f2b6-4e11-8b94-8fd48b3d3dac-thumb-623485a4-e6cb-4eb9-9e65-1cf9c6e2466e.jpg"
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-7b24e23b-f2b6-4e11-8b94-8fd48b3d3dac-thumb-72e38043-d78e-4c92-aa3e-e6e58b2a20c1.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -29378,7 +29378,7 @@
     "supplemental_information": "<p>Keine Information angegeben</p>",
     "temporal_extent_end": "2021-01-01T00:00:00Z",
     "temporal_extent_start": "1990-01-01T00:00:00Z",
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-7b24e23b-f2b6-4e11-8b94-8fd48b3d3dac-thumb-623485a4-e6cb-4eb9-9e65-1cf9c6e2466e.jpg",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-7b24e23b-f2b6-4e11-8b94-8fd48b3d3dac-thumb-72e38043-d78e-4c92-aa3e-e6e58b2a20c1.jpg",
     "title": "Karte - Emissionen von Treibhausgasen der deutschen Landwirtschaft 1990-2021",
     "tkeywords": [],
     "uuid": "7b24e23b-f2b6-4e11-8b94-8fd48b3d3dac"
@@ -29526,18 +29526,18 @@
         "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=a5894741-c22c-4283-88ca-852cf334092e&outputschema=http%3A%2F%2Fwww.isotc211.org%2F2005%2Fgmd&elementsetname=full"
       },
       {
-        "extension": "png",
-        "link_type": "image",
-        "mime": "image/png",
-        "name": "Thumbnail",
-        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-a5894741-c22c-4283-88ca-852cf334092e-thumb-7dd4c934-716f-47c9-bae2-e4e9e0b47fec.png"
-      },
-      {
         "extension": "xml",
         "link_type": "metadata",
         "mime": "text/xml",
         "name": "DataCite",
         "url": "https://atlas.thuenen.de/catalogue/csw?request=GetRecordById&service=CSW&version=2.0.2&id=a5894741-c22c-4283-88ca-852cf334092e&outputschema=http%3A%2F%2Fdatacite.org%2Fschema%2Fkernel-4&elementsetname=full"
+      },
+      {
+        "extension": "png",
+        "link_type": "image",
+        "mime": "image/png",
+        "name": "Thumbnail",
+        "url": "https://atlas.thuenen.de/uploaded/thumbs/map-a5894741-c22c-4283-88ca-852cf334092e-thumb-34c5ab26-2240-4966-9aa1-d39a18e306b8.jpg"
       }
     ],
     "ll_bbox_polygon": {
@@ -29643,7 +29643,7 @@
     "supplemental_information": "<p>Keine Information angegeben</p>",
     "temporal_extent_end": "2021-01-01T00:00:00Z",
     "temporal_extent_start": "1990-01-01T00:00:00Z",
-    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-a5894741-c22c-4283-88ca-852cf334092e-thumb-7dd4c934-716f-47c9-bae2-e4e9e0b47fec.png",
+    "thumbnail_url": "https://atlas.thuenen.de/uploaded/thumbs/map-a5894741-c22c-4283-88ca-852cf334092e-thumb-34c5ab26-2240-4966-9aa1-d39a18e306b8.jpg",
     "title": "Karte - Emissionen von Luftschadstoffen der deutschen Landwirtschaft 1990-2021",
     "tkeywords": [],
     "uuid": "a5894741-c22c-4283-88ca-852cf334092e"
@@ -48304,7 +48304,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "9477",
+    "popular_count": "9478",
     "principal_investigator": [],
     "processed": true,
     "processor": [],
@@ -57304,7 +57304,7 @@
       }
     ],
     "polymorphic_ctype_id": "70",
-    "popular_count": "1609",
+    "popular_count": "1610",
     "principal_investigator": [],
     "processed": true,
     "processor": [],

@@ -20059,78 +20059,6 @@
     "creator": [
       {
         "@type": "Person",
-        "affiliation": "Thuenen-Institute of Forestry",
-        "familyName": "Gordillo",
-        "givenName": "Fernando",
-        "identifier": [
-          "https://orcid.org/0000-0001-9183-0445",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0001-9183-0445"
-          }
-        ],
-        "name": "Gordillo, Fernando"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thuenen-Institute of Forestry",
-        "familyName": "Elsasser",
-        "givenName": "Peter",
-        "identifier": [
-          "https://d-nb.info/gnd/11298066X",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "gnd",
-            "value": "11298066X"
-          },
-          "https://orcid.org/0000-0002-2517-9428",
-          {
-            "@type": "PropertyValue",
-            "propertyID": "orcid",
-            "value": "0000-0002-2517-9428"
-          }
-        ],
-        "name": "Elsasser, Peter"
-      },
-      {
-        "@type": "Person",
-        "affiliation": "Thuenen-Institute of Forestry",
-        "familyName": "Günter",
-        "givenName": "Sven",
-        "name": "Günter, Sven"
-      }
-    ],
-    "datePublished": "2024",
-    "description": [
-      "",
-      "The files contain the original raw data of a 2017 population survey in Ecuador that used the contingent valuation method for valuing forest conservation, codebook, sampling method, final sample, survey results descriptive statistics and corresponding questionnaires in English and Spanish. This application of the Contingent Valuation Method aimed at valuing the willingness to pay (WTP) for the conservation of approximately 500 km2 of forests for one year. The data set comprises 976 personal interviews from a nationwide population sample."
-    ],
-    "headline": "LaForeT-PES Survey Data",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "doi",
-        "value": "10.3220/DATA20240813141517-0"
-      }
-    ],
-    "license": [
-      "https://creativecommons.org/licenses/by/4.0/"
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098397",
-    "name": "LaForeT-PES Survey Data",
-    "publisher": {
-      "@type": "Person",
-      "name": "OpenAgrar"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
         "affiliation": "Thünen Institute of Sea Fisheries, Germany Thünen Institute of Baltic Sea Fisheries, Germany",
         "familyName": "Fiorentino",
         "givenName": "Dario",
@@ -20348,6 +20276,78 @@
     "publisher": {
       "@type": "Person",
       "name": "Thünen-Institut"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thuenen-Institute of Forestry",
+        "familyName": "Gordillo",
+        "givenName": "Fernando",
+        "identifier": [
+          "https://orcid.org/0000-0001-9183-0445",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0001-9183-0445"
+          }
+        ],
+        "name": "Gordillo, Fernando"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thuenen-Institute of Forestry",
+        "familyName": "Elsasser",
+        "givenName": "Peter",
+        "identifier": [
+          "https://d-nb.info/gnd/11298066X",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "gnd",
+            "value": "11298066X"
+          },
+          "https://orcid.org/0000-0002-2517-9428",
+          {
+            "@type": "PropertyValue",
+            "propertyID": "orcid",
+            "value": "0000-0002-2517-9428"
+          }
+        ],
+        "name": "Elsasser, Peter"
+      },
+      {
+        "@type": "Person",
+        "affiliation": "Thuenen-Institute of Forestry",
+        "familyName": "Günter",
+        "givenName": "Sven",
+        "name": "Günter, Sven"
+      }
+    ],
+    "datePublished": "2024",
+    "description": [
+      "",
+      "The files contain the original raw data of a 2017 population survey in Ecuador that used the contingent valuation method for valuing forest conservation, codebook, sampling method, final sample, survey results descriptive statistics and corresponding questionnaires in English and Spanish. This application of the Contingent Valuation Method aimed at valuing the willingness to pay (WTP) for the conservation of approximately 500 km2 of forests for one year. The data set comprises 976 personal interviews from a nationwide population sample."
+    ],
+    "headline": "LaForeT-PES Survey Data",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "doi",
+        "value": "10.3220/DATA20240813141517-0"
+      }
+    ],
+    "license": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00098397",
+    "name": "LaForeT-PES Survey Data",
+    "publisher": {
+      "@type": "Person",
+      "name": "OpenAgrar"
     }
   },
   {
@@ -54630,45 +54630,6 @@
         "affiliation": "Thünen-Institut für Agrartechnologie",
         "familyName": "Clauß",
         "givenName": "Marcus",
-        "name": "Clauß, Marcus"
-      }
-    ],
-    "dateCreated": "2018-08 2021-07",
-    "description": [
-      "",
-      "Datenmeldung nach dem EGovG. Der Datensatz kann auf Anfrage zur Verfügung gestellt werden. Eine Datennutzungsvereinbarung wird abgeschlossen. Datensatz zur Überlebensrate von Staphylococcus xylosus und Staphylokokken in nativem Hühnerstallstaub in der Luft."
-    ],
-    "headline": "Datensatz:  Überlebensrate von Staphylococcus xylosus und Staphylokokken in nativem Hühnerstallstaub in der Luft",
-    "identifier": [
-      {
-        "@type": "PropertyValue",
-        "propertyID": "intern",
-        "value": "TI-Datenmeldung"
-      }
-    ],
-    "license": [
-      {
-        "@type": "CreativeWork",
-        "name": "all rights reserved"
-      }
-    ],
-    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00100856",
-    "name": "Datensatz:  Überlebensrate von Staphylococcus xylosus und Staphylokokken in nativem Hühnerstallstaub in der Luft",
-    "publisher": {
-      "@type": "Person",
-      "name": "Thünen-Institut"
-    }
-  },
-  {
-    "@context": "http://schema.org/",
-    "@type": "Dataset",
-    "alternativeHeadline": [],
-    "creator": [
-      {
-        "@type": "Person",
-        "affiliation": "Thünen-Institut für Agrartechnologie",
-        "familyName": "Clauß",
-        "givenName": "Marcus",
         "identifier": [
           "https://d-nb.info/gnd/136336434",
           {
@@ -54701,6 +54662,45 @@
     ],
     "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00100855",
     "name": "Datensatz: Begleitflora (Staphylokokken und Bakterien) im Waschwasser und Bioaerosol von landwirtschaftlichen Abluftreinigungsanlagen",
+    "publisher": {
+      "@type": "Person",
+      "name": "Thünen-Institut"
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Dataset",
+    "alternativeHeadline": [],
+    "creator": [
+      {
+        "@type": "Person",
+        "affiliation": "Thünen-Institut für Agrartechnologie",
+        "familyName": "Clauß",
+        "givenName": "Marcus",
+        "name": "Clauß, Marcus"
+      }
+    ],
+    "dateCreated": "2018-08 2021-07",
+    "description": [
+      "",
+      "Datenmeldung nach dem EGovG. Der Datensatz kann auf Anfrage zur Verfügung gestellt werden. Eine Datennutzungsvereinbarung wird abgeschlossen. Datensatz zur Überlebensrate von Staphylococcus xylosus und Staphylokokken in nativem Hühnerstallstaub in der Luft."
+    ],
+    "headline": "Datensatz:  Überlebensrate von Staphylococcus xylosus und Staphylokokken in nativem Hühnerstallstaub in der Luft",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "intern",
+        "value": "TI-Datenmeldung"
+      }
+    ],
+    "license": [
+      {
+        "@type": "CreativeWork",
+        "name": "all rights reserved"
+      }
+    ],
+    "mainEntityOfPage": "https://www.openagrar.de/receive/openagrar_mods_00100856",
+    "name": "Datensatz:  Überlebensrate von Staphylococcus xylosus und Staphylokokken in nativem Hühnerstallstaub in der Luft",
     "publisher": {
       "@type": "Person",
       "name": "Thünen-Institut"
